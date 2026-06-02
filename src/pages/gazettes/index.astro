@@ -1,0 +1,99 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const gazettes = await getCollection('gazettes');
+gazettes.sort((a, b) => parseInt(b.data.id) - parseInt(a.data.id)); // Sort by ID descending
+---
+
+<Layout title="Government Gazettes - Telco Tech">
+  <div class="mb-8 flex flex-col md:flex-row items-start md:items-center justify-between">
+    <div>
+      <a href="/" class="text-[var(--accent-color)] hover:underline mb-2 inline-block"><- Back to Core</a>
+      <h1 class="text-3xl md:text-5xl font-bold uppercase tracking-tighter">
+        Government Gazettes
+      </h1>
+    </div>
+    <div class="text-right hidden md:block">
+      <div class="text-xs uppercase opacity-70">Total Gazettes</div>
+      <div class="text-3xl font-light text-[var(--accent-color)]">{gazettes.length}</div>
+    </div>
+  </div>
+
+  <!-- Search UI -->
+  <div class="terminal-box p-6 mb-12">
+    <h2 class="text-xl font-bold uppercase tracking-widest mb-4">Wiki Search</h2>
+    <div id="search" class="pagefind-custom"></div>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
+    {gazettes.map(gazette => (
+      <a href={`/gazettes/${gazette.data.id}`} class="terminal-box p-4 flex justify-between items-center group hover:bg-[var(--accent-color)] hover:text-[var(--bg-color)]">
+        <span class="font-bold">Gazette {gazette.data.id}</span>
+        <span class="opacity-50 group-hover:opacity-100">></span>
+      </a>
+    ))}
+  </div>
+</Layout>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+<script is:inline src="/pagefind/pagefind-ui.js"></script>
+<script is:inline>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({ 
+      element: "#search", 
+      showSubResults: true,
+      showImages: false
+    });
+  });
+</script>
+
+<style is:global>
+  /* Customizing Pagefind UI to match terminal theme */
+  .pagefind-custom {
+    --pagefind-ui-scale: 1;
+    --pagefind-ui-primary: var(--accent-color);
+    --pagefind-ui-text: var(--text-color);
+    --pagefind-ui-background: var(--bento-bg);
+    --pagefind-ui-border: var(--bento-border);
+    --pagefind-ui-tag: rgba(0, 255, 0, 0.1);
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: 0px;
+    --pagefind-ui-image-border-radius: 0px;
+    --pagefind-ui-image-box-ratio: 3 / 2;
+    --pagefind-ui-font: 'Fira Code', monospace;
+  }
+  .pagefind-ui__search-input {
+    background-color: var(--bg-color) !important;
+    border: 1px solid var(--bento-border) !important;
+    border-radius: 0 !important;
+    color: var(--text-color) !important;
+  }
+  .pagefind-ui__search-input:focus {
+    border-color: var(--accent-color) !important;
+    outline: none !important;
+    box-shadow: var(--glow) !important;
+  }
+  .pagefind-ui__result-title a {
+    color: var(--accent-color) !important;
+    text-decoration: none;
+  }
+  .pagefind-ui__result-title a:hover {
+    text-decoration: underline;
+  }
+  .pagefind-ui__button {
+    border-radius: 0 !important;
+    text-transform: uppercase;
+    background-color: var(--bg-color) !important;
+    color: var(--text-color) !important;
+    border: 1px solid var(--bento-border) !important;
+  }
+  .pagefind-ui__button:hover {
+    border-color: var(--accent-color) !important;
+    color: var(--accent-color) !important;
+  }
+  mark {
+    background-color: var(--accent-color) !important;
+    color: var(--bg-color) !important;
+  }
+</style>

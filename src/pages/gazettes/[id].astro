@@ -1,0 +1,30 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const gazettes = await getCollection('gazettes');
+  return gazettes.map(entry => ({
+    params: { id: entry.data.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+---
+
+<Layout title={`Gazette ${entry.data.id} - Telco Tech`}>
+  <div class="mb-8 flex flex-col md:flex-row items-start md:items-center justify-between" data-pagefind-ignore>
+    <div>
+      <a href="/gazettes" class="text-[var(--accent-color)] hover:underline mb-2 inline-block"><- Back to Gazettes</a>
+      <h1 class="text-3xl md:text-5xl font-bold uppercase tracking-tighter">
+        Gazette {entry.data.id}
+      </h1>
+    </div>
+  </div>
+
+  <div class="terminal-box p-6 prose prose-invert max-w-none prose-pre:bg-[var(--bg-color)] prose-pre:border prose-pre:border-[var(--bento-border)] prose-a:text-[var(--accent-color)]" data-pagefind-body>
+    <Content />
+  </div>
+</Layout>

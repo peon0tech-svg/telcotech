@@ -6,6 +6,9 @@ import spectrumData from '../data/spectrumLicenses.json';
 import tariffsData from '../data/tariffs.json';
 import numbersData from '../data/numbers.json';
 import equipmentData from '../data/typeApprovedEquipment.json';
+import { getCollection } from 'astro:content';
+
+const gazettes = await getCollection('gazettes');
 
 const categories = [
   { title: 'Telecommunications', count: telecomData.length, link: '/telecom', colSpan: 'md:col-span-2', rowSpan: 'md:row-span-1' },
@@ -13,7 +16,8 @@ const categories = [
   { title: 'Spectrum', count: spectrumData.length, link: '/spectrum', colSpan: 'md:col-span-1', rowSpan: 'md:row-span-2' },
   { title: 'Tariffs', count: tariffsData.length, link: '/tariffs', colSpan: 'md:col-span-1', rowSpan: 'md:row-span-1' },
   { title: 'Numbers', count: numbersData.length, link: '/numbers', colSpan: 'md:col-span-1', rowSpan: 'md:row-span-1' },
-  { title: 'Equipment', count: equipmentData.length, link: '/equipment', colSpan: 'md:col-span-2', rowSpan: 'md:row-span-1' },
+  { title: 'Equipment', count: equipmentData.length, link: '/equipment', colSpan: 'md:col-span-1', rowSpan: 'md:row-span-1' },
+  { title: 'Gov Gazettes', count: gazettes.length, link: '/gazettes', colSpan: 'md:col-span-1', rowSpan: 'md:row-span-1', highlight: true },
 ];
 ---
 
@@ -29,7 +33,7 @@ const categories = [
 
   <div class="grid grid-cols-1 md:grid-cols-3 gap-6 auto-rows-[200px]">
     {categories.map(cat => (
-      <a href={cat.link} class={`terminal-box p-6 flex flex-col justify-between group ${cat.colSpan} ${cat.rowSpan}`}>
+      <a href={cat.link} class={`terminal-box p-6 flex flex-col justify-between group ${cat.colSpan} ${cat.rowSpan} ${cat.highlight ? 'border-[var(--accent-color)] shadow-[0_0_15px_var(--accent-color)]' : ''}`}>
         <div>
           <h2 class="text-2xl font-bold uppercase tracking-widest mb-2 group-hover:text-[var(--accent-color)] transition-colors">{cat.title}</h2>
           <div class="w-12 h-1 bg-[var(--bento-border)] group-hover:bg-[var(--accent-color)] transition-colors"></div>

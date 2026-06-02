@@ -10,7 +10,10 @@ const { dataset } = Astro.props;
   {dataset.map((entry: any, index: number) => (
     <div class="terminal-box mb-8 overflow-hidden">
       <div class="bg-[var(--accent-color)] text-[var(--bg-color)] px-4 py-2 font-bold uppercase flex justify-between items-center">
-        <span>Gazette Ref: {entry.gazette}</span>
+        <a href={`/gazettes/${entry.gazette}`} class="hover:underline flex items-center gap-2">
+          <span>Gazette Ref: {entry.gazette}</span>
+          <span class="text-xs border border-[var(--bg-color)] px-1">VIEW GG</span>
+        </a>
         <span class="text-xs opacity-70">Table #{index + 1}</span>
       </div>
       <div class="p-4 overflow-x-auto">
