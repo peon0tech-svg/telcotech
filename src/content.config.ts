@@ -6,6 +6,7 @@ const gazettesCollection = defineCollection({
   schema: z.object({
     title: z.string(),
     id: z.string(),
+    year: z.number().or(z.string()),
   }),
 });
 

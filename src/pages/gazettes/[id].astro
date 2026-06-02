@@ -18,9 +18,15 @@ const { Content } = await render(entry);
   <div class="mb-8 flex flex-col md:flex-row items-start md:items-center justify-between" data-pagefind-ignore>
     <div>
       <a href="/gazettes" class="text-[var(--accent-color)] hover:underline mb-2 inline-block"><- Back to Gazettes</a>
-      <h1 class="text-3xl md:text-5xl font-bold uppercase tracking-tighter">
-        Gazette {entry.data.id}
-      </h1>
+      <div class="flex items-center gap-4 mt-2">
+        <h1 class="text-3xl md:text-5xl font-bold uppercase tracking-tighter">
+          Gazette {entry.data.id}
+        </h1>
+        <a href={`https://www.lac.org.na/laws/${entry.data.year}/${entry.data.id}.pdf`} target="_blank" class="terminal-box px-4 py-2 font-bold hover:bg-[var(--accent-color)] hover:text-[var(--bg-color)] inline-flex items-center gap-2 text-sm whitespace-nowrap transition-colors">
+          <span>ORIGINAL PDF</span>
+          <span>&#8599;</span>
+        </a>
+      </div>
     </div>
   </div>
 
