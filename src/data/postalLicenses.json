@@ -1,0 +1,580 @@
+[
+  {
+    "gazette": "7289",
+    "data": {
+      "header": [
+        "QUARTERLYDATAREQUIREMENTS FOR POSTALLICENSEES",
+        "QUARTERLYDATAREQUIREMENTS FOR POSTALLICENSEES"
+      ],
+      "rows": [
+        [
+          "UPU"
+        ],
+        [
+          "Employment",
+          "Employment contract semi-permanent"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7289",
+    "data": {
+      "header": [
+        "BI-ANNUALDATAREQUIREMENTS FOR POSTALLICENSEES",
+        "BI-ANNUALDATAREQUIREMENTS FOR POSTALLICENSEES"
+      ],
+      "rows": [
+        [
+          "Quality of Service",
+          "No. of standard mail delivered within 2 days within a town (J+2)"
+        ],
+        [
+          "No. of standard mail delivered within a town after 2 days (J+2)"
+        ],
+        [
+          "No. of standard mail delivered within 3 days from town to town (J+3 - intra-city)"
+        ],
+        [
+          "No. of standard mail delivered after 3 days from town to town (J+3- Intra-city)"
+        ],
+        [
+          "No. of standard mail delivered within 5 days for International dispatchers (J+5)"
+        ],
+        [
+          "No. of standard mail delivered after 5 days (J+5)"
+        ],
+        [
+          "No. of mail delivered to the wrong address"
+        ],
+        [
+          "No. of items that suffered loss"
+        ],
+        [
+          "No. items that were damaged"
+        ],
+        [
+          "No of applications received for post boxes/private bag"
+        ],
+        [
+          "No of post boxes awarded within 14 days"
+        ],
+        [
+          "No. of post boxes awarded within 30 days"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7289",
+    "data": {
+      "header": [
+        "ANNUALDATAREQUIREMENTS FOR POSTALLICENSEES",
+        "ANNUALDATAREQUIREMENTS FOR POSTALLICENSEES"
+      ],
+      "rows": [
+        [
+          "Customer Complaints",
+          "No. of complaints resolved within 14 days from date of receipts"
+        ],
+        [
+          "No of complaints resolved after 14 days from date of receipts"
+        ],
+        [
+          "No. of complaints not resolved within 14 days from date of receipts"
+        ],
+        [
+          "No. of complaints not resolved after 14 days from date of receipts"
+        ],
+        [
+          "No of complaints not resolved after 14 days which were submitted to the Authority"
+        ],
+        [
+          "No. of complaints: Billing"
+        ],
+        [
+          "No. of complaints: Quality of Service"
+        ],
+        [
+          "No. of complaints: Customer Service"
+        ],
+        [
+          "No. of complaints: Opened packages"
+        ],
+        [
+          "No. of complaints: Losses"
+        ],
+        [
+          "No. of complaints: late delivery"
+        ],
+        [
+          "Other: Service and product delivery, advertisement, confidential information"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7445",
+    "data": {
+      "header": [
+        "QUARTERLYDATAREQUIREMENTS FOR POSTALLICENSEES",
+        "QUARTERLYDATAREQUIREMENTS FOR POSTALLICENSEES"
+      ],
+      "rows": [
+        [
+          "UPU",
+          "UPU"
+        ],
+        [
+          "Employment",
+          "Employment contract semi-permanent"
+        ],
+        [
+          "Employment disabled fulltime"
+        ],
+        [
+          "Employment expats fulltime"
+        ],
+        [
+          "Employment female fulltime"
+        ],
+        [
+          "Employment female management"
+        ],
+        [
+          "Employment fulltime"
+        ],
+        [
+          "Employment part-time"
+        ],
+        [
+          "Revenue",
+          "Postal items"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7445",
+    "data": {
+      "header": [
+        "BI-ANNUALDATAREQUIREMENTS FOR POSTALLICENSEES",
+        "BI-ANNUALDATAREQUIREMENTS FOR POSTALLICENSEES"
+      ],
+      "rows": [
+        [
+          "Quality of Service",
+          "No. of standard mail delivered within 2 days within a town (J+2)"
+        ],
+        [
+          "No. of standard mail delivered within a town after 2 days (J+2)"
+        ],
+        [
+          "No. of standard mail delivered within 3 days from town to town (J+3 - intra-city)"
+        ],
+        [
+          "No. of standard mail delivered after 3 days from town to town (J+3- Intra-city)"
+        ],
+        [
+          "No. of standard mail delivered within 5 days for International dispatchers (J+5)"
+        ],
+        [
+          "No. of standard mail delivered after 5 days (J+5)"
+        ],
+        [
+          "No. of mail delivered to the wrong address"
+        ],
+        [
+          "No. of items that suffered loss"
+        ],
+        [
+          "No. items that were damaged"
+        ],
+        [
+          "No of applications received for post boxes/private bag"
+        ],
+        [
+          "No of post boxes awarded within 14 days"
+        ],
+        [
+          "No. of post boxes awarded within 30 days"
+        ],
+        [
+          "Other Traffic Information"
+        ],
+        [
+          "Total weight transported",
+          "Domestic and international dispatch, all categories together (in Kilograms)"
+        ],
+        [
+          "Trackable items",
+          "Domestic and international dispatch, all categories together (Total No. of items)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7445",
+    "data": {
+      "header": [
+        "ANNUALDATAREQUIREMENTS FOR POSTALLICENSEES",
+        "ANNUALDATAREQUIREMENTS FOR POSTALLICENSEES"
+      ],
+      "rows": [
+        [
+          "Customer Complaints",
+          "No. of complaints resolved within 14 days from date of receipts"
+        ],
+        [
+          "No of complaints resolved after 14 days from date of receipts"
+        ],
+        [
+          "No. of complaints not resolved within 14 days from date of receipts"
+        ],
+        [
+          "No. of complaints not resolved after 14 days from date of receipts"
+        ],
+        [
+          "No of complaints not resolved after 14 days which were submitted to the Authority"
+        ],
+        [
+          "No. of complaints: Billing"
+        ],
+        [
+          "No. of complaints: Quality of Service"
+        ],
+        [
+          "No. of complaints: Customer Service"
+        ],
+        [
+          "No. of complaints: Opened packages"
+        ],
+        [
+          "No. of complaints: Losses"
+        ],
+        [
+          "No. of complaints: late delivery"
+        ],
+        [
+          "Other: Service and product delivery, advertisement, confidential information"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8841",
+    "data": {
+      "header": [
+        "Postal Access and Deliveries",
+        "Number of permanent post offices"
+      ],
+      "rows": [
+        [
+          "Postal Access and Deliveries",
+          "Number of post offices accepting financial transactions"
+        ],
+        [
+          "Postal Access and Deliveries",
+          "Number of post offices offering public internet services"
+        ],
+        [
+          "Postal Access and Deliveries",
+          "Number of postal establishments not open to the public i.e. sorting centers"
+        ],
+        [
+          "Postal Access and Deliveries",
+          "Number of letter boxes (P. O. Boxes)"
+        ],
+        [
+          "Postal Access and Deliveries",
+          "Number of private bags"
+        ],
+        [
+          "Postal Access and Deliveries",
+          "Number of post boxes occupied"
+        ],
+        [
+          "Postal Access and Deliveries",
+          "Number of Private bags occupied"
+        ],
+        [
+          "Postal Access and Deliveries",
+          "Number of post offices in remote areas including mobile post offices"
+        ],
+        [
+          "Postal Access and Deliveries",
+          "Number of ordinary mail deliveries per working day in rural areas"
+        ],
+        [
+          "Postal Access and Deliveries",
+          "Number of ordinary mail deliveries per working day in urban areas"
+        ],
+        [
+          "Postal Access and Deliveries",
+          "Number of post offices providing savings bank (PostFin) service"
+        ],
+        [
+          "Postal Access and Deliveries",
+          "Average number of deliveries per working day in urban areas"
+        ],
+        [
+          "Postal Access and Deliveries",
+          "Average number of deliveries per week in rural areas"
+        ],
+        [
+          "Postal Access and Deliveries",
+          "Percentage of the population having mail delivered at home"
+        ],
+        [
+          "Postal Access and Deliveries",
+          "Percentage of the population having to collect mail from a postal establishment"
+        ],
+        [
+          "Postal Access and Deliveries",
+          "Number of automated parcel lockers"
+        ],
+        [
+          "Postal Access and Deliveries",
+          "Percentage of items delivered to post office boxes"
+        ],
+        [
+          "Postal Access and Deliveries",
+          "Number of postal establishments and public access points having post office boxes"
+        ],
+        [
+          "Postal Access and Deliveries",
+          "Percentage of population without postal services"
+        ],
+        [
+          "Postal Financial Services",
+          "Subsidies received"
+        ],
+        [
+          "Domestic Services Total Number sent in manual form, electronic means/",
+          "No of bill payments over the counter (tv, utilities, etc.)"
+        ],
+        [
+          "other means",
+          "No of money orders sent"
+        ],
+        [
+          "Letter-Post Communications Products"
+        ],
+        [
+          "Weight of domestic letter post items"
+        ],
+        [
+          "Letter -Post items",
+          "Weight of international letter post items (receipt)"
+        ],
+        [
+          "Weight of international letter post items (dispatch)"
+        ],
+        [
+          "Advertising items",
+          "Advertising items"
+        ],
+        [
+          "Domestic service",
+          "No. of Addressed items"
+        ],
+        [
+          "No. of items Unaddressed items"
+        ],
+        [
+          "International service - dispatch",
+          "No. of Addressed items"
+        ],
+        [
+          "Hybrid mail",
+          "No. of Domestic service"
+        ],
+        [
+          "Express Items",
+          "Domestic service"
+        ],
+        [
+          "Express Items",
+          "International service (Express Mail Service) - dispatch"
+        ],
+        [
+          "Express Items",
+          "International service (Express Mail Service) - receipt"
+        ],
+        [
+          "Postal Parcel",
+          "Domestic service"
+        ],
+        [
+          "Postal Parcel",
+          "International service - dispatch"
+        ],
+        [
+          "International service - receipt"
+        ],
+        [
+          "Connectivity",
+          "Number of post offices with broadband Internet access"
+        ],
+        [
+          "Number of post offices providing Internet access points"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8730-Gen-N690-692-04-Sep-2025",
+    "data": {
+      "header": [
+        "Postal Access and Deliveries",
+        "Number of permanent post offices"
+      ],
+      "rows": [
+        [
+          "Number of post offices accepting financial transactions"
+        ],
+        [
+          "Number of post offices offering public internet services"
+        ],
+        [
+          "Number of postal establishments not open to the public i.e."
+        ],
+        [
+          "sorting centers"
+        ],
+        [
+          "Number of letter boxes (PO Boxes)"
+        ],
+        [
+          "Number of private bags"
+        ],
+        [
+          "Number of post boxes occupied"
+        ],
+        [
+          "Number of Private bags occupied"
+        ],
+        [
+          "Number of post offices in remote areas including mobile post offices"
+        ],
+        [
+          "Number of ordinary mail deliveries per working day in rural areas"
+        ],
+        [
+          "Number of ordinary mail deliveries per working day in urban areas"
+        ],
+        [
+          "Number of post offices providing savings bank (PostFin) service"
+        ],
+        [
+          "Average number of deliveries per working day in urban areas"
+        ],
+        [
+          "Average number of deliveries per week in rural areas"
+        ],
+        [
+          "Percentage of the population having mail delivered at home"
+        ],
+        [
+          "Percentage of the population having to collect mail from a postal establishment"
+        ],
+        [
+          "Number of automated parcel lockers"
+        ],
+        [
+          "Percentage of items delivered to post office boxes"
+        ],
+        [
+          "Number of postal establishments and public access points having post office boxes"
+        ],
+        [
+          "Percentage of population without postal services"
+        ],
+        [
+          "Postal Financial Services",
+          "Subsidies received"
+        ],
+        [
+          "Domestic Services Total Number sent in manual form, electronic means/other means",
+          "No of bill payments over the counter (tv, utilities, etc.)"
+        ],
+        [
+          "Domestic Services Total Number sent in manual form, electronic means/other means",
+          "No of money orders sent"
+        ],
+        [
+          "Letter-Post Communications Products",
+          "Letter-Post Communications Products"
+        ],
+        [
+          "Letter-Post items",
+          "Weight of domestic letter post items"
+        ],
+        [
+          "Letter-Post items",
+          "Weight of international letter post items (receipt)"
+        ],
+        [
+          "Letter-Post items",
+          "Weight of international letter post items (dispatch)"
+        ],
+        [
+          "Advertising items",
+          "Advertising items"
+        ],
+        [
+          "Domestic service",
+          "No. of Addressed items"
+        ],
+        [
+          "Domestic service",
+          "No. of items Unaddressed items"
+        ],
+        [
+          "International service - dispatch",
+          "No. of Addressed items"
+        ],
+        [
+          "Hybrid mail",
+          "No. of Domestic service"
+        ],
+        [
+          "Express Items",
+          "Domestic service"
+        ],
+        [
+          "Express Items",
+          "International service (EMS) - dispatch"
+        ],
+        [
+          "Express Items",
+          "International service (EMS) - receipt"
+        ],
+        [
+          "Postal Parcel",
+          "Domestic service"
+        ],
+        [
+          "Postal Parcel",
+          "International service - dispatch"
+        ],
+        [
+          "Postal Parcel",
+          "International service - receipt"
+        ],
+        [
+          "Connectivity",
+          "Permanent post offices using counter automation systems"
+        ],
+        [
+          "Connectivity",
+          "Number of post offices with broadband Internet access"
+        ],
+        [
+          "Connectivity",
+          "Number of post offices providing Internet access points"
+        ]
+      ]
+    }
+  }
+]

@@ -1,0 +1,7328 @@
+[
+  {
+    "gazette": "5044",
+    "data": {
+      "header": [
+        "Site Name",
+        "Latitude",
+        "Longitude",
+        "Multiplex Number",
+        "Frequency (MHz)",
+        "Channel Number",
+        "TX Power (W)",
+        "Antenna Peak Gain (dBd)",
+        "Polarisation",
+        "Antenna Height (m)",
+        "Region"
+      ],
+      "rows": [
+        [
+          "Aminuis",
+          "23 40 35.6 S",
+          "19 26 01.6 E",
+          "1",
+          "210",
+          "9",
+          "1000",
+          "11.5",
+          "Vertical",
+          "119.2",
+          "Omaheke"
+        ],
+        [
+          "Aranos",
+          "24 6 50.4 S",
+          "19 6 3.9 E",
+          "1",
+          "626",
+          "40",
+          "500",
+          "7.5",
+          "Horizontal",
+          "91.1",
+          "Hardap"
+        ],
+        [
+          "Arendesnes",
+          "18 2 30.9 S",
+          "19 37 27.8 E",
+          "1",
+          "202",
+          "8",
+          "1000",
+          "14.7",
+          "Horizontal",
+          "216",
+          "Kavango"
+        ],
+        [
+          "Aus",
+          "26 39 41.0 S",
+          "16 19 3.0 E",
+          "1",
+          "658",
+          "44",
+          "20",
+          "7.5",
+          "Horizontal",
+          "81.1",
+          "Karas"
+        ],
+        [
+          "Aussenkehr",
+          "28 21 58.1 S",
+          "17 26 9.0 E",
+          "1",
+          "530",
+          "28",
+          "20",
+          "7.5",
+          "Horizontal",
+          "61.1",
+          "Karas"
+        ],
+        [
+          "Bethanien",
+          "26 29 0.7 S",
+          "17 14 18.0 E",
+          "1",
+          "202",
+          "8",
+          "2000",
+          "11.6",
+          "Horizontal",
+          "216.8",
+          "Karas"
+        ],
+        [
+          "Brukkaros",
+          "25 51 20.2 S",
+          "17 46 53.3 E",
+          "1",
+          "186",
+          "6",
+          "100",
+          "8",
+          "Vertical",
+          "67.42",
+          "Karas"
+        ],
+        [
+          "Buitepos",
+          "22 17 00.0 S",
+          "19 54 00.0 E",
+          "1",
+          "498",
+          "24",
+          "500",
+          "12.9",
+          "Vertical",
+          "82.23",
+          "Omaheke"
+        ],
+        [
+          "Chetto",
+          "17 55 53.3 S",
+          "22 36 43.4 E",
+          "1",
+          "194",
+          "7",
+          "1000",
+          "10",
+          "Horizontal",
+          "125",
+          "Caprivi"
+        ],
+        [
+          "Corridor",
+          "23 30 55.6 S",
+          "19 50 54.8 E",
+          "1",
+          "474",
+          "21",
+          "400",
+          "10.5",
+          "Horizontal",
+          "82.42",
+          "Omaheke"
+        ],
+        [
+          "Divundu",
+          "18 4 37.5 S",
+          "21 44 55.3 E",
+          "1",
+          "610",
+          "38",
+          "1000",
+          "12.5",
+          "Horizontal",
+          "120",
+          "Kavango"
+        ],
+        [
+          "Eenhana",
+          "17 29 57.1 S",
+          "16 31 24.2 E",
+          "1",
+          "578",
+          "34",
+          "100",
+          "10.5",
+          "Horizontal",
+          "92.42",
+          "Ohangwena"
+        ],
+        [
+          "Eholongo",
+          "18 23 12.6 S",
+          "14 58 11.8 E",
+          "1",
+          "490",
+          "23",
+          "1000",
+          "10.5",
+          "Horizontal",
+          "212.42",
+          "Omusati"
+        ],
+        [
+          "Eiseb-1",
+          "21 21 15.3 S",
+          "20 28 31.9 E",
+          "1",
+          "482",
+          "22",
+          "100",
+          "10.5",
+          "Horizontal",
+          "122.42",
+          "Omaheke"
+        ],
+        [
+          "Elandsfontein",
+          "19 24 0.7 S",
+          "16 16 38.8 E",
+          "1",
+          "482",
+          "22",
+          "2000",
+          "10.5",
+          "Horizontal",
+          "212.42",
+          "Otjozondjupa"
+        ],
+        [
+          "Epukiro",
+          "21 33 3.6 S",
+          "19 25 19.2 E",
+          "1",
+          "178",
+          "5",
+          "1000",
+          "11.5",
+          "Horizontal",
+          "219.15",
+          "Omaheke"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5078",
+    "data": {
+      "header": [
+        "Site Name",
+        "Latitude",
+        "Longitude",
+        "Multiplex Number",
+        "Frequency (MHz)",
+        "Channel Number",
+        "TX Power (W)",
+        "Antenna Peak Gain (dBd)",
+        "Polarisation",
+        "Antenna Height (m)",
+        "Region"
+      ],
+      "rows": [
+        [
+          "Aminuis",
+          "23 40 35.6 S",
+          "19 26 01.6 E",
+          "2",
+          "626",
+          "40",
+          "1000",
+          "11.5",
+          "Vertical",
+          "119.2",
+          "Omaheke"
+        ],
+        [
+          "Aminuis",
+          "23 40 35.6 S",
+          "19 26 01.6 E",
+          "3",
+          "666",
+          "45",
+          "1000",
+          "11.5",
+          "Vertical",
+          "119.2",
+          "Omaheke"
+        ],
+        [
+          "Aminuis",
+          "23 40 35.6 S",
+          "19 26 01.6 E",
+          "4",
+          "658",
+          "44",
+          "1000",
+          "11.5",
+          "Vertical",
+          "119.2",
+          "Omaheke"
+        ],
+        [
+          "Aminuis",
+          "23 40 35.6 S",
+          "19 26 01.6 E",
+          "5",
+          "690",
+          "48",
+          "1000",
+          "11.5",
+          "Vertical",
+          "119.2",
+          "Omaheke"
+        ],
+        [
+          "Aranos",
+          "24 6 50.4 S",
+          "19 6 3.9 E",
+          "2",
+          "658",
+          "44",
+          "500",
+          "7.5",
+          "Horizontal",
+          "91.1",
+          "Hardap"
+        ],
+        [
+          "Aranos",
+          "24 6 50.4 S",
+          "19 6 3.9 E",
+          "3",
+          "690",
+          "48",
+          "500",
+          "7.5",
+          "Horizontal",
+          "91.1",
+          "Hardap"
+        ],
+        [
+          "Aranos",
+          "24 6 50.4 S",
+          "19 6 3.9 E",
+          "4",
+          "666",
+          "45",
+          "500",
+          "7.5",
+          "Horizontal",
+          "91.1",
+          "Hardap"
+        ],
+        [
+          "Arendes- nes",
+          "18 2 30.9 S",
+          "19 37 27.8 E",
+          "2",
+          "530",
+          "28",
+          "1000",
+          "14.7",
+          "Horizontal",
+          "216",
+          "Kavango"
+        ],
+        [
+          "Arendes- nes",
+          "18 2 30.9 S",
+          "19 37 27.8 E",
+          "3",
+          "474",
+          "21",
+          "1000",
+          "14.7",
+          "Horizontal",
+          "216",
+          "Kavango"
+        ],
+        [
+          "Arendes- nes",
+          "18 2 30.9 S",
+          "19 37 27.8 E",
+          "4",
+          "482",
+          "22",
+          "1000",
+          "14.7",
+          "Horizontal",
+          "216",
+          "Kavango"
+        ],
+        [
+          "Arendes- nes",
+          "18 2 30.9 S",
+          "19 37 27.8 E",
+          "5",
+          "498",
+          "24",
+          "1000",
+          "14.7",
+          "Horizontal",
+          "216",
+          "Kavango"
+        ],
+        [
+          "Ar- endesnes",
+          "18 2 30.9 S",
+          "19 37 27.8 E",
+          "6",
+          "562",
+          "32",
+          "1000",
+          "14.7",
+          "Horizontal",
+          "216",
+          "Kavango"
+        ],
+        [
+          "Aussen- kehr",
+          "28 21 58.1 S",
+          "17 26 9.0 E",
+          "2",
+          "482",
+          "22",
+          "20",
+          "7.5",
+          "Horizontal",
+          "61.1",
+          "Karas"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5148",
+    "data": {
+      "header": [
+        "Discounts based on number of circuits/Monthly Rental For Bandwidth"
+      ],
+      "rows": [
+        [
+          "1 - 10 : No discount"
+        ],
+        [
+          "11 - 50 : Less 3%"
+        ],
+        [
+          "51 - 100: Less 7%"
+        ],
+        [
+          "101 - 500: Less 10%"
+        ],
+        [
+          "501 - 1000: Less 15%"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5148",
+    "data": {
+      "header": [
+        "Discounts based on number of circuits/Monthly Rental For Bandwidth"
+      ],
+      "rows": [
+        [
+          "1 - 10 : No discount"
+        ],
+        [
+          "11 - 50 : Less 3%"
+        ],
+        [
+          "51 - 100: Less 7%"
+        ],
+        [
+          "101 - 500: Less 10%"
+        ],
+        [
+          "501 - 1000: Less 15%"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5179",
+    "data": {
+      "header": [
+        "Namibian DTT Identification Number",
+        "Namibian DTT Identification Number",
+        "Namibian DTT Identification Number",
+        "Namibian DTT Identification Number",
+        "Namibian DTT Identification Number",
+        "Namibian DTT Identification Number",
+        "Namibian DTT Identification Number",
+        "Namibian DTT Identification Number",
+        "Namibian DTT Identification Number",
+        "Namibian DTT Identification Number",
+        "Namibian DTT Identification Number",
+        "Namibian DTT Identification Number",
+        "Namibian DTT Identification Number",
+        "Namibian DTT Identification Number",
+        "Namibian DTT Identification Number",
+        "Namibian DTT Identification Number"
+      ],
+      "rows": [
+        [
+          "Manufacturer's identification",
+          "Manufacturer's identification",
+          "Manufacturer's model number b",
+          "Manufacturer's model number b",
+          "Transmission type c",
+          "Unique serial Number d",
+          "Unique serial Number d",
+          "Unique serial Number d",
+          "Unique serial Number d",
+          "Unique serial Number d",
+          "Unique serial Number d",
+          "Unique serial Number d",
+          "Unique serial Number d",
+          "Unique serial Number d",
+          "Unique serial Number d",
+          "Unique serial Number d"
+        ],
+        [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "Check",
+          "Check",
+          "Check"
+        ],
+        [
+          "e",
+          "e",
+          "e"
+        ],
+        [
+          "e",
+          "e",
+          "e"
+        ],
+        [
+          "Check"
+        ],
+        [
+          "9"
+        ],
+        [
+          "10"
+        ],
+        [
+          "11"
+        ],
+        [
+          "12"
+        ],
+        [
+          "8"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5201",
+    "data": {
+      "header": [
+        "Site Name",
+        "Latitude",
+        "Longitude",
+        "Multiplex Number",
+        "Frequency (MHz)",
+        "Channel Number",
+        "TX Power (W)",
+        "Antenna Peak Gain (dBd)",
+        "Antenna Peak Gain (dBd)",
+        "Polarisation",
+        "Antenna Height (m)",
+        "Region"
+      ],
+      "rows": [
+        [
+          "Aminuis",
+          "23 40 35.6 S",
+          "19 26 01.6 E",
+          "1",
+          "210",
+          "9",
+          "1000",
+          "30.00",
+          "11.5",
+          "Vertical",
+          "119.2",
+          "Omaheke"
+        ],
+        [
+          "Aminuis",
+          "23 40 35.6 S",
+          "19 26 01.6 E",
+          "2",
+          "626",
+          "40",
+          "1000",
+          "30.00",
+          "11.5",
+          "Vertical",
+          "119.2",
+          "Omaheke"
+        ],
+        [
+          "Aminuis",
+          "23 40 35.6 S",
+          "19 26 01.6 E",
+          "3",
+          "666",
+          "45",
+          "1000",
+          "30.00",
+          "11.5",
+          "Vertical",
+          "119.2",
+          "Omaheke"
+        ],
+        [
+          "Aminuis",
+          "23 40 35.6 S",
+          "19 26 01.6 E",
+          "4",
+          "658",
+          "44",
+          "1000",
+          "30.00",
+          "11.5",
+          "Vertical",
+          "119.2",
+          "Omaheke"
+        ],
+        [
+          "Aranos",
+          "24 6 50.4 S",
+          "19 6 3.9 E",
+          "1",
+          "570",
+          "33",
+          "500",
+          "26.99",
+          "7.5",
+          "Horizontal",
+          "91.1",
+          "Hardap"
+        ],
+        [
+          "Aranos",
+          "24 6 50.4 S",
+          "19 6 3.9 E",
+          "2",
+          "642",
+          "42",
+          "500",
+          "26.99",
+          "7.5",
+          "Horizontal",
+          "91.1",
+          "Hardap"
+        ],
+        [
+          "Aranos",
+          "24 6 50.4 S",
+          "19 6 3.9 E",
+          "3",
+          "610",
+          "38",
+          "500",
+          "26.99",
+          "7.5",
+          "Horizontal",
+          "91.1",
+          "Hardap"
+        ],
+        [
+          "Aranos",
+          "24 6 50.4 S",
+          "19 6 3.9 E",
+          "4",
+          "514",
+          "26",
+          "500",
+          "26.99",
+          "7.5",
+          "Horizontal",
+          "91.1",
+          "Hardap"
+        ],
+        [
+          "Arendesnes",
+          "18 2 30.9 S",
+          "19 37 27.8 E",
+          "1",
+          "202",
+          "8",
+          "1000",
+          "30.00",
+          "14.7",
+          "Horizontal",
+          "216",
+          "Kavango"
+        ],
+        [
+          "Arendesnes",
+          "18 2 30.9 S",
+          "19 37 27.8 E",
+          "2",
+          "530",
+          "28",
+          "1000",
+          "30.00",
+          "14.7",
+          "Horizontal",
+          "216",
+          "Kavango"
+        ],
+        [
+          "Arendesnes",
+          "18 2 30.9 S",
+          "19 37 27.8 E",
+          "3",
+          "474",
+          "21",
+          "1000",
+          "30.00",
+          "14.7",
+          "Horizontal",
+          "216",
+          "Kavango"
+        ],
+        [
+          "Arendesnes",
+          "18 2 30.9 S",
+          "19 37 27.8 E",
+          "4",
+          "482",
+          "22",
+          "1000",
+          "30.00",
+          "14.7",
+          "Horizontal",
+          "216",
+          "Kavango"
+        ],
+        [
+          "Aus",
+          "26 39 41.0 S",
+          "16 19 3.0 E",
+          "1",
+          "658",
+          "44",
+          "20",
+          "13.01",
+          "7.5",
+          "Horizontal",
+          "81.1",
+          "Karas"
+        ],
+        [
+          "Aus",
+          "26 39 41.0 S",
+          "16 19 3.0 E",
+          "2",
+          "626",
+          "40",
+          "20",
+          "13.01",
+          "7.5",
+          "Horizontal",
+          "81.1",
+          "Karas"
+        ],
+        [
+          "Aus",
+          "26 39 41.0 S",
+          "16 19 3.0 E",
+          "3",
+          "690",
+          "48",
+          "20",
+          "13.01",
+          "7.5",
+          "Horizontal",
+          "81.1",
+          "Karas"
+        ],
+        [
+          "Aus",
+          "26 39 41.0 S",
+          "16 19 3.0 E",
+          "4",
+          "674",
+          "46",
+          "20",
+          "13.01",
+          "7.5",
+          "Horizontal",
+          "81.1",
+          "Karas"
+        ],
+        [
+          "Aussenkehr",
+          "28 21 58.1 S",
+          "17 26 9.0 E",
+          "1",
+          "530",
+          "28",
+          "20",
+          "13.01",
+          "7.5",
+          "Horizontal",
+          "61.1",
+          "Karas"
+        ],
+        [
+          "Aussenkehr",
+          "28 21 58.1 S",
+          "17 26 9.0 E",
+          "2",
+          "482",
+          "22",
+          "20",
+          "13.01",
+          "7.5",
+          "Horizontal",
+          "61.1",
+          "Karas"
+        ],
+        [
+          "Aussenkehr",
+          "28 21 58.1 S",
+          "17 26 9.0 E",
+          "3",
+          "554",
+          "31",
+          "20",
+          "13.01",
+          "7.5",
+          "Horizontal",
+          "61.1",
+          "Karas"
+        ],
+        [
+          "Aussenkehr",
+          "28 21 58.1 S",
+          "17 26 9.0 E",
+          "4",
+          "626",
+          "40",
+          "20",
+          "13.01",
+          "7.5",
+          "Horizontal",
+          "61.1",
+          "Karas"
+        ],
+        [
+          "Bethanien",
+          "26 29 0.7 S",
+          "17 14 18.0 E",
+          "1",
+          "202",
+          "8",
+          "2000",
+          "33.01",
+          "11.6",
+          "Horizontal",
+          "216.8",
+          "Karas"
+        ],
+        [
+          "Bethanien",
+          "26 29 0.7 S",
+          "17 14 18.0 E",
+          "2",
+          "522",
+          "27",
+          "2000",
+          "33.01",
+          "11.6",
+          "Horizontal",
+          "216.8",
+          "Karas"
+        ],
+        [
+          "Bethanien",
+          "26 29 0.7 S",
+          "17 14 18.0 E",
+          "3",
+          "554",
+          "31",
+          "2000",
+          "33.01",
+          "11.6",
+          "Horizontal",
+          "216.8",
+          "Karas"
+        ],
+        [
+          "Bethanien",
+          "26 29 0.7 S",
+          "27 14 18.0 E",
+          "4",
+          "586",
+          "35",
+          "2000",
+          "33.01",
+          "11.6",
+          "Horizontal",
+          "216.8",
+          "Karas"
+        ],
+        [
+          "Brukkaros",
+          "25 51 20.2 S",
+          "17 46 53.3 E",
+          "1",
+          "186",
+          "6",
+          "100",
+          "20.00",
+          "8",
+          "Vertical",
+          "67.42",
+          "Karas"
+        ],
+        [
+          "Brukkaros",
+          "25 51 20.2 S",
+          "17 46 53.3 E",
+          "2",
+          "610",
+          "38",
+          "100",
+          "20.00",
+          "8",
+          "Vertical",
+          "67.42",
+          "Karas"
+        ],
+        [
+          "Brukkaros",
+          "25 51 20.2 S",
+          "17 46 53.3 E",
+          "3",
+          "642",
+          "42",
+          "100",
+          "20.00",
+          "8",
+          "Vertical",
+          "67.42",
+          "Karas"
+        ],
+        [
+          "Brukkaros",
+          "25 51 20.2 S",
+          "17 46 53.3 E",
+          "4",
+          "562",
+          "32",
+          "100",
+          "20.00",
+          "8",
+          "Vertical",
+          "67.42",
+          "Karas"
+        ],
+        [
+          "Buitepos",
+          "22 17 00.0 S",
+          "19 54 00.0 E",
+          "1",
+          "498",
+          "24",
+          "500",
+          "26.99",
+          "12.9",
+          "Vertical",
+          "82.23",
+          "Omaheke"
+        ],
+        [
+          "Buitepos",
+          "22 17 00.0 S",
+          "19 54 00.0 E",
+          "2",
+          "530",
+          "28",
+          "500",
+          "26.99",
+          "12.9",
+          "Vertical",
+          "82.23",
+          "Omaheke"
+        ],
+        [
+          "Buitepos",
+          "22 17 00.0 S",
+          "19 54 00.0 E",
+          "3",
+          "658",
+          "44",
+          "500",
+          "26.99",
+          "12.9",
+          "Vertical",
+          "82.23",
+          "Omaheke"
+        ],
+        [
+          "Buitepos",
+          "22 17 00.0 S",
+          "19 54 00.0 E",
+          "4",
+          "690",
+          "48",
+          "500",
+          "26.99",
+          "12.9",
+          "Vertical",
+          "82.23",
+          "Omaheke"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5269",
+    "data": {
+      "header": [
+        "Director Name",
+        "Nationality",
+        "Identity Number"
+      ],
+      "rows": []
+    }
+  },
+  {
+    "gazette": "5534",
+    "data": {
+      "header": [
+        "Billing",
+        "UnlimitedFreeCallsinClosed UserGroup(1Fixed+1MobileNumbers)"
+      ],
+      "rows": [
+        [
+          "Billing",
+          "Included500Min,5GBmobiledata,100SMSand2048kunlimitedFixedBroad- band"
+        ],
+        [
+          "Payment",
+          "POS(TNteleshops&Nampost)"
+        ],
+        [
+          "Balance Enquiry",
+          "BalanceEnquiryviaSMS,Email,IVR,"
+        ],
+        [
+          "VAS",
+          "1xEmailAddresses,1xFAX-to-Email1xEmail tofax(oncustomerrequest)"
+        ],
+        [
+          "VAS",
+          "FollowMe(After5Rings onFixed Forward toMobile)(Free)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5571",
+    "data": {
+      "header": [
+        "Leading Digit",
+        "Use",
+        "Total Number length (N[(s] N)",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "+",
+          "International Access prefix"
+        ],
+        [
+          "0",
+          "0 - National Access prefix 00 - International Access prefix 01-09 Protected for future number plan expansion",
+          "-"
+        ],
+        [
+          "1",
+          "Short Codes",
+          "3 to 5 digits"
+        ],
+        [
+          "2",
+          "Protected"
+        ],
+        [
+          "3",
+          "Protected"
+        ],
+        [
+          "4",
+          "Protected"
+        ],
+        [
+          "5",
+          "Protected"
+        ],
+        [
+          "6",
+          "60 - CDMA",
+          "9 digits",
+          "no further allocations to be made, the existing allocation will be withdrawn once the service ceases and the range will become Protected Allocations to be made for"
+        ],
+        [
+          "7",
+          "612, 613, 614, 625, 632, 642, 644, 645, 652, 662, 672 and 673 Existing DID Services only All other ranges",
+          "9 digits",
+          "existing customers only Protected"
+        ],
+        [
+          "Protected"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5571",
+    "data": {
+      "header": [
+        "Leading Digit",
+        "Use",
+        "Total Number length (N[(s] N)",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "8",
+          "80 - FreeFone 81 - Mobile 82 -M2M 83 - VoIP 85 - Mobile 86 - Fixed Line, DID and VSAT 87 - Higher Rate 88 - Virtual Telephone All other ranges",
+          "9 digits 9 Digits 12 digits 9 Digits 9 Digits 9 Digits 9 Digits 8 digits",
+          "Includes ENUM services Protected"
+        ],
+        [
+          "9",
+          "Short Codes",
+          "3 to 5 digits"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5683",
+    "data": {
+      "header": [
+        "Fax2email number/s",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2"
+      ],
+      "rows": [
+        [
+          "Internet Usage",
+          "Unlimited",
+          "Unlimited",
+          "Unlimited",
+          "Unlimited",
+          "Unlimited",
+          "Unlimited"
+        ],
+        [
+          "Email addresses",
+          "3",
+          "8",
+          "15",
+          "20",
+          "25",
+          "40"
+        ],
+        [
+          "Web space",
+          "100",
+          "100",
+          "200",
+          "200",
+          "200",
+          "200"
+        ],
+        [
+          "On-net voice minutes",
+          "100",
+          "100",
+          "150",
+          "300",
+          "300",
+          "400"
+        ],
+        [
+          "Monthly Charge (N$) (12-month)",
+          "849",
+          "1,349",
+          "2,049",
+          "3,549",
+          "5,149",
+          "6,799"
+        ],
+        [
+          "Monthly Charge (N$) (24-month)",
+          "799",
+          "1,099",
+          "1,799",
+          "3,099",
+          "4,749",
+          "6,149"
+        ],
+        [
+          "Monthly Charge (N$) (36-month)",
+          "699",
+          "1,049",
+          "1,699",
+          "2,999",
+          "4,449",
+          "5,849"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5713",
+    "data": {
+      "header": [
+        "Number of originating SMS attempts"
+      ],
+      "rows": [
+        [
+          "Number of successfully send SMS's"
+        ],
+        [
+          "Percentage of successfully send SMS's"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5776",
+    "data": {
+      "header": [
+        "Name of Member",
+        "ID. Number",
+        "Nationality of Owner"
+      ],
+      "rows": [
+        [
+          "Martin Kaali Shipanga",
+          "6803061100026",
+          "Namibian"
+        ],
+        [
+          "Elsie Ndeshipanda Heita",
+          "69062200461",
+          "Namibian"
+        ],
+        [
+          "Silvanus Thikameni Kathindi",
+          "68111600054",
+          "Namibian"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5836",
+    "data": {
+      "header": [
+        "Name of Owner",
+        "ID. Number",
+        "Nationality of Owner"
+      ],
+      "rows": [
+        [
+          "Tuyeimo David",
+          "63111510018",
+          "Namibian"
+        ],
+        [
+          "Paulus David",
+          "73091500691",
+          "Namibian"
+        ],
+        [
+          "Board of Directors",
+          "ID. Number",
+          "Nationality of Owner"
+        ],
+        [
+          "Tuyeimo David",
+          "63111510018",
+          "Namibian"
+        ],
+        [
+          "Paulus David",
+          "73091500691",
+          "Namibian"
+        ],
+        [
+          "Valentine James Nel",
+          "67071500045",
+          "Namibian"
+        ],
+        [
+          "Albertine Tjitombo",
+          "69010401324",
+          "Namibian"
+        ],
+        [
+          "Hileni Nembanga Nghipunya",
+          "77013100099",
+          "Namibian"
+        ],
+        [
+          "William Innus Louw",
+          "56021200810",
+          "Namibian"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5947",
+    "data": {
+      "header": [
+        "Director Name",
+        "Nationality",
+        "Identity Number"
+      ],
+      "rows": []
+    }
+  },
+  {
+    "gazette": "5983",
+    "data": {
+      "header": [
+        "Access Prefix",
+        "Use",
+        "Total Number length (N[s]N)",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "+",
+          "International Access prefix"
+        ],
+        [
+          "0",
+          "0 - National Access prefix 00 - International Access prefix 01-09 Reserved for future number plan expansion",
+          "-"
+        ],
+        [
+          "Leading Digit",
+          "Use",
+          "Total Number length (N[s]N)",
+          "Notes"
+        ],
+        [
+          "1",
+          "Short Codes",
+          "3 to 5 digits"
+        ],
+        [
+          "2",
+          "Reserved"
+        ],
+        [
+          "3",
+          "Reserved"
+        ],
+        [
+          "4",
+          "Reserved"
+        ],
+        [
+          "5",
+          "Reserved"
+        ],
+        [
+          "6",
+          "60 - CDMA",
+          "9 digits",
+          "No further allocation to be made. The existing allocation will be withdrawn once the service ceases and the range will become reserved Allocations to be made for existing customers only. All new cus-"
+        ],
+        [
+          "612, 613, 614, 625, 632, 642, 644, 645, 652, 662, 672 and 673 Existing DID Services only All other ranges",
+          "9 digits",
+          "tomer services to be assigned 86 numbers Reserved"
+        ],
+        [
+          "7",
+          "Reserved"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5983",
+    "data": {
+      "header": [
+        "Access Prefix",
+        "Use",
+        "Total Number length (N[s]N)",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "8",
+          "80 - FreeFone 81 - Electronic Communications 82 - Electronic Communications 83 - Electronic Communications 84 - Electronic Communications 85 - Electronic Communications 86 - Electronic Communications 87 - Higher Rate 88 - Virtual Telephone 89 -M2M",
+          "9 digits 9 digits 9 digits 9 digits 9 digits 9 digits 9 digits 9 digits 9 digits 12 digits",
+          "Fixed line, VSAT to be migrated to this number range Includes ENUM services"
+        ],
+        [
+          "9",
+          "Short Codes",
+          "3 to 5 digits"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5983",
+    "data": {
+      "header": [
+        "3 Digit Numbers",
+        "= 1,000,000"
+      ],
+      "rows": [
+        [
+          "4 Digit Numbers",
+          "= 100,000"
+        ],
+        [
+          "5 Digit Numbers",
+          "= 10,000"
+        ],
+        [
+          "6 Digit Numbers",
+          "= 1,000"
+        ],
+        [
+          "7 Digit Numbers",
+          "= 100"
+        ],
+        [
+          "8 Digit Numbers",
+          "= 10"
+        ],
+        [
+          "9 Digit Numbers",
+          "= 1"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5983",
+    "data": {
+      "header": [
+        "Number Category",
+        "NewAssignment",
+        "Additional Assignment"
+      ],
+      "rows": [
+        [
+          "Short Codes"
+        ],
+        [
+          "Fixed-Line DID existing services only"
+        ],
+        [
+          "FreeFone"
+        ],
+        [
+          "Electronic Communications (81, 82, 83, 84, 85)"
+        ],
+        [
+          "Machine-to-Machine (M2M)"
+        ],
+        [
+          "Electronic Communications ( 86)"
+        ],
+        [
+          "Higher Rate Services"
+        ],
+        [
+          "Virtual Telephone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5983",
+    "data": {
+      "header": [
+        "Other Numbering Resources",
+        "NewAssignment",
+        "Additional Assignment"
+      ],
+      "rows": [
+        [
+          "International Signalling Point Code (ISPC)"
+        ],
+        [
+          "National Signalling Point Code (NSPC)"
+        ],
+        [
+          "International Carrier Code (ICC)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5983",
+    "data": {
+      "header": [
+        "Number Category",
+        "Single number/Block of Numbers"
+      ],
+      "rows": [
+        [
+          "Short Codes"
+        ],
+        [
+          "Fixed-Line DID for existing services only"
+        ],
+        [
+          "FreeFone"
+        ],
+        [
+          "Electronic Communications (81, 82, 83, 84, 85)"
+        ],
+        [
+          "Machine-to-Machine (M2M)"
+        ],
+        [
+          "Electronic Communications (86)"
+        ],
+        [
+          "Higher Rate Services"
+        ],
+        [
+          "Virtual Telephone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6035",
+    "data": {
+      "header": [
+        "Director Name",
+        "Nationality",
+        "Identity Number"
+      ],
+      "rows": []
+    }
+  },
+  {
+    "gazette": "6141",
+    "data": {
+      "header": [
+        "Number of SMS",
+        "700"
+      ],
+      "rows": [
+        [
+          "Data Volume",
+          "1.3GB"
+        ],
+        [
+          "Social Media",
+          "500MB"
+        ],
+        [
+          "Package",
+          "Jiva Surf"
+        ],
+        [
+          "Subscription fee (7 days)",
+          "N$ 40"
+        ],
+        [
+          "Voice Minutes",
+          "150"
+        ],
+        [
+          "Number of SMS",
+          "1000"
+        ],
+        [
+          "Data Volume",
+          "1.3GB"
+        ],
+        [
+          "Social Media",
+          "500MB"
+        ],
+        [
+          "Night Surfer (Unlimited Internet)",
+          "00h00-06h00"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6321",
+    "data": {
+      "header": [
+        "Service to be provided using number applied for",
+        "Electronic Communications"
+      ],
+      "rows": [
+        [
+          "Description of geographic area(s)",
+          "National"
+        ],
+        [
+          "Numbers to be considered for assignment (Start - End)",
+          "0890810000000 -0890819999999"
+        ],
+        [
+          "Machine-to- Machine number range applied for",
+          "0890810000000 -0890819999999"
+        ],
+        [
+          "Blocks considered to be awarded by the Authority; 10 blocks of",
+          "100,000 numbers"
+        ],
+        [
+          "Number Category Machine- to-Machine",
+          "(M2M)"
+        ],
+        [
+          "owned Namibian Citizens or Namibian Companies controlled by Namibian Citizens;",
+          "66%"
+        ],
+        [
+          "Applicants' Citizenship or place of incorporation;",
+          "Namibian"
+        ],
+        [
+          "Applicant's Name",
+          "Mobile Telecommunications Limited"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6682",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicant's place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens",
+        "Number Category",
+        "Short codes numbers applied for to be considered for assignment",
+        "Description of geographical area",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "Short Codes",
+          "166 987 967 1211 1911",
+          "National",
+          "Short Codes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6692",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicant's place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "Short codes numbers applied for to be considered for assignment",
+        "Description of geographic area(s)",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Paratus Telecommunications (Pty) Ltd",
+          "Namibia",
+          "100%",
+          "Short Codes",
+          "924",
+          "National",
+          "Short Codes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6798",
+    "data": {
+      "header": [
+        "Number of complaints received"
+      ],
+      "rows": [
+        [
+          "Number of complaints resolved within 14 days from date of receipt"
+        ],
+        [
+          "Number of complaints resolved after 14 days from date of receipt"
+        ],
+        [
+          "Number of complaints not resolved within 14 days from date of receipt"
+        ],
+        [
+          "Number of complaints not resolved after 14 days of receipt"
+        ],
+        [
+          "Number of complaints not resolved after 14 days which were subsequently submitted to the Authority"
+        ],
+        [
+          "Nature of complaints most received (e.g. billing, charges, service and product delivery, confidential information, customer service, service interruptions, dropped calls, advertisement, broadcasting content, reception or signal of broadcasting)"
+        ],
+        [
+          "Any preventative measures taken in response to complaints"
+        ],
+        [
+          "Any other relevant information"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6883",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicants' place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "Number of Blocks considered to be awarded by the Authority",
+        "Description of geographic area",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Namibian",
+          "100%",
+          "Electronic Communications (81)",
+          "1 block (100,̋000 numbers) 0811100000- 0811199999",
+          "National",
+          "Electronic Communications"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6883",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicants' place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "FreeFone numbers applied for",
+        "FreeFone to be considered for assignment",
+        "Description of geographic area",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "FreeFone",
+          "0800111321",
+          "0800111321",
+          "National",
+          "FreeFone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6982",
+    "data": {
+      "header": [
+        "PRODUCTNUMBER",
+        "50% GigaBoost",
+        "Boost Line Speed",
+        "Double Giga- Boost",
+        "Boost Line Speed"
+      ],
+      "rows": [
+        [
+          "Premium Uncapped Boost",
+          "Premium Uncapped Boost",
+          "Premium Uncapped Boost",
+          "Premium Uncapped Boost",
+          "Premium Uncapped Boost"
+        ],
+        [
+          "PREMUCAP2BOOST",
+          "N$ 105.00",
+          "3Mbps/3Mbps",
+          "N$ 210.00",
+          "4Mbps/4Mbps"
+        ],
+        [
+          "PREMUCAP4BOOST",
+          "N$ 165.00",
+          "6Mbps/6Mbps",
+          "N$ 330.00",
+          "8Mbps/8Mbps"
+        ],
+        [
+          "PREMUCAP6BOOST",
+          "N$ 237.00",
+          "9Mbps/9Mbps",
+          "N$ 474.00",
+          "12Mbps/12Mbps"
+        ],
+        [
+          "PREMUCAP2BOOST",
+          "N$ 420.00",
+          "3Mbps/3Mbps",
+          "N$ 840.00",
+          "16Mbps/16Mbps"
+        ],
+        [
+          "PREMUCAP4BOOST",
+          "N$ 630.00",
+          "6Mbps/6Mbps",
+          "N$ 1 260.00",
+          "20Mbps/20Mbps"
+        ],
+        [
+          "PREMUCAP6BOOST",
+          "N$ 900.00",
+          "9Mbps/9Mbps",
+          "N$ 1 800.00",
+          "30Mbps/30Mbps"
+        ],
+        [
+          "Essential Uncapped Boost",
+          "Essential Uncapped Boost",
+          "Essential Uncapped Boost",
+          "Essential Uncapped Boost",
+          "Essential Uncapped Boost"
+        ],
+        [
+          "ESSNUCAP2BOOST",
+          "N$ 60.00",
+          "3Mbps/1.5Mbps",
+          "N$ 120.00",
+          "4Mbps/2Mbps"
+        ],
+        [
+          "ESSNUCAP4BOOST",
+          "N$ 97.50",
+          "6Mbps/3Mbps",
+          "N$ 195.00",
+          "8Mbps/4Mbps"
+        ],
+        [
+          "ESSNUCAP6BOOST",
+          "N$ 165.00",
+          "9Mbps/4.5Mbps",
+          "N$ 330.00",
+          "12Mbps/6Mbps"
+        ],
+        [
+          "ESSNUCAP8BOOST",
+          "N$ 225.00",
+          "12Mbps/6Mbps",
+          "N$ 450.00",
+          "16Mbps/8Mbps"
+        ],
+        [
+          "ESSNUCAP10BOOST",
+          "N$ 255.00",
+          "15Mbps/6Mbps",
+          "N$ 510.00",
+          "20Mbps/10Mbps"
+        ],
+        [
+          "ESSNUCAP15BOOST",
+          "N$ 345.00",
+          "22Mbps/9Mbps",
+          "N$ 690.00",
+          "30Mbps/12Mbps"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6988",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicants' place of incorporation",
+        "Percentage of Stock owned by Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "Short codes numbers to be withdrawn",
+        "Reasons for the proposed withdrawals",
+        "Date on which License intends to permanently discontinue using the numbers"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Namibian",
+          "100%",
+          "Short Codes",
+          "101 111 120 123 130 132 133 134 135 153 1370 1371 1372 1373 1374 1511 10222",
+          "Applicant no longer intends to make use of the short codes",
+          "4 October 2019"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6988",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicants' place of incorporation",
+        "Percentage of Stock owned by Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "Short codes numbers applied for",
+        "Short codes to be considered for assignment",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Mobile Tele- communica- tions Limited",
+          "Namibian",
+          "100%",
+          "Short Codes",
+          "10100 11100 12000 12300 13000 13200 13300 13400 13500 15111 15300 90100",
+          "10100 11100 12000 12300 13000 13200 13300 13400 13500 15111 15300 90100",
+          "Short Codes"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "Short code",
+          "1411",
+          "1411",
+          "Short Code"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7098",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicants' place of incorporation",
+        "Percentage of Stock owned by Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "Numbers applied for",
+        "Numbers to be considered for assignment",
+        "Geographic area",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibia",
+          "100%",
+          "Short Codes",
+          "12300 12400 13900 10000 10011 10033 10044 10066 11000 11444 11711 11888",
+          "12300 12400 13900 10000 10011 10033 10044 10066 11000 11444 11711 11888",
+          "National",
+          "Short Codes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7153",
+    "data": {
+      "header": [
+        "Service to be provided using number applied for",
+        "FreeFone"
+      ],
+      "rows": [
+        [
+          "Description of geographic area",
+          "National"
+        ],
+        [
+          "FreeFone number to be considered for assignment",
+          "0800100100"
+        ],
+        [
+          "FreeFone numbers applied for",
+          "0800100100"
+        ],
+        [
+          "Number Category",
+          "FreeFone"
+        ],
+        [
+          "Percentage of Stock owned by Namibian Companies controlled by Namibian Citizens",
+          "100%"
+        ],
+        [
+          "Applicant's place of incorporation",
+          "Namibian"
+        ],
+        [
+          "Applicant",
+          "Telecom Namibia Limited"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7162",
+    "data": {
+      "header": [
+        "Number of post offices providing Internet access points"
+      ],
+      "rows": [
+        [
+          "Number of post offices not providing Internet Access Points"
+        ],
+        [
+          "Number of post offices without Broadband connectivity"
+        ],
+        [
+          "Quality of Service",
+          "Delivery Standard for Mail within a town"
+        ],
+        [
+          "Delivery standard for Mail from town to town"
+        ],
+        [
+          "Delivery standard for International dispatchers"
+        ],
+        [
+          "Financial performance /Expenses",
+          "Gross annual turnover"
+        ],
+        [
+          "Taxes"
+        ],
+        [
+          "VAT"
+        ],
+        [
+          "PAYE"
+        ],
+        [
+          "Subsidies received"
+        ],
+        [
+          "Domestic Postal Traffic",
+          "Parcel post volumes"
+        ],
+        [
+          "Letter post volumes"
+        ],
+        [
+          "Selected International postal traffic",
+          "trends"
+        ],
+        [
+          "SADC Incoming Mail",
+          "EMS Volumes"
+        ],
+        [
+          "Letter post Volumes"
+        ],
+        [
+          "Parcel Post Volumes"
+        ],
+        [
+          "SADC Outgoing Mail",
+          "EMS Volumes"
+        ],
+        [
+          "Letter post Volumes"
+        ],
+        [
+          "Parcel Post Volumes"
+        ],
+        [
+          "Rest of the World incoming mail",
+          "EMS Volumes"
+        ],
+        [
+          "Letter post Volumes"
+        ],
+        [
+          "Parcel Post Volumes"
+        ],
+        [
+          "Rest of the World outgoing mail",
+          "EMS Volumes"
+        ],
+        [
+          "Letter post Volumes"
+        ],
+        [
+          "Parcel Post Volumes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7196",
+    "data": {
+      "header": [
+        "Leading Digit",
+        "Number Category",
+        "Numbers Awarded",
+        "Geographical Area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "8",
+          "Freephone",
+          "800555888",
+          "National",
+          "Freephone"
+        ],
+        [
+          "9",
+          "Short Codes",
+          "963 91600 90444 93620 99682 92510 92860 92870 92880 92890 97836 97837 98470 99682 93294 92013 96000 97111",
+          "National",
+          "Voice short codes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7209",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicants' place of incorporation",
+        "Percentage of Stock owned by Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "Short code number applied for",
+        "Short code to be considered for assignment",
+        "Description of geographic area(s)",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "Short code",
+          "92200",
+          "92200",
+          "National",
+          "Short codes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7227",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicant's place of incorporation",
+        "Percentage of Stock owned by Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "FreeFone numbers applied for",
+        "FreeFone to be considered for assignment",
+        "Description of geographic area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Namibia",
+          "100%",
+          "FreeFone",
+          "0800064064",
+          "0800064064",
+          "National",
+          "FreeFone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7267",
+    "data": {
+      "header": [
+        "Leading Digit",
+        "Number Category",
+        "NumberAwarded",
+        "Geographical Area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "9",
+          "Short Code",
+          "92200",
+          "National",
+          "Short Code"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7267",
+    "data": {
+      "header": [
+        "Leading Digit",
+        "Number Category",
+        "Number withdrawn",
+        "Geographical Area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "1",
+          "Short Codes",
+          "111 113 129 130 131 135 1005 1007 1008 1009 1010 1077 1078 1118 1133 1155 1160 1168 1169 1177 1234 1800-1849 1900-1999",
+          "National",
+          "Voice short codes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7273",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicant's Citizenship or place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens",
+        "Number Category",
+        "Number of Blocks considered to be awarded by the Authority",
+        "Description of geographic coverage area",
+        "Service to be provided using numbers applied for"
+      ],
+      "rows": [
+        [
+          "Focus Engineering Services CC",
+          "Namibia",
+          "100%",
+          "Electronic Communications (82 1000 1000 - 821999 999)",
+          "1 block (100,000 numbers)",
+          "National",
+          "Electronic Communications"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7289",
+    "data": {
+      "header": [
+        "5.",
+        "Telecom submits that in terms of Regulation 7(1) 'submission of ad hoc reports', this should be clearly defined; its open from non-regulated information request; Telecom also implore the Authority to consider reducing the intervals of some of the reporting from quarterly to at least once or twice a year. The data production for some of the reports is an administrative challenge and given the number of reports in total that are to be provided to the Authority in a year, perhaps a revision of the intervals is warranted.",
+        "Regulation 7 on ad hoc reports mandates CRAN to collect data on issues that are not dealt with on a continuous basis e.g. the data submission done by Telecom Namibia for the PSTN Cost Study. A formal request and the format in which such data should be provided will be submitted to the licensee/s if data is needed for a specific purpose. Similar to scheduled reporting, ad hoc reports will only pertain to regulated activities and matters ancillary thereto, to enable CRAN to discharge its regulatory functions under the Communications Act."
+      ],
+      "rows": [
+        [
+          "6.",
+          "Regulation 13(2) 'Failure to submit information' provides that: 'if after the measures set out in subsection (1) above, the licensee still fails to submit the information requested, the Authority will deal with the matter in terms of section 114, 115 and 116 of the Act.' Telecom proposes that for the sake of transparency, the penalty for failure to submit information upon request by the Authority be explicitly contained in the Regulations as opposed to making reference to sections in the Communications Act. The thus propose that the process to be followed can be in terms of section 114 and 115.",
+          "CRAN has harmonised the Penalty framework as the recently published in Penalty Regulations Gazette No. 7197 Notice No. 159. For clarity, we will add a sub-clause to regulation 13 which cross-refers to those regulations, in addition to the general powers of enforcement set out in sections 114-116."
+        ],
+        [
+          "7.",
+          "Regulation 12 'Condonation' states that 'All licensees must upload via the data portal statistics on its information and communication technologies complying with the data requirements in Annexure' Telecom proposes that the Authority should ensure that the portal is updated with all its fields.",
+          "Due to all data submission requirements being incorporated in the portal, some of the fields are not yet fully functional. The portal will be 100% functional before the next data collection period which would be 31 August 2020."
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7289",
+    "data": {
+      "header": [
+        "Applicant's Name",
+        "Applicant's Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "Number of Blocks considered to be awarded by the Authority",
+        "Description of geographic coverage area (s)",
+        "Service to be provided using numbers applied for"
+      ],
+      "rows": [
+        [
+          "Focus Engineering Services CC",
+          "Namibia",
+          "100%",
+          "Electronic Communications (821000000 - 821999999)",
+          "1block (100,000 numbers)",
+          "National",
+          "Electronic Communications"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7326",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicants' place of incorporation",
+        "Percentage of Stock owned by Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "Short code number applied for",
+        "Short code to be considered for assignment",
+        "Description of geographic area(s)",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Namibian",
+          "100%",
+          "Short code",
+          "9682",
+          "9682",
+          "National",
+          "Short codes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7360",
+    "data": {
+      "header": [
+        "Leading Digit",
+        "Number Category",
+        "Number Awarded",
+        "Geographical Area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "82",
+          "Electronic Communications",
+          "821000000 - 821999999",
+          "National",
+          "Electronic Communications"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7369",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicant's place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens",
+        "Number Category",
+        "Number of Blocks considered to be awarded by the Authority",
+        "Description of geographic coverage area",
+        "Service to be provided using numbers applied for"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "FreeFone",
+          "0800410410",
+          "National",
+          "FreeFone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7369",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicants' place of incorporation",
+        "Percentage of Stock owned by Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "Numbers applied to be withdrawn",
+        "Reasons for the proposed withdrawals",
+        "Description of geographic area",
+        "Date on which Applicant intends to permanently discontinue using the numbers"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "Short Codes",
+          "123 124 139 1000 1001 1003 1004 1006 1100 1144 1171 1188",
+          "Applicant no longer intends to make use of the assigned short codes",
+          "National",
+          "27 November 2020"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7369",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicant's place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens",
+        "Number Category",
+        "Number of Blocks considered to be awarded by the Authority",
+        "Description of geographic coverage area",
+        "Service to be provided using numbers applied for"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "FreeFone",
+          "0800301354",
+          "National",
+          "FreeFone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7376",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicant's place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens",
+        "Number Category",
+        "Number of Blocks considered to be awarded by the Authority",
+        "Description of geographic coverage area",
+        "Service to be provided using numbers applied for"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "FreeFone",
+          "0800 666 888",
+          "National",
+          "FreeFone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7376",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicants' place of incorporation",
+        "Percentage of Stock owned by Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "Numbers applied to be withdrawn",
+        "Reasons for the proposed withdrawals",
+        "Description of geographic area",
+        "Date on which Applicant intends to permanently discontinue using the numbers"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "Short Codes",
+          "1911",
+          "Applicant no longer intends to make use of the assigned short codes",
+          "National",
+          "30 November 2020"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7376",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicants' place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "Short code number applied for",
+        "Short code to be considered for assignment",
+        "Description of geographic area",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "Short code",
+          "11099",
+          "11099",
+          "National",
+          "Short codes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7408",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicants' place of incorporation",
+        "Percentage of Stock owned by Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "Short code number applied for",
+        "Short code to be considered for assignment",
+        "Description of geographic areas",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Namibian",
+          "100%",
+          "Short code",
+          "90102 90111 90112",
+          "90102 90111 90112",
+          "National",
+          "Short codes"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "FreeFone",
+          "0800433300",
+          "0800433300",
+          "National",
+          "FreeFone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7408",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicants' Citizenship or place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens",
+        "Number Category",
+        "Short codes numbers applied to be withdrawal",
+        "Reasons for the proposed withdrawals",
+        "Description of geographic area(s)",
+        "Date on which Applicant intends to permanently discontinue using the numbers"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "Short Codes",
+          "931",
+          "Applicant no longer intends to make use of the assigned short codes",
+          "National",
+          "28 December 2020"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7408",
+    "data": {
+      "header": [
+        "Applicant's Name;",
+        "Applicant's Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens;",
+        "Number Category;",
+        "Number of Blocks considered to be awarded by the Authority;",
+        "Description of geographic coverage area (s);",
+        "Service to be provided using numbers applied for;"
+      ],
+      "rows": [
+        [
+          "Loc8 Mobile CC",
+          "Namibia",
+          "100%",
+          "M2M(89000100000 - 89000199999)",
+          "1 block (100,000 numbers)",
+          "National",
+          "Machine To Machine"
+        ],
+        [
+          "Loc8 Mobile CC",
+          "Namibia",
+          "100%",
+          "Electronic Communications (822000000 - 822999999)",
+          "1 block (100,000 numbers)",
+          "National",
+          "Electronic Communications"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7426",
+    "data": {
+      "header": [
+        "Leading Digit",
+        "Number Category",
+        "Number Awarded",
+        "Geographical Area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "8",
+          "Freephone",
+          "800410410",
+          "National",
+          "Freephone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7426",
+    "data": {
+      "header": [
+        "Leading Digit",
+        "Number Category",
+        "Number Awarded",
+        "Geographical Area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "9",
+          "Short Codes",
+          "9682",
+          "National",
+          "Voice short codes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7426",
+    "data": {
+      "header": [
+        "Leading Digit",
+        "Number Category",
+        "Numbers Withdrawn",
+        "Geographical Area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "1",
+          "Short Codes",
+          "123 124 139 1000 1001 1003 1004 1006 1100 1144 1171 1188",
+          "National",
+          "Voice short codes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7445",
+    "data": {
+      "header": [
+        "Number portability No Complaints"
+      ],
+      "rows": [
+        [
+          "Number portability resolved 24H"
+        ],
+        [
+          "Other No complaints"
+        ],
+        [
+          "Other resolved 24h"
+        ],
+        [
+          "Resolved Complaints Fault Repair 24H"
+        ],
+        [
+          "Supply time Fixed line initial connection within 5 elapsed days percent"
+        ],
+        [
+          "Supply time Internet within 5 elapsed days percent"
+        ],
+        [
+          "Supply time initial mobile within 5 days percent"
+        ],
+        [
+          "Total No complaints not resolved"
+        ],
+        [
+          "Total No complaints resolved within 24 Hours"
+        ],
+        [
+          "Unsuccessful SMSAttempts"
+        ],
+        [
+          "Total number portability request"
+        ],
+        [
+          "Total Calls received customer support"
+        ],
+        [
+          "Supply time Mobile initial connection within 7 days %(Fixed Contract)"
+        ],
+        [
+          "Supply time Internet within 7 days%"
+        ],
+        [
+          "Supply time Fixed within 7 days%"
+        ],
+        [
+          "Percent of faults repaired within 24 lapsed hours"
+        ],
+        [
+          "Remaining percentage of faults repaired within 48 elapsed hours"
+        ],
+        [
+          "SMS originating Attempts"
+        ],
+        [
+          "Number test data transmissions"
+        ],
+        [
+          "Number successful test data transmissions"
+        ],
+        [
+          "Number successful login attempts"
+        ],
+        [
+          "Number portability request deviating process"
+        ],
+        [
+          "Data Speed advertised Mbps (Megabits per second)"
+        ],
+        [
+          "Data Speed achieved Mbps"
+        ],
+        [
+          "Total No of bills issued to customers"
+        ],
+        [
+          "No of bills issued resulting in customer complaints"
+        ],
+        [
+          "Hours defined as busy time for calls"
+        ],
+        [
+          "%successful Calls during busy time"
+        ],
+        [
+          "No of Successful send and received SMS"
+        ],
+        [
+          "Hours defined as busy time for calls"
+        ],
+        [
+          "Hours defined as busy time for SMS"
+        ],
+        [
+          "%dropped Calls"
+        ],
+        [
+          "%deviating requests number portability"
+        ],
+        [
+          "Hours defined as busy time for internet"
+        ],
+        [
+          "No of log-in attempts"
+        ],
+        [
+          "No of successful log-ins"
+        ],
+        [
+          "No of originating SMS attempts"
+        ],
+        [
+          "No of successfully send SMS"
+        ],
+        [
+          "No of test data transmissions"
+        ],
+        [
+          "No of successful data transmissions"
+        ],
+        [
+          "Hours defined as busy time for data"
+        ],
+        [
+          "RAN SITES",
+          "RAN SITES"
+        ],
+        [
+          "Home",
+          "Site Name"
+        ],
+        [
+          "Site Owner"
+        ],
+        [
+          "Address"
+        ],
+        [
+          "Tower Height (m)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7445",
+    "data": {
+      "header": [
+        "EARFCN (E-UTRAAbsolute Radio Frequency Channel Number)"
+      ],
+      "rows": [
+        [
+          "eNodeB ID"
+        ],
+        [
+          "eNodeB Name"
+        ],
+        [
+          "Local Cell ID"
+        ],
+        [
+          "Antenna Vendor"
+        ],
+        [
+          "Antenna Model"
+        ],
+        [
+          "Antenna height meters"
+        ],
+        [
+          "Power Max Watt"
+        ],
+        [
+          "Power Actual Watt"
+        ],
+        [
+          "Azimuth"
+        ],
+        [
+          "Tilt Electrical"
+        ],
+        [
+          "Tilt Mechanical"
+        ],
+        [
+          "Frequency Download Mhz"
+        ],
+        [
+          "Band Number"
+        ],
+        [
+          "EARFCN"
+        ],
+        [
+          "Bandwidth"
+        ],
+        [
+          "Tilt Electrical"
+        ],
+        [
+          "Tilt Mechanical"
+        ],
+        [
+          "PHYCell ID"
+        ],
+        [
+          "Root Sequence Idx"
+        ],
+        [
+          "TAC"
+        ],
+        [
+          "Point-to-Point Links",
+          "Bandwidth MHz"
+        ],
+        [
+          "Data Rate Mbits"
+        ],
+        [
+          "Site ID"
+        ],
+        [
+          "Frequency MHz"
+        ],
+        [
+          "Model"
+        ],
+        [
+          "Antenna Model"
+        ],
+        [
+          "Manufacturer"
+        ],
+        [
+          "Modulation Type"
+        ],
+        [
+          "Polarization"
+        ],
+        [
+          "Antenna Height (m)"
+        ],
+        [
+          "Point-to-Multi-Point Links",
+          "Bandwidth MHz"
+        ],
+        [
+          "Data Rate Mbits"
+        ],
+        [
+          "Site ID"
+        ],
+        [
+          "Frequency MHz"
+        ],
+        [
+          "Model"
+        ],
+        [
+          "Antenna Model"
+        ],
+        [
+          "Manufacturer"
+        ],
+        [
+          "Modulation Type"
+        ],
+        [
+          "Polarization"
+        ],
+        [
+          "Antenna Height (m)"
+        ],
+        [
+          "Satellite",
+          "Satellite Name"
+        ],
+        [
+          "Satellite Type"
+        ],
+        [
+          "Frequency Type"
+        ],
+        [
+          "Type Service"
+        ],
+        [
+          "Modem"
+        ],
+        [
+          "Polarization"
+        ],
+        [
+          "Power Output (Watt)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7449",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicant's Citizenship or place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens",
+        "Number Category",
+        "Numbers or Number of Blocks considered to be awarded by the Authority",
+        "Description of geographic coverage area",
+        "Service to be provided using numbers applied for"
+      ],
+      "rows": [
+        [
+          "Focus Engineering Services CC",
+          "Namibia",
+          "100%",
+          "M2M (89000200000 - 89000299999)",
+          "1block (100,000 numbers)",
+          "National",
+          "Machine to Machine"
+        ],
+        [
+          "Wi-Tel Service Provider (Pty) Ltd",
+          "Namibia",
+          "100%",
+          "Electronic Communications (823000000- 823999999)",
+          "1block (100,000 numbers)",
+          "National",
+          "Electronic Communications"
+        ],
+        [
+          "Wi-Tel Service Provider (Pty) Ltd",
+          "Namibia",
+          "100%",
+          "FreeFone",
+          "0800000035 0800000036 0800000037 0800000038 0800000039",
+          "National",
+          "FreeFone"
+        ],
+        [
+          "Wi-Tel Service Provider (Pty) Ltd",
+          "Namibia",
+          "100%",
+          "M2M (89000100000 - 89000199999)",
+          "1block (100,000 numbers)",
+          "National",
+          "Machine to Machine"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7486",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicants' place of incorporation",
+        "Percentage of Stock owned by Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "FreeFone numbers applied for",
+        "Description of geographic area",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "FreeFone",
+          "0800000003 0800000008 0800000101 0800000200 0800000800 0800002009 0800003419 0800004747 0800010999 0800011181 0800011222 0800011535 0800023551 0800026698 0800100002 0800111222 0800115767 0800123456 0800123457 0800142332 0800202021 0800202122 0800202698 0800203103 0800203579 0800204101 0800204996 0800207855 0800210390 0800220269 0800221507 0800223621 0800224511 0800225598 0800226698 0800226720 0800230231 0800230232 0800230234 0800233200 0800234789 0800238180 0800239941 0800255004 0800255255 0800256875 0800263244 0800277478 0800301346 0800303919 0800332230 0800333444 0800377380 0800398783 0800400247 0800431322 0800434435 0800510014 0800510192 0800558448 0800610002 0800610203",
+          "National",
+          "FreeFone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7502",
+    "data": {
+      "header": [
+        "Leading Digit",
+        "Number Category",
+        "NumberAwarded",
+        "Geographical Area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "82",
+          "Electronic Communications",
+          "822000000 - 822999999",
+          "National",
+          "Electronic Communications"
+        ],
+        [
+          "89",
+          "Machine-to Machine",
+          "89000100000- 89000199999",
+          "National",
+          "Machine-to-Machine"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7518",
+    "data": {
+      "header": [
+        "Number",
+        "Weight"
+      ],
+      "rows": [
+        [
+          "3 Digit Numbers",
+          "=1 000,000"
+        ],
+        [
+          "4 Digit Numbers",
+          "=100,000"
+        ],
+        [
+          "5 Digit Numbers",
+          "=10, 000"
+        ],
+        [
+          "6 Digit Numbers",
+          "=1, 000"
+        ],
+        [
+          "7 Digit Numbers",
+          "=100"
+        ],
+        [
+          "8 Digit Numbers",
+          "=10"
+        ],
+        [
+          "9 Digit Numbers",
+          "= 1"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7518",
+    "data": {
+      "header": [
+        "Number",
+        "Weight",
+        "N$ (fees payable)"
+      ],
+      "rows": [
+        [
+          "3 Digit Numbers",
+          "=1 000,000",
+          "=620,000"
+        ],
+        [
+          "4 Digit Numbers",
+          "=100,000",
+          "=62,000"
+        ],
+        [
+          "5 Digit Numbers",
+          "=10, 000",
+          "=6,200"
+        ],
+        [
+          "6 Digit Numbers",
+          "=1, 000",
+          "=620"
+        ],
+        [
+          "7 Digit Numbers",
+          "=100",
+          "=62"
+        ],
+        [
+          "8 Digit Numbers",
+          "=10",
+          "=6.2"
+        ],
+        [
+          "9 Digit Numbers",
+          "= 1",
+          "= 0.62"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7518",
+    "data": {
+      "header": [
+        "3 Digit Numbers",
+        "= 1,000,000"
+      ],
+      "rows": [
+        [
+          "4 Digit Numbers",
+          "= 100,000"
+        ],
+        [
+          "5 Digit Numbers",
+          "=10,000"
+        ],
+        [
+          "6 Digit Numbers",
+          "=1,000"
+        ],
+        [
+          "7 Digit Numbers",
+          "=100"
+        ],
+        [
+          "8 Digit Numbers",
+          "=10"
+        ],
+        [
+          "9 Digit Numbers",
+          "= 1"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7518",
+    "data": {
+      "header": [
+        "Table 1: Financials and Calculations for Numbering",
+        "Table 1: Financials and Calculations for Numbering",
+        "Table 1: Financials and Calculations for Numbering",
+        "Table 1: Financials and Calculations for Numbering",
+        "Table 1: Financials and Calculations for Numbering",
+        "Table 1: Financials and Calculations for Numbering"
+      ],
+      "rows": [
+        [
+          "2018/2019",
+          "2019/2020",
+          "2020/2021",
+          "2021/2022",
+          "2022/2023"
+        ],
+        [
+          "Financials",
+          "6,696,309",
+          "7,654,700",
+          "2,000,000",
+          "2,090,000",
+          "2,184,050"
+        ],
+        [
+          "Numbers",
+          "41,208,451",
+          "48,988,851",
+          "3,217,751",
+          "3,217,751",
+          "3,217,751"
+        ],
+        [
+          "Cost/number",
+          "0.16",
+          "0.155",
+          "0.62",
+          "0.65",
+          "0.68"
+        ],
+        [
+          "Source:",
+          "AFS for CRAN 2018/19 - 2019/20",
+          "AFS for CRAN 2018/19 - 2019/20",
+          "Budget 2020/2021",
+          "Projected Budget",
+          "Projected Budget"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7518",
+    "data": {
+      "header": [
+        "Table 2: Zambia ZICTA's Fee structure for Numbering",
+        "Fee Units",
+        "Fee Units"
+      ],
+      "rows": [
+        [
+          "Ite m",
+          "ZMW",
+          "N$"
+        ],
+        [
+          "Registration fees"
+        ],
+        [
+          "All other categories",
+          "40,000",
+          "26,942"
+        ],
+        [
+          "Carrier pre-selection",
+          "200,000",
+          "134,712"
+        ],
+        [
+          "Annual Fees (C)",
+          "1",
+          "0.674"
+        ],
+        [
+          "Annual Fee (F A )"
+        ],
+        [
+          "Annual Return",
+          "233",
+          "157"
+        ],
+        [
+          "Other Codes"
+        ],
+        [
+          "Mobile Network Code",
+          "20,000",
+          "13,471"
+        ],
+        [
+          "National Destination Code",
+          "20,000",
+          "13,471"
+        ],
+        [
+          "International Signaling Point Codes",
+          "20,000",
+          "13,471"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7518",
+    "data": {
+      "header": [
+        "Table 2: Zambia ZICTA's Fee structure for Numbering",
+        "Fee Units",
+        "Fee Units"
+      ],
+      "rows": [
+        [
+          "Ite m",
+          "ZMW",
+          "N$"
+        ],
+        [
+          "National Signaling Point Codes",
+          "20,000",
+          "13,471"
+        ],
+        [
+          "Network Colour Codes",
+          "20,000",
+          "13,471"
+        ],
+        [
+          "SIM Headers",
+          "10,000",
+          "6,736"
+        ],
+        [
+          "Service Numbers (Freephones, Premiums)",
+          "10,000",
+          "6,736"
+        ],
+        [
+          "Carrier Selection Codes",
+          "100,000",
+          "67,356"
+        ],
+        [
+          "Short Codes"
+        ],
+        [
+          "3 digits",
+          "100,000",
+          "67,356"
+        ],
+        [
+          "4 digits",
+          "60,000",
+          "40,414"
+        ],
+        [
+          "Source:",
+          "https://www.zicta.zm/storage/posts/attachmen ts/0r9W6SdgD02vUW4N7D8k5NlA9dDCeV DexQDHFzx8.pdf",
+          "https://www.zicta.zm/storage/posts/attachmen ts/0r9W6SdgD02vUW4N7D8k5NlA9dDCeV DexQDHFzx8.pdf"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7518",
+    "data": {
+      "header": [
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering"
+      ],
+      "rows": [
+        [
+          "Type of Numbering Resource",
+          "Application",
+          "Application",
+          "Registration",
+          "Registration",
+          "Annual Maintenance Fee",
+          "Annual Maintenance Fee"
+        ],
+        [
+          "USD",
+          "N$",
+          "USD",
+          "N$",
+          "USD",
+          "N$"
+        ],
+        [
+          "Prefix for Networks (NDC& MNDC)",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,000",
+          "29,055"
+        ],
+        [
+          "Subscriber Numbers",
+          "N/A",
+          "N/A",
+          "0.20/ subscriber number",
+          "2.89"
+        ],
+        [
+          "National Signaling Point",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,000",
+          "29,055"
+        ],
+        [
+          "International Signaling Point",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,000",
+          "29,055"
+        ],
+        [
+          "Mobile Network Identification Code",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,000",
+          "29,055"
+        ],
+        [
+          "SIM Header",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,000",
+          "29,055"
+        ],
+        [
+          "Data Network Identification Codes",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,000",
+          "29,055"
+        ],
+        [
+          "Corporate Services Network Access Numbers",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,000",
+          "29,055"
+        ],
+        [
+          "Carrier Selection/Pre-selection Codes",
+          "10",
+          "145",
+          "10,000",
+          "145,277",
+          "5,000",
+          "72,639"
+        ],
+        [
+          "Premium Rate Access Codes",
+          "10",
+          "145",
+          "10,000",
+          "145,277",
+          "5,000",
+          "72,639"
+        ],
+        [
+          "Special and Fixed Access Codes (block)",
+          "10",
+          "145",
+          "1,000",
+          "14,528",
+          "2,000",
+          "29,055"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7518",
+    "data": {
+      "header": [
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering"
+      ],
+      "rows": [
+        [
+          "Type of Numbering Resource",
+          "Application",
+          "Application",
+          "Registration",
+          "Registration",
+          "Annual Maintenance Fee",
+          "Annual Maintenance Fee"
+        ],
+        [
+          "USD",
+          "N$",
+          "USD",
+          "N$",
+          "USD",
+          "N$"
+        ],
+        [
+          "Special and Fixed Access Codes Premium Rate Access codes (Single number)",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,500",
+          "36,319"
+        ],
+        [
+          "VAS SMS &Special Services Short Codes:"
+        ],
+        [
+          "Gold",
+          "10",
+          "145",
+          "4,000",
+          "58,111",
+          "2,500",
+          "36,319"
+        ],
+        [
+          "Source:",
+          "https://www.tcra.go.tz/document/Application%20Guidelines%20 and%20Fees%20for%20Numbering%20Resources%20-%20April%20 2018",
+          "https://www.tcra.go.tz/document/Application%20Guidelines%20 and%20Fees%20for%20Numbering%20Resources%20-%20April%20 2018",
+          "https://www.tcra.go.tz/document/Application%20Guidelines%20 and%20Fees%20for%20Numbering%20Resources%20-%20April%20 2018",
+          "https://www.tcra.go.tz/document/Application%20Guidelines%20 and%20Fees%20for%20Numbering%20Resources%20-%20April%20 2018",
+          "https://www.tcra.go.tz/document/Application%20Guidelines%20 and%20Fees%20for%20Numbering%20Resources%20-%20April%20 2018",
+          "https://www.tcra.go.tz/document/Application%20Guidelines%20 and%20Fees%20for%20Numbering%20Resources%20-%20April%20 2018"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7518",
+    "data": {
+      "header": [
+        "Number",
+        "Weight",
+        "Fee in NAD"
+      ],
+      "rows": [
+        [
+          "3 Digit Numbers",
+          "1,000,000",
+          "= 620,000"
+        ],
+        [
+          "4 Digit Numbers",
+          "100,000",
+          "= 62,000"
+        ],
+        [
+          "5 Digit Numbers",
+          "10,000",
+          "= 6,200"
+        ],
+        [
+          "6 Digit Numbers",
+          "1,000",
+          "= 620"
+        ],
+        [
+          "7 Digit Numbers",
+          "100",
+          "= 62"
+        ],
+        [
+          "8 Digit Numbers",
+          "10",
+          "= 6.2"
+        ],
+        [
+          "9 Digit Numbers",
+          "1",
+          "= 0.62"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7596",
+    "data": {
+      "header": [
+        "Applicant's Name;",
+        "Applicants' place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens;",
+        "Number Category;",
+        "Short code number applied for;",
+        "Short code to be considered for assignment;",
+        "Description of geographic area(s);",
+        "Service to be provided using number applied for;"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Namibian",
+          "100%",
+          "Short code",
+          "90880 93111 97970 97700 97000 91847 90080 97790 90200 94100 99088 92200",
+          "90880 93111 97970 97700 97000 91847 90080 97790 90200 94100 99088 92200",
+          "National",
+          "Short codes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7609",
+    "data": {
+      "header": [
+        "Leading Digit",
+        "Number Category",
+        "NumberAwarded",
+        "Number of Blocks",
+        "Geographical Area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "82",
+          "Electronic Communications",
+          "824000000 - 824999999",
+          "1 block (100,000 numbers)",
+          "National",
+          "Electronic Communications"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7613",
+    "data": {
+      "header": [
+        "Number",
+        "Weight"
+      ],
+      "rows": [
+        [
+          "3 Digit Numbers",
+          "=1 000,000"
+        ],
+        [
+          "4 Digit Numbers",
+          "=100,000"
+        ],
+        [
+          "5 Digit Numbers",
+          "=10, 000"
+        ],
+        [
+          "6 Digit Numbers",
+          "=1, 000"
+        ],
+        [
+          "7 Digit Numbers",
+          "=100"
+        ],
+        [
+          "8 Digit Numbers",
+          "=10"
+        ],
+        [
+          "9 Digit Numbers",
+          "= 1"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7613",
+    "data": {
+      "header": [
+        "Number",
+        "Weight",
+        "N$ (fees payable)"
+      ],
+      "rows": [
+        [
+          "3 Digit Numbers",
+          "=1 000,000",
+          "=480,300"
+        ],
+        [
+          "4 Digit Numbers",
+          "=100,000",
+          "=48,030"
+        ],
+        [
+          "5 Digit Numbers",
+          "=10, 000",
+          "=4,803"
+        ],
+        [
+          "6 Digit Numbers",
+          "=1, 000",
+          "=480.30"
+        ],
+        [
+          "7 Digit Numbers",
+          "=100",
+          "=48.03"
+        ],
+        [
+          "8 Digit Numbers",
+          "=10",
+          "=4.803"
+        ],
+        [
+          "9 Digit Numbers",
+          "= 1",
+          "= 0.4803"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7613",
+    "data": {
+      "header": [
+        "3 Digit Numbers",
+        "= 1,000,000"
+      ],
+      "rows": [
+        [
+          "4 Digit Numbers",
+          "= 100,000"
+        ],
+        [
+          "5 Digit Numbers",
+          "=10,000"
+        ],
+        [
+          "6 Digit Numbers",
+          "=1,000"
+        ],
+        [
+          "7 Digit Numbers",
+          "=100"
+        ],
+        [
+          "8 Digit Numbers",
+          "=10"
+        ],
+        [
+          "9 Digit Numbers",
+          "= 1"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7613",
+    "data": {
+      "header": [
+        "Table 1: Financials and Calculations for Numbering",
+        "Table 1: Financials and Calculations for Numbering",
+        "Table 1: Financials and Calculations for Numbering",
+        "Table 1: Financials and Calculations for Numbering",
+        "Table 1: Financials and Calculations for Numbering",
+        "Table 1: Financials and Calculations for Numbering"
+      ],
+      "rows": [
+        [
+          "2018/2019",
+          "2019/2020",
+          "2020/2021",
+          "2021/2022",
+          "2022/2023"
+        ],
+        [
+          "Financials",
+          "6,696,309",
+          "7,654,700",
+          "2,000,000",
+          "2,090,000",
+          "2,184,050"
+        ],
+        [
+          "Numbers",
+          "41,208,451",
+          "48,988,851",
+          "4,164,462",
+          "4,164,462",
+          "4,164,462"
+        ],
+        [
+          "Cost/number",
+          "0.16",
+          "0.155",
+          "0.4803",
+          "0.502",
+          "0.5244"
+        ],
+        [
+          "Source:",
+          "AFS for CRAN 2018/19 - 2019/20",
+          "AFS for CRAN 2018/19 - 2019/20",
+          "Budget 2020/2021",
+          "Projected Budget",
+          "Projected Budget"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7613",
+    "data": {
+      "header": [
+        "Table 2: Zambia ZICTA's Fee structure for Numbering",
+        "Fee Units",
+        "Fee Units"
+      ],
+      "rows": [
+        [
+          "Ite m",
+          "ZMW",
+          "N$"
+        ],
+        [
+          "Registration fees"
+        ],
+        [
+          "All other categories",
+          "40,000",
+          "26,942"
+        ],
+        [
+          "Carrier pre-selection",
+          "200,000",
+          "134,712"
+        ],
+        [
+          "Annual Fees (C)",
+          "1",
+          "0.674"
+        ],
+        [
+          "Annual Fee (F A )"
+        ],
+        [
+          "Annual Return",
+          "233",
+          "157"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7613",
+    "data": {
+      "header": [
+        "Table 2: Zambia ZICTA's Fee structure for Numbering",
+        "Fee Units",
+        "Fee Units"
+      ],
+      "rows": [
+        [
+          "Ite m",
+          "ZMW",
+          "N$"
+        ],
+        [
+          "Other Codes"
+        ],
+        [
+          "Mobile Network Code",
+          "20,000",
+          "13,471"
+        ],
+        [
+          "National Destination Code",
+          "20,000",
+          "13,471"
+        ],
+        [
+          "International Signaling Point Codes",
+          "20,000",
+          "13,471"
+        ],
+        [
+          "National Signaling Point Codes",
+          "20,000",
+          "13,471"
+        ],
+        [
+          "Network Colour Codes",
+          "20,000",
+          "13,471"
+        ],
+        [
+          "SIM Headers",
+          "10,000",
+          "6,736"
+        ],
+        [
+          "Service Numbers (Freephones, Premiums)",
+          "10,000",
+          "6,736"
+        ],
+        [
+          "Carrier Selection Codes",
+          "100,000",
+          "67,356"
+        ],
+        [
+          "Short Codes"
+        ],
+        [
+          "3 digits",
+          "100,000",
+          "67,356"
+        ],
+        [
+          "4 digits",
+          "60,000",
+          "40,414"
+        ],
+        [
+          "Source:",
+          "https://www.zicta.zm/storage/posts/attachments/ 0r9W6SdgD02vUW4N7D8k5NlA9dDCeVDex- QDHFzx8.pdf",
+          "https://www.zicta.zm/storage/posts/attachments/ 0r9W6SdgD02vUW4N7D8k5NlA9dDCeVDex- QDHFzx8.pdf"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7613",
+    "data": {
+      "header": [
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering"
+      ],
+      "rows": [
+        [
+          "Type of Numbering Resource",
+          "Application",
+          "Application",
+          "Registration",
+          "Registration",
+          "Annual Maintenance Fee",
+          "Annual Maintenance Fee"
+        ],
+        [
+          "USD",
+          "N$",
+          "USD",
+          "N$",
+          "USD",
+          "N$"
+        ],
+        [
+          "Prefix for Networks (NDC &MNDC)",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,000",
+          "29,055"
+        ],
+        [
+          "Subscriber Numbers",
+          "N/A",
+          "N/A",
+          "0.20/sub-scriber number",
+          "2.89"
+        ],
+        [
+          "National Signaling Point",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,000",
+          "29,055"
+        ],
+        [
+          "International Signaling Point",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,000",
+          "29,055"
+        ],
+        [
+          "Mobile Network Identification Code",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,000",
+          "29,055"
+        ],
+        [
+          "SIM Header",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,000",
+          "29,055"
+        ],
+        [
+          "Data Network Identification Codes",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,000",
+          "29,055"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7613",
+    "data": {
+      "header": [
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering",
+        "Table 3: Tanzania TCRA's Fee structure for Numbering"
+      ],
+      "rows": [
+        [
+          "Type of Numbering Resource",
+          "Application",
+          "Application",
+          "Registration",
+          "Registration",
+          "Annual Maintenance Fee",
+          "Annual Maintenance Fee"
+        ],
+        [
+          "USD",
+          "N$",
+          "USD",
+          "N$",
+          "USD",
+          "N$"
+        ],
+        [
+          "Corporate Services Network Access Numbers",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,000",
+          "29,055"
+        ],
+        [
+          "Carrier Selection/Pre-selection Codes",
+          "10",
+          "145",
+          "10,000",
+          "145,277",
+          "5,000",
+          "72,639"
+        ],
+        [
+          "Premium Rate Access Codes",
+          "10",
+          "145",
+          "10,000",
+          "145,277",
+          "5,000",
+          "72,639"
+        ],
+        [
+          "Special and Fixed Access Codes (block)",
+          "10",
+          "145",
+          "1,000",
+          "14,528",
+          "2,000",
+          "29,055"
+        ],
+        [
+          "Special and Fixed Access Codes Premium Rate Access codes (Single number)",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,500",
+          "36,319"
+        ],
+        [
+          "VAS SMS &Special Services Short Codes:"
+        ],
+        [
+          "Gold",
+          "10",
+          "145",
+          "4,000",
+          "58,111",
+          "2,500",
+          "36,319"
+        ],
+        [
+          "Source:",
+          "https://www.tcra.go.tz/document/Application%20Guidelines%20 and%20Fees%20for%20Numbering%20Resources%20-%20 April%202018",
+          "https://www.tcra.go.tz/document/Application%20Guidelines%20 and%20Fees%20for%20Numbering%20Resources%20-%20 April%202018",
+          "https://www.tcra.go.tz/document/Application%20Guidelines%20 and%20Fees%20for%20Numbering%20Resources%20-%20 April%202018",
+          "https://www.tcra.go.tz/document/Application%20Guidelines%20 and%20Fees%20for%20Numbering%20Resources%20-%20 April%202018",
+          "https://www.tcra.go.tz/document/Application%20Guidelines%20 and%20Fees%20for%20Numbering%20Resources%20-%20 April%202018",
+          "https://www.tcra.go.tz/document/Application%20Guidelines%20 and%20Fees%20for%20Numbering%20Resources%20-%20 April%202018"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7613",
+    "data": {
+      "header": [
+        "Number",
+        "Weight",
+        "Fee in NAD"
+      ],
+      "rows": [
+        [
+          "3 Digit Numbers",
+          "1,000,000",
+          "= 480,300"
+        ],
+        [
+          "4 Digit Numbers",
+          "100,000",
+          "= 48,030"
+        ],
+        [
+          "5 Digit Numbers",
+          "10,000",
+          "= 4,803"
+        ],
+        [
+          "6 Digit Numbers",
+          "1,000",
+          "= 480.30"
+        ],
+        [
+          "7 Digit Numbers",
+          "100",
+          "= 48.03"
+        ],
+        [
+          "8 Digit Numbers",
+          "10",
+          "= 4.803"
+        ],
+        [
+          "9 Digit Numbers",
+          "1",
+          "= 0.4803"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7710",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicant's place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "FreeFone numbers applied for",
+        "FreeFone to be considered for assignment",
+        "Geographic coverage are",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "FreeFone",
+          "0800710020 0800810088",
+          "0800710020 0800810088",
+          "National",
+          "FreeFone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7780",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicants' place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "Short code number applied for",
+        "Short code to be considered for assignment",
+        "Description of geographic area",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "Short code",
+          "11099",
+          "11099",
+          "National",
+          "Short codes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7796",
+    "data": {
+      "header": [
+        "Service to be provided using",
+        "number applied for",
+        "Short codes"
+      ],
+      "rows": [
+        [
+          "Description of geographic",
+          "area",
+          "National"
+        ],
+        [
+          "Short code to be considered for assignment",
+          "90000"
+        ],
+        [
+          "Short code number applied for",
+          "90000"
+        ],
+        [
+          "Number Category",
+          "code",
+          "Short"
+        ],
+        [
+          "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens",
+          "100%"
+        ],
+        [
+          "Applicants' place of incorporation",
+          "Namibian"
+        ],
+        [
+          "Applicant",
+          "Mobile",
+          "Telecommunications Limited"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7861",
+    "data": {
+      "header": [
+        "Leading Digit",
+        "Number Category",
+        "Number to be Awarded",
+        "Geographical Area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "1",
+          "Short Code",
+          "90000",
+          "National",
+          "Electronic Communications"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7861",
+    "data": {
+      "header": [
+        "Leading Digit",
+        "Number Category",
+        "Number to be Awarded",
+        "Geographical Area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "80",
+          "FreeFone",
+          "0800301354 0800433300 0800710020 0800810088",
+          "National",
+          "FreeFone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7861",
+    "data": {
+      "header": [
+        "Number Categor y",
+        "Short Codes Numbers"
+      ],
+      "rows": [
+        [
+          "Short Codes",
+          "92870"
+        ],
+        [
+          "Short Codes",
+          "97836"
+        ],
+        [
+          "Short Codes",
+          "97837"
+        ],
+        [
+          "Short Codes",
+          "98470"
+        ],
+        [
+          "Short Codes",
+          "99682"
+        ],
+        [
+          "Short Codes",
+          "92013"
+        ],
+        [
+          "Short Codes",
+          "97111"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7875",
+    "data": {
+      "header": [
+        "Applicant's Name;",
+        "Applicants' Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens;",
+        "Number Category;",
+        "FreeFone numbers applied for;",
+        "FreeFone to be considered for assignment;",
+        "Description of geographic area(s);",
+        "Service to be provided using number applied for;"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibia",
+          "100%",
+          "FreeFone",
+          "0800131300 0800911911",
+          "0800131300 0800911911",
+          "National",
+          "FreeFone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7875",
+    "data": {
+      "header": [
+        "Applicant's Name;",
+        "Applicants' place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens;",
+        "Number Category;",
+        "Short code number applied for;",
+        "Short code to be considered for assignment;",
+        "De- scrip- tion of geographic area(s);",
+        "Service to be provided using number applied for;"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Namibia",
+          "100%",
+          "Short code",
+          "91555 92555 93555 94555 95555",
+          "91555 92555 93555 94555 95555",
+          "National",
+          "Short codes"
+        ],
+        [
+          "Paratus Telecommunications (Pty) Ltd",
+          "Namibia",
+          "100%",
+          "Free- Fone",
+          "0800237422",
+          "0800237422",
+          "National",
+          "Free- Fone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7884",
+    "data": {
+      "header": [
+        "Applicant's Name;",
+        "Applicant's Citizenship or place of incorporation;",
+        "Percentage of Stock owned or controlled by Namibian Citizens;",
+        "Number Category;",
+        "FreeFone numbers applied for;",
+        "FreeFone to be considered for assignment;",
+        "Description of geographic area(s);",
+        "Service to be provided using number applied for;"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibia",
+          "100%",
+          "FreeFone",
+          "0800223335",
+          "0800223335",
+          "National",
+          "FreeFone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7909",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicants' place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "Short code number applied for",
+        "Short code to be considered for assignment",
+        "Description of geographic area",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Mobile Tele- communi- cations Limited",
+          "Namibian",
+          "100%",
+          "FreeFone",
+          "0800012255",
+          "0800012255",
+          "National",
+          "FreeFone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7909",
+    "data": {
+      "header": [
+        "Number",
+        "Weight",
+        "N$ (fees payable)"
+      ],
+      "rows": [
+        [
+          "3 Digit Numbers",
+          "=1 000,000",
+          "=410,000"
+        ],
+        [
+          "4 Digit Numbers",
+          "=100,000",
+          "=41,000"
+        ],
+        [
+          "5 Digit Numbers",
+          "=10, 000",
+          "=4,100"
+        ],
+        [
+          "6 Digit Numbers",
+          "=1, 000",
+          "=410"
+        ],
+        [
+          "7 Digit Numbers",
+          "=100",
+          "=41"
+        ],
+        [
+          "8 Digit Numbers",
+          "=10",
+          "=4.1"
+        ],
+        [
+          "9 Digit Numbers",
+          "= 1",
+          "=0.41"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7909",
+    "data": {
+      "header": [
+        "3 Digit Numbers",
+        "= 480,300"
+      ],
+      "rows": [
+        [
+          "4 Digit Numbers",
+          "= 48,030"
+        ],
+        [
+          "5 Digit Numbers",
+          "=4,830"
+        ],
+        [
+          "6 Digit Numbers",
+          "=480.30"
+        ],
+        [
+          "7 Digit Numbers",
+          "=48.03"
+        ],
+        [
+          "8 Digit Numbers",
+          "=4.803"
+        ],
+        [
+          "9 Digit Numbers",
+          "= 0.4803"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7931",
+    "data": {
+      "header": [
+        "Applicant's Name;",
+        "Applicant's Citizenship or place of incorporation;",
+        "Percentage of Stock owned or controlled by Namibian Citizens;",
+        "Number Category;",
+        "FreeFone numbers applied for;",
+        "FreeFone to be considered for assignment;",
+        "Description of geographic area(s);",
+        "Service to be provided using number applied for;"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibia",
+          "100%",
+          "FreeFone",
+          "0800500500",
+          "0800500500",
+          "National",
+          "FreeFone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7950",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicant's place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "Short code number applied for",
+        "Short code considered for assignment",
+        "Description of geographic area",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Mobile Tele- communi- cations Limited",
+          "Namibian",
+          "100%",
+          "Short code",
+          "99999 95999",
+          "99999 95999",
+          "National",
+          "Short codes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7950",
+    "data": {
+      "header": [
+        "Licensee",
+        "Number Category",
+        "Short Codes assigned",
+        "Geographical Area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Short Code",
+          "91555 92555 93555 94555 95555",
+          "National",
+          "Electronic Communications"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7950",
+    "data": {
+      "header": [
+        "Licensee",
+        "Leading Digit",
+        "Number Category",
+        "Number awarded",
+        "Geographical Area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "Paratus Telecommunications (Pty) Ltd",
+          "80",
+          "FreeFone",
+          "0800237422",
+          "National",
+          "FreeFone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7950",
+    "data": {
+      "header": [
+        "Licensee",
+        "Leading Digit",
+        "Number Category",
+        "Numbers awarded",
+        "Geographical Area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "80",
+          "FreeFone",
+          "0800131300 0800911911",
+          "National",
+          "FreeFone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7961",
+    "data": {
+      "header": [
+        "Number",
+        "Weight",
+        "N$ (fees payable)"
+      ],
+      "rows": [
+        [
+          "3 Digit Numbers",
+          "=1 000,000",
+          "=410,000"
+        ],
+        [
+          "4 Digit Numbers",
+          "=100,000",
+          "=41,000"
+        ],
+        [
+          "5 Digit Numbers",
+          "=10, 000",
+          "=4,100"
+        ],
+        [
+          "6 Digit Numbers",
+          "=1, 000",
+          "=410"
+        ],
+        [
+          "7 Digit Numbers",
+          "=100",
+          "=41"
+        ],
+        [
+          "8 Digit Numbers",
+          "=10",
+          "=4.1"
+        ],
+        [
+          "9 Digit Numbers",
+          "= 1",
+          "=0.41"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7961",
+    "data": {
+      "header": [
+        "3 Digit Numbers",
+        "= 480,300"
+      ],
+      "rows": [
+        [
+          "4 Digit Numbers",
+          "= 48,030"
+        ],
+        [
+          "5 Digit Numbers",
+          "=4,830"
+        ],
+        [
+          "6 Digit Numbers",
+          "=480.30"
+        ],
+        [
+          "7 Digit Numbers",
+          "=48.03"
+        ],
+        [
+          "8 Digit Numbers",
+          "=4.803"
+        ],
+        [
+          "9 Digit Numbers",
+          "= 0.4803"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7961",
+    "data": {
+      "header": [
+        "Table 2: Financials and Calculations for Numbering",
+        "Table 2: Financials and Calculations for Numbering",
+        "Table 2: Financials and Calculations for Numbering",
+        "Table 2: Financials and Calculations for Numbering",
+        "Table 2: Financials and Calculations for Numbering",
+        "Table 2: Financials and Calculations for Numbering"
+      ],
+      "rows": [
+        [
+          "2018/2019",
+          "2019/2020",
+          "2020/2021",
+          "2021/2022",
+          "2022/2023",
+          "2023/2024"
+        ],
+        [
+          "Management costs per financial year (N$)",
+          "6,696,309",
+          "7,654,700",
+          "1,188,154",
+          "1,856,715",
+          "1,909,451",
+          "1,985,099"
+        ],
+        [
+          "Numbers",
+          "41,208,451",
+          "48,988,851",
+          "3,217,751",
+          "4,276,311",
+          "4,276,311",
+          "4,276,311"
+        ],
+        [
+          "Cost/number (N$ cents)",
+          "0.16",
+          "0.155",
+          "0.4803",
+          "0.43",
+          "0.44",
+          "0.46"
+        ],
+        [
+          "Source:",
+          "AFS for CRAN 2018/19 - 2020/21",
+          "AFS for CRAN 2018/19 - 2020/21",
+          "AFS for CRAN 2018/19 - 2020/21",
+          "Draft AFS",
+          "Budget",
+          "Projection"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7961",
+    "data": {
+      "header": [
+        "Table 3: Reconciliation of Numbering Cost and Revenue",
+        "Table 3: Reconciliation of Numbering Cost and Revenue"
+      ],
+      "rows": [
+        [
+          "2021/2022",
+          "2021/2022"
+        ],
+        [
+          "Total Budgeted Cost",
+          "N$1,856,715"
+        ],
+        [
+          "Total Revenue",
+          "N$1,975,527"
+        ],
+        [
+          "Over recovery",
+          "N$ 118,812"
+        ],
+        [
+          "2022/2023",
+          "2022/2023"
+        ],
+        [
+          "Total Budgeted Cost",
+          "N$ 1,909,451"
+        ],
+        [
+          "Less: over-recovery",
+          "N$ 118,812"
+        ],
+        [
+          "Total Revenue required",
+          "N$ 1,790,639"
+        ],
+        [
+          "Total Numbers",
+          "4,276,311"
+        ],
+        [
+          "Cost per number",
+          "N$ 0.41"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7981",
+    "data": {
+      "header": [
+        "Licensee",
+        "Number Category",
+        "Short Codes assigned",
+        "Geographical Area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Short Code",
+          "99999 95999",
+          "National",
+          "Electronic Communications"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8029",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicant's place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens",
+        "Number Category",
+        "Number of Blocks considered to be awarded by the Authority",
+        "Description of geographic coverage area",
+        "Service to be provided using numbers applied for"
+      ],
+      "rows": [
+        [
+          "Xylo Technologies Investments CC",
+          "Namibia",
+          "100%",
+          "Electronic Communications (825000000 - 825999999)",
+          "1 block (100,000 numbers)",
+          "National",
+          "ELECTRONIC COMMUNICATIONS"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8077",
+    "data": {
+      "header": [
+        "Applicant's Name",
+        "Applicants' Citizenship or place of incorporation;",
+        "Percentage of Stock owned or controlled by Namibian Citizens;",
+        "Number Category;",
+        "Short code number applied for;",
+        "Short code to be considered for assignment;",
+        "Description of geographic area(s);",
+        "Service to be provided using number applied for;"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibia",
+          "100%",
+          "Short code",
+          "900",
+          "900",
+          "National",
+          "Emergency short code"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8106",
+    "data": {
+      "header": [
+        "Applicant's Name",
+        "Applicants' Citizenship or place of incorporation;",
+        "Percentage of Stock owned or controlled by Namibian Citizens;",
+        "Number Category;",
+        "Short code number applied for;",
+        "Short code to be considered for assignment;",
+        "Description of geographic area(s);",
+        "Service to be provided using number applied for;"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Namibia",
+          "100%",
+          "Short code",
+          "977",
+          "977",
+          "National",
+          "Emergency short code"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8114",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicant's place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "FreeFone numbers applied for",
+        "FreeFone to be considered for assignment",
+        "Description of geographic area",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Mobile Telecom- muni- cations Limited",
+          "Namibian",
+          "100%",
+          "FreeFone",
+          "0800005100 0800004000 0800002222 0800003333",
+          "0800005100 0800004000 0800002222 0800003333",
+          "National",
+          "FreeFone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8114",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicant's place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "Short cod number applied for",
+        "Short code to be considered for assignment",
+        "Description of geographic areas",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Mobile Telecom- muni- cations Limited",
+          "Namibian",
+          "100%",
+          "Short code",
+          "95777",
+          "95777",
+          "National",
+          "Short codes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8179",
+    "data": {
+      "header": [
+        "Service to be provided using number applied for",
+        "FreeFone",
+        "Service to be provided using number applied for",
+        "Short code"
+      ],
+      "rows": [
+        [
+          "Description of geographic area(s)",
+          "National",
+          "Description of geographic area(s)",
+          "National"
+        ],
+        [
+          "FreeFone to be considered for assignment",
+          "0800767687",
+          "Short code to be considered for assignment",
+          "9247"
+        ],
+        [
+          "FreeFone numbers applied for",
+          "0800767687",
+          "Short code numbers applied for",
+          "9247"
+        ],
+        [
+          "Number Category",
+          "FreeFone",
+          "Number Category",
+          "Short code"
+        ],
+        [
+          "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens;",
+          "100%",
+          "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens;",
+          "100%"
+        ],
+        [
+          "Applicant's Citizenship or place of incorporation;",
+          "Namibian",
+          "Applicants' Citizenship or place of incorporation;",
+          "Namibian"
+        ],
+        [
+          "Applicant's Nam e",
+          "Telecom Namibia Limited",
+          "Applicant's Name",
+          "Paratus Telecommunications (Pty) Ltd"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8207",
+    "data": {
+      "header": [
+        "Number Category",
+        "Numbers awarded",
+        "Geographic coverage area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "FreeFone",
+          "0800005100 0800004000 0800002222 0800003333",
+          "National",
+          "FreeFone"
+        ],
+        [
+          "Short Code",
+          "95777",
+          "National",
+          "Short Code"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8207",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicant's place of incorporation",
+        "Percentage of Stock owned or controlled by Namibian Citizens",
+        "Number Category",
+        "Number applied for",
+        "Geographic area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibia",
+          "100%",
+          "Short code",
+          "1411",
+          "National",
+          "Emergency short code"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8215",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicant's place of incorporation",
+        "Percentage of Stock owned or controlled by Namibian Citizens",
+        "Number Category",
+        "Number applied for",
+        "Geographic area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Namibia",
+          "100%",
+          "Freephone",
+          "0800625625",
+          "National",
+          "Freephone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8215",
+    "data": {
+      "header": [
+        "Licensee",
+        "Leading Digit",
+        "Number Category",
+        "Numbers Withdrawn",
+        "Geographical Area"
+      ],
+      "rows": [
+        [
+          "Focus Engineering",
+          "82",
+          "Electronic Communications",
+          "821000000 - 821999999",
+          "National"
+        ],
+        [
+          "Services CC",
+          "89",
+          "Machine-to Machine",
+          "89000200000- 89000299999",
+          "National"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8227",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicant's place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens",
+        "Number Category",
+        "Numbers to be considered for assignment",
+        "Geographical coverage area",
+        "Services to be provided"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Namibia",
+          "100%",
+          "FreeFone",
+          "0800888000",
+          "National",
+          "Free- Fone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8259",
+    "data": {
+      "header": [
+        "Licensee",
+        "Number Category",
+        "Number awarded",
+        "Geographic coverage area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Freephone",
+          "0800625625",
+          "National",
+          "Freephone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8259",
+    "data": {
+      "header": [
+        "Licensee",
+        "Number Category",
+        "Number awarded",
+        "Geographic coverage area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Freephone",
+          "0800767687",
+          "National",
+          "Freephone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8259",
+    "data": {
+      "header": [
+        "Licensee",
+        "Number Category",
+        "Number awarded",
+        "Geographic coverage area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "Paratus Telecommunications (Pty) Ltd",
+          "Short Code",
+          "9247",
+          "National",
+          "Short Code"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8291",
+    "data": {
+      "header": [
+        "Licensee",
+        "Number Category",
+        "Number awarded",
+        "Geographic coverage area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Freephone",
+          "0800535777 0800535789 0800696000",
+          "National",
+          "Freephone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8291",
+    "data": {
+      "header": [
+        "Licensee",
+        "Number Category",
+        "Number awarded",
+        "Geographic coverage area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Freephone",
+          "0800888000",
+          "National",
+          "Freephone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8291",
+    "data": {
+      "header": [
+        "Applicant",
+        "Number Category",
+        "Number applied for",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "Paratus Telecommunications (Pty) Ltd",
+          "National Electronic Communications (083)",
+          "0830300000-0830399999 0831100000-0831199999 0831600000-0831699999 0832100000-0832199999 0832800000-0832899999 0833100000-0833199999 0833200000-0833299999 0833300000-0833399999 0833400000-0833499999 0833500000-0833599999 0833900000-0833999999 0834200000-0834299999 0834400000-0834499999 0835500000-0835599999 0836000000-0836099999 0836600000-0836699999 0836700000-0836799999 0839200000-0839299999 0839300000-0839399999",
+          "National Electronic Communications"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8302",
+    "data": {
+      "header": [
+        "Applicant's Nam e",
+        "Applicants' Citizenship or place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "Short code number applied for",
+        "Short code to be considered for assignment",
+        "Description of geographic area(s)",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Namibian",
+          "100%",
+          "Short code",
+          "11111 12222 13333 14444 16666 93333 94444 96666 98888",
+          "11111 12222 13333 14444 16666 93333 94444 96666 98888",
+          "National",
+          "Short codes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8302",
+    "data": {
+      "header": [
+        "Applicant's Name",
+        "Applicants' Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens",
+        "Nuber Category",
+        "Short code number applied for",
+        "Short code to be considered for assignment",
+        "Description of geographic area(s)",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Namibian",
+          "100%",
+          "FreeFone",
+          "800111110 800111112 800111113 800111114 800111115 800111116 800111117 800111118 800111119 800111120 800111121 800111122 800111123 800111124 800111125 800222222 800303030 800333333 800404040 800606060",
+          "800111110 800111112 800111113 800111114 800111115 800111116 800111117 800111118 800111119 800111120 800111121 800111122 800111123 800111124 800111125 800222222 800303030 800333333 800404040 800606060",
+          "National",
+          "FreeFones"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8331",
+    "data": {
+      "header": [
+        "Applicant's Name ;",
+        "Applicants' Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens;",
+        "Number Category;",
+        "FreeFone number applied for;",
+        "FreeFone to be considered for assignment;",
+        "Description of geographic area(s);",
+        "Service to be provided using number applied for;"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "FreeFone",
+          "0800484030",
+          "0800484030",
+          "National",
+          "FreeFone, (Tipoff service for SACU)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8331",
+    "data": {
+      "header": [
+        "Applicant's Name ;",
+        "Applicants' Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens;",
+        "Number Category;",
+        "Short code number applied for;",
+        "Short code to be considered for assignment;",
+        "Description of geographic area(s);",
+        "Service to be provided using number applied for;"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "Short code",
+          "91911",
+          "91911",
+          "National",
+          "Fire Fighting Emergency Communications for Oranjemund Town Council"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8331",
+    "data": {
+      "header": [
+        "Applicant's Name;",
+        "Applicants' Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens;",
+        "Number Category;",
+        "FreeFone number applied for;",
+        "FreeFone to be considered for a ssignment;",
+        "Description of geographic area(s);",
+        "Service to be provided using number applied for;"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "FreeFone",
+          "0800939444",
+          "0800939444",
+          "National",
+          "FreeFone, (Tipoff service for Langer Heinrich Uranium)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8354",
+    "data": {
+      "header": [
+        "Applicant's Name;",
+        "Applicants' Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens;",
+        "Number Category;",
+        "FreeFone number applied for;",
+        "FreeFone number to be considered for assignment;",
+        "Description of geographic area (s);",
+        "Service to be provided using number applied for;"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Namibian",
+          "100%",
+          "FreeFone",
+          "800000010 800000862 800006656 800021021 800204101 800210964 800222888 800225230 800230704 800255255 800267323 800290500 800290800 800400400 800402931 800444444 800467323 800600777 800647000 800809840",
+          "800000030 800000031 800000032 800000034 800000035 800000036 800000037 800000038 800000039 800000040 800000041 800000042 800000043 800000044 800000045 800000046 800000047 800000048 800000049 800000050",
+          "National",
+          "FreeFones"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8354",
+    "data": {
+      "header": [
+        "Applicant's Name ;",
+        "Applicants' Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens;",
+        "Number Category;",
+        "Electronic Communications number block applied for;",
+        "Electronic Communications number block to be considered for assignment;",
+        "Description of geographic area (s);",
+        "Service to be provided using number applied for;"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Namibian",
+          "100%",
+          "Electronic Communications",
+          "811900000 - 811999999 819000000 - 819099999 819100000 - 819199999 819200000 - 819299999 819300000 - 819399999 819400000 - 819499999 819500000 - 819599999 819600000 - 819699999 819700000 - 819799999 819800000 - 819899999 819900000 - 819999999",
+          "811900000 - 811999999 819000000 - 819099999 819100000 - 819199999 819200000 - 819299999 819300000 - 819399999 819400000 - 819499999 819500000 - 819599999 819600000 - 819699999 819700000 - 819799999 819800000 - 819899999 819900000 - 819999999",
+          "National",
+          "Electronic Communications"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8368",
+    "data": {
+      "header": [
+        "Applicant's Name ;",
+        "Applicants' Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens;",
+        "Number Category;",
+        "FreeFone number applied for;",
+        "FreeFone to be considered for assignment;",
+        "Description of geographic area(s);",
+        "Service to be provided using number applied for;"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "FreeFone",
+          "0800711122",
+          "0800711122",
+          "National",
+          "FreeFone (Ministry of Agriculture)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8404",
+    "data": {
+      "header": [
+        "License e",
+        "Number Category",
+        "Number awarded",
+        "Geographic coverage area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Freefone",
+          "800111110 800111112 800111113 800111114 800111115 800111116 800111117 800111118 800111119 800111120 800111121 800111122 800111123 800111124 800111125 800222222 800303030 800333333 800404040",
+          "National",
+          "Freefone"
+        ],
+        [
+          "Short Code",
+          "11111 12222 13333 14444 16666 93333 94444 96666 98888",
+          "National",
+          "Short Code"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8404",
+    "data": {
+      "header": [
+        "Licensee",
+        "Number Category",
+        "Number awarded",
+        "Geographic coverage area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Freefone",
+          "0800939444",
+          "National",
+          "Tip-off service for Langer Heinrich Uranium"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "Freefone",
+          "0800484030",
+          "National",
+          "Tip-off service for SACU"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "Short code",
+          "91911",
+          "National",
+          "Oranjemund Town Council (Fire Brigade Services)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8404",
+    "data": {
+      "header": [
+        "Applicant's Name ;",
+        "Applicants' Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens;",
+        "Number Category;",
+        "FreeFone number applied for;",
+        "FreeFone to be considered for assignment;",
+        "Description of geographic area(s);",
+        "Service to be provided using number applied for;"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Namibian",
+          "100%",
+          "FreeFone",
+          "0800362002",
+          "0800000051",
+          "National",
+          "FreeFone (Electoral Commission of Namibia)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8405",
+    "data": {
+      "header": [
+        "Number",
+        "Weight",
+        "N$ (Fees Payable)"
+      ],
+      "rows": [
+        [
+          "3 Digit Numbers",
+          "= 1000,000",
+          "= 1,702,300.00"
+        ],
+        [
+          "4 Digit Numbers",
+          "= 100,000",
+          "= 170,230.00"
+        ],
+        [
+          "5 Digit Numbers",
+          "= 10,000",
+          "=17,023.00"
+        ],
+        [
+          "6 Digit Numbers",
+          "= 1,000",
+          "=1.702.30"
+        ],
+        [
+          "7 Digit Numbers",
+          "= 100",
+          "=170.23"
+        ],
+        [
+          "8 Digit Numbers",
+          "= 10",
+          "=17.023"
+        ],
+        [
+          "9 Digit Numbers",
+          "= 1",
+          "= 1.7023"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8405",
+    "data": {
+      "header": [
+        "3 Digit Numbers",
+        "= 410,000"
+      ],
+      "rows": [
+        [
+          "4 Digit Numbers",
+          "= 41,000"
+        ],
+        [
+          "5 Digit Numbers",
+          "=4,100"
+        ],
+        [
+          "6 Digit Numbers",
+          "=410.00"
+        ],
+        [
+          "7 Digit Numbers",
+          "=41.00"
+        ],
+        [
+          "8 Digit Numbers",
+          "=4.100"
+        ],
+        [
+          "9 Digit Numbers",
+          "= 0.4100"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8405",
+    "data": {
+      "header": [
+        "Table 3: Reconciliation of Numbering Cost and Revenue",
+        "Table 3: Reconciliation of Numbering Cost and Revenue"
+      ],
+      "rows": [
+        [
+          "2024/2025",
+          "2024/2025"
+        ],
+        [
+          "Total Budgeted Cost",
+          "N$ 3,034,167"
+        ],
+        [
+          "Plus: under-recovery",
+          "N$ 1,073,901"
+        ],
+        [
+          "Total Revenue required",
+          "N$ 4,108,086"
+        ],
+        [
+          "Total Numbers",
+          "2,413,180"
+        ],
+        [
+          "Cost per number",
+          "N$ 1.7023"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8416",
+    "data": {
+      "header": [
+        "3.1",
+        "MTC submits that MTC is reported to have 83% of registered SIM cards in the market with the remaining held by Telecom Namibia. The number of registered SIM cards cannot be used as criteria to determine dominance, as not all registered SIM cards are used for internet access. The actual figure of SIM cards pertinent to internet services should be considered as a fair assessment for dominance.",
+        "The Authority is of the view that dominance within a market is not determined in isolation. The market is defined as wireless end-user market and not as mobile internet market. Therefore, the market does not refer to the Internet or data but to all services provided via wireless networks such as SMS and voice."
+      ],
+      "rows": [
+        [
+          "3.2",
+          "MTC further submits that the Authority should revise its determination under Wireless End-User Access by separating the criteria into VSAT, Fixed Wireless and Other Wireless (which should be specified). The draft report erroneously grouped mobile with other fixed wireless services, which has resulted in MTC being declared dominant for both mobile and fixed wireless services based on the number of SIM cards, despite having a mere 3% market in VSAT services and 13% in other services. Registered SIM cards should not be interpreted to mean the number of subscribers who use mobile internet services.",
+          "The Authority refers to its submission in paragraph 3.1, that the market for other wireless end-user services does not warrant a defined market at this stage. Markets will only be defined for services where the Authority deems ex-ante regulations necessary to promote or maintain fair competition. However, the Authority acknowledges that defining the market would be a necessary tool in assessing dominance, in future."
+        ],
+        [
+          "3.3",
+          "MTC submits that the Study does not specify in which other Fixed Wireless services Paratus has a 59% market share. Such services should be specified and Paratus should be declared dominant in those services. Similarly, Telecom Namibia's dominance of 75% in Fixed Wireless and Paratus' dominance of 36% in VSAT should be considered separately and specifically identified to be declared dominant.",
+          "The Authority acknowledges that it did not define fixed wireless services as a separate market as at this point. Market definitions are reviewed regularly by the Authority and more narrow market definitions may be used in the future. On this note, Markets will only be defined for services where the Authority deems ex-ante regulations necessary to promote or maintain fair competition."
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8523",
+    "data": {
+      "header": [
+        "Leading Digi t",
+        "Number Category",
+        "Number assigned",
+        "Geographical Area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "8",
+          "FreeFone",
+          "800115999",
+          "National",
+          "FreeFone (Tip-off Service to Project Hope Namibia)"
+        ],
+        [
+          "8",
+          "FreeFone",
+          "800711122",
+          "National",
+          "FreeFone (Ministry of Agriculture)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8523",
+    "data": {
+      "header": [
+        "Leading Digit",
+        "Number Category",
+        "Number assigned",
+        "Geographical Area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "8",
+          "FreeFone",
+          "800000051",
+          "National",
+          "FreeFone (Electoral Commission of Namibia)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8554",
+    "data": {
+      "header": [
+        "Applicant's name ;",
+        "Applicants' citizenship or place of incorporation;",
+        "Percentage of stock owned by Namibian citizens or Namibian companies controlled by Namibian citizens;",
+        "Number category;",
+        "Electronic communication number block applied for;",
+        "Electronic communication number block to be considered for assignment;",
+        "Description of geographic area(s);",
+        "Service to be provided using number applied for;"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "Electronic Communications",
+          "861080000 - 861089999 861100000 - 861109999 861150000 - 861159999 861170000 - 861179999 861200000 - 861209999 861210000 - 861219999 861220000 - 861229999 861230000 - 861239999 861240000 - 861249999 861250000 - 861259999 861260000 - 861269999 861270000 - 861279999 861280000 - 861289999 861290000 - 861299999 861300000 - 861309999 861310000 - 861319999 861320000 - 861329999 861330000 - 861339999 861370000 - 861379999 861380000 - 861389999 861400000 - 861409999 861410000 - 861419999 861420000 - 861429999 861430000 - 861439999 861440000 - 861449999 861550000 - 861559999 861680000 - 861689999 861690000 - 861699999 861700000 - 861709999 861710000 - 861719999 861740000 - 861749999 862170000 - 862179999 862500000 - 862509999 862510000 - 862519999 862520000 - 862529999 862530000 - 862539999 862540000 - 862549999 862560000 - 862569999 862570000 - 862579999 862580000 - 862589999 862680000 - 862689999 862690000 - 862699999 862700000 - 862709999",
+          "861080000 - 861089999 861100000 - 861109999 861150000 - 861159999 861170000 - 861179999 861200000 - 861209999 861210000 - 861219999 861220000 - 861229999 861230000 - 861239999 861240000 - 861249999 861250000 - 861259999 861260000 - 861269999 861270000 - 861279999 861280000 - 861289999 861290000 - 861299999 861300000 - 861309999 861310000 - 861319999 861320000 - 861329999 861330000 - 861339999 861370000 - 861379999 861380000 - 861389999 861400000 - 861409999 861410000 - 861419999 861420000 - 861429999 861430000 - 861439999 861440000 - 861449999 861550000 - 861559999 861680000 - 861689999 861690000 - 861699999 861700000 - 861709999 861710000 - 861719999 861740000 - 861749999 862170000 - 862179999 862500000 - 862509999 862510000 - 862519999 862520000 - 862529999 862530000 - 862539999 862540000 - 862549999 862560000 - 862569999 862570000 - 862579999 862580000 - 862589999 862680000 - 862689999 862690000 - 862699999 862700000 - 862709999",
+          "National",
+          "Electronic Communications"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8554",
+    "data": {
+      "header": [
+        "Applicant's name ;",
+        "Applicants' citizenship or place of incorporation;",
+        "Percentage of stock owned by Namibian citizens or Namibian companies controlled by Namibian citizens;",
+        "Number category;",
+        "Machine-to- Machine number block to be considered for assignment;",
+        "Description of geographic area(s);",
+        "Service to be provided using number applied for;"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "Machine-to- Machine",
+          "890820000000 - 890820099999",
+          "National",
+          "Machine-to- Machine Communications"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8557",
+    "data": {
+      "header": [
+        "License e",
+        "Number category",
+        "Number awarded",
+        "Geographic coverage area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Freefone",
+          "0800402501",
+          "National",
+          "Freefone (Tip-off Service to Anonymous Requester)"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "Freefone",
+          "0800305922",
+          "National",
+          "Freefone (Tip-off Service to Anonymous Requester)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8557",
+    "data": {
+      "header": [
+        "Licensee",
+        "Number category",
+        "Number awarded",
+        "Geographic coverage area",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Electronic Communications",
+          "811900000-811999999 819000000-819099999 819100000-819199999 819200000-819299999 819300000-819399999 819400000-819499999 819500000-819599999 819600000-819699999 819700000-819799999 819800000-819899999 819900000-819999999",
+          "National",
+          "Electronic Communications"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8575",
+    "data": {
+      "header": [
+        "Applicant's Name ;",
+        "Applicants' citizenship or place of incorporation;",
+        "Percentage of stock owned by Namibian citizens or Namibian companies controlled by Namibian citizens;",
+        "Number category;",
+        "FreeFone number applied for;",
+        "FreeFone to be considered for assignment;",
+        "Description of geographic area(s);",
+        "Service to be provided using number applied for;"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "FreeFone",
+          "0800713202",
+          "0800713202",
+          "National",
+          "FreeFone (Tip-off Service)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8670",
+    "data": {
+      "header": [
+        "Applicant's Nam e",
+        "Applicants' citizenship or place of incorporation;",
+        "Percentage of stock owned by Namibian citizens or Namibian companies controlled by Namibian citizens;",
+        "Number category",
+        "FreeFone number applied for",
+        "FreeFone to be considered for assignment",
+        "Description of geographic area(s)",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "FreeFone",
+          "0800205888",
+          "0800205888",
+          "National",
+          "FreeFone (Tip-off Service to Government Institution Pension Fund)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8670",
+    "data": {
+      "header": [
+        "Applicant's Name",
+        "Applicants' citizenship or place of incorporation;",
+        "Percentage of stock owned by Namibian citizens or Namibian companies controlled by Namibian citizens;",
+        "Number category",
+        "Freefone number applied for",
+        "Freefone number to be considered for assignment",
+        "Description of geographic area(s)",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "FreeFone",
+          "0800410205",
+          "0800410205",
+          "National",
+          "Freefone (Ministry of Finance and Social Grants Management)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8738",
+    "data": {
+      "header": [
+        "Applicant's nam e",
+        "Applicants' citizenship or place of incorporation",
+        "Percentage of stock owned by Namibian citizens or Namibian companies controlled by Namibian citizens",
+        "Number category",
+        "Freefone number applied for",
+        "Freefone number assigned",
+        "Description of geographic area(s)",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "Freefone",
+          "0800410205",
+          "0800410205",
+          "National",
+          "FreeFone (Ministry of Finance)"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "Freefone",
+          "0800205888",
+          "0800205888",
+          "National",
+          "FreeFone (Tip-off Service to Government Institution Pension Fund)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8738",
+    "data": {
+      "header": [
+        "Applicant's Nam e",
+        "Applicants' Citizenship or place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "Electronic Communication numbers applied for",
+        "Electronic Communication numbers assigned",
+        "Description of geographic area(s)",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Click Cloud Hosting Services CC",
+          "Namibian",
+          "100%",
+          "Electronic Communication numbers",
+          "844000000 - 844100000",
+          "844000000 - 844099999",
+          "National",
+          "Electronic Communication numbers"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8738",
+    "data": {
+      "header": [
+        "Applicant's Nam e",
+        "Applicants' Citizenship or place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens",
+        "Number Category",
+        "FreeFone number applied for",
+        "FreeFone to be considered for assignment",
+        "Description of geographic area(s)",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "FreeFone",
+          "0800505505",
+          "0800505505",
+          "National",
+          "FreeFone (Cospharm Investment (Pty) Limited)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8760",
+    "data": {
+      "header": [
+        "Applicant's Name",
+        "Applicants' citizenship or place of incorporation",
+        "Percentage of stock owned by Namibian citizens or Namibian companies controlled by Namibian citizens",
+        "Number category",
+        "Freefone number considered for assignment",
+        "Description of geographic area(s)",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "Freefone",
+          "0800713202",
+          "National",
+          "FreeFone (Tipoff Service for Namclear)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8760",
+    "data": {
+      "header": [
+        "Applicant's Name",
+        "Applicants' citizenship or place of incorporation",
+        "Percentage of stock owned by Namibian citizens or Namibian companies controlled by Namibian citizens",
+        "Number category",
+        "Machine-to- Machine number block considered for assignment",
+        "Description of geographic area(s)",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "Machine-to Machine",
+          "890820000000 - 890820099999",
+          "National",
+          "Machine-to- Machine"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8760",
+    "data": {
+      "header": [
+        "Applicant's Name",
+        "Applicants' citizenship or place of incorporation",
+        "Percentage of stock owned by Namibian citizens or Namibian companies controlled by Namibian citizens",
+        "Number category",
+        "Electronic Communication numbers assigned",
+        "Description of geographic area(s)",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "Electronic Communications",
+          "861080000 - 861089999 861100000 - 861109999 861150000 - 861159999 861170000 - 861179999 861200000 - 861209999 861210000 - 861219999 861220000 - 861229999 861230000 - 861239999",
+          "National",
+          "Electronic Communication numbers"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8760",
+    "data": {
+      "header": [
+        "Applicant's Name",
+        "Applicants' citizenship or place of incorporation",
+        "Percentage of stock owned by Namibian citizens or Namibian companies controlled by Namibian citizens",
+        "Number category",
+        "Shortcode numbers considered for assignment",
+        "Description of geographic area(s)",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Namibian",
+          "100%",
+          "Shortcodes",
+          "90880 93111 97970 97700 97000 91847 90080 97790 90200 94100 99088 92200",
+          "National",
+          "Shortcodes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8769",
+    "data": {
+      "header": [
+        "Number",
+        "Weight",
+        "N$ (Fees Payable)"
+      ],
+      "rows": [
+        [
+          "3 Digit Numbers",
+          "= 1000,000",
+          "= 461, 443.00"
+        ],
+        [
+          "4 Digit Numbers",
+          "= 100,000",
+          "= 46,144.00"
+        ],
+        [
+          "5 Digit Numbers",
+          "= 10,000",
+          "= 4,614.00"
+        ],
+        [
+          "6 Digit Numbers",
+          "= 1,000",
+          "=461.4"
+        ],
+        [
+          "7 Digit Numbers",
+          "= 100",
+          "=46.14"
+        ],
+        [
+          "8 Digit Numbers",
+          "= 10",
+          "=4.614"
+        ],
+        [
+          "9 Digit Numbers",
+          "= 1",
+          "= 0.4614"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8769",
+    "data": {
+      "header": [
+        "Digit Numbers",
+        "Fees"
+      ],
+      "rows": [
+        [
+          "3 Digit Numbers",
+          "1,684,200.00"
+        ],
+        [
+          "4 Digit Numbers",
+          "168,420.00"
+        ],
+        [
+          "5 Digit Numbers",
+          "16,842.00"
+        ],
+        [
+          "6 Digit Numbers",
+          "1,684.42"
+        ],
+        [
+          "7 Digit Numbers",
+          "168.42"
+        ],
+        [
+          "8 Digit Numbers",
+          "16.842"
+        ],
+        [
+          "9 Digit Numbers",
+          "1.6842"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8769",
+    "data": {
+      "header": [
+        "Digit Numbers",
+        "Fees"
+      ],
+      "rows": [
+        [
+          "3 Digit Numbers",
+          "461,443"
+        ],
+        [
+          "4 Digit Numbers",
+          "46,144"
+        ],
+        [
+          "5 Digit Numbers",
+          "4,614"
+        ],
+        [
+          "6 Digit Numbers",
+          "461.4"
+        ],
+        [
+          "7 Digit Numbers",
+          "46.14"
+        ],
+        [
+          "8 Digit Numbers",
+          "4.614"
+        ],
+        [
+          "9 Digit Numbers",
+          "0.4614"
+        ],
+        [
+          "Total"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8841",
+    "data": {
+      "header": [
+        "Content",
+        "Total number of hours or time the broadcasting licensee broadcast applicable local content during the performance period"
+      ],
+      "rows": [
+        [
+          "Content",
+          "Total number of hours or time the broadcasting licensee broadcast programmes or music (including local content programmes and music) during the performance period"
+        ],
+        [
+          "Content",
+          "Total number of hours or time broadcasting licensee broadcast exclusions set out in sub-rule (4) during the performance period"
+        ],
+        [
+          "Content",
+          "Amount spent on local content"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8863",
+    "data": {
+      "header": [
+        "Applicant's Name",
+        "Applicants' Citizenship or place of incorporation",
+        "Percentage of stock owned by Namibian citizens or Namibian companies controlled by Namibian citizens",
+        "Number Category",
+        "FreeFone numbers applied for",
+        "FreeFone numbers to be considered for assignment",
+        "Description of geographic area(s)",
+        "Service to be provided using number applied for"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "Namibian",
+          "100%",
+          "FreeFone",
+          "800001050 800003419 800005909 800010999 800011181 800092200 800093111 800102030 800104444 800111222",
+          "800001052 800003419 800005909 800010999 800011181 800092200 800093111 800102030 800104444 800111222",
+          "National",
+          "Voice service"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "13_JUNE_2016_6035-Gen_N180-182",
+    "data": {
+      "header": [
+        "Director Name",
+        "Nationality",
+        "Identity Number"
+      ],
+      "rows": []
+    }
+  },
+  {
+    "gazette": "5148-74_Amendment_13_March_2013",
+    "data": {
+      "header": [
+        "Discountsbasedonnumberofcircuits/MonthlyRental ForBandwidth"
+      ],
+      "rows": [
+        [
+          "1-10:Nodiscount"
+        ],
+        [
+          "11-50:Less 3%"
+        ],
+        [
+          "51-100:Less 7%"
+        ],
+        [
+          "101-500:Less10%"
+        ],
+        [
+          "501-1000:Less15%"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5269-19_Aug_2013-338",
+    "data": {
+      "header": [
+        "Director Name",
+        "Nationality",
+        "Identity Number"
+      ],
+      "rows": []
+    }
+  },
+  {
+    "gazette": "5269-Gen_N328-NOTICE_329",
+    "data": {
+      "header": [
+        "Director Name",
+        "Nationality",
+        "Identity Number"
+      ],
+      "rows": []
+    }
+  },
+  {
+    "gazette": "5983_1Apr16",
+    "data": {
+      "header": [
+        "Access Prefix",
+        "Use",
+        "Total Number length (N[s]N)",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "+",
+          "International Access prefix"
+        ],
+        [
+          "0",
+          "0 - National Access prefix 00 - International Access prefix 01-09 Reserved for future number plan expansion",
+          "-"
+        ],
+        [
+          "Leading Digit",
+          "Use",
+          "Total Number length (N[s]N)",
+          "Notes"
+        ],
+        [
+          "1",
+          "Short Codes",
+          "3 to 5 digits"
+        ],
+        [
+          "2",
+          "Reserved"
+        ],
+        [
+          "3",
+          "Reserved"
+        ],
+        [
+          "4",
+          "Reserved"
+        ],
+        [
+          "5",
+          "Reserved"
+        ],
+        [
+          "6",
+          "60 - CDMA",
+          "9 digits",
+          "No further allocation to be made. The existing allocation will be withdrawn once the service ceases and the range will become reserved Allocations to be made for existing customers only. All new cus-"
+        ],
+        [
+          "612, 613, 614, 625, 632, 642, 644, 645, 652, 662, 672 and 673 Existing DID Services only All other ranges",
+          "9 digits",
+          "tomer services to be assigned 86 numbers Reserved"
+        ],
+        [
+          "7",
+          "Reserved"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5983_1Apr16",
+    "data": {
+      "header": [
+        "Access Prefix",
+        "Use",
+        "Total Number length (N[s]N)",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "8",
+          "80 - FreeFone 81 - Electronic Communications 82 - Electronic Communications 83 - Electronic Communications 84 - Electronic Communications 85 - Electronic Communications 86 - Electronic Communications 87 - Higher Rate 88 - Virtual Telephone 89 -M2M",
+          "9 digits 9 digits 9 digits 9 digits 9 digits 9 digits 9 digits 9 digits 9 digits 12 digits",
+          "Fixed line, VSAT to be migrated to this number range Includes ENUM services"
+        ],
+        [
+          "9",
+          "Short Codes",
+          "3 to 5 digits"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5983_1Apr16",
+    "data": {
+      "header": [
+        "3 Digit Numbers",
+        "= 1,000,000"
+      ],
+      "rows": [
+        [
+          "4 Digit Numbers",
+          "= 100,000"
+        ],
+        [
+          "5 Digit Numbers",
+          "= 10,000"
+        ],
+        [
+          "6 Digit Numbers",
+          "= 1,000"
+        ],
+        [
+          "7 Digit Numbers",
+          "= 100"
+        ],
+        [
+          "8 Digit Numbers",
+          "= 10"
+        ],
+        [
+          "9 Digit Numbers",
+          "= 1"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5983_1Apr16",
+    "data": {
+      "header": [
+        "Number Category",
+        "NewAssignment",
+        "Additional Assignment"
+      ],
+      "rows": [
+        [
+          "Short Codes"
+        ],
+        [
+          "Fixed-Line DID existing services only"
+        ],
+        [
+          "FreeFone"
+        ],
+        [
+          "Electronic Communications (81, 82, 83, 84, 85)"
+        ],
+        [
+          "Machine-to-Machine (M2M)"
+        ],
+        [
+          "Electronic Communications ( 86)"
+        ],
+        [
+          "Higher Rate Services"
+        ],
+        [
+          "Virtual Telephone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5983_1Apr16",
+    "data": {
+      "header": [
+        "Other Numbering Resources",
+        "NewAssignment",
+        "Additional Assignment"
+      ],
+      "rows": [
+        [
+          "International Signalling Point Code (ISPC)"
+        ],
+        [
+          "National Signalling Point Code (NSPC)"
+        ],
+        [
+          "International Carrier Code (ICC)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5983_1Apr16",
+    "data": {
+      "header": [
+        "Number Category",
+        "Single number/Block of Numbers"
+      ],
+      "rows": [
+        [
+          "Short Codes"
+        ],
+        [
+          "Fixed-Line DID for existing services only"
+        ],
+        [
+          "FreeFone"
+        ],
+        [
+          "Electronic Communications (81, 82, 83, 84, 85)"
+        ],
+        [
+          "Machine-to-Machine (M2M)"
+        ],
+        [
+          "Electronic Communications (86)"
+        ],
+        [
+          "Higher Rate Services"
+        ],
+        [
+          "Virtual Telephone"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6141-Gen_N393-402_4_Oct_2016",
+    "data": {
+      "header": [
+        "Number of SMS",
+        "700"
+      ],
+      "rows": [
+        [
+          "Data Volume",
+          "1.3GB"
+        ],
+        [
+          "Social Media",
+          "500MB"
+        ],
+        [
+          "Package",
+          "Jiva Surf"
+        ],
+        [
+          "Subscription fee (7 days)",
+          "N$ 40"
+        ],
+        [
+          "Voice Minutes",
+          "150"
+        ],
+        [
+          "Number of SMS",
+          "1000"
+        ],
+        [
+          "Data Volume",
+          "1.3GB"
+        ],
+        [
+          "Social Media",
+          "500MB"
+        ],
+        [
+          "Night Surfer (Unlimited Internet)",
+          "00h00-06h00"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6466-Gen_N468",
+    "data": {
+      "header": [
+        "Number of complaints received"
+      ],
+      "rows": [
+        [
+          "Number of Complaints resolved within 14 days"
+        ],
+        [
+          "Number of Complaints resolved after 14 days"
+        ],
+        [
+          "Number of complaints not resolved after 14 days"
+        ],
+        [
+          "Number of complaints not resolved after 14 days, which were subsequently submitted to the Authority"
+        ],
+        [
+          "Nature of complaints most received (eg, billing, charges, service and product delivery,confidential information, customer service, service interruptions and dropped calls)",
+          "1."
+        ],
+        [
+          "Nature of complaints most received (eg, billing, charges, service and product delivery,confidential information, customer service, service interruptions and dropped calls)",
+          "2."
+        ],
+        [
+          "Nature of complaints most received (eg, billing, charges, service and product delivery,confidential information, customer service, service interruptions and dropped calls)",
+          "3."
+        ],
+        [
+          "Any preventative measures taken in response to complaints"
+        ],
+        [
+          "Any other relevant information"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "Amendment_to_FORM_CRAN_1",
+    "data": {
+      "header": [
+        "Director Name",
+        "Nationality",
+        "Identity Number"
+      ],
+      "rows": []
+    }
+  },
+  {
+    "gazette": "NUMBERING-REGULATIONS",
+    "data": {
+      "header": [
+        "Number",
+        "Weight"
+      ],
+      "rows": [
+        [
+          "3Digit Numbers",
+          "=1000.000"
+        ],
+        [
+          "4DigitNumbers",
+          "=100,000"
+        ],
+        [
+          "5DigitNumbers",
+          "=10,000"
+        ],
+        [
+          "6Digit Numbers",
+          "=1,000"
+        ],
+        [
+          "7DigitNumbers",
+          "=100"
+        ],
+        [
+          "8DigitNumbers",
+          "=10"
+        ],
+        [
+          "9Digit Numbers",
+          "=1"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "NUMBERING-REGULATIONS",
+    "data": {
+      "header": [
+        "Number",
+        "Weight",
+        "NS (fees payable)"
+      ],
+      "rows": [
+        [
+          "3Digit Numbers",
+          "=1000.000",
+          "=480,300"
+        ],
+        [
+          "4Digit Numbers",
+          "=100,000",
+          "=48,030"
+        ],
+        [
+          "5Digit Numbers",
+          "=10,000",
+          "=4,803"
+        ],
+        [
+          "6Digit Numbers",
+          "=1,000",
+          "=480.30"
+        ],
+        [
+          "7 DigitNumbers",
+          "=100",
+          "=48.03"
+        ],
+        [
+          "8Digit Numbers",
+          "=10",
+          "=4.803"
+        ],
+        [
+          "9Digit Numbers",
+          "=1",
+          "=0.4803"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "NUMBERING-REGULATIONS",
+    "data": {
+      "header": [
+        "3Digit Numbers",
+        "=1,000,000"
+      ],
+      "rows": [
+        [
+          "4 Digit Numbers",
+          "=100,000"
+        ],
+        [
+          "5 Digit Numbers",
+          "=10,000"
+        ],
+        [
+          "6Digit Numbers",
+          "=1,000"
+        ],
+        [
+          "7 Digit Numbers",
+          "=100"
+        ],
+        [
+          "8DigitNumbers",
+          "=10"
+        ],
+        [
+          "9DigitNumbers",
+          "=1"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "NUMBERING-REGULATIONS",
+    "data": {
+      "header": [
+        "Table l:Financials and Calculations for Numbering",
+        "Table l:Financials and Calculations for Numbering",
+        "Table l:Financials and Calculations for Numbering",
+        "Table l:Financials and Calculations for Numbering",
+        "Table l:Financials and Calculations for Numbering",
+        "Table l:Financials and Calculations for Numbering"
+      ],
+      "rows": [
+        [
+          "2018/2019",
+          "2019/2020",
+          "2020/2021",
+          "2021/2022",
+          "2022/2023"
+        ],
+        [
+          "Financials",
+          "6,696,309",
+          "7,654,700",
+          "2,000,000",
+          "2,090,000",
+          "2,184,050"
+        ],
+        [
+          "Numbers",
+          "41,208,451",
+          "48,988,851",
+          "4,164,462",
+          "4,164,462",
+          "4,164,462"
+        ],
+        [
+          "Cost/number",
+          "0.16",
+          "0.155",
+          "0.4803",
+          "0.502",
+          "0.5244"
+        ],
+        [
+          "Source:",
+          "AFSforCRAN2018/19- 2019/20",
+          "AFSforCRAN2018/19- 2019/20",
+          "Budget 2020/2021",
+          "Projected Budget",
+          "Projected Budget"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "NUMBERING-REGULATIONS",
+    "data": {
+      "header": [
+        "Table 2: Zambia ZICTA's Fee structure for Numbering",
+        "Fee Units",
+        "Fee Units"
+      ],
+      "rows": [
+        [
+          "Item",
+          "ZMW",
+          "NS"
+        ],
+        [
+          "Registration fees"
+        ],
+        [
+          "All other categories",
+          "40,000",
+          "26,942"
+        ],
+        [
+          "Carrier pre-selection",
+          "200,000",
+          "134,712"
+        ],
+        [
+          "Annual Fees (C)",
+          "1",
+          "0.674"
+        ],
+        [
+          "Annual Fee (F)"
+        ],
+        [
+          "Annual Return",
+          "233",
+          "157"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "NUMBERING-REGULATIONS",
+    "data": {
+      "header": [
+        "Table 2:Zambia ZICTA'sFee structure for Numbering",
+        "Fee Units",
+        "Fee Units"
+      ],
+      "rows": [
+        [
+          "Item",
+          "ZMW",
+          "NS"
+        ],
+        [
+          "Other Codes"
+        ],
+        [
+          "MobileNetworkCode",
+          "20,000",
+          "13,471"
+        ],
+        [
+          "National Destination Code",
+          "20,000",
+          "13,471"
+        ],
+        [
+          "International SignalingPoint Codes",
+          "20,000",
+          "13,471"
+        ],
+        [
+          "National Signaling Point Codes",
+          "20,000",
+          "13,471"
+        ],
+        [
+          "NetworkColour Codes",
+          "20,000",
+          "13,471"
+        ],
+        [
+          "SIM Headers",
+          "10,000",
+          "6,736"
+        ],
+        [
+          "ServiceNumbers(Freephones,Premiums)",
+          "10,000",
+          "6,736"
+        ],
+        [
+          "Carrier Selection Codes",
+          "100,000",
+          "67,356"
+        ],
+        [
+          "Short Codes"
+        ],
+        [
+          "3 digits",
+          "100,000",
+          "67,356"
+        ],
+        [
+          "4digits",
+          "60,000",
+          "40,414"
+        ],
+        [
+          "Source:",
+          "https://www.zicta.zm/storage/posts/attachments/ 0r9W6SdgD02vUW4N7D8k5NIA9dDCeVDex- QDHFzx8.pdf",
+          "https://www.zicta.zm/storage/posts/attachments/ 0r9W6SdgD02vUW4N7D8k5NIA9dDCeVDex- QDHFzx8.pdf"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "NUMBERING-REGULATIONS",
+    "data": {
+      "header": [
+        "Table 3:TanzaniaTCRA'sFee structureforNumbering",
+        "Table 3:TanzaniaTCRA'sFee structureforNumbering",
+        "Table 3:TanzaniaTCRA'sFee structureforNumbering",
+        "Table 3:TanzaniaTCRA'sFee structureforNumbering",
+        "Table 3:TanzaniaTCRA'sFee structureforNumbering",
+        "Table 3:TanzaniaTCRA'sFee structureforNumbering",
+        "Table 3:TanzaniaTCRA'sFee structureforNumbering"
+      ],
+      "rows": [
+        [
+          "Type of Numbering Resource",
+          "Application",
+          "Application",
+          "Registration",
+          "Registration",
+          "Annual Maintenance Fee",
+          "Annual Maintenance Fee"
+        ],
+        [
+          "USD",
+          "NS",
+          "USD",
+          "NS",
+          "USD",
+          "NS"
+        ],
+        [
+          "Prefix forNetworks (NDC &MNDC)",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,000",
+          "29,055"
+        ],
+        [
+          "Subscriber Numbers",
+          "N/A",
+          "N/A",
+          "0.20/sub-scriber number",
+          "2.89"
+        ],
+        [
+          "National SignalingPoint",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,000",
+          "29,055"
+        ],
+        [
+          "International Signaling Point",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,000",
+          "29,055"
+        ],
+        [
+          "Mobile Network Identification Code",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,000",
+          "29,055"
+        ],
+        [
+          "SIM Header",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,000",
+          "29,055"
+        ],
+        [
+          "Data NetworkIdentifica- tion Codes",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,000",
+          "29,055"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "NUMBERING-REGULATIONS",
+    "data": {
+      "header": [
+        "Table3:TanzaniaTCRA'sFeestructureforNumbering",
+        "Table3:TanzaniaTCRA'sFeestructureforNumbering",
+        "Table3:TanzaniaTCRA'sFeestructureforNumbering",
+        "Table3:TanzaniaTCRA'sFeestructureforNumbering",
+        "Table3:TanzaniaTCRA'sFeestructureforNumbering",
+        "Table3:TanzaniaTCRA'sFeestructureforNumbering",
+        "Table3:TanzaniaTCRA'sFeestructureforNumbering"
+      ],
+      "rows": [
+        [
+          "Type of Numbering Resource",
+          "Application",
+          "Application",
+          "Registration",
+          "Registration",
+          "Annual Maintenance Fee",
+          "Annual Maintenance Fee"
+        ],
+        [
+          "USD",
+          "NS",
+          "USD",
+          "NS",
+          "USD",
+          "NS"
+        ],
+        [
+          "Corporate ServicesNet- workAccessNumbers",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,000",
+          "29,055"
+        ],
+        [
+          "Carrier Selection/Pre-selection Codes",
+          "10",
+          "145",
+          "10,000",
+          "145,277",
+          "5,000",
+          "72,639"
+        ],
+        [
+          "Premium Rate Access Codes",
+          "10",
+          "145",
+          "10,000",
+          "145,277",
+          "5,000",
+          "72,639"
+        ],
+        [
+          "Special and FixedAccess Codes (block)",
+          "10",
+          "145",
+          "1,000",
+          "14,528",
+          "2,000",
+          "29,055"
+        ],
+        [
+          "Special and Fixed Access CodesPremium Rate Access codes (Single number)",
+          "10",
+          "145",
+          "2,000",
+          "29,055",
+          "2,500",
+          "36,319"
+        ],
+        [
+          "VASSMS&Special Services Short Codes:"
+        ],
+        [
+          "Gold",
+          "10",
+          "145",
+          "4,000",
+          "58,111",
+          "2,500",
+          "36,319"
+        ],
+        [
+          "Source:",
+          "https://www.tcra.go.tz/document/Application%20Guidelines%20 and%20Fees%20for%20Numbering%20Resources%20-%20 April%202018",
+          "https://www.tcra.go.tz/document/Application%20Guidelines%20 and%20Fees%20for%20Numbering%20Resources%20-%20 April%202018",
+          "https://www.tcra.go.tz/document/Application%20Guidelines%20 and%20Fees%20for%20Numbering%20Resources%20-%20 April%202018",
+          "https://www.tcra.go.tz/document/Application%20Guidelines%20 and%20Fees%20for%20Numbering%20Resources%20-%20 April%202018",
+          "https://www.tcra.go.tz/document/Application%20Guidelines%20 and%20Fees%20for%20Numbering%20Resources%20-%20 April%202018",
+          "https://www.tcra.go.tz/document/Application%20Guidelines%20 and%20Fees%20for%20Numbering%20Resources%20-%20 April%202018"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "NUMBERING-REGULATIONS",
+    "data": {
+      "header": [
+        "Number",
+        "Weight",
+        "Fee in NAD"
+      ],
+      "rows": [
+        [
+          "3DigitNumbers",
+          "1,000,000",
+          "=480,300"
+        ],
+        [
+          "4DigitNumbers",
+          "100,000",
+          "=48,030"
+        ],
+        [
+          "5DigitNumbers",
+          "10,000",
+          "=4,803"
+        ],
+        [
+          "6Digit Numbers",
+          "1,000",
+          "=480.30"
+        ],
+        [
+          "7 DigitNumbers",
+          "100",
+          "=48.03"
+        ],
+        [
+          "8Digit Numbers",
+          "10",
+          "=4.803"
+        ],
+        [
+          "9DigitNumbers",
+          "1",
+          "=0.4803"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "QUALITY_OF_SERVICE_REGULATIONS",
+    "data": {
+      "header": [
+        "Number of originating SMS attempts"
+      ],
+      "rows": [
+        [
+          "Number of successfully send SMS's"
+        ],
+        [
+          "Percentage of successfully send SMS's"
+        ]
+      ]
+    }
+  }
+]

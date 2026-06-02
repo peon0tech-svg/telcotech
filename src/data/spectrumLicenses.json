@@ -1,0 +1,4616 @@
+[
+  {
+    "gazette": "4899",
+    "data": {
+      "header": [
+        "Transfer of Licences and Transfer of Control of Licence: Spectrum Use Licences:",
+        "Transfer of Licences and Transfer of Control of Licence: Spectrum Use Licences:"
+      ],
+      "rows": [
+        [
+          "1.",
+          "Spectrum Use Licence Africa Online (Pty) Ltd MWireless (Pty) Ltd"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "4946",
+    "data": {
+      "header": [
+        "No.",
+        "Applicant",
+        "Type of service license",
+        "Applicants Citizenship or place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens",
+        "Radio Frequencies or group of frequencies issued (MH2)",
+        "Services to be provided using the spectrum issued",
+        "Proof of Spectrum Use Licence Application Fees Paid Up to Date Submitted?"
+      ],
+      "rows": [
+        [
+          "1",
+          "Mobile Telecommunications Limited",
+          "Class Comprehensive Telecommunications Service Licence (ECS and ECNS)",
+          "Namibia",
+          "66%",
+          "1725-1745 1820-1840",
+          "Mobile Services Fixed Mobile",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "4976",
+    "data": {
+      "header": [
+        "Licensee",
+        "Licensee's citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies Controlled by Namibian Citizens;",
+        "Description of geographic coverage area(s).",
+        "List of Radio frequencies or groups of radio being applied for;",
+        "Service intended to be provided using spectrum applied for"
+      ],
+      "rows": [
+        [
+          "Wireless Technology Namibia (Pty) Ltd",
+          "Namibia",
+          "100%",
+          "National",
+          "8038.000 MHz 8066.000 MHz 8094.000 MHz 8304.000 MHz 8332.000 MHz 8360.000 MHz 17920.000 MHz 17975.000 MHz 18930.000 MHz 18985.000 MHz",
+          "FIXED 1"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "4976",
+    "data": {
+      "header": [
+        "No",
+        "Licensee",
+        "List of Radio Frequencies or groups of radio frequencies licensed",
+        "Indication whether and to what extend the spectrum is being currently used",
+        "Licence Fees outstanding",
+        "Licensee's citizenship or place of incorporation",
+        "Percentage of Stock Owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens",
+        "Proposed new Type of Licence"
+      ],
+      "rows": [
+        [
+          "1",
+          "Converged Telecommunication Solution (Pty) Ltd",
+          "2595.000 - 2625.000 MHz 5150.000 - 5195.000 MHz 14683.000 MHz 14711.000 MHz 15103.000 MHz 15131.000 MHz",
+          "Not in commercial use",
+          "Yes",
+          "Namibia",
+          "41.46%",
+          "Spectrum Use"
+        ],
+        [
+          "2",
+          "iBurst Namibia Wire Operations (Pty) Ltd",
+          "14599.000 MHz 14627.000 MHz 14655.000 MHz 15019.000 MHz 15047.000 MHz 15075.000 MHz 1787.000 - 1797.000 MHz",
+          "Not in commercial use",
+          "Yes",
+          "Namibia",
+          "51%",
+          "Spectrum Use"
+        ],
+        [
+          "3",
+          "Mobile Telecommunications Limited",
+          "890.000 - 903.000 MHz 935.000 - 948.000 MHz 1710.200 - 1745.000 MHz 1805.200 - 1840.000 MHz 1920.000 - 1925.000 MHz 1930.000 - 1935.000 MHz 2110.000 - 2115.000 MHz 2120.000 - 2125.000 MHz 7121.000 MHz 7142.000 MHz 7149.000 MHz",
+          "In commercial use",
+          "No",
+          "Namibia",
+          "66%",
+          "Spectrum Use"
+        ],
+        [
+          "3",
+          "Mobile Telecommunications Limited",
+          "7170.000 MHz",
+          "In commercial use",
+          "No",
+          "Windhoek to Swakop- mund Link",
+          "66%",
+          "Spectrum Use"
+        ],
+        [
+          "3",
+          "Mobile Telecommunications Limited",
+          "7177.000 MHz",
+          "In commercial use",
+          "No",
+          "Namibia",
+          "66%",
+          "Spectrum Use"
+        ],
+        [
+          "3",
+          "Mobile Telecommunications Limited",
+          "7198.000 MHz",
+          "In commercial use",
+          "No",
+          "Windhoek to Swakop- mund Link",
+          "66%",
+          "Spectrum Use"
+        ],
+        [
+          "3",
+          "Mobile Telecommunications Limited",
+          "7205.000 MHz 7226.000 MHz 7233.000 MHz 7303.000 MHz 7317.000 MHz",
+          "In commercial use",
+          "No",
+          "Namibia",
+          "66%",
+          "Spectrum Use"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "4976",
+    "data": {
+      "header": [
+        "6",
+        "Wireless Technologies Namibia (Pty) Ltd",
+        "2505.000 - 2525.000 MHz 2625.000 - 2645.000 MHz 8038.000 MHz 8066.000 MHz 8094.000 MHz 8122.000 MHz 8304.000 MHz 8332.000 MHz 8360.000 MHz 8388.000 MHz 14571.000 MHz 14991.000 MHz 17755.000 MHz 17810.000 MHz 17920.000 MHz 17975.000 MHz 18765.000 MHz 18820.000 MHz 18930.000 MHz 18985.000 MHz",
+        "In commercial use",
+        "No",
+        "Namibia",
+        "100%",
+        "Spectrum Use"
+      ],
+      "rows": []
+    }
+  },
+  {
+    "gazette": "4997",
+    "data": {
+      "header": [
+        "No.",
+        "Licensee",
+        "Type of service license",
+        "Applicants Citizenship or place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens",
+        "Radio Frequencies or group of frequencies assigned",
+        "Services to be provided using the spectrum assigned",
+        "Proof of Spectrum Use Licence Application Fees Paid Up to Date Submitted?"
+      ],
+      "rows": [
+        [
+          "1.",
+          "Mobile Telecommunications Limited",
+          "Class Comprehensive Telecommunications Service Licence (ECS and ECNS)",
+          "Namibia",
+          "66%",
+          "1925-1930 2115-2120",
+          "Fixed Mobile",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5017",
+    "data": {
+      "header": [
+        "Name",
+        "Licensee's citizenship or place of incorporation",
+        "Percentage of stock owned by Namibian Citizens or Namibia Companies Controlled by Namibian citizens",
+        "Description of geographic area",
+        "List of Radio Frequencies or groups of radio assigned",
+        "Service to be provided using frequency assigned",
+        "Proof of Spectrum Use Licence Application Fees paid up to date submitted?"
+      ],
+      "rows": [
+        [
+          "Media for Christ (Association incorporated not for gain)",
+          "Namibia",
+          "100%",
+          "Outapi Ootmoet Farm Buitepos Gamsberg Koës Twee Riviere Tsumeb Oshikoto Region Duinevled Uis Noordoewer",
+          "94.3 MHz 89.1 MHz 88.1 MHz 88.1 MHz 101.9 MHz 88.1 MHz 103.6 MHz 103.0 MHz 102.3 MHz 102.3 MHz 104.4 MHz",
+          "Community Broadcasting Service License",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5037",
+    "data": {
+      "header": [
+        "No.",
+        "Licensee",
+        "Type of service license",
+        "Licensee's Citizenship or place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens",
+        "Radio Frequencies or group of frequencies assigned",
+        "Services to be provided using the spectrum assigned",
+        "Proof of Spectrum Use Licence Application Fees Paid Up to Date Submitted?"
+      ],
+      "rows": [
+        [
+          "1",
+          "Wireless Technologies Namibia (Pty) Ltd",
+          "Class Comprehensive Telecommunications Service Licence (ECS and ECNS)",
+          "Namibia",
+          "100%",
+          "8038.000 MHz 8066.000 MHz 8094.000 MHz 8304.000 MHz 8332.000 MHz 8360.000 MHz 17920.000 MHz 17975.000 MHz",
+          "Fixed",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5037",
+    "data": {
+      "header": [
+        "Licensee",
+        "Type of service licence;",
+        "Licensee's citizenship or place of incorporation;",
+        "Description of geographic coverage area(s);",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies Controlled by Namibian Citizens;",
+        "Radio frequencies or group of frequencies assigned:",
+        "Services to be provided using the spectrum assigned;",
+        "Proof of Licence Application Fees Paid Up to Date Submitted;"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Class Comprehensive Telecommunications Service Licence (ECS and ECNS)",
+          "Namibia",
+          "Namibia Windhoek to Swakopmund Link Namibia Windhoek to Swakopmund Link Namibia",
+          "66%",
+          "890.000 - 903.000 MHz 935.000 - 948.000 MHz 1710.200 - 1745.200 MHz 1805.200 - 1840.200 MHz 1920.000 - 1925.000 MHz 1930.000 - 1935.000 MHz 2110.000 - 2115.000 MHz 2120.000 - 2125.000 MHz 7121.000 MHz 7142.000 MHz 7149.000 MHz 7170.000 MHz 7177.000 MHz 7198.000 MHz 7205.000 MHz",
+          "FIXED LAND MOBILE FIXED LAND MOBILE FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED FIXED FIXED FIXED FIXED FIXED FIXED",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5044",
+    "data": {
+      "header": [
+        "Applicant's Name;",
+        "Applicant's citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies Controlled by Namibian Citizens;",
+        "List of Radio Frequencies being applied for;",
+        "Services intended to be provided using the spectrum being applied for;",
+        "Proof of Application fees paid up to date submitted?"
+      ],
+      "rows": [
+        [
+          "Oranjemund Community Radio (Association incorporated not for gain)",
+          "Namibia",
+          "100%",
+          "104.3 FM",
+          "Community Broadcasting Service",
+          "No"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5092",
+    "data": {
+      "header": [
+        "Licensee;",
+        "Licensee's citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies Controlled by Namibian Citizens;",
+        "Description of geographic coverage area(s);",
+        "List of Radio frequencies or groups of radio assigned;",
+        "Services to be provided using frequency assigned;",
+        "Proof of Spectrum Use Licence Application Fees paid up to date Submitted?"
+      ],
+      "rows": [
+        [
+          "Oranjemund Community Radio (Association incorporated not for for gain)",
+          "Namibia",
+          "100%",
+          "Oranjemund",
+          "91.0 MHz",
+          "Community Broadcasting Service",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5140",
+    "data": {
+      "header": [
+        "Applicant;",
+        "Applicant's Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens;",
+        "Radio Frequencies or group of frequencies applied for;",
+        "Services intended to be provided using the spectrum being applied for",
+        "Description of geographic coverage area(s);",
+        "Type of service licence;",
+        "Proof of Licence Application Fees Paid Up to Date Submitted?"
+      ],
+      "rows": [
+        [
+          "Applicant;",
+          "Applicant's Citizenship or place of incorporation;",
+          "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens;",
+          "Radio Frequencies or group of frequencies applied for;",
+          "Services intended to be provided using the spectrum being applied for",
+          "Description of geographic coverage area(s);",
+          "Type of service licence;",
+          "Yes/No"
+        ],
+        [
+          "NAMDEB Diamond Corporation (PTY) LTD",
+          "Namibia",
+          "100%",
+          "14907.000 MHz 15523.000 MHz 8349.000 MHz 8475.000 MHz",
+          "FIXED",
+          "Within the Operational Borders of Applicant's mine",
+          "Private ECNS/ECS (In terms of Regulation 5 of the Regulations Setting Out Broadcasting and Telecommunications Service Licence Categories, this service may be provided without a service licence.)",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5140",
+    "data": {
+      "header": [
+        "Applicant;",
+        "Applicants Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens;",
+        "Radio Frequencies or group of frequencies applied for;",
+        "Services intended to be provided using the spectrum being applied for;",
+        "Description of geographic coverage area(s);",
+        "Type of service licence;",
+        "Proof of Licence Application Fees Paid Up to Date Submitted?"
+      ],
+      "rows": [
+        [
+          "Applicant;",
+          "Applicants Citizenship or place of incorporation;",
+          "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens;",
+          "Radio Frequencies or group of frequencies applied for;",
+          "Services intended to be provided using the spectrum being applied for;",
+          "Description of geographic coverage area(s);",
+          "Type of service licence;",
+          "Yes/No"
+        ],
+        [
+          "AngloGold Ashanti Namibia (Pty) Ltd",
+          "South Africa",
+          "0%",
+          "6299.000 MHz 4074.000 MHz",
+          "FIXED SATELLITE",
+          "Republic of Namibia or any part thereof",
+          "Private ECNS/ECS (In terms of Regulation 5 of the Regulations Setting Out Broadcasting and Telecommunications Service Licence Categories, this service may be provided without a service licence.)",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5140",
+    "data": {
+      "header": [
+        "Applicant;",
+        "Applicant's Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens;",
+        "Radio Frequencies or group of frequencies applied for;",
+        "Services intended to be provided using the spectrum being applied for;",
+        "Description of geographic coverage areas;",
+        "Type of Service licence;",
+        "Proof of Licence Application Fees Paid Up to Date Submitted?"
+      ],
+      "rows": [
+        [
+          "Applicant;",
+          "Applicant's Citizenship or place of incorporation;",
+          "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens;",
+          "Radio Frequencies or group of frequencies applied for;",
+          "Services intended to be provided using the spectrum being applied for;",
+          "Description of geographic coverage areas;",
+          "Type of Service licence;",
+          "Yes/No"
+        ],
+        [
+          "Namibian Broadcasting Corporation",
+          "Namibia",
+          "100%",
+          "7777.350 MHz 7807.000 MHz 7836.650 MHz 7866.300 MHz 8088.670 MHz 8118.320 MHz 8147.970 MHz 8177.620 MHz 8010.000 MHz 8276.000 MHz",
+          "FIXED",
+          "Within the borders of the Municipality of Windhoek.",
+          "The radio frequencies applied for require a service licence. Note however, that as per section 93 of the Communications Act, until a date determined by the Minister, chapter IV on broadcasting services is not applicable to applicant or to any broadcasting activities carried on by applicant.",
+          "No"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5148",
+    "data": {
+      "header": [
+        "Applicant;",
+        "Applicants Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens;",
+        "Radio Frequencies or group of frequencies applied for;",
+        "Services intended to be provided using the spectrum being applied for;",
+        "Description of geographic coverage area (s);",
+        "Type of service license;",
+        "Proof of License Application Fees Paid Up to Date Submitted? Yes/No"
+      ],
+      "rows": [
+        [
+          "Erongo Regional Electricity Distributor Company (Pty) Ltd",
+          "Namibia",
+          "100%",
+          "7446.500 MHz 7414.500 MHz 7460.500 MHz 7628.500 MHz 24608.500 MHz 25616.500 MHz 24622.500 MHz 25630.500 MHz",
+          "FIXED LINKS",
+          "Erongo Region or any part thereof.",
+          "Private ECNS (In terms of Regulation 5 of the Regulations Setting Out Broadcasting and Telecommunications Service License Categories, this service may be provided without a license.)",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5179",
+    "data": {
+      "header": [
+        "Applicant;",
+        "Applicant's citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens",
+        "Radio Frequencies or group of frequencies applied for (MHz);",
+        "Radio Frequencies or group of frequencies available for allocation in band applied for (MHz);",
+        "Services intended to be provided using the spectrum being applied for",
+        "Application Fees Paid Up to Date? Yes/No"
+      ],
+      "rows": [
+        [
+          "PowerCom (Pty) Ltd t/a Leo",
+          "Namibia",
+          "100%",
+          "1764.800 - 1774.800 1859.800 - 1869.800",
+          "1765.000 - 1775.000 1860.000 - 1870.000",
+          "FIXED MOBILE",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5194",
+    "data": {
+      "header": [
+        "Applicant;",
+        "Applicant's Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens;",
+        "Radio Frequencies or group of frequencies applied for;",
+        "Radio Frequencies or group of frequencies to be awarded;",
+        "Services intended to be provided using the spectrum being applied for",
+        "Description of geographic coverage area(s);",
+        "Type of service licence;",
+        "Proof of Licence Application Fees Paid Up to Date Sub-mitted? Yes/No"
+      ],
+      "rows": [
+        [
+          "Salt Essential IT (Information Technology) (Pty) Ltd",
+          "Namibia",
+          "100%",
+          "3600 -3620 MHz",
+          "3600 -3620 MHz",
+          "Fixed/Broadband Wireless Systems",
+          "Namibia",
+          "Class Tele- communica- tions Service License (ECS)",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5219",
+    "data": {
+      "header": [
+        "Licensee;",
+        "Licensee's Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens;",
+        "Radio Frequencies or group of frequencies assigned;",
+        "Services to be provided using the spectrum assigned;",
+        "Description of geographic coverage area (s);",
+        "Type of service license;",
+        "Proof of License Application Fees Paid Up to Date Sub-mitted? Yes/No"
+      ],
+      "rows": [
+        [
+          "Erongo Regional Electricity Distributor Company (Pty) Ltd",
+          "Namibia",
+          "100%",
+          "7446.500 MHz 7614.500 MHz 7460.500 MHz 7628.500 MHz 24608.500 MHz 25616.500 MHz 24622.500 MHz 25630.500 MHz",
+          "FIXED LINKS",
+          "Erongo Region or any part thereof.",
+          "Private ECNS (In terms of Regulation 5 of the Regulations Setting Out Broadcasting and Telecommunications Service License Categories, this service may be provided without a license.)",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5219",
+    "data": {
+      "header": [
+        "Licensee;",
+        "Licensee's Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens;",
+        "Radio Frequencies or group of frequencies assigned (MHz);",
+        "Services to be provided using the spectrum assigned:",
+        "Description of geographic coverage area(s);",
+        "Type of service licence;",
+        "Proof of Licence Application Fees Paid Up to Date Sub-mit- ted? Yes/No"
+      ],
+      "rows": [
+        [
+          "AngloGold Ashanti Namibia (Pty) Ltd",
+          "South Africa",
+          "0%",
+          "6299.000 4074.000",
+          "FIXED SATELLITE",
+          "Republic of Namibia or any part thereof",
+          "Private ECNS/ECS (In terms of Regulation 5 of the Regulations Setting Out Broadcasting and Telecommunications Service Licence Categories, this service may be provided without a service licence.)",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5219",
+    "data": {
+      "header": [
+        "Licensee;",
+        "Licensee's citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies Controlled by Namibian Citizens;",
+        "Type of Service Licence;",
+        "Radio Frequencies or group of frequencies assigned (MHz):",
+        "Services intended to be provided using the spectrum being applied for;",
+        "Proof of Application fees paid up to date submitted?"
+      ],
+      "rows": [
+        [
+          "Namibia Broadcasting Corporation",
+          "Namibia",
+          "100%",
+          "The radio frequencies assigned require a broadcasting service licence. Note however, that as per section 93 of the Act, until a date determined by the minister, Chapter IV on broadcasting services is not applicable to the NBC or to any broadcasting activities carried on by the NBC.",
+          "7777.350 7807.000 7836.650 7866.300 8088.670 8118.320 8147.970 8177.620 8010.000 8276.000",
+          "Fixed",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5219",
+    "data": {
+      "header": [
+        "Applicant;",
+        "Applicant's Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens;",
+        "Radio Frequencies or group of frequencies assigned;",
+        "Services to be provided using the spectrum assigned;",
+        "Description of geographic coverage area(s);",
+        "Type of service licence;",
+        "Proof of Licence Application Fees Paid Up to Date Submitted? Yes/No"
+      ],
+      "rows": [
+        [
+          "NAMDEB Diamond Corporation (PTY) LTD",
+          "Namibia",
+          "100%",
+          "14907.000 MHz 15523.000 MHz 8349.000 MHz 8475.000 MHz",
+          "FIXED",
+          "Within the Operational Borders of Applicant's mine",
+          "Private ECNS/ECS (In terms of Regulation 5 of the Regulations Setting Out Broadcasting and Telecommunications Service Licence Categories, this service may be provided without a service licence.)",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5231",
+    "data": {
+      "header": [
+        "No.",
+        "Applicant;",
+        "Applicants Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens;",
+        "Radio Frequencies or group of frequencies applied for;",
+        "Services intended to be provided using the spectrum being applied for;",
+        "Proof of Licence Application Fees Paid Up to Date Sub-mitted? Yes/No"
+      ],
+      "rows": [
+        [
+          "1",
+          "HRTAfrica Petroleo S.A.",
+          "Brazilian",
+          "0% 1",
+          "6078.000 MHz 3854.000 MHz",
+          "PRIVATE FIXED-SATELLITE (Earth-to-space) (space-to-Earth)",
+          "No"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5243",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicant's Citizenship or place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens",
+        "Radio Frequencies or group of frequencies applied for",
+        "Radio Frequencies or group of frequencies to be considered by the Authority",
+        "Services intended to be provided using the spectrum being applied for",
+        "Type of Service Licence",
+        "Proof of Licence Application Fees Paid Up to Date Sub-mitted?"
+      ],
+      "rows": [
+        [
+          "Schoemans Technologies (Pty) Ltd",
+          "Namibia",
+          "100%",
+          "3650.000 - 3675.000 MHz 10755.000 - 10835.000 MHz 11285.000 - 11365.000 MHz",
+          "3650.000 - 3675.000 MHz 10755.000 - 10835.000 MHz 11285.000 - 11365.000 MHz",
+          "FIXED FIXED",
+          "Class Comprehensive Telecommunications Service Licence (ECNS &ECS).",
+          "No"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5243",
+    "data": {
+      "header": [
+        "Licensee",
+        "Licensees' Citizenship or place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens",
+        "Radio Frequencies or group of frequencies assigned (MHz)",
+        "Description of geographic coverage area(s)",
+        "Type of service licence",
+        "Services to be provided using the spectrum assigned",
+        "Proof of Licence Fees paid up to date?"
+      ],
+      "rows": [
+        [
+          "Converged Telecommunications Solutions (Pty) Ltd",
+          "Namibian",
+          "49% 1",
+          "2595-2625 5150-5195 14683-14711 15103-15131",
+          "Namibia",
+          "Class Comprehensive Telecommunications Service License (ECS& ECNS).",
+          "Electronic Communications.",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5254",
+    "data": {
+      "header": [
+        "Applicant;",
+        "Applicant's Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens;",
+        "Description of geographic coverage area(s);",
+        "Radio Frequencies or group of frequencies applied for;",
+        "Services intended to be provided using the spectrum being applied for;",
+        "Proof of Licence Application Fees Paid Up to Date Submitted? Yes/No"
+      ],
+      "rows": [
+        [
+          "West Coast FM (Pty) Ltd",
+          "Namibian",
+          "100%",
+          "Walvis Bay",
+          "106.9 MHz",
+          "Commercial Broadcasting Services",
+          "No"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5254",
+    "data": {
+      "header": [
+        "Licensee",
+        "Licensee's Citizenship or place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens",
+        "Radio Frequencies or group of frequencies Awarded",
+        "Services intended to be provided using the spectrum being applied for",
+        "Description of geographic coverage area(s)",
+        "Type of service licence",
+        "Proof of Licence Application Fees Paid Up to Date Submitted? Yes/No"
+      ],
+      "rows": [
+        [
+          "Salt Essential IT (Information Technology) (Pty) Ltd",
+          "Namibia",
+          "100%",
+          "3600 -3620 MHz",
+          "Fixed/Broadband Wireless Systems",
+          "Namibia",
+          "Class Comprehensive Telecommunications Service Licence (ECNS and ECS)",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5254",
+    "data": {
+      "header": [
+        "Licensee",
+        "Licensee's citizenship or place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens",
+        "Radio Frequencies or group of frequencies assigned (MHz)",
+        "Services intended to be provided using the spectrum assigned",
+        "Type of service licence",
+        "Application Fees Paid Up to Date? Yes/No"
+      ],
+      "rows": [
+        [
+          "Powercom (Pty) Ltd t/a Leo",
+          "Namibia",
+          "100%",
+          "1765.000 -1775.000 1860.000 -1870.000",
+          "FIXED MOBILE",
+          "Class Comprehensive Telecommunications Service Licence (ECNS& ECS)",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5282",
+    "data": {
+      "header": [
+        "Applicant's Name;",
+        "Applicant's citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citi-",
+        "List of radio frequencies or groups of radio frequencies applied for;",
+        "List of radio frequencies or groups of radio frequencies considered by Authority for assignment;",
+        "Provision of Signal Dis- tribu- tion;",
+        "Description of geographic coverage areas(s)",
+        "Description of geographic coverage areas(s)",
+        "Description of geographic coverage areas(s)",
+        "Services intended to be provided using the spectrum being applied for;",
+        "Proof of Application fees paid up to date sub-mit- ted?"
+      ],
+      "rows": [
+        [
+          "Applicant's Name;",
+          "Applicant's citizenship or place of incorporation;",
+          "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citi-",
+          "List of radio frequencies or groups of radio frequencies applied for;",
+          "List of radio frequencies or groups of radio frequencies considered by Authority for assignment;",
+          "Provision of Signal Dis- tribu- tion;",
+          "Region;",
+          "District;",
+          "City/ Town",
+          "Services intended to be provided using the spectrum being applied for;",
+          "Proof of Application fees paid up to date sub-mit- ted?"
+        ],
+        [
+          "Gospel Mission Ministries Inc (ASSOCIATION NOT FOR GAIN) T/A Kairos Radio",
+          "Namibian",
+          "100%",
+          "87-109 MHz",
+          "96.6MHz",
+          "Own",
+          "Hardap",
+          "Mariental",
+          "Mariental",
+          "Community Service Broadcasting",
+          "No"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5282",
+    "data": {
+      "header": [
+        "Applicant;",
+        "Applicant's Citizenship or place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens;",
+        "Radio Frequencies or group of frequencies applied for (MHz);",
+        "Radio Frequencies or group of frequencies considered for award by Authority (MHz);",
+        "Services intended to be provided using the spectrum being applied for;",
+        "Description of geographic coverage area(s);",
+        "Type of service licence;",
+        "Proof of Licence Application Fees Paid Up to Date Submitted? Yes/No"
+      ],
+      "rows": [
+        [
+          "MistyBay Investments 140CC",
+          "Namibia",
+          "100%",
+          "3415.000 - 3695.000",
+          "3530.000- 3560.000 3560.000 - 3590.000",
+          "Electronic Communications.",
+          "Namibia",
+          "Class Comprehensive Telecommunications Service Licence (ECNS and ECS)",
+          "No"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5374",
+    "data": {
+      "header": [
+        "Applicant's citizen-",
+        "Percentage of Stock owned by Namibian or Namibian Companies led by Na-",
+        "List of radio frequencies or groups of radio frequencies applied for;",
+        "List of radio cies groups of radio being considered for assignment by the Authority;",
+        "Description of geographic coverage area(s);",
+        "Description of geographic coverage area(s);",
+        "Services intended to be provided using the spectrum being applied for;"
+      ],
+      "rows": [
+        [
+          "Applicant's Name; ship or place of incorporation;",
+          "Citizens control- mibian Citi-",
+          "frequenor frequencies",
+          "Region;",
+          "District;",
+          "City/ Town;",
+          "Party providing Signal Dis- tribu- tion;",
+          "Proof of Application Fees paid up to date submitted?",
+          "Proof of Application Fees paid up to date submitted?",
+          "Proof of Application Fees paid up to date submitted?",
+          "Proof of Application Fees paid up to date submitted?",
+          "Proof of Application Fees paid up to date submitted?"
+        ],
+        [
+          "Khorixas"
+        ],
+        [
+          "Khorixas",
+          "zens;",
+          "Kunene"
+        ],
+        [
+          "Community",
+          "Yes",
+          "Yes",
+          "Yes",
+          "Yes",
+          "Yes"
+        ],
+        [
+          "Broadcast-",
+          "Own"
+        ],
+        [
+          "MHz"
+        ],
+        [
+          "100%"
+        ],
+        [
+          "MHz"
+        ],
+        [
+          "Community"
+        ],
+        [
+          "Service"
+        ],
+        [
+          "ing"
+        ],
+        [
+          "Youth and"
+        ],
+        [
+          "Media Centre"
+        ],
+        [
+          "88- 108",
+          "105.8"
+        ],
+        [
+          "Khorixas"
+        ],
+        [
+          "Namibia"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5442",
+    "data": {
+      "header": [
+        "Applicant's citizenship or place of incorporation;",
+        "Percentage of Stock owned by Na-",
+        "List of radio frequencies or groups of radio frequencies assigned in terms of Spectrum Use Licence published in the Government",
+        "List of radio frequencies or groups of radio frequencies applied for in respect of Application forAmend- ment;",
+        "Description of geographic coverage area(s)",
+        "Description of geographic coverage area(s)",
+        "Description of geographic coverage area(s)",
+        "License Fees Outstanding;"
+      ],
+      "rows": [
+        [
+          "Applicant's Name;",
+          "mibian Citizens or Namibian Companies controlled by Namibian Citizens;",
+          "Gazette;",
+          "Region;",
+          "District;",
+          "City/ Town;"
+        ],
+        [
+          "Namibian Broadcasting Corporation",
+          "Namibia",
+          "100%",
+          "186.000 MHz",
+          "202.000 MHz",
+          "Otjozondjupa",
+          "Otjiwarongo",
+          "Paresis",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5514",
+    "data": {
+      "header": [
+        "Applicant's Name;",
+        "Applicant's citizenshipor place of incorporation;",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens;",
+        "List ofradio frequencies orgroups o frequencies applied for;",
+        "frequencies orgroups ofradio frequencies being considered for assign- mentby the Authority;",
+        "List of radio Description of geographic coverage area(s);",
+        "List of radio Description of geographic coverage area(s);",
+        "List of radio Description of geographic coverage area(s);",
+        "Services intended to be provided using the spectrum being applied for;",
+        "Party providing Signal Distribution;",
+        "Proof of Application Fees paid upto date sub-mit- ted?"
+      ],
+      "rows": [
+        [
+          "Applicant's Name;",
+          "Applicant's citizenshipor place of incorporation;",
+          "Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens;",
+          "List ofradio frequencies orgroups o frequencies applied for;",
+          "frequencies orgroups ofradio frequencies being considered for assign- mentby the Authority;",
+          "gion; Re-",
+          "trict; Dis-",
+          "Town; City/",
+          "Services intended to be provided using the spectrum being applied for;",
+          "Party providing Signal Distribution;",
+          "Proof of Application Fees paid upto date sub-mit- ted?"
+        ],
+        [
+          "FIMBOMEDIA INVESTMENTS taFimboFM",
+          "Namibia",
+          "100%",
+          "88-108MHz88.700MHzOshana",
+          "Os- hakati",
+          "Os- hakati",
+          "Commercial Broadcasting Services",
+          "Own",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5745",
+    "data": {
+      "header": [
+        "Licensee Name",
+        "Spectrum Use Licences",
+        "IMT Services Offered"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "2x 5 MHz 800 MHz band",
+          "CDMA*"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "2x 10 MHz 900 MHz band",
+          "GSM (2G)"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "2x 20 MHz 1800 MHz band",
+          "LTE (4G)"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "2x 10 MHZ 2100 MHz band",
+          "UMTS (3G)"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "2x 48 MHz 2600 MHz band",
+          "Wimax*"
+        ],
+        [
+          "Total",
+          "2x 93 MHz"
+        ],
+        [
+          "MTC",
+          "2x 13 MHz 900 MHz band",
+          "GSM (2G)"
+        ],
+        [
+          "MTC",
+          "2x 15 MHz 1800 MHz band",
+          "GSM (2G)"
+        ],
+        [
+          "MTC",
+          "2x 20 MHz 1800 MHz band",
+          "LTE (4G)"
+        ],
+        [
+          "MTC",
+          "2x 15 MHz 2100 MHZ band",
+          "UMTS (3G)"
+        ],
+        [
+          "Total",
+          "2x 63 MHz"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5745",
+    "data": {
+      "header": [
+        "Licensee Name",
+        "Spectrum Use Licences",
+        "IMT Services Offered"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "2x 5MHz 800 MHz band",
+          "CDMA*"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "2x 10 MHz 900 MHz band",
+          "GSM (2G)"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "2x 20 MHz 1800 MHz band",
+          "LTE (4G)"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "2x 10 MHZ 2100 MHZ band",
+          "UMTS (3G)"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "2x 48 MHz 2600 MHz band",
+          "Wimax*"
+        ],
+        [
+          "Total",
+          "2x 93 MHz"
+        ],
+        [
+          "MTC",
+          "2x 13 MHz 900 MHz band",
+          "GSM (2G)"
+        ],
+        [
+          "MTC",
+          "2x 15 MHz 1800 MHz band",
+          "GSM (2G)"
+        ],
+        [
+          "MTC",
+          "2x 20 MHz 1800 MHz band",
+          "LTE (4G)"
+        ],
+        [
+          "MTC",
+          "2x 15 MHz 2100 MHZ band",
+          "UMTS (3G)"
+        ],
+        [
+          "Total",
+          "2x 63 MHz"
+        ],
+        [
+          "Paratus Telecommunications (Pty) Ltd",
+          "2x 19.8 MHz 1800 MHz band",
+          "LTE (4G)"
+        ],
+        [
+          "Paratus Telecommunications (Pty) Ltd",
+          "2x 20 MHz 2100 MHz band",
+          "LTE (4G)"
+        ],
+        [
+          "Paratus Telecommunications (Pty) Ltd",
+          "2x 20 MHz 2600 MHz band",
+          "Wimax*"
+        ],
+        [
+          "Total",
+          "2x 59.8 MHz"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5745",
+    "data": {
+      "header": [
+        "Licensee",
+        "Spectrum Use Licences"
+      ],
+      "rows": [
+        [
+          "Vodacom",
+          "2x 11 MHz 900 MHz band"
+        ],
+        [
+          "2x 12 MHz 1800 MHz band"
+        ],
+        [
+          "1x 5 &2x 15 MHz 2100 MHz band"
+        ],
+        [
+          "Total",
+          "2x 38 MHz &1x 5MHz"
+        ],
+        [
+          "MTNSouthAfrica",
+          "2x 11 MHz 900 MHz band"
+        ],
+        [
+          "2x 12 MHz 1800 MHz band"
+        ],
+        [
+          "1x 10 &2x 15 MHz 2100 MHz band"
+        ],
+        [
+          "Total",
+          "2x 38 MHz &1x 10MHz"
+        ],
+        [
+          "Cell C",
+          "2x 11 MHz 900 MHz band"
+        ],
+        [
+          "2x 12 MHz 1800 MHz band"
+        ],
+        [
+          "1x 5 &2x 15 MHz 2100 MHz band"
+        ],
+        [
+          "Total",
+          "2x 38 MHz &1x 5 MHz"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5836",
+    "data": {
+      "header": [
+        "Licensee Name",
+        "Spectrum Use Licences",
+        "IMT Services Offered"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "2x 5MHz 800 MHz band",
+          "CDMA*"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "2x 10 MHz 900 MHz band",
+          "GSM (2G)"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "2x 20 MHz 1800 MHz band",
+          "LTE (4G)"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "2x 10 MHZ 2100 MHZ band",
+          "UMTS (3G)"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "2x 48 MHz 2600 MHz band",
+          "Wimax*"
+        ],
+        [
+          "Total",
+          "2x 93 MHz"
+        ],
+        [
+          "Mobile Telecommunications Limited",
+          "2x 13 MHz 900 MHz band",
+          "GSM (2G)"
+        ],
+        [
+          "Mobile Telecommunications Limited",
+          "2x 15 MHz 1800 MHz band",
+          "GSM (2G)"
+        ],
+        [
+          "Mobile Telecommunications Limited",
+          "2x 20 MHz 1800 MHz band",
+          "LTE (4G)"
+        ],
+        [
+          "Mobile Telecommunications Limited",
+          "2x 15 MHz 2100 MHZ band",
+          "UMTS (3G)"
+        ],
+        [
+          "Total",
+          "2x 63 MHz"
+        ],
+        [
+          "Paratus Telecommunications (Pty) Ltd",
+          "2x 20 MHz 1800 MHz band",
+          "LTE (4G)"
+        ],
+        [
+          "Paratus Telecommunications (Pty) Ltd",
+          "2x 20 MHz 2100 MHz band",
+          "LTE (4G)"
+        ],
+        [
+          "Paratus Telecommunications (Pty) Ltd",
+          "2x 20 MHz 2600 MHz band",
+          "Wimax*"
+        ],
+        [
+          "Total",
+          "2x 60 MHz"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5836",
+    "data": {
+      "header": [
+        "Licensee",
+        "Spectrum Use Licences"
+      ],
+      "rows": [
+        [
+          "Vodacom",
+          "2x 11 MHz 900 MHz band"
+        ],
+        [
+          "Vodacom",
+          "2x 12 MHz 1800 MHz band"
+        ],
+        [
+          "Vodacom",
+          "1x 5 &2x 15 MHz 2100 MHz band"
+        ],
+        [
+          "Total",
+          "2x 38 MHz &1x 5MHz"
+        ],
+        [
+          "MTNSouthAfrica",
+          "2x 11 MHz 900 MHz band"
+        ],
+        [
+          "MTNSouthAfrica",
+          "2x 12 MHz 1800 MHz band"
+        ],
+        [
+          "MTNSouthAfrica",
+          "1x 10 &2x 15 MHz 2100 MHz band"
+        ],
+        [
+          "Total",
+          "2x 38 MHz &1x 10MHz"
+        ],
+        [
+          "Cell C",
+          "2x 11 MHz 900 MHz band"
+        ],
+        [
+          "Cell C",
+          "2x 12 MHz 1800 MHz band"
+        ],
+        [
+          "Cell C",
+          "1x 5 &2x 15 MHz 2100 MHz band"
+        ],
+        [
+          "Total",
+          "2x 38 MHz &1x 5 MHz"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6074",
+    "data": {
+      "header": [
+        "Licensee Name",
+        "Spectrum Use Licences",
+        "IMT Services Offered"
+      ],
+      "rows": [
+        [
+          "Telecom Namibia Limited",
+          "2x 5MHz 800 MHz band",
+          "CDMA*"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "2x 10 MHz 900 MHz band",
+          "GSM (2G)"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "2x 20 MHz 1800 MHz band",
+          "LTE (4G)"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "2x 10 MHZ 2100 MHZ band",
+          "UMTS (3G)"
+        ],
+        [
+          "Telecom Namibia Limited",
+          "2x 48 MHz 2600 MHz band",
+          "Wimax*"
+        ],
+        [
+          "Total",
+          "2x 93 MHz"
+        ],
+        [
+          "Mobile Telecommunications Limited",
+          "2x 13 MHz 900 MHz band",
+          "GSM (2G)"
+        ],
+        [
+          "Mobile Telecommunications Limited",
+          "2x 15 MHz 1800 MHz band",
+          "GSM (2G)"
+        ],
+        [
+          "Mobile Telecommunications Limited",
+          "2x 20 MHz 1800 MHz band",
+          "LTE (4G)"
+        ],
+        [
+          "Mobile Telecommunications Limited",
+          "2x 15 MHz 2100 MHZ band",
+          "UMTS (3G)"
+        ],
+        [
+          "Total",
+          "2x 63 MHz"
+        ],
+        [
+          "Paratus Telecommunications (Pty) Ltd",
+          "2x 19.8 MHz 1800 MHz band",
+          "LTE (4G)"
+        ],
+        [
+          "Paratus Telecommunications (Pty) Ltd",
+          "2x 20 MHz 2100 MHz band",
+          "LTE (4G)"
+        ],
+        [
+          "Paratus Telecommunications (Pty) Ltd",
+          "2x 20 MHz 2600 MHz band",
+          "Wimax*"
+        ],
+        [
+          "Total",
+          "2x 59.8 MHz"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6092",
+    "data": {
+      "header": [
+        "Licensee Name",
+        "Spectrum Use Licences",
+        "IMT Services Offered"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "2 x 13 MHz 900 MHz band",
+          "GSM (2G)"
+        ],
+        [
+          "Mobile Telecommunications Limited",
+          "2 x 15 MHz 1800 MHz band",
+          "GSM (2G)"
+        ],
+        [
+          "Mobile Telecommunications Limited",
+          "2 x 20 MHz 1800 MHz band",
+          "LTE (4G)"
+        ],
+        [
+          "Mobile Telecommunications Limited",
+          "2 x 15 MHz 2100 MHZ band",
+          "UMTS (3G)"
+        ],
+        [
+          "Total",
+          "2 x 63 MHz"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6141",
+    "data": {
+      "header": [
+        "TYPE OFCERTIFICATE OR SPECTRUM",
+        "LICENCE",
+        "FEES (N$)"
+      ],
+      "rows": [
+        [
+          "1.",
+          "AMATEUR RADIO",
+          "AMATEUR RADIO"
+        ],
+        [
+          "1.1",
+          "All classes of amateur radio spectrum licences",
+          "N$ 97.00"
+        ],
+        [
+          "1.2",
+          "Beacon",
+          "N$ 97.00"
+        ],
+        [
+          "1.3",
+          "Examination",
+          "N$ 97.00"
+        ],
+        [
+          "1.4",
+          "Guest or special event spectrum licence",
+          "N$ 97.00"
+        ],
+        [
+          "1.5",
+          "Repeater station",
+          "N$ 97.00"
+        ],
+        [
+          "2.",
+          "AERONAUTICAL",
+          "AERONAUTICAL"
+        ],
+        [
+          "2.1",
+          "Aircraft station",
+          "N$194.00"
+        ],
+        [
+          "2.2",
+          "Glider / microlight",
+          "N$ 97.00"
+        ],
+        [
+          "2.3",
+          "Ground station",
+          "N$116.00"
+        ],
+        [
+          "2.4",
+          "Navigation aids / beacons",
+          "N$ 97.00"
+        ],
+        [
+          "2.5",
+          "Operator certificate radiotelephony (including duplicate)",
+          "N$ 97.00"
+        ],
+        [
+          "3.",
+          "MARITIME",
+          "MARITIME"
+        ],
+        [
+          "3.1",
+          "Beacon",
+          "N$ 97.00"
+        ],
+        [
+          "3.2",
+          "Operator certificate radiotelephony (including duplicate)",
+          "N$ 97.00"
+        ],
+        [
+          "3.3",
+          "Ship Station",
+          "Ship Station"
+        ],
+        [
+          "3.3.1 ITU assigned frequencies",
+          "N$291.00"
+        ],
+        [
+          "3.3.2 Any additional VHF or HF frequencies",
+          "N$969.00"
+        ],
+        [
+          "3.4",
+          "Coast Station",
+          "Coast Station"
+        ],
+        [
+          "3.4.1 ITU assigned frequencies",
+          "N$291.00"
+        ],
+        [
+          "3.4.2 Any additional VHF or HF frequencies",
+          "N$969.00"
+        ],
+        [
+          "3.4.3 Yacht and ski-boat stations",
+          "N$ 97.00"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6322",
+    "data": {
+      "header": [
+        "TYPE OFCERTIFICATE OR SPECTRUM LICENCE",
+        "TYPE OFCERTIFICATE OR SPECTRUM LICENCE",
+        "FEES (N$)"
+      ],
+      "rows": [
+        [
+          "1. AMATEUR RADIO",
+          "1. AMATEUR RADIO"
+        ],
+        [
+          "1.1",
+          "All classes of amateur radio spectrum licences",
+          "N$ 97.00"
+        ],
+        [
+          "1.2",
+          "Beacon",
+          "N$ 97.00"
+        ],
+        [
+          "1.3",
+          "Examination",
+          "N$ 97.00"
+        ],
+        [
+          "1.4",
+          "Guest or special event spectrum licence",
+          "N$ 97.00"
+        ],
+        [
+          "1.5",
+          "Repeater station",
+          "N$ 97.00"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6368",
+    "data": {
+      "header": [
+        "Applicant's  Name  Applicant's citizenship or place  of incorporation  Percentage of Stock  owned by Namibian  Citizens or Namibian  Companies controlled  by Namibian Citizens  Type of service licence;  List of radio frequencies or groups of radio  frequencies applied  for  List of radio frequencies  or groups of radio frequencies being considered for assignment  by the Authority  Description  of geographic  coverage  area(s)  License Fees  Outstanding  Services to  be provided  using  frequency  applied for  Q-Kon  Tele-  com Namibia  (Pty) Ltd  Namibian  51%  Spectrum Use  License  Uplink  14347-14352 MHz  Downlink  11539.2558-  11547.0058 MHz  Bandwidth  5 MHz uplink and 7.75  MHz Downlink  Uplink  14397.5-14402.5 MHz  Downlink  11539.2558-  11547.0058 MHz  Bandwidth  5 MHz uplink and 7.75  MHz Downlink  National  No  FIXED  SATELLITE"
+      ],
+      "rows": []
+    }
+  },
+  {
+    "gazette": "6802",
+    "data": {
+      "header": [
+        "865 -868 M",
+        "RFID",
+        "Channels 5,6,8,9,11,12,14 and 15 500 mW ERP 200 kHz channel spacing",
+        "EN 302 208-2 EN 301 489-1,3 EN60950 ISO/IEC 18047-6",
+        "CEPT/ERC/REC70-03 Listen Before Talk (LBT) is mandatory FHSS or other spread spectrum techniques shall not be used"
+      ],
+      "rows": [
+        [
+          "864.1 - 868.1M",
+          "CT2 cordless phones",
+          "10 mW e.i.r.p.",
+          "EN 301 797 EN 301 489-1,10 The Authority TE -012",
+          "CEPT/ERC/REC 70-03"
+        ],
+        [
+          "868-868.6M",
+          "Non-specific SRDs",
+          "25 mW ERP < 1% duty cycle or LBT.",
+          "EN 300 220 EN 301 489-1,3 EN 60950",
+          "CEPT/ERC/REC 70-03 CEPT/ERC/DEC (01) 04"
+        ],
+        [
+          "868.6- 868.7M",
+          "Alarms",
+          "10 mW ERP < 1 % duty cycle. 25 kHz channel spacing.",
+          "EN 300 220 EN 301 489-1,3 EN 60950",
+          "CEPT/ERC/REC 70-03 CEPT/ERC/REC (01) 09"
+        ],
+        [
+          "868.7 - 869.2M",
+          "Non-specific SRDs",
+          "25 mW ERP < 0.1 % duty cycle or LBT. No channel spacing.",
+          "EN 300 220 EN 301 489-1,3 EN 60950",
+          "CEPT/ERC/REC 70-03 CEPT/ERC/REC (01) 04"
+        ],
+        [
+          "869.25 - 869.3M",
+          "Alarms",
+          "10 mW ERP < 0.1 % duty cycle. 25 kHz channel spacing.",
+          "EN 300 220 EN 301 489-1,3 EN 60950",
+          "CEPT/ERC/REC 70-03"
+        ],
+        [
+          "869.4 - 869.65M",
+          "Non-specific SRDs,",
+          "500 mWERP",
+          "EN 300 220",
+          "CEPT/ERC/REC 70-03"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6826",
+    "data": {
+      "header": [
+        "No. 3",
+        "Communications Regulatory Authority of Namibia: Notice of intention to make Regulations Pre-scribing Procedures Regarding Application for and Amendment, Renewal or Transfer of Spectrum Licences: Communications Act, 2009",
+        "1"
+      ],
+      "rows": [
+        [
+          "No. 4",
+          "Communications Regulatory Authority of Namibia: Notice of Reconsideration in terms of Section 31 of the Communications Act 2009",
+          "2"
+        ],
+        [
+          "No. 5",
+          "Communications Regulatory Authority of Namibia: Notice of imposition of a moratorium on applications for spectrum use licenses in the frequency band 87.5-108 MHz, for analogue FM radio broadcasting and broadcasting service licenses for analogue FM radio services, Communications Act, 2009",
+          "3"
+        ],
+        [
+          "No. 6",
+          "Communications Regulatory Authority of Namibia: Proposed Universal Service Obligations Guidelines",
+          "5"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6888",
+    "data": {
+      "header": [
+        "66  915.4-919 M  Modulating  4 W e.i.r.p.  FCC CFR 47 Part  200 kHz channel  RFID systems  15.247  spacing  (FHSS)  CISPR 16  EN 60950  919 -919.2 M  Tag  backscatter  systems  Guard band  919.2-921  Non-  4 W e.i.r.p.; CW only  Spectral masks as in  M  modulating  @ 920 MHz (± 1.5  EN 302 208-2  backscatter  kHz frequency  RFID systems  stability)  EN 301 489 -1,3  EN 60950  1880 -  DECT  250 mW e.i.r.p.  EN 300 406  1900M  cordless  (peak).  phones  EN 301 489-1,6  1.728 MHz channel  spacing.  EN 60950  The Authority  TE 001  2400-  Non-specific  10 mW e.i.r.p.  EN 300 440  CEPT/ERC/REC70-03  2483.5M  SRDs  No duty cycle.  EN 301 489-1,3  EN 60950  No channel spacing.  2400 -  Wideband  100 mW e.i.r.p.  EN 300 328  CEPT/ERC/REC70-03  2483.5M  wireless  For wide band  systems  No duty cycle.  EN 301 489 -1,3  modulationsother than  FHSS, the maximum  WLAN  No channel spacing.  EN 60950  e.i.r.p. density is limited  to 10 mW/MHz  Wideband data  For wide band  transmission  modulations other  applications  than FHSS, the  (WBDTS)  maximum e.i.r.p.  density is limited to  Model control  10 mW/MHz.  Adequate spectrum  sharing mechanisms  shall beimplemented  by the equipment  (e.g. Listen-before-  Talk, Detect-and-  Avoid)"
+      ],
+      "rows": []
+    }
+  },
+  {
+    "gazette": "6888",
+    "data": {
+      "header": [
+        "We propose that the Authority amend Reg. 6(1) to read as follows- 'The Authority may from time to time, followinga public consultation process and, if necessary a spectrum audit , publish by notice in the Gazette a notification that a radio frequency band under the Frequency Band Plan, which the Authority has determined to be scarce and in high demand, as specfied in the notice is to be conferred on a competitive basis by means of a spectrum auction, provided that no radio frequency spectrum to be used in accordance with regulation 5 may be subject to a spectrum auction.'"
+      ],
+      "rows": [
+        [
+          "2",
+          "ADMINISTRATIVE SPECTRUM LICENCE APPLICATIONS The draft Regulations provide that the Authority must publish a notice that spectrum is open to be conferred on a first-come-first-served basis (Reg. 4(1)) or on a competitive basis by means of a spectrum auctin (Reg. 6(2)). Since spectrum auctions should be limited to assigning only scarce, high demand spectrum, we assume that spectrum auctions will be the exception and not the rule. TheAuthority's default positions should therefore be that spectrum is to be conferred on a first-come-first-served basis, unless a spectrum auctions notice is issued in respect of particular spectrum. This would reduce the administrative burden on the Authority, relieving it of the obligation to publish notices in the Gazette in respect of the default position. It would also allow operatorss to apply for spectrum as and when it is required, wich would contribute to an enabling environment that is responsive to te needs of operators, and avoid unnecessary bottlenecks in respect of routine spectrum applications In order to makeadministrative spectrum licensing the default position, we propose replacing Reg. 4(1) with the following: Unless the Authority has published a notice in the Gazette in terms of regulation 6 notifying that a radio frequency spectrum band under the Frequency Band Plan as specified in the notice is to be conferred on a competitive basis by menas of a spectrum auction, spectrum is open for application to be conferred on a first-come-first- served basis in accordance with Part 2 of these Regulations.",
+          "The Authority is of the opinion that the proposal by Multichoice is already provided for in Regulation 6 (1) making provisions that spectrum auctions only take place where there is a high demand and where spectrum has high market value. There is thus no need to amend Regulation 4(1)."
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6888",
+    "data": {
+      "header": [
+        "3",
+        "INFORMATION REQUIRED FOR SPECTRUM LICENCEAPPLICATIONS"
+      ],
+      "rows": [
+        [
+          "In terms of Reg. 4(4), a spectrum application must include, amongst other things, full ownership interest, including foreign ownership interest, a certificate of incorporation, a detailed statement of the expertise and experience of te applicant, including evidence of its financial and human resources and a description of its key personnel (including their CVs), and any other information required by the Authority. We are concerned that these requirements are extremely broad and unnecessay in circumstance where an applicant already holds a service licence in respect of which the frequency spectrum is intended to be used. Such an applicant is already known to the Authority and has met the criteria for the granting of that service licence. The requirement to include all of this informatin would create an unduly burdensome application process, which is not in the interest of the Authority or the applicants. We suggest that this be addressed by amending Reg. 4(4) to specify that the information listed in paragraphs (c), (d), (e) and (g) is required to be provided by applicants who do not already hold a service licence in respect of which the spectrum is intended to be used. Reg 4(4)(h) provides that the application must include 'any other information required by the Authority' . This requirement is vague, in that it does not specify what type of other information the Authority may require, nor that the informaton must be relevant. Moreover, unless an applications is made pursuant to a specific invitation to apply, an application would not be in a position to know, when applyinh for the spectrum, which other information mights be required by the Authority. An applicant can therefore not be expected to provide other information which has not been requested/required by the Authority in advance of the application. In order to esure that the Authority is provided with appropriate and relevant information, and that it is clear to applicants up front what will be expected of them, we propose that any other information required by the Authority must be requested by the Authority within a specified reasonable period and must be relevant for the purposes of the spectrum application. We suggest that this can be achieve by amending Reg. 4 (4)(h) to reads as follows:",
+          "The Authority has considered the comments as submitted and deleted draft regulation 4(4)(g) in respect of submissions of financial and human resources together with CVs . The remainder of the draft regulation has been retained as is."
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6888",
+    "data": {
+      "header": [
+        "We therefore propose that the draft Regulations provide for automatic lapsing after the expiry of the grace period, or for the charging of interest at the prevailing rate on outstandig fees for a limited period, after which the spectrum licence would lapse. Wesuggest that theAuthority considers addressing this by insertig a new Reg. 16(5) to read as follows 'The Authority may, upon good cause shown, condone the late payment of the spectrum renewal fees payable in terms of regulation 16 (4)(c), in which event the spectrum licence will continue to be a valid force and effect and shall be renewed for another term.'"
+      ],
+      "rows": [
+        [
+          "7",
+          "WITHDRAWALOF SPECTRUM LICENCE Reg. 16 introduces various requirement to be met when a spectrum licensee intends to permanently discontinue the services for which the spectrum licence was issued. Reg. 16 (2)(f) requires the spectrum withdrawal application to contain a migration plan for any customer of the licensee that may be affected by the withdrawal of the spectrum licence, an analyis of the impact of such withdrawal on such affected customers, and a communication plan to affected customers. Reg 16(3)(c) empowers the Authority to impose conditions on the licensee with respect to migration of customers and end-users. These requirements relate to the discontinuation of the service in respect of which the spectrum licence was issued, rather than to te withdrawal of the spectrum per se . Since this relates to the discontinuation of the service, the spectrum witdrawal is incidental, and may in fact be irrelevant. These requirements may not always be necessary. For example, a migration plan, as contemplated in Reg. 16(f), might be appropriate when a service is discontinued, but not if spectrum is surrendered which does not affect the provision of the service or the customer experience. For example, if a licensee seeks withdrawal of a spectrum licence because it intends to use alternative spectrum for delivery of its service, the transition from the old spectrum to the new spectrum may well be seamless, and the information required by Reg. 16 (e) and (f) is not necessarily applicable. We therefore suggest that the proposed Reg. 16(2)(f) and 16(2)(c) rather be included in the",
+          "The Authority has considered the comments submitted and amended Regulation 16(3)(c) as follows- 'following consultation with the licensee impose reasonable conditions on the licensee with respect to the migration of customers of the licensee or end-users.'"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6888",
+    "data": {
+      "header": [
+        "that only breaches of conditions ought to constitute We suggest deleting the as a licence condition We are alco concerned very wide, such as 'any quality of service conditions, or any roll-out output/transmitter locations, nature, extent or seriousness draft Regulations do example a licensee which of service target by 1% of the target by 15%. We suggest that this the breach to be material, Authority to consider circumstances giving advers impact on the We support the requirement process to be followed or revoked, as set out believe that it would be and the Authority if licensees an opportunity to remedy 18 (a) before triggering process. This would reduce the the Authority and facilitate for all concerned, including Wetherefore propose 'Without limiting any Authority may cancel of the Act, the following breaches of a spectrum justifying the cancellation licence concerned.' (a) material repeated after having first been opportunity to remedy We further suggest inserting after the word ' any' in similarly to refer to ' a material obligations'",
+        "and 'with and (vi) respectively."
+      ],
+      "rows": []
+    }
+  },
+  {
+    "gazette": "6888",
+    "data": {
+      "header": [
+        "10",
+        "USE OF RADIO APPARATUS EXEMPT FOR SPECTRUM LICENCE We support the provisions of Reg. 21 as regards the use of radio apparatus exempt from spectrum licence."
+      ],
+      "rows": [
+        [
+          "Reg. 21 (3) and (4) deal with protection from interference, in this regard, we note that certain spectrum bands are not governed by domestic legislation or rules because the bands are used across multiple territories, and we are therefore governed at international level.Anexample of this is where the transmission does not occur within Namibia, but where for example a satellite signal in a particular band is received in Namibia. It is important to ensure protection from interference for such legitimate services. This could be achieve by referring to any international treaty or convention that govern spectrum bands which are ot subject to in-country regulation. In order to take this situation into account, we suggest inserting the words 'except where governed by any international treaty or convention, to which Namibia is a signatory' , after the words ' or any Regulations made under",
+          "The Authority is of the opinion that section 99 of the Act already makes provision for adherence to international treaties and agreemented entered into by the Namibian Government. There is thus no need to insert the proposed text in these regulations."
+        ],
+        [
+          "11",
+          "INFORMATION REQUESTS"
+        ],
+        [
+          "Reg. 35 empower the Authority to request any information from licensees to, amongst other things, collect and compile sectoral analyses or conducting regulatory inquiries. While we dot not object to he Authority's power to request relevant information, we are concerned that this power is to broa. Requests for information should be relevant to the Authority's regulatory functions and duties. We thereore propose that the Authority be empowered to request information that is relevant and related to specfic provisions of the relevant legislation, and that is reasonably required by the Authority in order to discharge its duties and functions Wesuggest that Reg. 35(1) be amendedasfollows- 'The Authority may, in the format determined by the Authority, request any information from licensees which is reasonbly necessary for the discharge of its functions and duties to monitor and ensure compliance with the Act and these Regulations.'",
+          "The Authority has considered the comments as submitted and amended Regulation 35(1) as follows- ' Authority may, in the format determined by the Authority, request information from licensees which is reasonably necessary to enable the Authority to discharge its functions and duties and to monitor and ensure compliance with the Act and these Regulations.'"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6888",
+    "data": {
+      "header": [
+        "The Authority is thus empowered to consideration that amount of spectrum to be made available for assignment taking into consideration the demand for spectrum by all persons concerned to ensure adherence to the objects of the Act."
+      ],
+      "rows": [
+        [
+          "10",
+          "AD REGULATION 11(1)(a) We propose to add at the end of sentence the following- 'and renewable annually on payment of application fee and licence fees' This addition is in line with the provisions of the Act.",
+          "The Authority has considered the comments as submitted and concluded that the matter has been address in Regulation 13."
+        ],
+        [
+          "11",
+          "AD REGULATION 18(a) We propose that any breaches for which a spectrum licence can be revoked be limited to breach in terms of the spectrum licence only, in the interest of fairness. It is trite in law that material breach (warranty repudiation) can only be in terms of the conditions placed upon by nature of such instrument. As such we propose to delete Regulation 18(a)(ii) if same refers to the general operating licence; (iv) and (vi) alternative limit these to applicability to the spectrum licence awarded.",
+          "TheAuthorityisoftheopinionthatRegulation 18 already pertains to spectrum licences on as contained in the preamble to this regulation."
+        ],
+        [
+          "12",
+          "AD REGULATION 18(c) We propose to add at the end of the sentence the following- 'in respect of the application for spectrum licence' .",
+          "The Authority has considered that comments as submittd and amended regulation 18(c) accordingly"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6982",
+    "data": {
+      "header": [
+        "Spectrum Band",
+        "Frequency Plan Allocation"
+      ],
+      "rows": [
+        [
+          "7000-7100 kHz 14000-14250 kHz 18068-18168 kHz 21000-21450 kHz 28-29.7 MHz 144-146 MHz 24-24.05 GHz 47-47.2 GHz 77.5-78 GHz",
+          "AMATEUR-SATELLITE"
+        ],
+        [
+          "30.005-30.01 MHz (Government use)(satellite identification) 137.025-137.175 MHz (space-to-Earth) 137.825-138 MHz (space-to-Earth) 272-273 MHz (Government use) (space-to-Earth) 401-402 MHz (space-to-Earth) 1427-1429 MHz (Earth-to-space) 1525-1530 MHz (space-to-Earth) 1530-1535 MHz (space-to-Earth) 2025-2110 MHz (Earth-to-space)(space-to-space) 2200-2290 MHz (space-to-Earth)(space-to-space)",
+          "SPACE OPERATION"
+        ],
+        [
+          "400.15-401 MHz (space-to-Earth) 1215-1240 MHz (active) 1240-1300 MHz (active) 2025-2110 MHz (Earth-to-space)(space-to-space) 2110-2120 MHz (deep space)(Earth-to-space) 2200-2290 MHz (space-to-Earth)(space-to-space)",
+          "SPACE RESEARCH"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6982",
+    "data": {
+      "header": [
+        "Radio Frequency Spectrum Band",
+        "Frequency Plan Allocation"
+      ],
+      "rows": [
+        [
+          "14-19.95 kHz 20.05-70 kHz 72-84 kHz 86-90 kHz 110-112 kHz 117.6-126 kHz 129-130 kHz 130-135.7 kHz 135.7-137.8 kHz 137.8-148.5 kHz 1606.5-1625 kHz 1635-1800 kHz 1850-2000 kHz 2000-2025 kHz 2025-2045 kHz 2045-2160 kHz 2194-2300 kHz 2300-2498 kHz 2502-2625 kHz 2650-2850 kHz 3155-3200 kHz 3200-3230 kHz 3230-3400 kHz 3500-3800 kHz 3800-3900 kHz",
+          "FIXED"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7089",
+    "data": {
+      "header": [
+        "Spectrum Band",
+        "Frequency Plan Allocation"
+      ],
+      "rows": [
+        [
+          "1427-1518 MHz",
+          "MOBILE"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7131",
+    "data": {
+      "header": [
+        "Radio Frequency Spectrum Band",
+        "Frequency Plan Allocation"
+      ],
+      "rows": [
+        [
+          "3570-3590 MHz",
+          "MOBILE"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7164",
+    "data": {
+      "header": [
+        "Radio Frequency Spectrum Band",
+        "Spectrum Blocks",
+        "Services Allocated"
+      ],
+      "rows": [
+        [
+          "790-862 MHz (800 band)",
+          "791-801 MHz paired with 832-842 MHz 801-811 MHz paired with 842-852 MHz",
+          "MOBILE (IMT)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7176",
+    "data": {
+      "header": [
+        "Radio Frequency Spectrum Band",
+        "Frequency Plan Allocation"
+      ],
+      "rows": [
+        [
+          "885 -890 MHz paired with 930 - 935 MHz",
+          "MOBILE (IMT)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7216",
+    "data": {
+      "header": [
+        "TYPE OFSPECTRUM LICENCE, CERTIFICATE OR EXAMINATION",
+        "TYPE OFSPECTRUM LICENCE, CERTIFICATE OR EXAMINATION",
+        "FEES (N$)"
+      ],
+      "rows": [
+        [
+          "1.",
+          "AMATEUR RADIO",
+          "AMATEUR RADIO"
+        ],
+        [
+          "1.1",
+          "All classes of amateur radio spectrum licences",
+          "119.00"
+        ],
+        [
+          "1.2",
+          "Beacon",
+          "119.00"
+        ],
+        [
+          "1.3",
+          "Examination",
+          "119.00"
+        ],
+        [
+          "1.4",
+          "Guest or special event spectrum licence",
+          "119.00"
+        ],
+        [
+          "1.5",
+          "Repeater station",
+          "119.00"
+        ],
+        [
+          "2.",
+          "AERONAUTICAL",
+          "AERONAUTICAL"
+        ],
+        [
+          "2.1",
+          "Aircraft station",
+          "238.00"
+        ],
+        [
+          "2.2",
+          "Glider / microlight",
+          "119.00"
+        ],
+        [
+          "2.3",
+          "Ground station",
+          "143.00"
+        ],
+        [
+          "2.4",
+          "Navigation aids / beacons",
+          "119.00"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7344",
+    "data": {
+      "header": [
+        "Notes (Additional information)",
+        "Antenna size of < 1/20 λ (see note 1) RFIDs operating in the frequency sub-band 119-135 kHz shall meet the spectrum mask given in EN 300 330. This will permit a simultaneous use of the various sub-bands within the range 90 - 148.5 kHz (Note 11)",
+        "Antenna size of < 1/20 λ (see note 1) RFIDs operating in the frequency sub-band 119-135 kHz shall meet the spectrum mask given in EN 300 330. This will permit a simultaneous use of the various sub-bands within the range 90 - 148.5 kHz (Note 11)",
+        "Antenna size of < 1/20 λ (see note 1) RFIDs operating in the frequency sub-band 119-135 kHz shall meet the spectrum mask given in EN 300 330. This will permit a simultaneous use of the various sub-bands within the range 90 - 148.5 kHz (Note 11)",
+        "Antenna size of < 1/20 λ (see note 1) RFIDs operating in the frequency sub-band 119-135 kHz shall meet the spectrum mask given in EN 300 330. This will permit a simultaneous use of the various sub-bands within the range 90 - 148.5 kHz (Note 11)",
+        "only",
+        "only",
+        "only",
+        "5.116 applies (RR No. 5.138 )",
+        "5.116 applies (RR No. 5.138 )",
+        "5.116 applies (RR No. 5.138 )",
+        "band (RR No. 5.150 )",
+        "band (RR No. 5.150 )",
+        "band (RR No. 5.150 ) band (RR No. 5.150 ) ERC/DEC/(01)16 ERC/DEC/(01)10",
+        "band (RR No. 5.150 ) band (RR No. 5.150 ) ERC/DEC/(01)16 ERC/DEC/(01)10",
+        "band (RR No. 5.150 ) band (RR No. 5.150 ) ERC/DEC/(01)16 ERC/DEC/(01)10",
+        "ERC/DEC/(01)02",
+        "ERC/DEC/(01)02"
+      ],
+      "rows": [
+        [
+          "Harmonised Standard",
+          "EN 300 330",
+          "EN 300 330",
+          "EN 300 330",
+          "EN 300 330",
+          "EN 302 195",
+          "EN 302 195",
+          "EN 302 195",
+          "EN 300 330",
+          "EN 300 330",
+          "EN 300 330",
+          "EN 300 330 EN 300 330",
+          "EN 300 330 EN 300 330",
+          "EN 302 291",
+          "EN 302 291",
+          "EN 300 330 EN 300 220",
+          "EN 300 330 EN 300 220",
+          "EN 300 220",
+          "EN 300 220",
+          "EN 300 220 EN 300 330",
+          "EN 300 220 EN 300 330"
+        ],
+        [
+          "Prescribed Channel Spacing",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "Continuous wave (CW) - no modulation, channel spacing ≥150 Hz Continuous wave (CW) at 457 kHz - no modulation None",
+          "Continuous wave (CW) - no modulation, channel spacing ≥150 Hz Continuous wave (CW) at 457 kHz - no modulation None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None None",
+          "None None",
+          "None None",
+          "None None",
+          "10 kHz None",
+          "10 kHz None",
+          "None"
+        ],
+        [
+          "Duty Cycle restriction",
+          "None",
+          "None",
+          "None",
+          "None",
+          "<10%",
+          "<10%",
+          "<10%",
+          "None None None",
+          "None None None",
+          "None",
+          "None",
+          "None None",
+          "None None",
+          "None",
+          "None",
+          "None None",
+          "None None",
+          "None None",
+          "None None",
+          "≤ 0.1%"
+        ],
+        [
+          "Maximum power or magnetic field strength",
+          "82 dBµA/m at 10m",
+          "72 dBμA/m at 10m",
+          "42 dBμA/m at 10m 66 dBμA/m at 10m 42",
+          "dBμA/m at 10m 37.7 dBμA/m at 10m",
+          "30 dBμA/m at 10m",
+          "-8 dBµA/m at 10m dBμA/m at 10m",
+          "7",
+          "-8 dBµA/m at 10m dBμA/m at 10m",
+          "dBμA/m at 10m 13.5 dBμA/m at 10m",
+          "dBμA/m at 10m 13.5 dBμA/m at 10m",
+          "dBμA/m at 10m dBμA/m at 10m",
+          "dBμA/m at 10m dBμA/m at 10m",
+          "dBμA/m at 10m dBμA/m at 10m dBμA/m at 10m",
+          "dBμA/m at 10m dBμA/m at 10m dBμA/m at 10m",
+          "(for and EAS only)",
+          "(for and EAS only)",
+          "42 60 RFID 10 mWe.r.p 42 dBμA/m at 10m",
+          "42 60 RFID 10 mWe.r.p 42 dBμA/m at 10m",
+          "100 mWe.r.p",
+          "100 mWe.r.p",
+          "10 mWe.r.p.",
+          "100 mWe.r.p"
+        ],
+        [
+          "Typical Applications",
+          "Inductive applications",
+          "Inductive applications",
+          "Inductive applications",
+          "Inductive applications",
+          "Active medical implants",
+          "Inductive applications Tracking, Tracing and Data Acquisition",
+          "Inductive applications Tracking, Tracing and Data Acquisition",
+          "Inductive applications Tracking, Tracing and Data Acquisition",
+          "Tracking, Tracing and Data Acquisition Inductive applications",
+          "Inductive applications Non-specific SRDs",
+          "Inductive applications Non-specific SRDs",
+          "Inductive applications",
+          "Inductive applications",
+          "Inductive applications applications",
+          "Inductive applications applications",
+          "Inductive Non-specific SRDs",
+          "Inductive Non-specific SRDs",
+          "Inductive applications",
+          "Inductive applications",
+          "(26990-27200 kHz) Non-specific SRDs",
+          "(26990-27200 kHz) Non-specific SRDs",
+          "Non-specific SRDs"
+        ],
+        [
+          "Frequency band",
+          "8.3-9kHz",
+          "9-90 kHz",
+          "90-119 kHz 119-135 kHz 135-140 kHz",
+          "140-148.5 kHz",
+          "9-315 kHz",
+          "400-600 kHz",
+          "442.2-450 kHz",
+          "456.9-457.1 kHz 155-3 400 kHz",
+          "456.9-457.1 kHz 155-3 400 kHz",
+          "765-6 795 kHz",
+          "765-6 795 kHz",
+          "400-8 800 kHz",
+          "400-8 800 kHz",
+          "10200-11000kHz 13553-13567 kHz",
+          "10200-11000kHz 13553-13567 kHz",
+          "26957-27283 kHz",
+          "26957-27283 kHz",
+          "26957-27283 kHz",
+          "26957-27283 kHz",
+          "26990-27200 kHz"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7344",
+    "data": {
+      "header": [
+        "Notes (Additional information)",
+        "ECC/DEC/(02)01 Note 10",
+        "ECC/DEC/(02)01 For this band an individual licence in required in EU Note 10",
+        "ISM band (RR No. 5.150 )",
+        "For vehicle radars",
+        "For vehicle radars",
+        "For vehicle radars. The spectrum access and mitigation requirement is given for devices mounted behind a bumper. If mounted without a bumper, the requirement should be 3μs/40kHz maximum dwell time every 3ms",
+        "The spectrum access and mitigation requirement is given for devices mounted either behind a bumper or mounted without a bumper",
+        "For vehicle radars",
+        "ISM band (RR No. 5.138 )"
+      ],
+      "rows": [
+        [
+          "Harmonised Standard",
+          "EN 300 440",
+          "EN 300 674",
+          "EN 300 674",
+          "EN 300 440",
+          "EN 300 440",
+          "EN 300 440",
+          "EN 300 440",
+          "EN 300 440",
+          "EN 300 440",
+          "EN 300 440"
+        ],
+        [
+          "Prescribed Channel Spacing",
+          "≥ 1 MHz and ≤ 20 MHz",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        [
+          "Duty Cycle restriction",
+          "Adequate spectrum sharing mechanisms (e.g. DFS and DAA) shall be implemented",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None)",
+          "≤ 1ms/40kHz dwell time every 40ms (note 1)",
+          "None",
+          "None",
+          "None"
+        ],
+        [
+          "Maximum power or magnetic field strength",
+          "400 mWe.i.r.p. Adaptive Power Control (APC) required",
+          "25 mWe.i.r.p.",
+          "2 We.i.r.p. 8 We.i.r.p.",
+          "100 mWe.i.r.p.",
+          "100 mWe.i.r.p.",
+          "100 mWe.i.r.p.",
+          "0.1mW e.i.r.p.",
+          "100 mWe.i.r.p.",
+          "100 mWe.i.r.p.",
+          "100 mWe.i.r.p. 10 mWoutput power",
+          "100 mWe.i.r.p."
+        ],
+        [
+          "Typical Applications",
+          "Tracking, Tracing and Data Acquisition",
+          "Non-specific SRDs",
+          "RTTT",
+          "Non-specific SRDs",
+          "Radiodetermination",
+          "RTTT (24.05-24.075 GHz)",
+          "RTTT(24.075-24.15 GHz)",
+          "RTTT",
+          "Non-Specific SRDs",
+          "Non-specific SRDs"
+        ],
+        [
+          "Frequency band",
+          "5725-5875 MHz",
+          "5 725-5 875 MHz",
+          "5 795-5 805 MHz",
+          "5 805-5 815 MHz",
+          "24.00-24.25 GHz",
+          "24.15-24.25 GHz",
+          "57-64 GHz",
+          "61.0-61.5 GHz"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7511",
+    "data": {
+      "header": [
+        "Radio Frequency Spectrum Band",
+        "Spectrum Blocks",
+        "Services to be Provided"
+      ],
+      "rows": [
+        [
+          "880-915 MHz paired with 925- 960 MHz (FDD)",
+          "885-890 MHz (1x 5 MHz) paired with 930-935 MHz (1x 5 MHz)",
+          "MOBILE (IMT)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7511",
+    "data": {
+      "header": [
+        "Radio frequencies or group of radio frequency assigned",
+        "Description of geographical coverage area",
+        "Services to be provided using the spectrum assigned"
+      ],
+      "rows": [
+        [
+          "2595-2625 MHz",
+          "Khomas Region",
+          "FIXED"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7609",
+    "data": {
+      "header": [
+        "Applicant",
+        "Place of Incorporation",
+        "Percentage interest owned by Namibian citizens",
+        "License category",
+        "Does Applicant intend to use spectrum?",
+        "Services to be provided",
+        "Coverage area"
+      ],
+      "rows": [
+        [
+          "MarketDay Television Namibia CC",
+          "Namibia",
+          "0%",
+          "Commercial Broadcasting Service License",
+          "No",
+          "Free-to-air broadcasting services via internet",
+          "Republic of Namibia or any part thereof"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7613",
+    "data": {
+      "header": [
+        "Notes (Additional information)",
+        "Antenna size of < 1/20 λ (see note 1) RFIDs operating in the frequency sub-band 119-135 kHz shall meet the spectrum mask given in EN 300 330. This will permit a simultaneous use of the various sub-bands within the range 90 - 148.5 kHz (Note 11)",
+        "For RFID only",
+        "ITU-R M.1076 applies RR No. 5.116 applies",
+        "ISM band (RR No. 5.138 )",
+        "ISM band (RR No. 5.150 )",
+        "ISM band (RR No. 5.150 )"
+      ],
+      "rows": [
+        [
+          "Harmonised Standard",
+          "EN 300 330",
+          "EN 302 195",
+          "EN 300 330",
+          "EN 300 330",
+          "EN 300 330 EN 300 330",
+          "EN 302 291",
+          "EN 300 330"
+        ],
+        [
+          "Prescribed Channel Spacing",
+          "None",
+          "None",
+          "Continuous wave (CW) - no modulation, channel spacing ≥150 Hz Continuous wave",
+          "modulation None",
+          "None",
+          "None None",
+          "None",
+          "None"
+        ],
+        [
+          "Duty Cycle restriction",
+          "None",
+          "<10%",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None None",
+          "None",
+          "None"
+        ],
+        [
+          "Maximum power or magnetic field strength",
+          "82 dBµA/m at 10m 72 dBμA/m at 10m 42 dBμA/m at 10m 66 dBμA/m at 10m 42 dBμA/m at 10m 37.7 dBμA/m at 10m",
+          "30 dBμA/m at 10m",
+          "-8 dBµA/m at 10m 7 dBμA/m at 10m",
+          "7 dBμA/m at 10m",
+          "13.5 dBμA/m at 10m",
+          "42 dBμA/m at 10m",
+          "9 dBμA/m at 10m 9 dBμA/m at 10m",
+          "42 dBμA/m at 10m 60 dBμA/m at 10m (for RFID and EAS",
+          "only) 10 mWe.r.p"
+        ],
+        [
+          "Typical Applications",
+          "Inductive applications",
+          "Active medical implants Inductive applications",
+          "Tracking, Tracing and Data Acquisition",
+          "Tracking, Tracing and Data Acquisition",
+          "Inductive applications",
+          "- Inductive applications - Non-specific SRDs",
+          "Inductive applications Inductive applications",
+          "Inductive applications",
+          "Non-specific SRDs"
+        ],
+        [
+          "Frequency band",
+          "8.3-9kHz 9-90 kHz 90-119 kHz 119-135 kHz 135-140 kHz 140-148.5 kHz",
+          "9-315 kHz",
+          "400-600 kHz 442.2-450 kHz",
+          "456.9-457.1 kHz",
+          "3 155-3 400 kHz",
+          "6 765-6 795 kHz",
+          "7 400-8 800 kHz 10200-11000kHz",
+          "13553-13567 kHz"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7613",
+    "data": {
+      "header": [
+        "Notes (Additional information)",
+        "For vehicle radars. The spectrum access and mitigation requirement is given for devices mounted behind a bumper. If mounted without a bumper, the requirement should be 3μs/40kHz maximum dwell time every 3ms The spectrum access and mitigation requirement is given for devices mounted either behind a bumper or mounted without",
+        "a bumper",
+        "For vehicle radars",
+        "ISM band (RR No. 5.138 )",
+        "ECC/DEC/(02)01 Power level 55 dBm peak power e.i.r.p. 50 dBm average power - 23.5 dBm average power for pulse radar only Vehicle and infrastructure radar systems"
+      ],
+      "rows": [
+        [
+          "Harmonised Standard",
+          "EN 300 440",
+          "EN 300 440",
+          "EN 300 440",
+          "EN 301 091",
+          "EN 302 264"
+        ],
+        [
+          "Prescribed Channel Spacing",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        [
+          "Duty Cycle restriction",
+          "None)",
+          "≤ 1ms/40kHz dwell time every 40ms (note 1)",
+          "None None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        [
+          "Maximum power or magnetic field strength",
+          "100 mWe.i.r.p.",
+          "100 mWe.i.r.p.",
+          "100 mWe.i.r.p. 10 mWoutput",
+          "100 mWe.i.r.p.",
+          "55 dBm peak e.i.r.p.",
+          "10 dBm/250MHz e.i.r.p. -48 dBm/MHz at >30°",
+          "elevation 100 mWe.i.r.p.",
+          "100 mWe.i.r.p."
+        ],
+        [
+          "Typical Applications",
+          "RTTT",
+          "Non-Specific SRDs",
+          "Non-specific SRDs",
+          "RTTT",
+          "Automotive Short-Range Radars",
+          "Non-Specific SRDs",
+          "Non-Specific SRDs",
+          "Non-Specific SRDs"
+        ],
+        [
+          "Frequency band",
+          "24.15-24.25 GHz",
+          "24.15-24.25 GHz",
+          "57-64 GHz",
+          "61.0-61.5 GHz",
+          "76-77 GHz",
+          "77-81 GHz",
+          "122-122.25 GHz",
+          "122.25-123 GHz",
+          "244-246 GHz"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7697",
+    "data": {
+      "header": [
+        "No. 686",
+        "Communications Regulatory Authority of Namibia: Notice in terms of Regulation 4(7) of the Regulations Prescribing Procedures Regarding Application for, and Amendment, Renewal, Transfer and Cancellation of Spectrum Licenses: Communications Act, 2009",
+        "1"
+      ],
+      "rows": [
+        [
+          "No. 687",
+          "Communications Regulatory Authority of Namibia: Notice in terms of the Regulations Regarding Licensing Procedures for Telecommunications and Broadcasting Service Licences",
+          "2"
+        ],
+        [
+          "No. 688",
+          "Communications Regulatory Authority of Namibia: Notice in terms of Regulation 4(7) of the Regulations Prescribing Procedures Regarding Application for, and Amendment, Renewal, Transfer and Cancellation of Spectrum Licenses: Communications Act, 2009",
+          "4"
+        ],
+        [
+          "No. 689",
+          "Communications Regulatory Authority of Namibia: Notice in terms of Section 53(7) of the Communications Act, 2009 read with the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs",
+          "5"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7875",
+    "data": {
+      "header": [
+        "Metagalaxy Space Science and Technology CC",
+        "Namibia",
+        "100%",
+        "Spectrum License",
+        "7145- 8400 MHz",
+        "Downlink 8026-8066 MHz Bandwidth (40 MHz)",
+        "National",
+        "SPACE RESEARCH Earth Station"
+      ],
+      "rows": []
+    }
+  },
+  {
+    "gazette": "7876",
+    "data": {
+      "header": [
+        "Service",
+        "Spectrum Band/s",
+        "Time Frame",
+        "Additional Information"
+      ],
+      "rows": [
+        [
+          "Spectrum already available for application",
+          "Spectrum already available for application",
+          "Spectrum already available for application",
+          "Spectrum already available for application"
+        ],
+        [
+          "Analogue Sound Broadcasting",
+          "87.5-108 MHz",
+          "Open for application on first-come- first-serve basis.",
+          "FM frequency channelling plan applies. Frequencies available for application has been published in Government Gazette No. 7312, General Notice No. 344 on 19 August 2020."
+        ],
+        [
+          "Digital Sound Broadcasting",
+          "214-230 MHz",
+          "Open for application on first-come- first-serve basis.",
+          "DAB frequency channelling plan applies. Frequencies available for application has been published in Government Gazette No. 7300, General Notice No. 320 on 7 August 2020."
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7876",
+    "data": {
+      "header": [
+        "IMT services",
+        "3300-3600 MHz",
+        "Quarter 3 of 2023 to Quarter 4 2023",
+        "Release of spectrum for application is dependent on the sunset date for discontinuation of legacy WiMax/ fixed services technology to be agreed with licensee after a consultation process. Spectrum awarded for fixed services to be returned to the Authority. Spectrum will be released upon completion of the re-planning of this spectrum band to ensure the availability of contiguous blocks of 80-100 MHz considering existing spectrum licences awarded for IMT services in this spectrum band Spectrum will be released for TDD national spectrum assignment subject assignment via spectrum auction subject to rollout obligations and specific use cases set by the Authority. NB: No IMT-2020 (5G) rollout or type approval of 5G network equipment shall be allowed until such time that the Authority received authorisation for deployment of IMT-2020 (5G) networks as per Cabinet Decision No. 10 TH 21.07.20/006. Dynamic spectrum sharing between 4G and 5G will be encouraged going forward."
+      ],
+      "rows": []
+    }
+  },
+  {
+    "gazette": "7895",
+    "data": {
+      "header": [
+        "No. 475",
+        "Communications Regulatory Authority of Namibia: Notice in terms of the Regulations Prescribing Procedures Regarding Application for, and Amendment, Renewal, Transfer and Cancellation of Spectrum Licenses: Communications Act, 2009",
+        "1"
+      ],
+      "rows": [
+        [
+          "No. 476",
+          "Communications Regulatory Authority of Namibia: Notice in terms of the Regulations Regarding Licensing Procedures for Telecommunications and Broadcasting Service Licences",
+          "2"
+        ],
+        [
+          "No. 477",
+          "Communications Regulatory Authority of Namibia: Notice in terms of Section 53(7) of the Communication Act, 2009 (Act No. 8 of 2009) read with the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs",
+          "3"
+        ],
+        [
+          "No. 478",
+          "Communications Regulatory Authority of Namibia: Notice In terms of the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs",
+          "4"
+        ],
+        [
+          "No. 479",
+          "Communications Regulatory Authority of Namibia: Notice in terms of the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs",
+          "5"
+        ],
+        [
+          "No. 480",
+          "Communications Regulatory Authority of Namibia: Notice in terms of the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs",
+          "7"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7895",
+    "data": {
+      "header": [
+        "Radio Frequency Spectrum Band",
+        "Spectrum Blocks",
+        "Services"
+      ],
+      "rows": [
+        [
+          "1920-1980 MHz paired with 2110- 2170MHz",
+          "1960-1965 MHz (lx 5 MHz) paired with 2150 - 2155 MHz (lx 5 MHz) 1970-1975 MHz (lx 5 MHz) paired with 2160 - 2165 MHz (lx 5 MHz)",
+          "MOBILE(IMT)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7909",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicant's place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens",
+        "Spectrum Licenses to be amended",
+        "Proposed Amendments",
+        "Reason for Proposed amendments",
+        "Geographic coverage areas",
+        "Service to be provided using frequencies applied for"
+      ],
+      "rows": [
+        [
+          "Namibia Future Media Holdings (Pty) Ltd",
+          "Namibia",
+          "75%",
+          "88.9 MHz (Radio Wave) 91.3 MHz (Fresh FM) 92 MHz (Omulunga Radio) 95.2 MHz (Nova)",
+          "Relocation of transmitters from Grootfontein Water Tower to NBC Signalberg Tower",
+          "Improved coverage area",
+          "Groot- fontein Otavi Otjozond- jupa Region",
+          "BROADCASTING"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7950",
+    "data": {
+      "header": [
+        "No. 629",
+        "Communication Regulatory Authority of Namibia: Notice in terms of the Regulations Prescribing Procedures Regarding Application for, and Amendment, Renewal, Transfer and Cancellation of Spectrum Licenses"
+      ],
+      "rows": [
+        [
+          "No. 630",
+          "Communication Regulatory Authority of Namibia: Notice in Terms of the Regulations Prescribing the National Numbering Plan for Use in the Provision of Telecommunications Services in the Republic of Namibia, Numbering Licence Fee and Procedures for Number Licences: Communications Act, 2009"
+        ],
+        [
+          "No. 631",
+          "Communication Regulatory Authority of Namibia: Notice in terms of Regulation 32(1) of the Regulations Prescribing the National Numbering Plan for use in the Provision of Telecommunications Services in the Republic of Namibia, Numbering Licence Fees and Procedures for Number Licences: Communications Act, 2009"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7960",
+    "data": {
+      "header": [
+        "No. 669",
+        "Communications Regulatory Authority of Namibia: Notice in terms of regulation 34(1) of the Regulations Prescribing Procedures Regarding Application for, and Amendment, Renewal, Transfer and Cancellation of Spectrum Licenses: Communications Act, 2009",
+        "2"
+      ],
+      "rows": [
+        [
+          "No. 670",
+          "Communications Regulatory Authority of Namibia: Notice in terms of regulation 34(1) of the Regulations Prescribing Procedures Regarding Application for, and Amendment, Renewal, Transfer and Cancellation of Spectrum Licenses: Communications Act, 2009",
+          "2"
+        ],
+        [
+          "No. 671",
+          "Communications Regulatory Authority of Namibia: Notice in terms of regulation 34(1) of the Regulations Prescribing Procedures Regarding Application for, and Amendment, Renewal, Transfer and Cancellation of Spectrum Licenses: Communications Act, 2009",
+          "8"
+        ],
+        [
+          "No. 672",
+          "Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Communications Act, 2009 read with the regulations regarding the submissions of Interconnection Agreements and Tariffs",
+          "9"
+        ],
+        [
+          "No. 673",
+          "Communications Regulatory Authority of Namibia: Notice in terms of the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs",
+          "9"
+        ],
+        [
+          "No. 674",
+          "Communications Regulatory Authority of Namibia: Notice in terms of the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs",
+          "10"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7960",
+    "data": {
+      "header": [
+        "Spectrum Licenses",
+        "Amendment",
+        "Geographic coverage areas",
+        "Services provided"
+      ],
+      "rows": [
+        [
+          "88.9 MHz (Radio Wave) 91.3 MHz (Fresh FM) 92 MHz (Omulunga Radio) 95.2 MHz (Nova)",
+          "Relocation of transmitters from Grootfontein Water Tower to NBC Signalberg Tower",
+          "Grootfontein, Otavi and Tsumeb Otjozondjupa Region",
+          "BROADCASTING"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7962",
+    "data": {
+      "header": [
+        "No. 676",
+        "Communications Regulatory Authority of Namibia: Notice of intention to amend the Regulations Prescribing Procedures regarding Application for, and Amendment, Renewal, Transfer and Cancellation of Spectrum Licences: Communications Act, 2009"
+      ],
+      "rows": []
+    }
+  },
+  {
+    "gazette": "7981",
+    "data": {
+      "header": [
+        "Applicant",
+        "Applicant's place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens",
+        "Spectrum License to be amended",
+        "Proposed Amendments",
+        "Reason for Proposed amendment",
+        "Geographic coverage areas",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "Maroela Trust t/a Shipi FM",
+          "Namibia",
+          "100%",
+          "96.5 MHz (Swakop- mund)",
+          "Relocation of transmitters from the Swakopmund Tamaskia site to the Telecom site at Rossing Mountain",
+          "To improve coverage area and stabilise service delivery to the audience",
+          "Swakop- mund and surrounding areas",
+          "BROADCASTING"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8053",
+    "data": {
+      "header": [
+        "Radio Frequency Spectrum Band",
+        "Spectrum Blocks",
+        "Services",
+        "Geographical Coverage Area"
+      ],
+      "rows": [
+        [
+          "703-788 MHz",
+          "LotA : 703-723 MHz paired with 758-778 MHz",
+          "MOBILE (IMT)",
+          "National"
+        ],
+        [
+          "703 - 788 MHz And 791 - 862 MHz",
+          "Lot B : 723-733 MHz paired with 778-788 MHz and 791-801 MHz paired with 832-842 MHz",
+          "MOBILE (IMT)",
+          "National"
+        ],
+        [
+          "791 - 862 MHz",
+          "Lot C :801-821 MHz paired with 842-862 MHz",
+          "MOBILE (IMT)",
+          "National"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8053",
+    "data": {
+      "header": [
+        "Licensee and transferor",
+        "Spectrum licences to be transferred.",
+        "Services to be provided.",
+        "Licensee and transferee"
+      ],
+      "rows": [
+        [
+          "Ninety-Nine FM (Pty) Ltd",
+          "98.8 MHz - Otjiwarongo 99.8 MHz - Walvis Bay 99.8 MHz - Swakopmund 99.1 MHz - Windhoek 101.7 MHz - Tsumeb 104.5 MHz - Oshakati",
+          "BROADCASTING",
+          "Namibia Future Media Holdings (Pty) Ltd"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8060",
+    "data": {
+      "header": [
+        "Spectrum License amended",
+        "Amendment",
+        "Geographic coverage area",
+        "Services to be provided"
+      ],
+      "rows": [
+        [
+          "88.9 MHz",
+          "Relocation of transmitter from Tamariskia Tower to Erongo Mountain Tower.",
+          "Swakopmund Erongo Region",
+          "BROADCASTING"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8060",
+    "data": {
+      "header": [
+        "Notes (Additional information)",
+        "Antenna size of < 1/20 λ (see note 1) RFIDs operating in the frequency sub-band 119-135 kHz shall meet the spectrum mask given in EN 300 330. This will permit a simultaneous use of the various sub-bands within the range 90 - 148.5 kHz (Note 11)",
+        "Antenna size of < 1/20 λ (see note 1) RFIDs operating in the frequency sub-band 119-135 kHz shall meet the spectrum mask given in EN 300 330. This will permit a simultaneous use of the various sub-bands within the range 90 - 148.5 kHz (Note 11)",
+        "Antenna size of < 1/20 λ (see note 1) RFIDs operating in the frequency sub-band 119-135 kHz shall meet the spectrum mask given in EN 300 330. This will permit a simultaneous use of the various sub-bands within the range 90 - 148.5 kHz (Note 11)",
+        "Antenna size of < 1/20 λ (see note 1) RFIDs operating in the frequency sub-band 119-135 kHz shall meet the spectrum mask given in EN 300 330. This will permit a simultaneous use of the various sub-bands within the range 90 - 148.5 kHz (Note 11)",
+        "Antenna size of < 1/20 λ (see note 1) RFIDs operating in the frequency sub-band 119-135 kHz shall meet the spectrum mask given in EN 300 330. This will permit a simultaneous use of the various sub-bands within the range 90 - 148.5 kHz (Note 11)",
+        "Antenna size of < 1/20 λ (see note 1) RFIDs operating in the frequency sub-band 119-135 kHz shall meet the spectrum mask given in EN 300 330. This will permit a simultaneous use of the various sub-bands within the range 90 - 148.5 kHz (Note 11)",
+        "Antenna size of < 1/20 λ (see note 1) RFIDs operating in the frequency sub-band 119-135 kHz shall meet the spectrum mask given in EN 300 330. This will permit a simultaneous use of the various sub-bands within the range 90 - 148.5 kHz (Note 11)",
+        "For RFID only"
+      ],
+      "rows": [
+        [
+          "Harmonised Standard",
+          "EN 300 330",
+          "EN 302 195"
+        ],
+        [
+          "Prescribed Channel Spacing",
+          "None",
+          "None",
+          "Continuous wave (CW) - no modulation,",
+          "channel spacing ≥150 Hz"
+        ],
+        [
+          "Duty Cycle restriction",
+          "None",
+          "<10%",
+          "None"
+        ],
+        [
+          "Maximum power or magnetic field strength",
+          "82 dBµA/m at 10m",
+          "72 dBμA/m at 10m",
+          "42 dBμA/m at 10m",
+          "66 dBμA/m at 10m",
+          "42 dBμA/m at 10m",
+          "37.7 dBμA/m at 10m",
+          "30 dBμA/m at 10m",
+          "-8 dBµA/m at 10m",
+          "7 dBμA/m at 10m"
+        ],
+        [
+          "Typical Applications",
+          "Inductive applications",
+          "Active medical implants",
+          "Inductive applications",
+          "Tracking, Tracing and Data Acquisition"
+        ],
+        [
+          "Frequency band",
+          "8.3-9kHz",
+          "9-90 kHz",
+          "90-119 kHz",
+          "119-135 kHz",
+          "135-140 kHz",
+          "140-148.5 kHz",
+          "9-315 kHz",
+          "400-600 kHz",
+          "442.2-450 kHz"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8060",
+    "data": {
+      "header": [
+        "Notes (Additional information)",
+        "Very Low Power (VLP) indoor outdoor use.",
+        "Use on drones is prohibited Maximum meand e.i.r.p. for inband emissions = 1 dBm/MHz",
+        "ISM band (RR No. 5.150 )",
+        "For vehicle radars",
+        "For vehicle radars",
+        "For vehicle radars. The spectrum access and mitigation requirement is given for devices mounted behind a bumper. If mounted without a bumper, the requirement should be 3μs/40kHz maximum dwell time every 3ms",
+        "The spectrum access and mitigation requirement is given for devices mounted either behind a bumper or mounted without a bumper",
+        "For vehicle radars"
+      ],
+      "rows": [
+        [
+          "Harmonised Standard",
+          "EN 303 687",
+          "EN 300 440",
+          "EN 300 440",
+          "EN 300 440",
+          "EN 300 440",
+          "EN 300 440",
+          "EN 300 440",
+          "EN 300 440"
+        ],
+        [
+          "Prescribed Channel Spacing",
+          "None",
+          "None",
+          "None"
+        ],
+        [
+          "Duty Cycle restriction",
+          "None",
+          "None",
+          "None",
+          "None None",
+          "None)",
+          "≤ 1ms/40kHz dwell time every 40ms",
+          "None"
+        ],
+        [
+          "Maximum power or magnetic field strength",
+          "14 dBm (25) e.i.r.p mW",
+          "100 mWe.i.r.p.",
+          "100 mWe.i.r.p.",
+          "100 mWe.i.r.p. 0.1mW e.i.r.p.",
+          "100 mWe.i.r.p.",
+          "100 mWe.i.r.p."
+        ],
+        [
+          "Typical Applications",
+          "WAS RLAN",
+          "Non-specific SRDs",
+          "Radiodetermination",
+          "RTTT (24.05-24.075 GHz)",
+          "RTTT(24.075-24.15 GHz)",
+          "RTTT"
+        ],
+        [
+          "Frequency band",
+          "5825-6425 MHz",
+          "24.00-24.25 GHz",
+          "24.15-24.25 GHz"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8215",
+    "data": {
+      "header": [
+        "Frequencies (MHz)",
+        "Spectrum Blocks",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "3300 - 3400 MHz (TDD)",
+          "3300 - 3380 MHz (1x 80 MHz)",
+          "MOBILE (IMT)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8251",
+    "data": {
+      "header": [
+        "TYPE OFSPECTRUM LICENCE, CERTIFICATE OR EXAMINATION",
+        "FEES (N$)"
+      ],
+      "rows": [
+        [
+          "1.",
+          "AMATEUR RADIO"
+        ],
+        [
+          "1.1",
+          "All classes of amateur radio spectrum licences",
+          "112.00"
+        ],
+        [
+          "1.2",
+          "Beacon",
+          "112.00"
+        ],
+        [
+          "1.3",
+          "Examination",
+          "112.00"
+        ],
+        [
+          "1.4",
+          "Guest or special event spectrum licence",
+          "112.00"
+        ],
+        [
+          "1.5",
+          "Repeater station",
+          "112.00"
+        ],
+        [
+          "2.",
+          "AERONAUTICAL"
+        ],
+        [
+          "2.1",
+          "Aircraft station",
+          "222.00"
+        ],
+        [
+          "2.2",
+          "Glider / microlight",
+          "112.00"
+        ],
+        [
+          "2.3",
+          "Ground station",
+          "133.00"
+        ],
+        [
+          "2.4",
+          "Navigation aids / beacons",
+          "112.00"
+        ],
+        [
+          "2.5",
+          "Operator certificate radiotelephony (including duplicate)",
+          "112.00"
+        ],
+        [
+          "3.",
+          "MARITIME"
+        ],
+        [
+          "3.1",
+          "Beacon",
+          "112.00"
+        ],
+        [
+          "3.2",
+          "Operator certificate radiotelephony (including duplicate)",
+          "112.00"
+        ],
+        [
+          "3.3",
+          "Ship Station"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8251",
+    "data": {
+      "header": [
+        "Table 1: Projected Budget as per 2020 Spectrum Fee Determination",
+        "Table 1: Projected Budget as per 2020 Spectrum Fee Determination",
+        "Table 1: Projected Budget as per 2020 Spectrum Fee Determination",
+        "Table 1: Projected Budget as per 2020 Spectrum Fee Determination",
+        "Table 1: Projected Budget as per 2020 Spectrum Fee Determination"
+      ],
+      "rows": [
+        [
+          "BUDGET",
+          "2021/2022",
+          "2022/2023",
+          "2023/2024",
+          "Total"
+        ],
+        [
+          "Total Capex allocated to Spectrum Management",
+          "9,850,000",
+          "10,000,000",
+          "10,150,000",
+          "30,000,000"
+        ],
+        [
+          "Total Opex allocated to Spectrum Management",
+          "18,681,362.08",
+          "20,701,895",
+          "23,014,011",
+          "62,397,268.08"
+        ],
+        [
+          "Total Projected Cost for Spectrum",
+          "28,531,362.08",
+          "30,701,894.99",
+          "33,164,010.68",
+          "92,397,267.75"
+        ],
+        [
+          "Total Budget for Spectrum as Approved",
+          "14,933,288",
+          "27,426,875",
+          "30,349,190",
+          "72,709,353"
+        ],
+        [
+          "OPEX",
+          "13,193,627",
+          "11,916,915",
+          "17,868,636",
+          "42,979,178"
+        ],
+        [
+          "CAPEX",
+          "1,739,661",
+          "15,509,960",
+          "12,480,554",
+          "29,730,175"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8251",
+    "data": {
+      "header": [
+        "Table 2: Actual Expenditure and Revenue on Spectrum 2021/2022 to 2022/2023",
+        "Table 2: Actual Expenditure and Revenue on Spectrum 2021/2022 to 2022/2023",
+        "Table 2: Actual Expenditure and Revenue on Spectrum 2021/2022 to 2022/2023",
+        "Table 2: Actual Expenditure and Revenue on Spectrum 2021/2022 to 2022/2023"
+      ],
+      "rows": [
+        [
+          "2021/2022",
+          "2022/2023",
+          "Total"
+        ],
+        [
+          "Total Costs",
+          "19,363,370",
+          "27,050,861",
+          "46,414,231"
+        ],
+        [
+          "OPEX",
+          "13,374,999",
+          "15,594,629",
+          "28,969,628"
+        ],
+        [
+          "CAPEX",
+          "5,988,371",
+          "11,456,232",
+          "17,444,603"
+        ],
+        [
+          "Revenue Received",
+          "31,721,847",
+          "21,496,979",
+          "53,218,826"
+        ],
+        [
+          "Revenue Budgetted",
+          "26,243,421",
+          "27,293,158",
+          "53,536,579"
+        ],
+        [
+          "Over/Under recovery on revenue",
+          "5,478,426",
+          "(5,796,179)",
+          "(317,753)"
+        ],
+        [
+          "Over/Under-recovery",
+          "12,358,477",
+          "(5,553,882)",
+          "6,486,842"
+        ],
+        [
+          "AFS 2021/2022 and provisional AFS 2022/2023",
+          "AFS 2021/2022 and provisional AFS 2022/2023",
+          "AFS 2021/2022 and provisional AFS 2022/2023",
+          "AFS 2021/2022 and provisional AFS 2022/2023"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8265",
+    "data": {
+      "header": [
+        "Frequencies (MHz)",
+        "Spectrum Blocks",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "1427 - 1517 MHz (TDD)",
+          "1427 - 1447 MHz (1 x 20 MHz)",
+          "MOBILE (IMT)"
+        ],
+        [
+          "24.25 - 27.5 GHz (TDD)",
+          "26.5 - 27.5 GHz (1 x 1000 MHz)",
+          "MOBILE (IMT)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8291",
+    "data": {
+      "header": [
+        "Frequencies (MHz)",
+        "Spectrum Blocks",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "3300 - 3400 MHz (TDD)",
+          "3300 - 3380 MHz (1 x 80 MHz)",
+          "MOBILE (IMT)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8331",
+    "data": {
+      "header": [
+        "No. 123",
+        "Communications Regulatory Authority of Namibia: Notice in terms of regulations 4 of Regulations Prescribing Procedures regarding Application for, and Amendment, Renewal, Transfer and Cancellation of Spectrum Licenses: Communications Act, 2009.",
+        "15"
+      ],
+      "rows": [
+        [
+          "No. 124",
+          "Communications Regulatory Authority of Namibia: Notice in terms of regulations 4 of Regulations Prescribing Procedures regarding Application for, and Amendment, Renewal, Transfer and Cancellation of Spectrum Licenses: Communications Act, 2009",
+          "16"
+        ],
+        [
+          "No. 125",
+          "Communications Regulatory Authority of Namibia: Notice in terms of regulations 4 of Regulations Prescribing Procedures regarding Application for, and Amendment, Renewal, Transfer and Cancellation of Spectrum Licenses: Communications Act, 2009",
+          "17"
+        ],
+        [
+          "No. 126",
+          "Communications Regulatory Authority of Namibia: Notice in terms of Regulations prescribing the National Numbering Plan for use in the provision of Telecommunications Services in the Republic of Namibia, Number Licence Fees and Procedures for Number Licenses: Communications Act, 2009",
+          "18"
+        ],
+        [
+          "No. 127",
+          "Communications Regulatory Authority of Namibia: Notice in terms of Regulations prescribing the National Numbering Plan for use in the provision of Telecommunications Services in the Republic of Namibia, Number Licence Fees and Procedures for Number Licenses: Communications Act, 2009",
+          "19"
+        ],
+        [
+          "No. 128",
+          "Communications Regulatory Authority of Namibia: Notice in terms of Regulations prescribing the National Numbering Plan for use in the provision of Telecommunications Services in the Republic of Namibia, Number Licence Fees and Procedures for Number Licenses: CommunicationsAct, 2009",
+          "20"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8437",
+    "data": {
+      "header": [
+        "Frequencies (MHz)",
+        "Spectrum blocks",
+        "Geographical location",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "2500 - 2690 MHz (TDD)",
+          "2595 - 2625 MHz (1 x 30 MHz)",
+          "Geographical except Khomas region",
+          "MOBILE (IMT)"
+        ],
+        [
+          "2500 - 2690 MHz (TDD)",
+          "2630 - 2650 MHz (1 x 20 MHz)",
+          "National",
+          "MOBILE (IMT)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8714",
+    "data": {
+      "header": [
+        "Frequencies (MHz)",
+        "Spectrum Blocks",
+        "Geographical location",
+        "Service to be provided"
+      ],
+      "rows": [
+        [
+          "3600 - 3800 MHz (TDD)",
+          "3610 - 3650 MHz (1x 40 MHz)",
+          "Geographic (Private Network)",
+          "MOBILE (IMT)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8748",
+    "data": {
+      "header": [
+        "Oblixx Communications Networks CC",
+        "Namibian",
+        "100%",
+        "Spectrum License",
+        "KU-Band 10700- 14750 MHz",
+        "Downlink 10 -12.7 GHz Bandwidth (250 MHz) Uplink 14-14.5 GHz Bandwidth (20 MHz)",
+        "National",
+        "FIXED- SATEL LITE"
+      ],
+      "rows": [
+        [
+          "Rocketnet Internet Namibia Pty Ltd",
+          "Namibian",
+          "51%",
+          "Spectrum License",
+          "KU-Band 10700- 14750 MHz",
+          "Downlink 10 -12.7 GHz Bandwidth (250 MHz) Uplink 14-14.5 GHz Bandwidth (20 MHz)",
+          "National",
+          "FIXED- SATEL LITE"
+        ],
+        [
+          "Rocketnet Internet Namibia Pty Ltd",
+          "Namibian",
+          "51%",
+          "Temporary Spectrum License",
+          "KU-Band 10700- 14750 MHz",
+          "Downlink 10 -12.7 GHz Bandwidth (250 MHz) Uplink 14-14.5 GHz Bandwidth (20 MHz)",
+          "Khomas Region",
+          "FIXED- SATEL LITE"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8748",
+    "data": {
+      "header": [
+        "Radio Frequency Spectrum Band",
+        "Frequency Plan Allocation"
+      ],
+      "rows": [
+        [
+          "14-19.95 kHz 20.05-70 kHz 72-84 kHz 86-90 kHz 110-112 kHz 117.6-126 kHz 129-130 kHz 130-135.7 kHz 135.7-137.8 kHz 137.8-148.5 kHz 1606.5-1625 kHz 1635-1800 kHz 1850-2000 kHz 2000-2025 kHz 2025-2045 kHz 2045-2160 kHz 2194-2300 kHz 2300-2498 kHz 2502-2625 kHz 2650-2850 kHz 3155-3200 kHz 3200-3230 kHz 3230-3400 kHz 3500-3800 kHz 3800-3900 kHz 3950-4000 kHz 4000-4063 kHz 4438-4488 kHz 4488-450 kHz 4750-4850 kHz 4850-4995 kHz 5005-5060 kHz 5060-5250 kHz 5250-5275 kHz 5275-5351.5 kHz 5351.5-5366.5 kHz 5366.5-5450 kHz 5450-5480 kHz 5730-5900 kHz 6765-7000 kHz 7450-8100 kHz 8100-8195 kHz 9040-9305 kHz 9305-9355 kHz 9355-9400 kHz 9900-9995 kHz 10100-10150 kHz 10150-11175 kHz",
+          "FIXED"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8756",
+    "data": {
+      "header": [
+        "No. 775",
+        "Communications Regulatory Authority of Namibia: Notice in terms of regulation 4(7) of the Regulations prescribing Procedures regarding Application for, and Amendment, Renewal, Transfer and Cancellation of Spectrum Licenses: Communications Act, 2009",
+        "1"
+      ],
+      "rows": [
+        [
+          "No. 776",
+          "Communications Regulatory Authority of Namibia: Notice in terms of regulation 4(7) of the Regulations prescribing Procedures regarding Application for, and Amendment, Renewal, Transfer and Cancellation of Spectrum Licenses: Communications Act, 2009",
+          "2"
+        ],
+        [
+          "No. 777",
+          "Communications Regulatory Authority of Namibia: Notice in terms of regulation 4(7) of the Regulations prescribing Procedures regarding Application for, and Amendment, Renewal, Transfer and Cancellation of Spectrum Licenses: Communications Act, 2009",
+          "3"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8730-Gen-N690-692-04-Sep-2025",
+    "data": {
+      "header": [
+        "No. 690",
+        "Communications Regulatory Authority of Namibia: Notice of intention to amend Regulations prescribing regarding Application for and Amendment, Renewal Transfer and Cancellation of Spectrum",
+        "1"
+      ],
+      "rows": [
+        [
+          "Procedures"
+        ],
+        [
+          "Communications Act,"
+        ],
+        [
+          "No. 691",
+          "Licences: 2009  Communications Regulatory Authority of Namibia: Notice of Intention to Amend Regulations Prescribing",
+          "3"
+        ],
+        [
+          "Provision of Universal Service by Telecommunications Service Licensees: Communications, 2009"
+        ],
+        [
+          "the"
+        ],
+        [
+          "Reporting Obligations for Licences: Communications Act, 2009",
+          "5"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5037-Gen_N304-308",
+    "data": {
+      "header": [
+        "No.",
+        "Licensee",
+        "Type of service license",
+        "Licensee's Citizenship or place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens",
+        "Radio Frequencies or group of frequencies assigned",
+        "Services to be provided using the spectrum assigned",
+        "Proof of Spectrum Use Licence Application Fees Paid Up to Date Submitted?"
+      ],
+      "rows": [
+        [
+          "1",
+          "Wireless Technologies Namibia (Pty) Ltd",
+          "Class Comprehensive Telecommunications Service Licence (ECS and ECNS)",
+          "Namibia",
+          "100%",
+          "8038.000 MHz 8066.000 MHz 8094.000 MHz 8304.000 MHz 8332.000 MHz 8360.000 MHz 17920.000 MHz 17975.000 MHz",
+          "Fixed",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5037-Gen_N304-308",
+    "data": {
+      "header": [
+        "Licensee",
+        "Type of service licence;",
+        "Licensee's citizenship or place of incorporation;",
+        "Description of geographic coverage area(s);",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies Controlled by Namibian Citizens;",
+        "Radio frequencies or group of frequencies assigned:",
+        "Services to be provided using the spectrum assigned;",
+        "Proof of Licence Application Fees Paid Up to Date Submitted;"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Class Comprehensive Telecommunications Service Licence (ECS and ECNS)",
+          "Namibia",
+          "Namibia Windhoek to Swakopmund Link Namibia Windhoek to Swakopmund Link Namibia",
+          "66%",
+          "890.000 - 903.000 MHz 935.000 - 948.000 MHz 1710.200 - 1745.200 MHz 1805.200 - 1840.200 MHz 1920.000 - 1925.000 MHz 1930.000 - 1935.000 MHz 2110.000 - 2115.000 MHz 2120.000 - 2125.000 MHz 7121.000 MHz 7142.000 MHz 7149.000 MHz 7170.000 MHz 7177.000 MHz 7198.000 MHz 7205.000 MHz",
+          "FIXED LAND MOBILE FIXED LAND MOBILE FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED FIXED FIXED FIXED FIXED FIXED FIXED",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5037-Gen_N304-309",
+    "data": {
+      "header": [
+        "No.",
+        "Licensee",
+        "Type of service license",
+        "Licensee's Citizenship or place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens",
+        "Radio Frequencies or group of frequencies assigned",
+        "Services to be provided using the spectrum assigned",
+        "Proof of Spectrum Use Licence Application Fees Paid Up to Date Submitted?"
+      ],
+      "rows": [
+        [
+          "1",
+          "Wireless Technologies Namibia (Pty) Ltd",
+          "Class Comprehensive Telecommunications Service Licence (ECS and ECNS)",
+          "Namibia",
+          "100%",
+          "8038.000 MHz 8066.000 MHz 8094.000 MHz 8304.000 MHz 8332.000 MHz 8360.000 MHz 17920.000 MHz 17975.000 MHz",
+          "Fixed",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5037-Gen_N304-309",
+    "data": {
+      "header": [
+        "Licensee",
+        "Type of service licence;",
+        "Licensee's citizenship or place of incorporation;",
+        "Description of geographic coverage area(s);",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies Controlled by Namibian Citizens;",
+        "Radio frequencies or group of frequencies assigned:",
+        "Services to be provided using the spectrum assigned;",
+        "Proof of Licence Application Fees Paid Up to Date Submitted;"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Class Comprehensive Telecommunications Service Licence (ECS and ECNS)",
+          "Namibia",
+          "Namibia Windhoek to Swakopmund Link Namibia Windhoek to Swakopmund Link Namibia",
+          "66%",
+          "890.000 - 903.000 MHz 935.000 - 948.000 MHz 1710.200 - 1745.200 MHz 1805.200 - 1840.200 MHz 1920.000 - 1925.000 MHz 1930.000 - 1935.000 MHz 2110.000 - 2115.000 MHz 2120.000 - 2125.000 MHz 7121.000 MHz 7142.000 MHz 7149.000 MHz 7170.000 MHz 7177.000 MHz 7198.000 MHz 7205.000 MHz",
+          "FIXED LAND MOBILE FIXED LAND MOBILE FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED FIXED FIXED FIXED FIXED FIXED FIXED",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5037-Gen_N304-_NOTICE_310",
+    "data": {
+      "header": [
+        "No.",
+        "Licensee",
+        "Type of service license",
+        "Licensee's Citizenship or place of incorporation",
+        "Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian Citizens",
+        "Radio Frequencies or group of frequencies assigned",
+        "Services to be provided using the spectrum assigned",
+        "Proof of Spectrum Use Licence Application Fees Paid Up to Date Submitted?"
+      ],
+      "rows": [
+        [
+          "1",
+          "Wireless Technologies Namibia (Pty) Ltd",
+          "Class Comprehensive Telecommunications Service Licence (ECS and ECNS)",
+          "Namibia",
+          "100%",
+          "8038.000 MHz 8066.000 MHz 8094.000 MHz 8304.000 MHz 8332.000 MHz 8360.000 MHz 17920.000 MHz 17975.000 MHz",
+          "Fixed",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5037-Gen_N304-_NOTICE_310",
+    "data": {
+      "header": [
+        "Licensee",
+        "Type of service licence;",
+        "Licensee's citizenship or place of incorporation;",
+        "Description of geographic coverage area(s);",
+        "Percentage of Stock owned by Namibian Citizens or Namibian Companies Controlled by Namibian Citizens;",
+        "Radio frequencies or group of frequencies assigned:",
+        "Services to be provided using the spectrum assigned;",
+        "Proof of Licence Application Fees Paid Up to Date Submitted;"
+      ],
+      "rows": [
+        [
+          "Mobile Telecommunications Limited",
+          "Class Comprehensive Telecommunications Service Licence (ECS and ECNS)",
+          "Namibia",
+          "Namibia Windhoek to Swakopmund Link Namibia Windhoek to Swakopmund Link Namibia",
+          "66%",
+          "890.000 - 903.000 MHz 935.000 - 948.000 MHz 1710.200 - 1745.200 MHz 1805.200 - 1840.200 MHz 1920.000 - 1925.000 MHz 1930.000 - 1935.000 MHz 2110.000 - 2115.000 MHz 2120.000 - 2125.000 MHz 7121.000 MHz 7142.000 MHz 7149.000 MHz 7170.000 MHz 7177.000 MHz 7198.000 MHz 7205.000 MHz",
+          "FIXED LAND MOBILE FIXED LAND MOBILE FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED FIXED FIXED FIXED FIXED FIXED FIXED",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5148-74_Amendment_13_March_2013",
+    "data": {
+      "header": [
+        "Applicant;",
+        "incorpoplace of plicants Citizenship or Ap- ration;",
+        "Percentage of Stock ownedby Namibian Namibian Citizens or Namibian citizens or Companiescon- trolledby Namibian Citizens;",
+        "Radio Frequenof frequencies cies or group applied for;",
+        "Services being ap- spectrum provided using the intended tobe plied for;",
+        "geographic coverage area (s); Descriptionof",
+        "Type of service license;",
+        "Proofof License Application Fees Paid Up Submit- to Date ted? Yes/No"
+      ],
+      "rows": [
+        [
+          "Erongo Regional ityDistributor Electric- Company(Pty) Ltd",
+          "Namibia",
+          "100%",
+          "7446.500MHz 7414.500MHz 7460.500MHz 24608.500MHz 7628.500MHz 25616.500MHz 24622.500MHz 25630.500MHz",
+          "LINKS FIXED",
+          "Erongo anypart Region or thereof.",
+          "PrivateECNS (In terms of Regula- tion5oftheRegula- tionsSetting Out Broadcasting and Telecommunications ServiceLicense Categories,this service maybeprovided without alicense.)",
+          "Yes"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6141-Gen_N393-402_4_Oct_2016",
+    "data": {
+      "header": [
+        "TYPE OFCERTIFICATE OR SPECTRUM",
+        "LICENCE",
+        "FEES (N$)"
+      ],
+      "rows": [
+        [
+          "1.",
+          "AMATEUR RADIO",
+          "AMATEUR RADIO"
+        ],
+        [
+          "1.1",
+          "All classes of amateur radio spectrum licences",
+          "N$ 97.00"
+        ],
+        [
+          "1.2",
+          "Beacon",
+          "N$ 97.00"
+        ],
+        [
+          "1.3",
+          "Examination",
+          "N$ 97.00"
+        ],
+        [
+          "1.4",
+          "Guest or special event spectrum licence",
+          "N$ 97.00"
+        ],
+        [
+          "1.5",
+          "Repeater station",
+          "N$ 97.00"
+        ],
+        [
+          "2.",
+          "AERONAUTICAL",
+          "AERONAUTICAL"
+        ],
+        [
+          "2.1",
+          "Aircraft station",
+          "N$194.00"
+        ],
+        [
+          "2.2",
+          "Glider / microlight",
+          "N$ 97.00"
+        ],
+        [
+          "2.3",
+          "Ground station",
+          "N$116.00"
+        ],
+        [
+          "2.4",
+          "Navigation aids / beacons",
+          "N$ 97.00"
+        ],
+        [
+          "2.5",
+          "Operator certificate radiotelephony (including duplicate)",
+          "N$ 97.00"
+        ],
+        [
+          "3.",
+          "MARITIME",
+          "MARITIME"
+        ],
+        [
+          "3.1",
+          "Beacon",
+          "N$ 97.00"
+        ],
+        [
+          "3.2",
+          "Operator certificate radiotelephony (including duplicate)",
+          "N$ 97.00"
+        ],
+        [
+          "3.3",
+          "Ship Station",
+          "Ship Station"
+        ],
+        [
+          "3.3.1 ITU assigned frequencies",
+          "N$291.00"
+        ],
+        [
+          "3.3.2 Any additional VHF or HF frequencies",
+          "N$969.00"
+        ],
+        [
+          "3.4",
+          "Coast Station",
+          "Coast Station"
+        ],
+        [
+          "3.4.1 ITU assigned frequencies",
+          "N$291.00"
+        ],
+        [
+          "3.4.2 Any additional VHF or HF frequencies",
+          "N$969.00"
+        ],
+        [
+          "3.4.3 Yacht and ski-boat stations",
+          "N$ 97.00"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8180-Gen-N494-495-21-Aug-2023",
+    "data": {
+      "header": [
+        "TYPE OFSPECTRUM LICENCE, CERTIFICATE OR EXAMINATION",
+        "TYPE OFSPECTRUM LICENCE, CERTIFICATE OR EXAMINATION",
+        "FEES (N$)"
+      ],
+      "rows": [
+        [
+          "1.",
+          "AMATEUR RADIO"
+        ],
+        [
+          "1.1",
+          "All classes of amateur radio spectrum licences",
+          "112.00"
+        ],
+        [
+          "1.2",
+          "Beacon",
+          "112.00"
+        ],
+        [
+          "1.3",
+          "Examination",
+          "112.00"
+        ],
+        [
+          "1.4",
+          "Guest or special event spectrum licence",
+          "112.00"
+        ],
+        [
+          "1.5",
+          "Repeater station",
+          "112.00"
+        ],
+        [
+          "2.",
+          "AERONAUTICAL"
+        ],
+        [
+          "2.1",
+          "Aircraft station",
+          "222.00"
+        ],
+        [
+          "2.2",
+          "Glider / microlight",
+          "112.00"
+        ],
+        [
+          "2.3",
+          "Ground station",
+          "133.00"
+        ],
+        [
+          "2.4",
+          "Navigation aids / beacons",
+          "112.00"
+        ],
+        [
+          "2.5",
+          "Operator certificate radiotelephony (including duplicate)",
+          "112.00"
+        ],
+        [
+          "3.",
+          "MARITIME"
+        ],
+        [
+          "3.1",
+          "Beacon",
+          "112.00"
+        ],
+        [
+          "3.2",
+          "Operator certificate radiotelephony (including duplicate)",
+          "112.00"
+        ],
+        [
+          "3.3",
+          "Ship Station"
+        ],
+        [
+          "3.3.1 ITU assigned frequencies",
+          "334.00"
+        ],
+        [
+          "3.3.2 Any additional VHF or HF frequencies",
+          "1,112.00"
+        ],
+        [
+          "3.4",
+          "Coast Station"
+        ],
+        [
+          "3.4.1 ITU assigned frequencies",
+          "334.00"
+        ],
+        [
+          "3.4.2 Any additional VHF or HF frequencies",
+          "1,112.00"
+        ],
+        [
+          "3.4.3 Yacht and ski-boat stations",
+          "112.00"
+        ],
+        [
+          "4.",
+          "LAND MOBILE SERVICE"
+        ],
+        [
+          "4.1",
+          "Private alarm station (see item 6.1 for alarm systems)",
+          "371.00"
+        ],
+        [
+          "4.2",
+          "Base Mobile Station"
+        ],
+        [
+          "4.2.1 27/29 MHz band (including CB band)",
+          "112.00"
+        ],
+        [
+          "4.2.2 VHF/UHF per simplex frequency in urban areas",
+          "222.00"
+        ],
+        [
+          "4.2.3 VHF/UHF per simplex frequency in non-urban areas",
+          "133.00"
+        ],
+        [
+          "4.3",
+          "Repeater (private and exclusive)"
+        ],
+        [
+          "4.3.1 Duplex frequency urban areas",
+          "2,448.00"
+        ],
+        [
+          "4.3.2 Duplex frequency non-urban areas",
+          "890.00"
+        ],
+        [
+          "4.3.3 Simplex frequency (Parrot repeater)",
+          "401.00"
+        ],
+        [
+          "4.3.4 Any additional simplex frequency (per frequency)",
+          "222.00"
+        ],
+        [
+          "4.4",
+          "Experimental Station"
+        ],
+        [
+          "4.4.1 Experimental station valid for 6 months",
+          "222.00"
+        ],
+        [
+          "4.6",
+          "National Occupancy (Base Mobile Station)"
+        ],
+        [
+          "4.6.1 Not shared",
+          "1,780.00"
+        ],
+        [
+          "4.6.2 Shared",
+          "222.00"
+        ],
+        [
+          "5.",
+          "HIGH FREQUENCY(HF) RADIO"
+        ],
+        [
+          "5.1",
+          "Fixed/mobile Station",
+          "334.00"
+        ],
+        [
+          "5.2",
+          "Fixed radio station above 400Watt",
+          "2,225.00"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8180-Gen-N494-495-21-Aug-2023",
+    "data": {
+      "header": [
+        "8.5.1",
+        "Special event broadcast spectrum licence maximum 10 Watt (fee per day up to a maximum capped fee equal to 30 days' daily fee. If period thereafter exceeds 30 days, the maximum fee shall then apply)",
+        "792.00 Maximum fee: 23,764.00"
+      ],
+      "rows": [
+        [
+          "8.5.2",
+          "Outside broadcasting vehicle links (per event irrespective of duration)",
+          "5,281.00"
+        ],
+        [
+          "9.",
+          "MISCELLANEOUS",
+          "MISCELLANEOUS"
+        ],
+        [
+          "9.1",
+          "National Security Forces",
+          "National Security Forces",
+          "87,133.00"
+        ],
+        [
+          "9.2",
+          "Namibia Defence Force",
+          "Namibia Defence Force",
+          "87,133.00"
+        ],
+        [
+          "9.3",
+          "Competency certificate (radios above 400 Watt)",
+          "Competency certificate (radios above 400 Watt)",
+          "112.00"
+        ],
+        [
+          "9.4",
+          "Duplicate spectrum licences",
+          "Duplicate spectrum licences",
+          "112.00"
+        ],
+        [
+          "9.5",
+          "Amendment of spectrum licence",
+          "Amendment of spectrum licence",
+          "101.00"
+        ],
+        [
+          "9.6",
+          "Photocopies perA4 sheet",
+          "Photocopies perA4 sheet",
+          "2.00"
+        ],
+        [
+          "9.10",
+          "Radio location",
+          "Radio location",
+          "1,000.00"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8180-Gen-N494-495-21-Aug-2023",
+    "data": {
+      "header": [
+        "Table 1: Projected Budget as per 2020 Spectrum Fee Determination",
+        "Table 1: Projected Budget as per 2020 Spectrum Fee Determination",
+        "Table 1: Projected Budget as per 2020 Spectrum Fee Determination",
+        "Table 1: Projected Budget as per 2020 Spectrum Fee Determination",
+        "Table 1: Projected Budget as per 2020 Spectrum Fee Determination"
+      ],
+      "rows": [
+        [
+          "BUDGET",
+          "2021/2022",
+          "2022/2023",
+          "2023/2024",
+          "Total"
+        ],
+        [
+          "Total Capex allocated to Spectrum Management",
+          "9,850,000",
+          "10,000,000",
+          "10,150,000",
+          "30,000,000"
+        ],
+        [
+          "Total Opex allocated to Spectrum Management",
+          "18,681,362",
+          "20,701,895",
+          "23,014,011",
+          "62,397,268"
+        ],
+        [
+          "Total Projected Cost for Spectrum",
+          "28,531,362",
+          "30,701,894",
+          "33,164,010",
+          "92,397,267"
+        ],
+        [
+          "Total Budget for Spectrum as Approved",
+          "14,933,288",
+          "27,426,875",
+          "30,349,190",
+          "72,709,353"
+        ],
+        [
+          "OPEX",
+          "13,193,627",
+          "11,916,915",
+          "17,868,636",
+          "42,979,178"
+        ],
+        [
+          "CAPEX",
+          "1,739,661",
+          "15,509,960",
+          "12,480,554",
+          "29,730,175"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8180-Gen-N494-495-21-Aug-2023",
+    "data": {
+      "header": [
+        "Table 2: Actual Expenditure and Revenue on Spectrum 2021/2022 - 2022/2023",
+        "Table 2: Actual Expenditure and Revenue on Spectrum 2021/2022 - 2022/2023",
+        "Table 2: Actual Expenditure and Revenue on Spectrum 2021/2022 - 2022/2023",
+        "Table 2: Actual Expenditure and Revenue on Spectrum 2021/2022 - 2022/2023"
+      ],
+      "rows": [
+        [
+          "2021/2022",
+          "2022/2023",
+          "Total"
+        ],
+        [
+          "Total Costs",
+          "19,363,370",
+          "27,050,861",
+          "46,414,231"
+        ],
+        [
+          "OPEX",
+          "13,374,999",
+          "15,594,629",
+          "28,969,628"
+        ],
+        [
+          "CAPEX",
+          "5,988,371",
+          "11,456,232",
+          "17,444,603"
+        ],
+        [
+          "Revenue Received",
+          "31,721,847",
+          "21,496,979",
+          "53,218,826"
+        ],
+        [
+          "Revenue Budgetted",
+          "26,243,421",
+          "27,293,158",
+          "53,536,579"
+        ],
+        [
+          "Over/Under recovery on revenue",
+          "5,478,426",
+          "-5,796,179",
+          "-317,753"
+        ],
+        [
+          "Over/Under-recovery",
+          "12,358,477",
+          "-5,553,882",
+          "6,486,842"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "AMENDMENT-OF-THE-REGULATIONS-PRESCRIBING-PROCEDURES-REGARDING-APPLICATION-FOR-AND-AMENDMENT-RENEWAL-TRANSFER-AND-CANCELLATION-OF-SPECTRUM-LICENCE",
+    "data": {
+      "header": [
+        "Notes (Additional information)",
+        "Antenna size of < 1/20 λ (see note 1) RFIDs operating in the frequency sub-band 119-135 kHz shall meet the spectrum mask given in EN 300 330. This will permit a simultaneous use of the various sub-bands within the range 90 - 148.5 kHz (Note 11)",
+        "Antenna size of < 1/20 λ (see note 1) RFIDs operating in the frequency sub-band 119-135 kHz shall meet the spectrum mask given in EN 300 330. This will permit a simultaneous use of the various sub-bands within the range 90 - 148.5 kHz (Note 11)",
+        "Antenna size of < 1/20 λ (see note 1) RFIDs operating in the frequency sub-band 119-135 kHz shall meet the spectrum mask given in EN 300 330. This will permit a simultaneous use of the various sub-bands within the range 90 - 148.5 kHz (Note 11)",
+        "Antenna size of < 1/20 λ (see note 1) RFIDs operating in the frequency sub-band 119-135 kHz shall meet the spectrum mask given in EN 300 330. This will permit a simultaneous use of the various sub-bands within the range 90 - 148.5 kHz (Note 11)",
+        "Antenna size of < 1/20 λ (see note 1) RFIDs operating in the frequency sub-band 119-135 kHz shall meet the spectrum mask given in EN 300 330. This will permit a simultaneous use of the various sub-bands within the range 90 - 148.5 kHz (Note 11)",
+        "Antenna size of < 1/20 λ (see note 1) RFIDs operating in the frequency sub-band 119-135 kHz shall meet the spectrum mask given in EN 300 330. This will permit a simultaneous use of the various sub-bands within the range 90 - 148.5 kHz (Note 11)",
+        "Antenna size of < 1/20 λ (see note 1) RFIDs operating in the frequency sub-band 119-135 kHz shall meet the spectrum mask given in EN 300 330. This will permit a simultaneous use of the various sub-bands within the range 90 - 148.5 kHz (Note 11)",
+        "For RFID only"
+      ],
+      "rows": [
+        [
+          "Harmonised Standard",
+          "EN 300 330",
+          "EN 302 195"
+        ],
+        [
+          "Prescribed Channel Spacing",
+          "None",
+          "None",
+          "Continuous wave (CW) - no modulation,",
+          "channel spacing ≥150 Hz"
+        ],
+        [
+          "Duty Cycle restriction",
+          "None",
+          "<10%",
+          "None"
+        ],
+        [
+          "Maximum power or magnetic field strength",
+          "82 dBµA/m at 10m",
+          "72 dBμA/m at 10m",
+          "42 dBμA/m at 10m",
+          "66 dBμA/m at 10m",
+          "42 dBμA/m at 10m",
+          "37.7 dBμA/m at 10m",
+          "30 dBμA/m at 10m",
+          "-8 dBµA/m at 10m",
+          "7 dBμA/m at 10m"
+        ],
+        [
+          "Typical Applications",
+          "Inductive applications",
+          "Active medical implants",
+          "Inductive applications",
+          "Tracking, Tracing and Data Acquisition"
+        ],
+        [
+          "Frequency band",
+          "8.3-9kHz",
+          "9-90 kHz",
+          "90-119 kHz",
+          "119-135 kHz",
+          "135-140 kHz",
+          "140-148.5 kHz",
+          "9-315 kHz",
+          "400-600 kHz",
+          "442.2-450 kHz"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "AMENDMENT-OF-THE-REGULATIONS-PRESCRIBING-PROCEDURES-REGARDING-APPLICATION-FOR-AND-AMENDMENT-RENEWAL-TRANSFER-AND-CANCELLATION-OF-SPECTRUM-LICENCE",
+    "data": {
+      "header": [
+        "Notes (Additional information)",
+        "Very Low Power (VLP) indoor outdoor use.",
+        "Use on drones is prohibited Maximum meand e.i.r.p. for inband emissions = 1 dBm/MHz",
+        "ISM band (RR No. 5.150 )",
+        "For vehicle radars",
+        "For vehicle radars",
+        "For vehicle radars. The spectrum access and mitigation requirement is given for devices mounted behind a bumper. If mounted without a bumper, the requirement should be 3μs/40kHz maximum dwell time every 3ms",
+        "The spectrum access and mitigation requirement is given for devices mounted either behind a bumper or mounted without a bumper",
+        "For vehicle radars"
+      ],
+      "rows": [
+        [
+          "Harmonised Standard",
+          "EN 303 687",
+          "EN 300 440",
+          "EN 300 440",
+          "EN 300 440",
+          "EN 300 440",
+          "EN 300 440",
+          "EN 300 440",
+          "EN 300 440"
+        ],
+        [
+          "Prescribed Channel Spacing",
+          "None",
+          "None",
+          "None"
+        ],
+        [
+          "Duty Cycle restriction",
+          "None",
+          "None",
+          "None",
+          "None None",
+          "None)",
+          "≤ 1ms/40kHz dwell time every 40ms",
+          "None"
+        ],
+        [
+          "Maximum power or magnetic field strength",
+          "14 dBm (25) e.i.r.p mW",
+          "100 mWe.i.r.p.",
+          "100 mWe.i.r.p.",
+          "100 mWe.i.r.p. 0.1mW e.i.r.p.",
+          "100 mWe.i.r.p.",
+          "100 mWe.i.r.p."
+        ],
+        [
+          "Typical Applications",
+          "WAS RLAN",
+          "Non-specific SRDs",
+          "Radiodetermination",
+          "RTTT (24.05-24.075 GHz)",
+          "RTTT(24.075-24.15 GHz)",
+          "RTTT"
+        ],
+        [
+          "Frequency band",
+          "5825-6425 MHz",
+          "24.00-24.25 GHz",
+          "24.15-24.25 GHz"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "GG-7359-dated-14-Oct-2020",
+    "data": {
+      "header": [
+        "TYPE OFSPECTRUM LICENCE, CERTIFICATE OR EXAMINATION",
+        "TYPE OFSPECTRUM LICENCE, CERTIFICATE OR EXAMINATION",
+        "FEES (N$)"
+      ],
+      "rows": [
+        [
+          "1.",
+          "AMATEUR RADIO"
+        ],
+        [
+          "1.1",
+          "All classes of amateur radio spectrum licences",
+          "109.00"
+        ],
+        [
+          "1.2",
+          "Beacon",
+          "109.00"
+        ],
+        [
+          "1.3",
+          "Examination",
+          "109.00"
+        ],
+        [
+          "1.4",
+          "Guest or special event spectrum licence",
+          "109.00"
+        ],
+        [
+          "1.5",
+          "Repeater station",
+          "109.00"
+        ],
+        [
+          "2.",
+          "AERONAUTICAL"
+        ],
+        [
+          "2.1",
+          "Aircraft station",
+          "217.00"
+        ],
+        [
+          "2.2",
+          "Glider / microlight",
+          "109.00"
+        ],
+        [
+          "2.3",
+          "Ground station",
+          "130.00"
+        ],
+        [
+          "2.4",
+          "Navigation aids / beacons",
+          "109.00"
+        ],
+        [
+          "2.5",
+          "Operator certificate radiotelephony (including duplicate)",
+          "109.00"
+        ],
+        [
+          "3.",
+          "MARITIME"
+        ],
+        [
+          "3.1",
+          "Beacon",
+          "109.00"
+        ],
+        [
+          "3.2",
+          "Operator certificate radiotelephony (including duplicate)",
+          "109.00"
+        ],
+        [
+          "3.3",
+          "Ship Station"
+        ],
+        [
+          "3.3.1 ITU assigned frequencies",
+          "326.00"
+        ],
+        [
+          "3.3.2 Any additional VHF or HF frequencies",
+          "1,085.00"
+        ],
+        [
+          "3.4",
+          "Coast Station"
+        ],
+        [
+          "3.4.1 ITU assigned frequencies",
+          "326.00"
+        ],
+        [
+          "3.4.2 Any additional VHF or HF frequencies",
+          "1,085.00"
+        ],
+        [
+          "3.4.3 Yacht and ski-boat stations",
+          "109.00"
+        ],
+        [
+          "4.",
+          "LAND MOBILE SERVICE"
+        ],
+        [
+          "4.1",
+          "Private alarm station (see item 6.1 for alarm systems)",
+          "362.00"
+        ],
+        [
+          "4.2",
+          "Base Mobile Station"
+        ],
+        [
+          "4.2.1 27/29 MHz band (including CB band)",
+          "109.00"
+        ],
+        [
+          "4.2.2 VHF/UHF per simplex frequency in urban areas",
+          "217.00"
+        ],
+        [
+          "4.2.3 VHF/UHF per simplex frequency in non-urban areas",
+          "130.00"
+        ],
+        [
+          "4.3",
+          "Repeater (private and exclusive)"
+        ],
+        [
+          "4.3.1 Duplex frequency urban areas",
+          "2,388.00"
+        ],
+        [
+          "4.3.2 Duplex frequency non-urban areas",
+          "868.00"
+        ],
+        [
+          "4.3.3 Simplex frequency (Parrot repeater)",
+          "391.00"
+        ],
+        [
+          "4.3.4 Any additional simplex frequency (per frequency)",
+          "217.00"
+        ],
+        [
+          "4.4",
+          "Experimental Station"
+        ],
+        [
+          "4.4.1 Experimental station valid for 6 months",
+          "217.00"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "GG-7359-dated-14-Oct-2020",
+    "data": {
+      "header": [
+        "It appears that this provision for a refund has been provided because reg. 4(3)(a) states that fees in respect of any spectrum licence, other than a licence conferred by a spectrum auctions, is payable annually in advance and in full. The possibility of a refund for fees paid in respect of a licence conferred by means of spectrum auction hasnot been provided for in the proposed regulations. While we appreciate that the terms and conditions for the payment of the auction price for spectrum conferred by means of an auction is likely to differ from bid to bid, and will be included in the Award for the Bid, reg. 10(2) of the regulations pertaining to spectrum licences provides that that the spectrum licences will only be issued to the successful bidder once the auction prici is paid. In other words, reg. 10(2) of the regulations pertaining to spectrum licences contemplates that fees for spectrum licences conferred by means of an auction are paid in advance. Accordingly, wesubmitthat the provision for a refund following a forfeiture, lapse, or discontinuation of a spectrum licence should be extended to include spectrum conferred by means of an auction. In addition, we note that the reference to 'paragraph",
+        "The proposed regulations thus correctly do not apply to spectrum licences conferred by means of an auction. The Authority takes note of the comments made in respect of the correct referencing of paragraph (b) under regulation 4(3)."
+      ],
+      "rows": [
+        [
+          "Para 8.2 of Table 1: Fees payable for spectrum utilised for broadcasting services Para 8.2 of Table 1 of the proposed regulations prescribes the following fees for digital terrestrial television broadcasting transmitters ('DTT spectrum fees') (i) N$ 9 251 for 0.000 to 100.999 Watt (ERP) (ii) N$ 11 373 for 101.000 to 999.999 Watt (ERP) (iii) N$ 14 173 for 1000 Watt (ERP) and above This represents a 23%increase in fees from those that are prescribed in the Regulations Setting out Fees for Spectrum Licences, Certificates and Examinations, 2017. We support the inclusion of reg 2(1)(c) of the proposed regulations which contemplates that the setting of spectrum fees must take into account the demand for spectrum and the impact of inflation. We believe that this is important and necessary to contained the fees for spectrum licences. We do not know how the Authority arrived at the increase in fees of 23% in the DTT spectrum fees. While we are cognizant of the objectives in reg. 2(1) of the proposed regulations to, among other things, encourage the efficient use of spectrum, discourage spectrum hoarding and recover costs incurred by the Authority, that an increase of 23% is excessive and not justified.",
+          "The spectrum fees published in 2017 were based on CPI up to 2015. The Authority has not implemented annual increases since 2017, but kept the spectrum fees at the same level for 4 years. The proposed fees will only come into effect 1 January 2021. Administrative fees have been set in accordance with the CPIs of 2016,2017,2018 and 2019 amounting to 23%, but the increase is 23% cumulatively, as well as the total cost of spectrum management. The Authority has however taken into consideration the oral and written input from licensees and capped the total increase to 12%. Spectrum fees will be adjusted annually by the CPI as published by NSA. The migration from analogue to digital terrestrial television services did not lower the cost of spectrum management in that the Authority still has to manage spectrum in the spectrum band 174-230 MHz and 470-694 MHz now allocated to DTT television services. The Authority is thus of the opinion that the aforementioned migration has no effect that requires a reduction in spectrum fees."
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "GG-7359-dated-14-Oct-2020",
+    "data": {
+      "header": [
+        "There is no indication that the formula-based method is the singular way to reach the stated objectives.",
+        "There is no indication that the formula-based method is the singular way to reach the stated objectives.",
+        "Furthermore, it allows the Authority to ensure optimal use of spectrum and discourage utilisation of spectrum for legacy services when bands have been allocated to new services, hoarding of spectrum and geographical license sharing of spectrum. The fees to be charged will not differ irrespective of"
+      ],
+      "rows": [
+        [
+          "Ad Table 1 - Spectrum Licences, Certificates and Examination Fees",
+          "Ad Table 1 - Spectrum Licences, Certificates and Examination Fees",
+          "the method of calculation. The spectrum fees published in 2017 was based on CPI up to 2015. The Authority has not implemented annual increases, but kept the spectrum fees at the same level for 4 years. Thus in contrast with ICASA, Authority has not increased fees for the period"
+        ],
+        [
+          "The prices in table 1 under Regulation 4 principally increase by 23%. How does the authority justify this increase given that one of the objects under regulation 2 refers to the annual consumer price index published by the Namibia statistics Agency? That index currently stands at 2.1% in stark contrast ICASA increase the fees by 4.6%, in 2017, in 2018 by 5.3% and 4.7% in 2019. All increase were in line with the consumer price index.",
+          "The prices in table 1 under Regulation 4 principally increase by 23%. How does the authority justify this increase given that one of the objects under regulation 2 refers to the annual consumer price index published by the Namibia statistics Agency? That index currently stands at 2.1% in stark contrast ICASA increase the fees by 4.6%, in 2017, in 2018 by 5.3% and 4.7% in 2019. All increase were in line with the consumer price index.",
+          "the 2016-2019.. Administrative fees have been set in accordance with the CPIs of 2016 (6.7%),2017 (6.2%),2018 (4.3%) and 2019 (3.7%) as well as the total cost of spectrum management. The fees have however been capped at 12% taking into account the oral and written submissions from stakeholders."
+        ],
+        [
+          "It is noted that the fee for Satellite Digital uplink per 128 kbits (VSAT spectrum) reduced to N$ 3,595.00. Although gazetted, this fee was never invoiced to MTC. This fee shouldnott be charged to start with as VSAT spectrum does not belong to the Authority and is instead allocated by the Satellite Operators: (i)",
+          "It is noted that the fee for Satellite Digital uplink per 128 kbits (VSAT spectrum) reduced to N$ 3,595.00. Although gazetted, this fee was never invoiced to MTC. This fee shouldnott be charged to start with as VSAT spectrum does not belong to the Authority and is instead allocated by the Satellite Operators: (i)",
+          "MTChasnotbeenchargedfor fixed satellite spectrum (VSAT) because MTC does not hold a spectrum license for fixed satellite. (Government Gazette 5037 and all subsequent gazette notices refers.) MTC applied for fixed satellite spectrum in 2020."
+        ],
+        [
+          "As it stands, and because VSAT is only deployed in very remote areas of extremely low-density population, the licensees subsidize up to 80% of the end product to the customer, by paying the satellite operators. It is not revenue generating, but merely and economic development responsibility' to satisfy and",
+          "The allocation of spectrum, including satellite spectrum is set out in the Frequency Band Plan of Namibia indicating which satellite service may be provided within which band as well as whether the service to be offered is on an Earth-to-space, space-to-Earth or space-to-space basis. The Authority is the only entity mandated by sections 99-101 of the"
+        ],
+        [
+          "(ii)",
+          "With the Authority also charging for VSAT spectrum, it will simply cause a licensee to cease VSAT services and for MTC that means cutting approximately 15000 customers as the cost of running the service is not commensurate of the revenue generated from those customers.",
+          "operators have no mandate to assign spectrum for fixed satellite services in Namibia. Namibia grants permission to satellite operators to beam over Namibia as per ITU procedures. The Authority is mandated to manage this spectrum resource for the terrestrial segment of satellite. Licensees lease facilities from satellite operators for"
+        ],
+        [
+          "(iii)",
+          "It remains unclear why the Authority seeks to recover fees from a resource they do not manage. It is our understanding that Satellite spectrum is an international resource. The following is a practical example should this fee remain: a. At N$3,959.00 per 128Kbits to CRAN 36 MHz will then cost 3959*36/0.128 = 1,113,468.75 per annum b. Spectrum at US$600/Mbps to satellite operators 36 MHz translates to roughly 108 Mbps 600*108 = US$ 59 400/month which translates to about 1m NAD per month and 12m per year",
+          "the space segment in that they do not operate their own satellites. Fixed satellite services comprises of a space segment and a terrestrial segment. Be that as it may , the cost of satellite will now come down by 23% due to the consideration of the input made by licensees"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "GG-7359-dated-14-Oct-2020",
+    "data": {
+      "header": [
+        "Annual Spectrum fee = BFWxFBFxCFxSHRFxGEOFxBV",
+        "Annual Spectrum fee = BFWxFBFxCFxSHRFxGEOFxBV",
+        "Annual Spectrum fee = BFWxFBFxCFxSHRFxGEOFxBV",
+        "Annual Spectrum fee = BFWxFBFxCFxSHRFxGEOFxBV",
+        "Annual Spectrum fee = BFWxFBFxCFxSHRFxGEOFxBV"
+      ],
+      "rows": [
+        [
+          "Spectrum",
+          "900MHz",
+          "1800MHz",
+          "2100MHz",
+          "Comments"
+        ],
+        [
+          "BWF",
+          "18",
+          "35",
+          "20",
+          "MTCBWalloca- tion"
+        ],
+        [
+          "FBF",
+          "0.75",
+          "0.75",
+          "0.75",
+          "Table 3"
+        ],
+        [
+          "CF",
+          "30",
+          "30",
+          "30",
+          "Table 4"
+        ],
+        [
+          "SHRF",
+          "1",
+          "1",
+          "1",
+          "Table 5"
+        ],
+        [
+          "GEOF",
+          "1",
+          "1",
+          "1",
+          "Table 6"
+        ],
+        [
+          "BV",
+          "30.348",
+          "59,010",
+          "33,720",
+          "@1686.00"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "GG-7359-dated-14-Oct-2020",
+    "data": {
+      "header": [
+        "Annual spectrum fee (900MHz)",
+        "12,290,940"
+      ],
+      "rows": [
+        [
+          "Annual spectrum fee (1800MHz)",
+          "46,470,375"
+        ],
+        [
+          "Annual spectrum fee (2100MHz)",
+          "15,174,000"
+        ],
+        [
+          "Total for RAN spectrum (new)",
+          "73,935,315"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "GG-7359-dated-14-Oct-2020",
+    "data": {
+      "header": [
+        "(ii) 'Shared' means the specific frequencies is awarded to more than one licensee albeit in different geographical areas or tiered licensing of spectrum allowing for use of different services in the same spectrum band as set out in the frequency band plan National roaming and MVNO's have no bearing on spectrum regulations but is addressed in the Authority's infrastructure sharing regulations in that both constitutes forms of active infrastructure sharing."
+      ],
+      "rows": []
+    }
+  },
+  {
+    "gazette": "SPECTRUM_FEES_REGULATIONS",
+    "data": {
+      "header": [
+        "TYPE OF CERTIFICATEOR SPECTRUM LICENCE",
+        "TYPE OF CERTIFICATEOR SPECTRUM LICENCE",
+        "FEES (N$)"
+      ],
+      "rows": [
+        [
+          "1. AMATEURRADIO",
+          "1. AMATEURRADIO"
+        ],
+        [
+          "1.1",
+          "All classes of amateur radio spectrum licences",
+          "N$ 97.00"
+        ],
+        [
+          "1.2",
+          "Beacon",
+          "N$ 97.00"
+        ],
+        [
+          "1.3",
+          "Examination",
+          "N$ 97.00"
+        ],
+        [
+          "1.4",
+          "Guest or special event spectrum licence",
+          "N$ 97.00"
+        ],
+        [
+          "1.5",
+          "Repeater station",
+          "N$ 97.00"
+        ]
+      ]
+    }
+  }
+]

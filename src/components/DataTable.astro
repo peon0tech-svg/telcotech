@@ -1,0 +1,38 @@
+---
+export interface Props {
+  dataset: any;
+}
+
+const { dataset } = Astro.props;
+---
+
+<div class="mb-12">
+  {dataset.map((entry: any, index: number) => (
+    <div class="terminal-box mb-8 overflow-hidden">
+      <div class="bg-[var(--accent-color)] text-[var(--bg-color)] px-4 py-2 font-bold uppercase flex justify-between items-center">
+        <span>Gazette Ref: {entry.gazette}</span>
+        <span class="text-xs opacity-70">Table #{index + 1}</span>
+      </div>
+      <div class="p-4 overflow-x-auto">
+        <table class="w-full text-left border-collapse">
+          <thead>
+            <tr>
+              {entry.data.header.map((head: string) => (
+                <th class="border-b border-[var(--bento-border)] p-2 uppercase text-xs tracking-wider opacity-80 whitespace-nowrap">{head}</th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {entry.data.rows.map((row: string[]) => (
+              <tr class="hover:bg-[rgba(0,255,0,0.05)] transition-colors">
+                {row.map((cell: string) => (
+                  <td class="border-b border-[var(--bento-border)] p-2 text-sm">{cell}</td>
+                ))}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  ))}
+</div>

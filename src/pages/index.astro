@@ -1,0 +1,44 @@
+---
+import Layout from '../layouts/Layout.astro';
+import telecomData from '../data/telecomLicenses.json';
+import broadcastingData from '../data/broadcastingLicenses.json';
+import spectrumData from '../data/spectrumLicenses.json';
+import tariffsData from '../data/tariffs.json';
+import numbersData from '../data/numbers.json';
+import equipmentData from '../data/typeApprovedEquipment.json';
+
+const categories = [
+  { title: 'Telecommunications', count: telecomData.length, link: '/telecom', colSpan: 'md:col-span-2', rowSpan: 'md:row-span-1' },
+  { title: 'Broadcasting', count: broadcastingData.length, link: '/broadcasting', colSpan: 'md:col-span-1', rowSpan: 'md:row-span-1' },
+  { title: 'Spectrum', count: spectrumData.length, link: '/spectrum', colSpan: 'md:col-span-1', rowSpan: 'md:row-span-2' },
+  { title: 'Tariffs', count: tariffsData.length, link: '/tariffs', colSpan: 'md:col-span-1', rowSpan: 'md:row-span-1' },
+  { title: 'Numbers', count: numbersData.length, link: '/numbers', colSpan: 'md:col-span-1', rowSpan: 'md:row-span-1' },
+  { title: 'Equipment', count: equipmentData.length, link: '/equipment', colSpan: 'md:col-span-2', rowSpan: 'md:row-span-1' },
+];
+---
+
+<Layout title="Telecommunication Technology Namibia">
+  <div class="mb-8">
+    <h1 class="text-4xl md:text-6xl font-bold mb-4 uppercase tracking-tighter">
+      <span class="text-[var(--accent-color)]">></span> Data_Core
+    </h1>
+    <p class="text-lg opacity-80 max-w-2xl">
+      Access point for all extracted communications regulatory data. Scanned and compiled from official CRAN documents and gazettes.
+    </p>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-6 auto-rows-[200px]">
+    {categories.map(cat => (
+      <a href={cat.link} class={`terminal-box p-6 flex flex-col justify-between group ${cat.colSpan} ${cat.rowSpan}`}>
+        <div>
+          <h2 class="text-2xl font-bold uppercase tracking-widest mb-2 group-hover:text-[var(--accent-color)] transition-colors">{cat.title}</h2>
+          <div class="w-12 h-1 bg-[var(--bento-border)] group-hover:bg-[var(--accent-color)] transition-colors"></div>
+        </div>
+        <div class="flex justify-between items-end">
+          <span class="text-sm uppercase tracking-widest opacity-70">Records Found</span>
+          <span class="text-5xl font-light text-[var(--accent-color)]">{cat.count}</span>
+        </div>
+      </a>
+    ))}
+  </div>
+</Layout>

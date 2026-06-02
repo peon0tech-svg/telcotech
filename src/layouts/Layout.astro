@@ -1,0 +1,46 @@
+---
+import '../styles/global.css';
+
+export interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en" class="dark">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content="Telecommunication Technology Namibia Documentation Website">
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+	</head>
+	<body class="min-h-screen bg-[var(--bg-color)] text-[var(--text-color)] font-mono selection:bg-[var(--accent-color)] selection:text-[var(--bg-color)]">
+		<nav class="border-b border-[var(--bento-border)] p-4 flex justify-between items-center bg-[var(--bento-bg)] relative z-10 shadow-[var(--glow)]">
+			<div class="flex items-center space-x-4">
+                <a href="/" class="text-xl font-bold tracking-wider hover:text-[var(--accent-color)] transition-colors cursor-pointer">
+                    > TELCO_TECH_NAMIBIA_
+                </a>
+            </div>
+			<div>
+				<button id="theme-toggle" class="terminal-box px-4 py-2 text-sm uppercase tracking-widest font-bold">
+					Toggle Theme
+				</button>
+			</div>
+		</nav>
+        <div class="fixed inset-0 z-0 opacity-20 pointer-events-none" style="background-image: url('/tech-bg.png'); background-size: cover; background-position: center; mix-blend-mode: screen;"></div>
+		<main class="container mx-auto p-6 relative z-10">
+			<slot />
+		</main>
+        
+        <script>
+            const themeToggleBtn = document.getElementById('theme-toggle');
+            themeToggleBtn?.addEventListener('click', () => {
+                document.documentElement.classList.toggle('dark');
+            });
+        </script>
+	</body>
+</html>

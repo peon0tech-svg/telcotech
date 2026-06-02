@@ -1,0 +1,3335 @@
+[
+  {
+    "gazette": "5214",
+    "data": {
+      "header": [
+        "Call Monitoring Equipment",
+        "Call Metering Unit"
+      ],
+      "rows": [
+        [
+          "Call Monitoring Equipment",
+          "Call Monitoring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call barring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Recording Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Subscriber private Meter"
+        ],
+        [
+          "Data Equipment",
+          "Modem"
+        ],
+        [
+          "Data Equipment",
+          "Router"
+        ],
+        [
+          "Data Equipment",
+          "Switch"
+        ],
+        [
+          "Data Equipment",
+          "pAD"
+        ],
+        [
+          "Data Equipment",
+          "MUX"
+        ],
+        [
+          "facsimile Equipment",
+          "All Types"
+        ],
+        [
+          "Network Equipment",
+          "Microwave Transmitter"
+        ],
+        [
+          "Network Equipment",
+          "base Station Transmitter"
+        ],
+        [
+          "Network Equipment",
+          "Network Management System"
+        ],
+        [
+          "paging Equipment",
+          "All Types"
+        ],
+        [
+          "payphone Terminal Equipment",
+          "All Types"
+        ],
+        [
+          "private Exchange Equipment",
+          "pMbX"
+        ],
+        [
+          "pAbX"
+        ],
+        [
+          "Voice Messaging System"
+        ],
+        [
+          "Switchboard Equipment"
+        ],
+        [
+          "Media Convergence Server"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Hf"
+        ],
+        [
+          "VHf"
+        ],
+        [
+          "UHf"
+        ],
+        [
+          "Radio Alarm Transmitter"
+        ],
+        [
+          "Citizen band Radio"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "GMpCS terminal (with ITU MoU Mark)"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "GMpCS terminal (without ITU MoU Mark)"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "VSAT"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "Access Control (including door and gate openers)"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "Alarms and movement detectors"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "Closed circuit television (CCTV)"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "Cordless audio devices including wireless microphones"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "Industrial control devices"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "Local Area Networks"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "Medical Devices"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "UWbsensors and radars (such as ground probing radar)"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "Remote controls"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "Radio frequency identification (RfID)"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "Road Transport telematics"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "Telemetry"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "Car Radios"
+        ],
+        [
+          "Short Range Devices/ Low power terminals"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5214",
+    "data": {
+      "header": [
+        "Telephone Terminal Equipment",
+        "Ordinary telephone"
+      ],
+      "rows": [
+        [
+          "Telephone Terminal Equipment",
+          "Executive telephone"
+        ],
+        [
+          "Telephone Terminal Equipment",
+          "Cordless telephone"
+        ],
+        [
+          "Telephone Terminal Equipment",
+          "Answer machine integrated into the telephone"
+        ],
+        [
+          "Telephone Terminal Equipment",
+          "2-line executive telephone"
+        ],
+        [
+          "Telephone Terminal Equipment",
+          "Cordless executive telephone"
+        ],
+        [
+          "Telephone Terminal Equipment",
+          "Intelligent executive telephone"
+        ],
+        [
+          "Telephone Terminal Equipment",
+          "Answering machine unit"
+        ],
+        [
+          "Telephone Terminal Equipment",
+          "GSM phone"
+        ],
+        [
+          "Telephone Terminal Equipment",
+          "CDMAterminal"
+        ],
+        [
+          "TV Set-Top box",
+          "All types"
+        ],
+        [
+          "VOIp network equipment",
+          "E1 interface card"
+        ],
+        [
+          "VOIp network equipment",
+          "VOIp gateway"
+        ],
+        [
+          "VOIp network equipment",
+          "Ip terminal"
+        ],
+        [
+          "Wimax terminal",
+          "All types"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5214",
+    "data": {
+      "header": [
+        "2x Identifying postcard size colour photographs of equipment submitted for type approval"
+      ],
+      "rows": [
+        [
+          "Afunctional description of the equipment, at least at block diagram level"
+        ],
+        [
+          "Operating instructions"
+        ],
+        [
+          "Certified copy of declaration of conformity by applicant, manufacturer or supplier of telecommunications equipment including test report (both Rf and EMC), issued by an accredited test laboratory"
+        ],
+        [
+          "Certified copies of test reports and certificate of compliance with Radio regulations issued by an accredited test laboratory"
+        ],
+        [
+          "Certified copy of test report for Safety Regulations issued by an accredited test laboratory"
+        ],
+        [
+          "Receipt issued by CRAN as per applicable fees"
+        ],
+        [
+          "physical sample equipment if type approval of untested equipment is requested"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5214",
+    "data": {
+      "header": [
+        "EQUIPMENT CATEGORY",
+        "EQUIPMENT INCLUDED IN THIS CATEGORY",
+        "FEES (N$)"
+      ],
+      "rows": [
+        [
+          "Radio Transmitter Equipment",
+          "Community Radio Transmitter",
+          "1,000.00"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call metering unit",
+          "250.00"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call monitoring unit",
+          "250.00"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call barring unit",
+          "250.00"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call recording unit",
+          "250.00"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Subscriber private meter",
+          "250.00"
+        ],
+        [
+          "Data Equipment",
+          "Modem",
+          "450.00"
+        ],
+        [
+          "Data Equipment",
+          "Router",
+          "450.00"
+        ],
+        [
+          "Data Equipment",
+          "Switch",
+          "450.00"
+        ],
+        [
+          "Data Equipment",
+          "PAD",
+          "450.00"
+        ],
+        [
+          "Data Equipment",
+          "MUX",
+          "450.00"
+        ],
+        [
+          "Facsimile Equipment",
+          "All types",
+          "450.00"
+        ],
+        [
+          "Network Equipment",
+          "Microwave transmitter",
+          "3,000.00"
+        ],
+        [
+          "Network Equipment",
+          "Base Station transmitter",
+          "3,000.00"
+        ],
+        [
+          "Network Equipment",
+          "Network Management System",
+          "3,000.00"
+        ],
+        [
+          "Paging Equipment",
+          "All types",
+          "450.00"
+        ],
+        [
+          "Payphone Terminal Equipment",
+          "All types",
+          "450.00"
+        ],
+        [
+          "Private Exchange Equipment",
+          "PMBX",
+          "1,500.00"
+        ],
+        [
+          "Private Exchange Equipment",
+          "PABX",
+          "1,500.00"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Voice messaging system",
+          "1,500.00"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Switchboard equipment",
+          "1,500.00"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Media convergence server",
+          "1,500.00"
+        ],
+        [
+          "Radio Communications Equipment",
+          "HF",
+          "450.00"
+        ],
+        [
+          "Radio Communications Equipment",
+          "VHF",
+          "450.00"
+        ],
+        [
+          "Radio Communications Equipment",
+          "UHF",
+          "450.00"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Radio alarm transmitter",
+          "450.00"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Citizen band",
+          "450.00"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Amateur",
+          "450.00"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "GMPCS terminal (with ITU MoU Mark)",
+          "100.00"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "GMPCS terminal (without ITU MoU Mark)",
+          "450.00"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "VSAT",
+          "1,500.00"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "Access control (including door and gate openers)",
+          "250.00"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "Alarms and movement detectors",
+          "250.00"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "Closed-circuit television (CCTV)",
+          "250.00"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "Cordless audio devices, including wireless micro-phones",
+          "250.00"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "Industrial control",
+          "350.00"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "Local Area Networks",
+          "350.00"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "Medical implants",
+          "350.00"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "UWBSensors &Radars (such as ground probing radar)",
+          "250.00"
+        ],
+        [
+          "Short Range Devices/ Low power terminals",
+          "Remote control",
+          "250.00"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5659",
+    "data": {
+      "header": [
+        "Name of Original Equipment Manufacturer"
+      ],
+      "rows": [
+        [
+          "Postal Address:"
+        ],
+        [
+          "Physical Address:"
+        ],
+        [
+          "Contact Person:"
+        ],
+        [
+          "Email Address:"
+        ],
+        [
+          "Telephone No:"
+        ],
+        [
+          "Facsimile No:"
+        ],
+        [
+          "Website:"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5659",
+    "data": {
+      "header": [
+        "Type Approval (proof of adherence to applicable technical standards, certificate of conformance test reports and other data must be attached- refer regulations be attached)",
+        "6 and 7 to"
+      ],
+      "rows": []
+    }
+  },
+  {
+    "gazette": "5659",
+    "data": {
+      "header": [
+        "Call Monitoring Equipment",
+        "Call Metering Unit"
+      ],
+      "rows": [
+        [
+          "Call Monitoring Equipment",
+          "Call Monitoring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Barring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Recording Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Subscriber Private Meter"
+        ],
+        [
+          "Data Equipment",
+          "Modem"
+        ],
+        [
+          "Data Equipment",
+          "Router"
+        ],
+        [
+          "Data Equipment",
+          "Switch"
+        ],
+        [
+          "Data Equipment",
+          "Packet Assembler/Disassembler (PAD)"
+        ],
+        [
+          "Data Equipment",
+          "Multiplexer (MUX)"
+        ],
+        [
+          "Facsimile Equipment",
+          "All Types"
+        ],
+        [
+          "Network Equipment",
+          "Microwave Transmitter"
+        ],
+        [
+          "Network Equipment",
+          "Base Station Transmitter"
+        ],
+        [
+          "Network Equipment",
+          "Network Management System"
+        ],
+        [
+          "Paging Equipment",
+          "All Types"
+        ],
+        [
+          "Payphone Terminal Equipment",
+          "All Types"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Private Manual Branch Exchange (PMBX)"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Private Automatic Branch Exchange (PABX)"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Voice Messaging System"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Switchboard Equipment"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Media Convergence Server"
+        ],
+        [
+          "Radio Communications Equipment",
+          "High Frequency (HF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Very High Frequency (VHF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Ultra-High Frequency (UHF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Radio Alarm Transmitter"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Citizen Band Radio"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Amateur Radio"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "Global Mobile Personal Communications Services (GMPCS) terminal (with ITU MoU Mark)"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "Global Mobile Personal Communications Services (GMPCS) terminal (without ITU MoU Mark)"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "Very Small Aperture Terminal (VSAT)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "5659",
+    "data": {
+      "header": [
+        "EQUIPMENTCATEGORY",
+        "EQUIPMENT INCLUDED IN THIS CATEGORY",
+        "FEES (N$)"
+      ],
+      "rows": [
+        [
+          "Radio Transmitter Equipment",
+          "Community Radio Transmitter",
+          "1,000.00"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call metering unit",
+          "250.00"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call monitoring unit",
+          "250.00"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call barring unit",
+          "250.00"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call recording unit",
+          "250.00"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Subscriber private meter",
+          "250.00"
+        ],
+        [
+          "Data Equipment",
+          "Modem",
+          "450.00"
+        ],
+        [
+          "Data Equipment",
+          "Router",
+          "450.00"
+        ],
+        [
+          "Data Equipment",
+          "Switch",
+          "450.00"
+        ],
+        [
+          "Data Equipment",
+          "Packet Assembler/Disassembler (PAD)",
+          "450.00"
+        ],
+        [
+          "Data Equipment",
+          "Multiplexer (MUX)",
+          "450.00"
+        ],
+        [
+          "Facsimile Equipment",
+          "All types",
+          "450.00"
+        ],
+        [
+          "Network Equipment",
+          "Microwave transmitter",
+          "3,000.00"
+        ],
+        [
+          "Network Equipment",
+          "Base Station transmitter",
+          "3,000.00"
+        ],
+        [
+          "Network Equipment",
+          "Network Management System",
+          "3,000.00"
+        ],
+        [
+          "Paging Equipment",
+          "All types",
+          "450.00"
+        ],
+        [
+          "Payphone Terminal Equipment",
+          "All types",
+          "450.00"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Private Manual Branch Exchange (PMBX)",
+          "1,500.00"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Private Manual Branch Exchange (PABX)",
+          "1,500.00"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Voice messaging system",
+          "1,500.00"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Switchboard equipment",
+          "1,500.00"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Media convergence server",
+          "1,500.00"
+        ],
+        [
+          "Radio Communications Equipment",
+          "High Frequency (HF)",
+          "450.00"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Very High Frequency (VHF)",
+          "450.00"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Ultra-Hugh Frequency (UHF)",
+          "450.00"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Radio alarm transmitter",
+          "450.00"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Citizen band",
+          "450.00"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Amateur",
+          "450.00"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "Global Mobile Personal Communications Services (GMPCS) terminal (with ITU MoU Mark)",
+          "100.00"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "Global Mobile Personal Communications Services (GMPCS) terminal (without ITU MoU Mark)",
+          "450.00"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "Very Small Aperture Terminal (VSAT)",
+          "1,500.00"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6479",
+    "data": {
+      "header": [
+        "NAME",
+        "DESCRIPTION",
+        "Monthly Cost Excludes Equipment",
+        "12 Month",
+        "24 Month",
+        "36 Month"
+      ],
+      "rows": [
+        [
+          "Essential",
+          "Ex Vat",
+          "Ex Vat *VAT=N$31.50",
+          "Ex Vat *VAT=N$17.50",
+          "Ex Vat *VAT=N$12.88"
+        ],
+        [
+          "ESSNCAP1",
+          "1Mbps/512k line speed",
+          "N$ 120,00",
+          "N$ 328",
+          "N$ 235",
+          "N$ 204"
+        ],
+        [
+          "ESSNCAP2",
+          "2Mbps/1Mbps line speed",
+          "N$ 230,00",
+          "N$ 438",
+          "N$ 345",
+          "N$ 314"
+        ],
+        [
+          "ESSNCAP4",
+          "4Mbps/2Mbps line speed",
+          "N$ 460,00",
+          "N$ 668",
+          "N$ 575",
+          "N$ 544"
+        ],
+        [
+          "ESSNCAP6",
+          "6Mbps/3Mbps line speed",
+          "N$ 680,00",
+          "N$ 888",
+          "N$ 795",
+          "N$ 764"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6479",
+    "data": {
+      "header": [
+        "PRODUCT NUMBER",
+        "NAME",
+        "Monthly Ex Vat Excludes Equipment",
+        "12 Month Ex Vat *VAT=N$31.50",
+        "24 Month Ex Vat *VAT=N$17.50",
+        "36 Month Ex Vat *VAT=N$12.88"
+      ],
+      "rows": [
+        [
+          "ESSNUCAP1",
+          "1Mbps/512Kbps Line Uncapped",
+          "N$ 400,00",
+          "N$ 608",
+          "N$ 515",
+          "N$ 484"
+        ],
+        [
+          "ESSNUCAP2",
+          "2Mbps/1Mbps Line Uncapped",
+          "N$ 650,00",
+          "N$ 858",
+          "N$ 765",
+          "N$ 734"
+        ],
+        [
+          "ESSNUCAP4",
+          "4Mbps/2Mbps Line Uncapped",
+          "N$ 1 100,00",
+          "N$ 1 308",
+          "N$ 1 215",
+          "N$ 1 184"
+        ],
+        [
+          "ESSNUCAP6",
+          "6Mbps/3Mbps Line Uncapped",
+          "N$ 1 500,00",
+          "N$ 1 708",
+          "N$ 1 615",
+          "N$ 1 584"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6479",
+    "data": {
+      "header": [
+        "NAME",
+        "DESCRIPTION",
+        "Monthly Cost Excludes Equipment",
+        "12 Month",
+        "24 Month",
+        "36 Month"
+      ],
+      "rows": [
+        [
+          "Premium",
+          "Ex Vat",
+          "Ex Vat *VAT=N$31.50",
+          "Ex Vat *VAT=N$17.50",
+          "Ex Vat *VAT=N$12.88"
+        ],
+        [
+          "PREMCAP1",
+          "1Mbps/1Mbps line speed",
+          "N$ 250,00",
+          "N$ 458",
+          "N$ 365",
+          "N$ 334"
+        ],
+        [
+          "PREMCAP2",
+          "2Mbps/2Mbps line speed",
+          "N$ 400,00",
+          "N$ 608",
+          "N$ 515",
+          "N$ 484"
+        ],
+        [
+          "PREMCAP4",
+          "4Mbps/4Mbps line speed",
+          "N$ 780,00",
+          "N$ 988",
+          "N$ 895",
+          "N$ 864"
+        ],
+        [
+          "PREMCAP6",
+          "6Mbps/6Mbps line speed",
+          "N$ 1 450,00",
+          "N$ 1 658",
+          "N$ 1 565",
+          "N$ 1 534"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6588",
+    "data": {
+      "header": [
+        "EQUIPMENTTYPE",
+        "DESCRIPTION",
+        "SPECIFIED TECHNOLOGIES"
+      ],
+      "rows": [
+        [
+          "Vehicles components and systems (embedded in the vehicle)",
+          "Remote car keys (Immobilizer), Car parking sensor/systems, Car Radio with or without Bluetooth functionalities",
+          "Short Range Device Lower power - With maximum radiated power limit of 10 Mwerp."
+        ],
+        [
+          "Gate/Garage remote control equipment",
+          "Gate/Garage door opener",
+          "Short Range Device Lower power with maximum radiated power limit of 10 Mwerp."
+        ],
+        [
+          "Smart Watches",
+          "With Bluetooth only (without Wi-Fi functionality and SIM or Tracking features)",
+          "Short Range Device Lower power"
+        ],
+        [
+          "Speakers",
+          "With Bluetooth",
+          "Short Range Device Lower power"
+        ],
+        [
+          "Alarms and Movement detectors",
+          "Lower power Alarms and Movement detectors terminal.",
+          "Short Range Device Lower power - With maximum radiated power limit of 10 Mwerp."
+        ],
+        [
+          "Audio devices",
+          "Cordless Audio devices, including wireless microphones",
+          "Short Range Device Lower power - With maximum radiated power limit of 10 Mwerp."
+        ],
+        [
+          "Broadcast receivers",
+          "Receivers equipment's only e.g. FM/AM Radio both analogue and digital"
+        ],
+        [
+          "Broadcast Transmitters",
+          "FM/AM transmitter equipment's (both analogue and digital)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "6750",
+    "data": {
+      "header": [
+        "Equipment Category",
+        "Equipment Included in Category",
+        "Fees (N$)"
+      ],
+      "rows": [
+        [
+          "Radio Transmitter Equipment",
+          "Community Radio Transmitter",
+          "1 150"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call metering unit",
+          "288"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call monitoring unit",
+          "288"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call barring unit",
+          "288"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call recording unit",
+          "288"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Subscriber private meter",
+          "288"
+        ],
+        [
+          "Data Equipment",
+          "Modem",
+          "518"
+        ],
+        [
+          "Data Equipment",
+          "Router",
+          "518"
+        ],
+        [
+          "Data Equipment",
+          "Switch",
+          "518"
+        ],
+        [
+          "Data Equipment",
+          "Packet Assembler/Disassembler (PAD)",
+          "518"
+        ],
+        [
+          "Data Equipment",
+          "Multiplexer (MUX)",
+          "518"
+        ],
+        [
+          "Facsimile Equipment",
+          "All types",
+          "518"
+        ],
+        [
+          "Network Equipment (all technologies",
+          "Microwave Transmitter",
+          "3 450"
+        ],
+        [
+          "Network Equipment (all technologies",
+          "Base Station Transmitter",
+          "3 450"
+        ],
+        [
+          "Network Equipment (all technologies",
+          "Network Management System",
+          "3 450"
+        ],
+        [
+          "Network Equipment (all technologies",
+          "Cell Booster",
+          "518"
+        ],
+        [
+          "Network Equipment (all technologies",
+          "Cell Extender",
+          "518"
+        ],
+        [
+          "Paging Equipment",
+          "All types",
+          "518"
+        ],
+        [
+          "Payphone Terminal Equipment",
+          "All types",
+          "518"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Private Manual Branch Exchange (PMBX)",
+          "1 725"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Private Manual Branch Exchange (PABX)",
+          "1 725"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Voice messaging system",
+          "1 725"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Switchboard equipment",
+          "1 725"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Media convergence server",
+          "1 725"
+        ],
+        [
+          "Radio Communications Equipment",
+          "High Frequency (HF)",
+          "518"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Very High Frequency (VHF)",
+          "518"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Ultra-Hugh Frequency (UHF)",
+          "518"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Radio alarm transmitter",
+          "518"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Citizen band",
+          "518"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Amateur",
+          "518"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "Global Mobile Personal Communications Services (GMPCS) terminal (with ITU MoU Mark)",
+          "115"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "Global Mobile Personal Communications Services (GMPCS) terminal (without ITU MoU Mark)",
+          "518"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "Very Small Aperture Terminal (VSAT)",
+          "1 725"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7156",
+    "data": {
+      "header": [
+        "FY 2016 Table 10: Addition",
+        "FY 2016 Table 10: Addition",
+        "FY 2017 Property, Plant &Equipment",
+        "FY 2017 Property, Plant &Equipment",
+        "FY 2018",
+        "FY 2018"
+      ],
+      "rows": [
+        [
+          "N$ million",
+          "%",
+          "N$ Million",
+          "%",
+          "N$ Million",
+          "%"
+        ],
+        [
+          "MTC Total",
+          "184.4 305.4",
+          "60.4%",
+          "203.7 298.7",
+          "68.2%",
+          "289.6 484.4",
+          "59.8% 100.0%"
+        ],
+        [
+          "TN Group Source:",
+          "69.1",
+          "22.6%",
+          "59.7 Annual",
+          "20.0% reports",
+          "121.5",
+          "25.1%"
+        ],
+        [
+          "Paratus",
+          "46.3",
+          "15.2%",
+          "17.7",
+          "5.9%",
+          "62.8",
+          "13.0%"
+        ],
+        [
+          "MTN",
+          "3.3",
+          "1.1%",
+          "15.4",
+          "5.1%",
+          "10.6",
+          "2.2%"
+        ],
+        [
+          "Bidvest Mobile",
+          "1.2 subscriber market",
+          "0.4% concentration",
+          "2.2 remains close",
+          "0.7% to monopoly",
+          "levels: The",
+          "0.0% Herfindahl-"
+        ],
+        [
+          "SALT Hirschman",
+          "1.1 Index (HHI) 6 ,",
+          "0.4% calculated based",
+          "0.0 on the number",
+          "0.0% of mobile",
+          "subscribers, is",
+          "0.0% displayed in"
+        ],
+        [
+          "Total",
+          "305.4 Following the",
+          "opening of the",
+          "298.7 mobile",
+          "484.4",
+          "100.0%"
+        ],
+        [
+          "Source: Figure 8.",
+          "Annual reports market in 2006 with TN Mobile, Powercom/LEO",
+          "Annual reports market in 2006 with TN Mobile, Powercom/LEO",
+          "Annual reports market in 2006 with TN Mobile, Powercom/LEO",
+          "Annual reports market in 2006 with TN Mobile, Powercom/LEO",
+          "Annual reports market in 2006 with TN Mobile, Powercom/LEO",
+          "Annual reports market in 2006 with TN Mobile, Powercom/LEO"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "7876",
+    "data": {
+      "header": [
+        "IMT services",
+        "37-43.5 GHz",
+        "Quarter 2 of 2023 to Quarter 3 of 2023 on first- come-first- serve basis.",
+        "TDD assignment on geographical and licensed shared basis to support specific use cases presented to the Authority as time of application. NB: No IMT-2020 (5G) rollout or type approval of 5G network equipment shall be allowed until such time that the Authority received authorisation for deployment of IMT-2020 (5G) networks as per Cabinet Decision No. 10 TH 21.07.20/006."
+      ],
+      "rows": [
+        [
+          "Spectrum to be released once dependencies has been resolved",
+          "Spectrum to be released once dependencies has been resolved",
+          "Spectrum to be released once dependencies has been resolved",
+          "Spectrum to be released once dependencies has been resolved"
+        ],
+        [
+          "IMT services",
+          "694-790 MHz",
+          "Quarter 1 of 2023 to Quarter 2 of 2023 via spectrum auction",
+          "Release of spectrum for application is dependent on the adherence of NBC to cut-off date for migration of legacy analogue TV transmitters by 31 December 2022. Spectrum awarded for analogue television broadcasting to be returned to the Authority by 31 December 2022. 2x 30 MHZ FDD national spectrum subject assignment via spectrum auction subject to rollout obligations and specific use cases set by the Authority. NB: No IMT-2020 (5G) rollout or type approval of 5G network equipment shall be allowed until such time that the Authority received authorisation for deployment of IMT-2020 (5G) networks as per Cabinet Decision No. 10 TH 21.07.20/006. Dynamic spectrum sharing between 4G and"
+        ],
+        [
+          "IMT services",
+          "2300-2400 MHz",
+          "Quarter 1 of 2023 to Quarter 2 2023 via spectrum auction",
+          "Release of spectrum for application is dependent on sunset date for discontinuation of Rurtel fixed service to be agreed with licensee after a consultation process. Spectrum awarded for fixed services to be returned to the Authority. TDD national spectrum subject assignment via spectrum auction subject to rollout obligation set by the Authority."
+        ],
+        [
+          "IMT services",
+          "2500 -2690 MHz",
+          "Quarter 3 of 2023 to Quarter 4 2023",
+          "Spectrum will be released upon completion of the re-planning of this spectrum band to address fragmented availability of spectrum in cooperation with licensees that already hold spectrum licenses in this spectrum band. The Authority will determine the method of assignment of this spectrum upon completion of the re-planning exercise."
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8002",
+    "data": {
+      "header": [
+        "Type Approval (proof of adherence to applicable ISO-IEC technical standards, certificate of conformance test reports and other data must be attached- refer regulations 6 and 7 to be attached)"
+      ],
+      "rows": []
+    }
+  },
+  {
+    "gazette": "8002",
+    "data": {
+      "header": [
+        "Category",
+        "Tick Here",
+        "Example of Equipment (Non Exhaustive)"
+      ],
+      "rows": [
+        [
+          "Call Monitoring Equipment",
+          "Call Metering Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Monitoring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Barring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Recording Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Subscriber Private Meter"
+        ],
+        [
+          "Data Equipment",
+          "Modem"
+        ],
+        [
+          "Data Equipment",
+          "Packet Assembler/Disassembler (PAD)"
+        ],
+        [
+          "Data Equipment",
+          "Multiplexer (MUX)"
+        ],
+        [
+          "Access Transmission and Network Equipment",
+          "All type of operator telecommunication and radio communications equipment (Switching Equipment's, Base Station Controller, Base Stations, Microwave Transmitter, Base Station Transmitter, WiMAX terminal Cell Extender, Cellular Repeater Operating in IMT bands etc.)"
+        ],
+        [
+          "IoT Network Equipment",
+          "Sigfox Lora, Zigbee, Radar, Wireless Smart Utility Network (Wi-SUN) Equipment, IoT Gateways and Base Stations"
+        ],
+        [
+          "Outdoor Wireless Access Equipment",
+          "Point to Point / Point to Multipoint Access Devices"
+        ],
+        [
+          "Remotely Piloted Aircraft",
+          "Drone Remote Controller"
+        ],
+        [
+          "Aeronautical Equipment",
+          "Aeronautical Base Station Equipment, Aeronautical transceiver installed on board aircrafts"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8002",
+    "data": {
+      "header": [
+        "Radio Communications Equipment",
+        "High Frequency (HF)"
+      ],
+      "rows": [
+        [
+          "Radio Communications Equipment",
+          "Very High Frequency (VHF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Ultra-High Frequency (UHF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Radio Alarm Transmitter"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Ultra-Wideband (UWB) sensors and radars (such as ground probing radar)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Automatic Identification System (AIS)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Search and Rescue Transponder (SART)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Emergency Position Indicating Radio Beacon (EPIRB)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Citizen Band Radio"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Amateur Radio"
+        ],
+        [
+          "Satellite Equipment",
+          "Satellite Phone"
+        ],
+        [
+          "Satellite Equipment",
+          "Earth Station Terminal"
+        ],
+        [
+          "Satellite Equipment",
+          "Very Small Aperture Terminal (VSAT),"
+        ],
+        [
+          "Short Range Devices/ Low Power terminals",
+          "Closed circuit television (CCTV)"
+        ],
+        [
+          "Short Range Devices/ Low Power terminals",
+          "Industrial control devices"
+        ],
+        [
+          "Short Range Devices/ Low Power terminals",
+          "Road Transport telematics"
+        ],
+        [
+          "Short Range Devices/ Low Power terminals",
+          "Telemetry"
+        ],
+        [
+          "Telephone Terminal Equipment",
+          "Global System for Mobile (GSM) phone"
+        ],
+        [
+          "Telephone Terminal Equipment",
+          "Code Division Multiple Access (CDMA) terminal"
+        ],
+        [
+          "IMT Terminal (other than mobile phones)",
+          "Dongles/trackers/Tablets"
+        ],
+        [
+          "Broadcasting equipment",
+          "DTT Set -Top Box Receiver"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8002",
+    "data": {
+      "header": [
+        "Type Approval Certificate Number"
+      ],
+      "rows": [
+        [
+          "Date of Issuance"
+        ],
+        [
+          "Brand Name"
+        ],
+        [
+          "Model Number"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8002",
+    "data": {
+      "header": [
+        "Category",
+        "Tick Here",
+        "Example of Equipment (Non Exhaustive)"
+      ],
+      "rows": [
+        [
+          "Call Monitoring Equipment",
+          "Call Metering Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Monitoring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Barring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Recording Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Subscriber Private Meter"
+        ],
+        [
+          "Data Equipment",
+          "Modem"
+        ],
+        [
+          "Data Equipment",
+          "Packet Assembler/Disassembler (PAD)"
+        ],
+        [
+          "Data Equipment",
+          "Multiplexer (MUX)"
+        ],
+        [
+          "Access Transmission and Network Equipment",
+          "All type of operator telecommunication and radio communications equipment (Switching Equipment's, Base Station Controller, Base Stations, Microwave Transmitter, Base Station Transmitter, WiMAX terminal Cell Extender, Cellular Repeater Operating in IMT bands etc.)"
+        ],
+        [
+          "IoT Network Equipment",
+          "Sigfox Lora, Zigbee, Radar, Wireless Smart Utility Network (Wi-SUN) Equipment, IoT Gateways and Base Stations"
+        ],
+        [
+          "Outdoor Wireless Access Equipment",
+          "Point to Point / Point to Multipoint Access Devices"
+        ],
+        [
+          "Remotely Piloted Aircraft (RPA)",
+          "Drone Remote Controller"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8002",
+    "data": {
+      "header": [
+        "Aeronautical Equipment",
+        "Aeronautical Base Station Equipment, Aeronautical transceiver installed on board aircrafts"
+      ],
+      "rows": [
+        [
+          "Radio Communications Equipment",
+          "High Frequency (HF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Very High Frequency (VHF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Ultra-High Frequency (UHF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Radio Alarm Transmitter"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Ultra-Wideband (UWB) sensors and radars (such as ground probing radar)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Automatic Identification System (AIS)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Search and Rescue Transponder (SART)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Emergency Position Indicating Radio Beacon (EPIRB)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Citizen Band Radio"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Amateur Radio"
+        ],
+        [
+          "Satellite Equipment",
+          "Satellite Phone"
+        ],
+        [
+          "Satellite Equipment",
+          "Earth Station Terminal"
+        ],
+        [
+          "Satellite Equipment",
+          "Very Small Aperture Terminal (VSAT),"
+        ],
+        [
+          "Short Range Devices/ Low Power terminals",
+          "Closed circuit television (CCTV)"
+        ],
+        [
+          "Short Range Devices/ Low Power terminals",
+          "Industrial control devices"
+        ],
+        [
+          "Short Range Devices/ Low Power terminals",
+          "Road Transport telematics"
+        ],
+        [
+          "Short Range Devices/ Low Power terminals",
+          "Telemetry"
+        ],
+        [
+          "Telephone Terminal Equipment",
+          "Global System for Mobile (GSM) phone"
+        ],
+        [
+          "Telephone Terminal Equipment",
+          "Code Division Multiple Access (CDMA) terminal"
+        ],
+        [
+          "IMT Terminal (other than mobile phones)",
+          "Dongles/trackers/Tablets"
+        ],
+        [
+          "Broadcasting equipment",
+          "DTT Set -Top Box Receiver"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8002",
+    "data": {
+      "header": [
+        "Category",
+        "Tick Here",
+        "Example of Equipment (Non Exhaustive)"
+      ],
+      "rows": [
+        [
+          "Call Monitoring Equipment",
+          "Call Metering Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Monitoring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Barring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Recording Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Subscriber Private Meter"
+        ],
+        [
+          "Data Equipment",
+          "Modem"
+        ],
+        [
+          "Data Equipment",
+          "Packet Assembler/Disassembler (PAD)"
+        ],
+        [
+          "Data Equipment",
+          "Multiplexer (MUX)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8002",
+    "data": {
+      "header": [
+        "Type Approval Certificate Number"
+      ],
+      "rows": [
+        [
+          "Date of Issuance"
+        ],
+        [
+          "Brand Name"
+        ],
+        [
+          "Model Number"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8002",
+    "data": {
+      "header": [
+        "Category",
+        "Tick Here",
+        "Example of Equipment (Non Exhaustive)"
+      ],
+      "rows": [
+        [
+          "Call Monitoring Equipment",
+          "Call Metering Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Monitoring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Barring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Recording Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Subscriber Private Meter"
+        ],
+        [
+          "Data Equipment",
+          "Modem"
+        ],
+        [
+          "Data Equipment",
+          "Packet Assembler/Disassembler (PAD)"
+        ],
+        [
+          "Data Equipment",
+          "Multiplexer (MUX)"
+        ],
+        [
+          "Access Transmission and Network Equipment",
+          "All type of operator telecommunication and radio communications equipment (Switching Equipment's, Base Station Controller, Base Stations, Microwave Transmitter, Base Station Transmitter, WiMAX terminal Cell Extender, Cellular Repeater Operating in IMT bands etc.)"
+        ],
+        [
+          "IoT Network Equipment",
+          "Sigfox Lora, Zigbee, Radar, Wireless Smart Utility Network (Wi-SUN) Equipment, IoT Gateways and Base Stations"
+        ],
+        [
+          "Outdoor Wireless Access Equipment",
+          "Point to Point / Point to Multipoint Access Devices"
+        ],
+        [
+          "Remotely Piloted Aircraft (RPA)",
+          "Drone Remote Controller"
+        ],
+        [
+          "Aeronautical Equipment",
+          "Aeronautical Base Station Equipment, Aeronautical transceiver installed on board aircrafts"
+        ],
+        [
+          "Radio Communications Equipment",
+          "High Frequency (HF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Very High Frequency (VHF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Ultra-High Frequency (UHF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Radio Alarm Transmitter"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Ultra-Wideband (UWB) sensors and radars (such as ground probing radar)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Automatic Identification System (AIS)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Search and Rescue Transponder (SART)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8002",
+    "data": {
+      "header": [
+        "EQUIPMENT CATEGORY",
+        "TYPICAL EQUIPMENT / APPLICATIONS (NON-EXHAUSTIVE)",
+        "SPECIFIED TECHNOLGIES",
+        "OPERATING FREQUENCYBAND"
+      ],
+      "rows": [
+        [
+          "Broadcasting Receivers:",
+          "Smart TV, Wireless TV Box",
+          "Receiver-Only (With short range radio technology such as WIFI, Bluetooth&LAN Card/Adapter, with build-in digital set-Top box)",
+          "2400 - 2483.5 MHz 5150-5350 MHz, 5470- 5725 MHz, 5725-5875 MHz"
+        ],
+        [
+          "Wireless PC Peripheral",
+          "Wireless Mouse, Wireless Keyboards, Scanners, Projectors and Printers, Fax Machines etc.",
+          "With or without short range radio technology such as WIFI, Bluetooth",
+          "2400 - 2483.5 MHz 5150-5350 MHz, 5470- 5725 MHz, 5725-5875 MHz"
+        ],
+        [
+          "IT Networking Equipment",
+          "Servers, Switches, Routers, Firewalls, Modem, PABX, Programmable logic Controllers (PLC), VOIP",
+          "Connects to any Network via a LAN Card/Adapter",
+          "None"
+        ],
+        [
+          "IT Networking Equipment",
+          "LAN card modules",
+          "Wired and wireless LAN Module/adapter",
+          "2400 - 2483.5 MHz 5150-5350 MHz5470- 5725 MHz, 5725-5875 MHz"
+        ],
+        [
+          "NFC tag/card readers",
+          "With Maximum radiated power limit of 10Mw ERP",
+          "13.56 MHz"
+        ],
+        [
+          "Toys",
+          "Remote Controlled Toys and miscellaneous devices, except remotely piloted aircrafts",
+          "With short range radio technology such as, Bluetooth etc,",
+          "2400 - 2483.5 MHz 5150-5350 MHz, 5470- 5725 MHz, 5725-5875 MHz 13.56 MHz"
+        ],
+        [
+          "SRD for Medical Applications",
+          "Active Medical Implants and associated peripherals",
+          "With short range radio technology with Maximum radiated power limit of 25µW ERP",
+          "402 - 403 MHz z"
+        ],
+        [
+          "Antennas",
+          "Passive",
+          "Metal rods, parabolic Dishes"
+        ],
+        [
+          "SRD for Tracking, Tracing and Data Acquisition",
+          "GPS Receivers, GPS Tracker, Sensors (temperature, humidity, etc), IoT Sensors",
+          "With receiving or , transmitting capability",
+          "456.9 - 457.1 kHz z 865 - 868 MHz"
+        ],
+        [
+          "SRD for Inductive Applications",
+          "Wireless chargers",
+          "With short range radio technology",
+          "8.3 - 9 kHz 9 - 90 kHz 90 - 119 kHz 119 - 135 kHz 135 - 140 kHz 140 - 148.5 kHz"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8002",
+    "data": {
+      "header": [
+        "GSM/UMTS/LTE/NR Equipment other than Mobile Phone",
+        "Modem, Tracker, SIM fitted devices",
+        "Short range devices connect via WLAN, BT, GPS, NFC",
+        "2400 - 2483.5 MHz 5150-5350 MHz, 5470- 5725 MHz, 5725-5875 MHz"
+      ],
+      "rows": [
+        [
+          "RFID readers",
+          "Scanners Metal detectors",
+          "With short range radio technology"
+        ],
+        [
+          "Wireless Audio / Multimedia Equipment",
+          "Wireless Microphones Wireless Microphones and assistive listening devices, Headphones, Infotainment and Video Conferencing.",
+          "Short range radio technology, with Maximum radiated power limit of 10mW ERP Short range radio technology, with Maximum radiated power limit of 2mW ERP",
+          "863 - 865M"
+        ],
+        [
+          "SDR for Alarms",
+          "Alarm Systems and Associated Accessories",
+          "Short range radio technology, with Maximum radiated power limit of 10mW",
+          "869.2 - 869.25 MHz 869.3 - 869.4 MHz 868.6 - 868.7 MHz 869.65 - 869.7 MHz"
+        ],
+        [
+          "Office Telephone Equipment",
+          "CT2 cordless telephones CTO cordless phones/ DECTTerminals",
+          "Short range radio technology, with Maximum radiated power limit of 10mW ERP Short range radio technology, with Maximum radiated power limit of 10mW",
+          "864.1 - 868.1 MHz 1 880-1 900 MHz 40.66 - 40.7 MHz"
+        ],
+        [
+          "Computer Equipment",
+          "Laptop / Personal Computer, Tablet, Personal or Enterprise Digital Assistant",
+          "Tablets without GSM/ LTE/NR Laptops with or without GSM/LTE/NR",
+          "None"
+        ],
+        [
+          "Wearables fitted with radio module operating in ISM bands",
+          "Smart band, Smart Helmets and Smart Watch etc.",
+          "With or without short range radio technology such as WIFI, Bluetooth",
+          "2400 - 2483.5 MHz 5150-5350 MHz, 5470- 5725 MHz, 5725-5875 MHz"
+        ],
+        [
+          "SRD for Home Automation",
+          "Smart Switches, Light Controllers, Gate Controllers and Smart Bulbs etc.",
+          "None",
+          "None"
+        ],
+        [
+          "Wireless Digital Camera",
+          "Portable Image/Video Camera/Web cams Wireless Security system camera etc.",
+          "None",
+          "2400 - 2483.5 MHz 5150-5350 MHz, 5470- 5725 MHz, 5725-5875 MHz"
+        ],
+        [
+          "SRD for Transport and Traffic Telematics (TTT)",
+          "Automobile Sensors, Keyless Entry, Passive Entry, etc.",
+          "None",
+          "None"
+        ],
+        [
+          "SRD for Road Transport and Traffic Telematics (RTTT) for Vehicle Radar",
+          "Vehicle Radars etc.",
+          "With short range radio technology",
+          "24.00 - 24.25 GHz 76-77 GHz"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8002",
+    "data": {
+      "header": [
+        "SRD for Radio Frequency Identifications Applications",
+        "Clocking Systems, Smart Tags, Access Control Equipment etc.",
+        "With short range radio technology with Maximum radiated power limit of 100mW, 2 Wand 500mW",
+        "865.0 -865.6 MHz 865.6 -867.6 MHz 867.6 -865.0 MHz"
+      ],
+      "rows": [
+        [
+          "Point of Sale Terminal",
+          "Point of Sale Terminals systems, including Barcode Readers etc.",
+          "None",
+          "None"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8002",
+    "data": {
+      "header": [
+        "EQUIPMENTCATEGORY",
+        "FEES (N$)"
+      ],
+      "rows": [
+        [
+          "Call Monitoring Equipment",
+          "275"
+        ],
+        [
+          "Data Equipment",
+          "550"
+        ],
+        [
+          "Access Transmission and Network Equipment",
+          "2,740"
+        ],
+        [
+          "IoT Network Equipment",
+          "550"
+        ],
+        [
+          "Outdoor Wireless Access Equipment",
+          "550"
+        ],
+        [
+          "Remote Piloted Aircraft (RPA)",
+          "750"
+        ],
+        [
+          "Aeronautical Equipment",
+          "750"
+        ],
+        [
+          "Radio Communications Equipment",
+          "550"
+        ],
+        [
+          "Satellite Equipment",
+          "550"
+        ],
+        [
+          "Short Range Devices or Low power terminals",
+          "550"
+        ],
+        [
+          "Telephone Terminal Equipment",
+          "550"
+        ],
+        [
+          "IMT Terminal (Other than Mobile Phones)",
+          "550"
+        ],
+        [
+          "Broadcasting Equipment",
+          "550"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8180-Gen-N494-495-21-Aug-2023",
+    "data": {
+      "header": [
+        "Category",
+        "Tick Here",
+        "Example of Equipment (Non Exhaustive)"
+      ],
+      "rows": [
+        [
+          "Call Monitoring Equipment",
+          "Call Metering Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Monitoring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Barring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Recording Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Subscriber Private Meter"
+        ],
+        [
+          "Data Equipment",
+          "Modem"
+        ],
+        [
+          "Data Equipment",
+          "Packet Assembler/Disassembler (PAD)"
+        ],
+        [
+          "Data Equipment",
+          "Multiplexer (MUX)"
+        ],
+        [
+          "Access Transmission and Network Equipment",
+          "All type of operator telecommunication and radio communications equipment (Switching Equipment's, Base Station Controller, Base Stations, Microwave Transmitter, Base Station Transmitter,WiMAX terminal Cell Extender, Cellular Repeater Operating in IMT bands etc.)"
+        ],
+        [
+          "IoT Network Equipment",
+          "Sigfox Lora, Zigbee, Radar, Wireless Smart Utility Network (Wi-SUN) Equipment, IoT Gateways and Base Stations"
+        ],
+        [
+          "Wireless Access Equipment",
+          "Point to Point / Point to Multipoint Access Devices Wireless Routers"
+        ],
+        [
+          "Remotely Piloted Aircraft (RPA)",
+          "Drone Remote Controller"
+        ],
+        [
+          "Aeronautical Equipment",
+          "Aeronautical Base Station Equipment, Aeronautical transceiver installed on board aircrafts"
+        ],
+        [
+          "Maritime Equipment",
+          "Maritime Base Station equipment Maritime transceiver installed on ships"
+        ],
+        [
+          "Radio Communications Equipment",
+          "High Frequency (HF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Very High Frequency (VHF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Ultra-High Frequency (UHF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Radio Alarm Transmitter"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Ultra-Wideband (UWB) sensors and radars (such as ground probing radar)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Automatic Identification System (AIS)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Search and Rescue Transponder (SART)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Emergency Position Indicating Radio Beacon (EPIRB)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Citizen Band Radio"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Amateur Radio"
+        ],
+        [
+          "Satellite Equipment",
+          "Satellite Phone"
+        ],
+        [
+          "Satellite Equipment",
+          "Earth Station Terminal"
+        ],
+        [
+          "Satellite Equipment",
+          "Very Small Aperture Terminal (VSAT)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8180-Gen-N494-495-21-Aug-2023",
+    "data": {
+      "header": [
+        "Category",
+        "Tick Here",
+        "Example of Equipment (Non Exhaustive)"
+      ],
+      "rows": [
+        [
+          "Call Monitoring Equipment",
+          "Call Metering Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Monitoring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Barring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Recording Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Subscriber Private Meter"
+        ],
+        [
+          "Data Equipment",
+          "Modem"
+        ],
+        [
+          "Data Equipment",
+          "Packet Assembler/Disassembler (PAD)"
+        ],
+        [
+          "Data Equipment",
+          "Multiplexer (MUX)"
+        ],
+        [
+          "Access Transmission and Network Equipment",
+          "All type of operator telecommunication and radio communications equipment (Switching Equipment's, Base Station Controller, Base Stations, Microwave Transmitter, Base Station Transmitter,WiMAX terminal Cell Extender, Cellular Repeater Operating in IMT bands etc.)"
+        ],
+        [
+          "IoT Network Equipment",
+          "Sigfox Lora, Zigbee, Radar, Wireless Smart Utility Network (Wi-SUN) Equipment, IoT Gateways and Base Stations"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8180-Gen-N494-495-21-Aug-2023",
+    "data": {
+      "header": [
+        "Wireless Access Equipment",
+        "Point to Point / Point to Multipoint Access Devices Wireless Routers"
+      ],
+      "rows": [
+        [
+          "Remotely Piloted Aircraft (RPA)",
+          "Drone Remote Controller"
+        ],
+        [
+          "Aeronautical Equipment",
+          "Aeronautical Base Station Equipment, Aeronautical transceiver installed on board aircrafts"
+        ],
+        [
+          "Maritime Equipment",
+          "Maritime Base Station equipment Maritime transceiver installed on ships."
+        ],
+        [
+          "Radio Communications Equipment",
+          "High Frequency (HF) Very High Frequency (VHF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Ultra-High Frequency (UHF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Radio Alarm Transmitter"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Ultra-Wideband (UWB) sensors and radars (such as ground probing radar)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Automatic Identification System (AIS)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Search and Rescue Transponder (SART)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Emergency Position Indicating Radio Beacon (EPIRB)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Citizen Band Radio"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Amateur Radio"
+        ],
+        [
+          "Satellite Equipment",
+          "Satellite Phone"
+        ],
+        [
+          "Satellite Equipment",
+          "Earth Station Terminal"
+        ],
+        [
+          "Satellite Equipment",
+          "Very Small Aperture Terminal (VSAT),"
+        ],
+        [
+          "Short Range Devices/ Low Power terminals",
+          "Closed circuit television (CCTV)"
+        ],
+        [
+          "Short Range Devices/ Low Power terminals",
+          "Industrial control devices"
+        ],
+        [
+          "Short Range Devices/ Low Power terminals",
+          "Road Transport telematics"
+        ],
+        [
+          "Short Range Devices/ Low Power terminals",
+          "Telemetry"
+        ],
+        [
+          "Telephone Terminal Equipment",
+          "Global System for Mobile (GSM) phone"
+        ],
+        [
+          "Telephone Terminal Equipment",
+          "Cordless phones: GSM/LTE/NR"
+        ],
+        [
+          "IMT Terminal (other than mobile phones)",
+          "Dongles/trackers/Tablets/POS and routers with GSM/LTE/NR"
+        ],
+        [
+          "VOIP network equipment",
+          "Voice Over Internet protocol (VOIP) gateway"
+        ],
+        [
+          "VOIP network equipment",
+          "IP terminal"
+        ],
+        [
+          "Broadcasting equipment",
+          "DTT Set - Top Box Receiver"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8180-Gen-N494-495-21-Aug-2023",
+    "data": {
+      "header": [
+        "Category",
+        "Tick Here",
+        "Example of Equipment (Non Exhaustive)"
+      ],
+      "rows": [
+        [
+          "Call Monitoring Equipment",
+          "Call Metering Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Monitoring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Barring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Recording Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Subscriber Private Meter"
+        ],
+        [
+          "Data Equipment",
+          "Modem"
+        ],
+        [
+          "Data Equipment",
+          "Packet Assembler/Disassembler (PAD)"
+        ],
+        [
+          "Data Equipment",
+          "Multiplexer (MUX)"
+        ],
+        [
+          "Access Transmission and Network Equipment",
+          "All type of operator telecommunication and radio communications equipment (Switching Equipment's, Base Station Controller, Base Stations, Microwave Transmitter, Base Station Transmitter, WiMAX terminal Cell Extender, Cellular Repeater Operating in IMT bands etc.)"
+        ],
+        [
+          "IoT Network Equipment",
+          "Sigfox Lora, Zigbee, Radar, Wireless Smart Utility Network (Wi-SUN) Equipment, IoT Gateways and Base Stations"
+        ],
+        [
+          "Wireless Access Equipment",
+          "Point to Point / Point to Multipoint Access Devices Wireless Routers"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8180-Gen-N494-495-21-Aug-2023",
+    "data": {
+      "header": [
+        "Category",
+        "Tick Here",
+        "Example of Equipment (Non Exhaustive)"
+      ],
+      "rows": [
+        [
+          "Call Monitoring Equipment",
+          "Call Metering Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Monitoring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Barring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Recording Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Subscriber Private Meter"
+        ],
+        [
+          "Data Equipment",
+          "Modem"
+        ],
+        [
+          "Data Equipment",
+          "Packet Assembler/Disassembler (PAD)"
+        ],
+        [
+          "Data Equipment",
+          "Multiplexer (MUX)"
+        ],
+        [
+          "Access Transmission and Network Equipment",
+          "All type of operator telecommunication and radio communications equipment (Switching Equipment's, Base Station Controller, Base Stations, Microwave Transmitter, Base Station Transmitter, WiMAX terminal Cell Extender, Cellular Repeater Operating in IMT bands etc.)"
+        ],
+        [
+          "IoT Network Equipment",
+          "Sigfox Lora, Zigbee, Radar, Wireless Smart Utility Network (Wi-SUN) Equipment, IoT Gateways and Base Stations"
+        ],
+        [
+          "Wireless Access Equipment",
+          "Point to Point / Point to Multipoint Access Devices Wireless Routers"
+        ],
+        [
+          "Remotely Piloted Aircraft (RPA)",
+          "Drone Remote Controller"
+        ],
+        [
+          "Aeronautical Equipment",
+          "Aeronautical Base Station Equipment, Aeronautical transceiver installed on board aircrafts"
+        ],
+        [
+          "Maritime Equipment",
+          "Maritime Base Station equipment Maritime transceiver installed on ships."
+        ],
+        [
+          "Radio Communications",
+          "High Frequency (HF)"
+        ],
+        [
+          "Equipment",
+          "Very High Frequency (VHF)"
+        ],
+        [
+          "Equipment",
+          "Ultra-High Frequency (UHF)"
+        ],
+        [
+          "Equipment",
+          "Radio Alarm Transmitter"
+        ],
+        [
+          "Equipment",
+          "Ultra-Wideband (UWB) sensors and radars (such as ground probing radar)"
+        ],
+        [
+          "Equipment",
+          "Automatic Identification System (AIS)"
+        ],
+        [
+          "Equipment",
+          "Search and Rescue Transponder (SART)"
+        ],
+        [
+          "Equipment",
+          "Emergency Position Indicating Radio Beacon (EPIRB)"
+        ],
+        [
+          "Equipment",
+          "Citizen Band Radio"
+        ],
+        [
+          "Equipment",
+          "Amateur Radio"
+        ],
+        [
+          "Satellite Equipment",
+          "Satellite Phone"
+        ],
+        [
+          "Satellite Equipment",
+          "Earth Station Terminal"
+        ],
+        [
+          "Satellite Equipment",
+          "Very Small Aperture Terminal (VSAT),"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8180-Gen-N494-495-21-Aug-2023",
+    "data": {
+      "header": [
+        "EQUIPMENT CATEGORY",
+        "TYPICAL EQUIPMENT / APPLICATIONS (NON-EXHAUSTIVE)",
+        "SPECIFIED TECHNOLGIES",
+        "OPERATING FREQUENCY BAND (NON-EXHAUSTIVE)"
+      ],
+      "rows": [
+        [
+          "Broadcasting Receivers:",
+          "Smart TV, Wireless TV Box",
+          "Receiver-Only (With short range radio technology such as WIFI, Bluetooth and LAN Card/ Adapter, with build-in digital set-Top box)",
+          "2400 - 2483.5 MHz 5150-5350 MHz, 5470-5725 MHz, 5725-5875 MHz"
+        ],
+        [
+          "Wireless PC Peripheral",
+          "Wireless Mouse, Wireless Keyboards, Scanners, Projectors and Printers, Fax Machines etc.",
+          "With or without short range radio technology such as WIFI, Bluetooth",
+          "2400 - 2483.5 MHz 5150-5350 MHz, 5470-5725 MHz, 5725-5875 MHz"
+        ],
+        [
+          "IT Networking Equipment",
+          "Servers, Switches, Routers, Firewalls, Modem, PABX, Programmable logic Controllers (PLC)",
+          "Connects to any Network via a LAN Card/Adapter",
+          "None"
+        ],
+        [
+          "IT Networking Equipment",
+          "LAN card modules",
+          "Wired and wireless LAN Module/adapter",
+          "2400 - 2483.5 MHz 5150-5350 MHz5470-5725 MHz, 5725-5875 MHz"
+        ],
+        [
+          "NFC tag/card readers",
+          "With Maximum radiated power limit of 10Mw ERP",
+          "13.56 MHz"
+        ],
+        [
+          "Toys",
+          "Remote Controlled Toys and miscellaneous devices, except remotely piloted aircrafts",
+          "With short range radio technology such as, Bluetooth etc,",
+          "2400 - 2483.5 MHz 5150-5350 MHz, 5470-5725 MHz, 5725-5875 MHz 13.56 MHz"
+        ],
+        [
+          "SRD for Medical Applications",
+          "Active Medical Implants and associated peripherals",
+          "With short range radio technology with Maximum radiated power limit of 25µW ERP"
+        ],
+        [
+          "Antennas",
+          "Passive",
+          "Metal rods, parabolic Dishes"
+        ],
+        [
+          "SRD for Tracking, Tracing and Data Acquisition",
+          "GPS Receivers, GPS Tracker, Sensors (temperature, humidity, etc), IoT Sensors",
+          "With receiving or, transmitting capability",
+          "456.9 - 457.1 kHz z 865 - 868 MHz"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "8180-Gen-N494-495-21-Aug-2023",
+    "data": {
+      "header": [
+        "EQUIPMENTCATEGORY",
+        "FEES (N$)"
+      ],
+      "rows": [
+        [
+          "Call Monitoring Equipment",
+          "275"
+        ],
+        [
+          "Data Equipment",
+          "550"
+        ],
+        [
+          "Access Transmission and Network Equipment",
+          "2,740"
+        ],
+        [
+          "IoT Network Equipment",
+          "550"
+        ],
+        [
+          "Outdoor Wireless Access Equipment",
+          "550"
+        ],
+        [
+          "Remote Piloted Aircraft (RPA)",
+          "750"
+        ],
+        [
+          "Aeronautical Equipment",
+          "750"
+        ],
+        [
+          "Maritime Equipment",
+          "750"
+        ],
+        [
+          "Radio Communications Equipment",
+          "550"
+        ],
+        [
+          "Satellite Equipment",
+          "550"
+        ],
+        [
+          "Short Range Devices or Low power terminals",
+          "550"
+        ],
+        [
+          "Telephone Terminal Equipment",
+          "550"
+        ],
+        [
+          "IMT Terminal (Other than Mobile Phones)",
+          "550"
+        ],
+        [
+          "Broadcasting Equipment",
+          "550"
+        ],
+        [
+          "VOIP network equipment",
+          "2500"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "GG_6992_dated_11_Sep_2019",
+    "data": {
+      "header": [
+        "Call Monitoring Equipment",
+        "Call Metering Unit"
+      ],
+      "rows": [
+        [
+          "Call Monitoring Equipment",
+          "Call Monitoring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Barring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Recording Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Subscriber Private Meter"
+        ],
+        [
+          "Data Equipment",
+          "Modem"
+        ],
+        [
+          "Data Equipment",
+          "Packet Assembler/Disassembler (PAD)"
+        ],
+        [
+          "Data Equipment",
+          "Multiplexer (MUX)"
+        ],
+        [
+          "Facsimile Equipment",
+          "All Types"
+        ],
+        [
+          "Network Equipment",
+          "Microwave Transmitter"
+        ],
+        [
+          "Network Equipment",
+          "Base Station Transmitter"
+        ],
+        [
+          "Network Equipment",
+          "Network Management System"
+        ],
+        [
+          "Paging Equipment",
+          "All Types"
+        ],
+        [
+          "Payphone Terminal Equipment",
+          "All Types"
+        ],
+        [
+          "Radio Communications Equipment",
+          "High Frequency (HF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Very High Frequency (VHF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Ultra-High Frequency (UHF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Radio Alarm Transmitter"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Citizen Band Radio"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Amateur Radio"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "Global Mobile Personal Communications Services (GMPCS) terminal (with ITU MoU Mark)"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "Global Mobile Personal Communications Services (GMPCS) terminal (without ITU MoU Mark)"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "Very Small Aperture Terminal (VSAT)"
+        ],
+        [
+          "Short Range Devices/ Low Power terminals",
+          "Closed circuit television (CCTV)"
+        ],
+        [
+          "Short Range Devices/ Low Power terminals",
+          "Industrial control devices"
+        ],
+        [
+          "Short Range Devices/ Low Power terminals",
+          "Ultra-Wideband (UWB) sensors and radars (such as ground probing radar)"
+        ],
+        [
+          "Short Range Devices/ Low Power terminals",
+          "Road Transport telematics"
+        ],
+        [
+          "Short Range Devices/ Low Power terminals",
+          "Telemetry"
+        ],
+        [
+          "Telephone Terminal Equipment",
+          "Global System for Mobile (GSM) phone"
+        ],
+        [
+          "Telephone Terminal Equipment",
+          "Code Division Multiple Access (CDMA) terminal"
+        ],
+        [
+          "Digital Set-Top Box",
+          "All types"
+        ],
+        [
+          "VOIP network equipment",
+          "E1 interface card"
+        ],
+        [
+          "VOIP network equipment",
+          "Voice Over Internet Protocol (VOIP) gateway"
+        ],
+        [
+          "VOIP network equipment",
+          "IP terminal"
+        ],
+        [
+          "Wimax terminal",
+          "All types"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "GG_6992_dated_11_Sep_2019",
+    "data": {
+      "header": [
+        "Equipment Category",
+        "Equipment Included in Category",
+        "Fees (N$)"
+      ],
+      "rows": [
+        [
+          "Radio Transmitter Equipment",
+          "Community Radio Transmitter",
+          "1 150"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call metering unit",
+          "288"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call monitoring unit",
+          "288"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call barring unit",
+          "288"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call recording unit",
+          "288"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Subscriber private meter",
+          "288"
+        ],
+        [
+          "Data Equipment",
+          "Packet Assembler/Disassembler (PAD)",
+          "518"
+        ],
+        [
+          "Data Equipment",
+          "Multiplexer (MUX)",
+          "518"
+        ],
+        [
+          "Facsimile Equipment",
+          "All types",
+          "518"
+        ],
+        [
+          "Network Equipment (all technologies",
+          "Microwave Transmitter",
+          "3 450"
+        ],
+        [
+          "Network Equipment (all technologies",
+          "Base Station Transmitter",
+          "3 450"
+        ],
+        [
+          "Network Equipment (all technologies",
+          "Network Management System",
+          "3 450"
+        ],
+        [
+          "Network Equipment (all technologies",
+          "Cell Booster",
+          "518"
+        ],
+        [
+          "Network Equipment (all technologies",
+          "Cell Extender",
+          "518"
+        ],
+        [
+          "Paging Equipment",
+          "All types",
+          "518"
+        ],
+        [
+          "Payphone Terminal Equipment",
+          "All types",
+          "518"
+        ],
+        [
+          "Radio Communications Equipment",
+          "High Frequency (HF)",
+          "518"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Very High Frequency (VHF)",
+          "518"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Ultra-Hugh Frequency (UHF)",
+          "518"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Radio alarm transmitter",
+          "518"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Citizen band",
+          "518"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Amateur",
+          "518"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "Global Mobile Personal Communications Services (GMPCS) terminal (with ITU MoU Mark)",
+          "115"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "Global Mobile Personal Communications Services (GMPCS) terminal (without ITU MoU Mark)",
+          "518"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "Very Small Aperture Terminal (VSAT)",
+          "1 725"
+        ],
+        [
+          "Short Range Devices/Low power terminals",
+          "Industrial control",
+          "403"
+        ],
+        [
+          "Short Range Devices/Low power terminals",
+          "Ultra-Wideband (UWB) Sensors &Radars (such as ground probing radar)",
+          "288"
+        ],
+        [
+          "Short Range Devices/Low power terminals",
+          "Road Transport Telematics",
+          "288"
+        ],
+        [
+          "Short Range Devices/Low power terminals",
+          "Telemetry.",
+          "288"
+        ],
+        [
+          "Short Range Devices/Low power terminals",
+          "Closed Circuit Television (CCTV)",
+          "288"
+        ],
+        [
+          "Telephone Terminal Equipment",
+          "Global System for Mobile (GSM) terminal",
+          "518"
+        ],
+        [
+          "Telephone Terminal Equipment",
+          "Code Division Multiple Access (CDMA) terminal",
+          "518"
+        ],
+        [
+          "Voice Over Internet Protocol (VOIP) Network Equipment",
+          "E1 interface card",
+          "2 875"
+        ],
+        [
+          "Voice Over Internet Protocol (VOIP) Network Equipment",
+          "VoIP gateway",
+          "2 875"
+        ],
+        [
+          "Voice Over Internet Protocol (VOIP) Network Equipment",
+          "IP terminal",
+          "2 875"
+        ],
+        [
+          "WiMAX terminal",
+          "All types",
+          "518"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "GG_6992_dated_11_Sep_2019",
+    "data": {
+      "header": [
+        "Type Approval Certificate Number"
+      ],
+      "rows": [
+        [
+          "Date of Issuance"
+        ],
+        [
+          "Brand Name"
+        ],
+        [
+          "Model Number"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "REGULATIONS_REGARDING_TYPE_APPROVALS_-_5659-Gen_N22-30",
+    "data": {
+      "header": [
+        "Name of Original Equipment Manufacturer"
+      ],
+      "rows": [
+        [
+          "Postal Address:"
+        ],
+        [
+          "Physical Address:"
+        ],
+        [
+          "Contact Person:"
+        ],
+        [
+          "Email Address:"
+        ],
+        [
+          "Telephone No:"
+        ],
+        [
+          "Facsimile No:"
+        ],
+        [
+          "Website:"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "REGULATIONS_REGARDING_TYPE_APPROVALS_-_5659-Gen_N22-30",
+    "data": {
+      "header": [
+        "Type Approval (proof of adherence to applicable technical standards, certificate of conformance test reports and other data must be attached- refer regulations be attached)",
+        "6 and 7 to"
+      ],
+      "rows": []
+    }
+  },
+  {
+    "gazette": "REGULATIONS_REGARDING_TYPE_APPROVALS_-_5659-Gen_N22-30",
+    "data": {
+      "header": [
+        "Call Monitoring Equipment",
+        "Call Metering Unit"
+      ],
+      "rows": [
+        [
+          "Call Monitoring Equipment",
+          "Call Monitoring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Barring Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call Recording Unit"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Subscriber Private Meter"
+        ],
+        [
+          "Data Equipment",
+          "Modem"
+        ],
+        [
+          "Data Equipment",
+          "Router"
+        ],
+        [
+          "Data Equipment",
+          "Switch"
+        ],
+        [
+          "Data Equipment",
+          "Packet Assembler/Disassembler (PAD)"
+        ],
+        [
+          "Data Equipment",
+          "Multiplexer (MUX)"
+        ],
+        [
+          "Facsimile Equipment",
+          "All Types"
+        ],
+        [
+          "Network Equipment",
+          "Microwave Transmitter"
+        ],
+        [
+          "Network Equipment",
+          "Base Station Transmitter"
+        ],
+        [
+          "Network Equipment",
+          "Network Management System"
+        ],
+        [
+          "Paging Equipment",
+          "All Types"
+        ],
+        [
+          "Payphone Terminal Equipment",
+          "All Types"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Private Manual Branch Exchange (PMBX)"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Private Automatic Branch Exchange (PABX)"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Voice Messaging System"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Switchboard Equipment"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Media Convergence Server"
+        ],
+        [
+          "Radio Communications Equipment",
+          "High Frequency (HF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Very High Frequency (VHF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Ultra-High Frequency (UHF)"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Radio Alarm Transmitter"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Citizen Band Radio"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Amateur Radio"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "Global Mobile Personal Communications Services (GMPCS) terminal (with ITU MoU Mark)"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "Global Mobile Personal Communications Services (GMPCS) terminal (without ITU MoU Mark)"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "Very Small Aperture Terminal (VSAT)"
+        ]
+      ]
+    }
+  },
+  {
+    "gazette": "REGULATIONS_REGARDING_TYPE_APPROVALS_-_5659-Gen_N22-30",
+    "data": {
+      "header": [
+        "EQUIPMENTCATEGORY",
+        "EQUIPMENT INCLUDED IN THIS CATEGORY",
+        "FEES (N$)"
+      ],
+      "rows": [
+        [
+          "Radio Transmitter Equipment",
+          "Community Radio Transmitter",
+          "1,000.00"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call metering unit",
+          "250.00"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call monitoring unit",
+          "250.00"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call barring unit",
+          "250.00"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Call recording unit",
+          "250.00"
+        ],
+        [
+          "Call Monitoring Equipment",
+          "Subscriber private meter",
+          "250.00"
+        ],
+        [
+          "Data Equipment",
+          "Modem",
+          "450.00"
+        ],
+        [
+          "Data Equipment",
+          "Router",
+          "450.00"
+        ],
+        [
+          "Data Equipment",
+          "Switch",
+          "450.00"
+        ],
+        [
+          "Data Equipment",
+          "Packet Assembler/Disassembler (PAD)",
+          "450.00"
+        ],
+        [
+          "Data Equipment",
+          "Multiplexer (MUX)",
+          "450.00"
+        ],
+        [
+          "Facsimile Equipment",
+          "All types",
+          "450.00"
+        ],
+        [
+          "Network Equipment",
+          "Microwave transmitter",
+          "3,000.00"
+        ],
+        [
+          "Network Equipment",
+          "Base Station transmitter",
+          "3,000.00"
+        ],
+        [
+          "Network Equipment",
+          "Network Management System",
+          "3,000.00"
+        ],
+        [
+          "Paging Equipment",
+          "All types",
+          "450.00"
+        ],
+        [
+          "Payphone Terminal Equipment",
+          "All types",
+          "450.00"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Private Manual Branch Exchange (PMBX)",
+          "1,500.00"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Private Manual Branch Exchange (PABX)",
+          "1,500.00"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Voice messaging system",
+          "1,500.00"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Switchboard equipment",
+          "1,500.00"
+        ],
+        [
+          "Private Exchange Equipment",
+          "Media convergence server",
+          "1,500.00"
+        ],
+        [
+          "Radio Communications Equipment",
+          "High Frequency (HF)",
+          "450.00"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Very High Frequency (VHF)",
+          "450.00"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Ultra-Hugh Frequency (UHF)",
+          "450.00"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Radio alarm transmitter",
+          "450.00"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Citizen band",
+          "450.00"
+        ],
+        [
+          "Radio Communications Equipment",
+          "Amateur",
+          "450.00"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "Global Mobile Personal Communications Services (GMPCS) terminal (with ITU MoU Mark)",
+          "100.00"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "Global Mobile Personal Communications Services (GMPCS) terminal (without ITU MoU Mark)",
+          "450.00"
+        ],
+        [
+          "Satellite Earth Terminal",
+          "Very Small Aperture Terminal (VSAT)",
+          "1,500.00"
+        ]
+      ]
+    }
+  }
+]
