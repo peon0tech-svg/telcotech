@@ -1,0 +1,2004 @@
+[
+  {
+    "radioFrequencyRange": "1725-1745 1820-1840",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "Mobile Services Fixed Mobile",
+    "dateAllocated": "Yes",
+    "gazetteRef": "4946"
+  },
+  {
+    "radioFrequencyRange": "8038.000 MHz 8066.000 MHz 8094.000 MHz 8304.000 MHz 8332.000 MHz 8360.000 MHz 17920.000 MHz 17975.000 MHz 18930.000 MHz 18985.000 MHz",
+    "licensee": "Wireless Technology Namibia (Pty) Ltd",
+    "typeOfUse": "FIXED 1",
+    "dateAllocated": "",
+    "gazetteRef": "4976"
+  },
+  {
+    "radioFrequencyRange": "2595.000 - 2625.000 MHz 5150.000 - 5195.000 MHz 14683.000 MHz 14711.000 MHz 15103.000 MHz 15131.000 MHz",
+    "licensee": "Converged Telecommunication Solution (Pty) Ltd",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "4976"
+  },
+  {
+    "radioFrequencyRange": "14599.000 MHz 14627.000 MHz 14655.000 MHz 15019.000 MHz 15047.000 MHz 15075.000 MHz 1787.000 - 1797.000 MHz",
+    "licensee": "iBurst Namibia Wire Operations (Pty) Ltd",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "4976"
+  },
+  {
+    "radioFrequencyRange": "890.000 - 903.000 MHz 935.000 - 948.000 MHz 1710.200 - 1745.000 MHz 1805.200 - 1840.000 MHz 1920.000 - 1925.000 MHz 1930.000 - 1935.000 MHz 2110.000 - 2115.000 MHz 2120.000 - 2125.000 MHz 7121.000 MHz 7142.000 MHz 7149.000 MHz",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "4976"
+  },
+  {
+    "radioFrequencyRange": "7170.000 MHz",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "4976"
+  },
+  {
+    "radioFrequencyRange": "7177.000 MHz",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "4976"
+  },
+  {
+    "radioFrequencyRange": "7198.000 MHz",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "4976"
+  },
+  {
+    "radioFrequencyRange": "7205.000 MHz 7226.000 MHz 7233.000 MHz 7303.000 MHz 7317.000 MHz",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "4976"
+  },
+  {
+    "radioFrequencyRange": "1925-1930 2115-2120",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "Fixed Mobile",
+    "dateAllocated": "Yes",
+    "gazetteRef": "4997"
+  },
+  {
+    "radioFrequencyRange": "94.3 MHz 89.1 MHz 88.1 MHz 88.1 MHz 101.9 MHz 88.1 MHz 103.6 MHz 103.0 MHz 102.3 MHz 102.3 MHz 104.4 MHz",
+    "licensee": "Namibia",
+    "typeOfUse": "Community Broadcasting Service License",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5017"
+  },
+  {
+    "radioFrequencyRange": "8038.000 MHz 8066.000 MHz 8094.000 MHz 8304.000 MHz 8332.000 MHz 8360.000 MHz 17920.000 MHz 17975.000 MHz",
+    "licensee": "Wireless Technologies Namibia (Pty) Ltd",
+    "typeOfUse": "Fixed",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5037"
+  },
+  {
+    "radioFrequencyRange": "890.000 - 903.000 MHz 935.000 - 948.000 MHz 1710.200 - 1745.200 MHz 1805.200 - 1840.200 MHz 1920.000 - 1925.000 MHz 1930.000 - 1935.000 MHz 2110.000 - 2115.000 MHz 2120.000 - 2125.000 MHz 7121.000 MHz 7142.000 MHz 7149.000 MHz 7170.000 MHz 7177.000 MHz 7198.000 MHz 7205.000 MHz",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "FIXED LAND MOBILE FIXED LAND MOBILE FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED FIXED FIXED FIXED FIXED FIXED FIXED",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5037"
+  },
+  {
+    "radioFrequencyRange": "104.3 FM",
+    "licensee": "Oranjemund Community Radio (Association incorporated not for gain)",
+    "typeOfUse": "Community Broadcasting Service",
+    "dateAllocated": "No",
+    "gazetteRef": "5044"
+  },
+  {
+    "radioFrequencyRange": "91.0 MHz",
+    "licensee": "Oranjemund Community Radio (Association incorporated not for for gain)",
+    "typeOfUse": "Community Broadcasting Service",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5092"
+  },
+  {
+    "radioFrequencyRange": "Radio Frequencies or group of frequencies applied for;",
+    "licensee": "Applicant;",
+    "typeOfUse": "Services intended to be provided using the spectrum being applied for",
+    "dateAllocated": "Yes/No",
+    "gazetteRef": "5140"
+  },
+  {
+    "radioFrequencyRange": "14907.000 MHz 15523.000 MHz 8349.000 MHz 8475.000 MHz",
+    "licensee": "NAMDEB Diamond Corporation (PTY) LTD",
+    "typeOfUse": "FIXED",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5140"
+  },
+  {
+    "radioFrequencyRange": "Radio Frequencies or group of frequencies applied for;",
+    "licensee": "Applicant;",
+    "typeOfUse": "Services intended to be provided using the spectrum being applied for;",
+    "dateAllocated": "Yes/No",
+    "gazetteRef": "5140"
+  },
+  {
+    "radioFrequencyRange": "6299.000 MHz 4074.000 MHz",
+    "licensee": "AngloGold Ashanti Namibia (Pty) Ltd",
+    "typeOfUse": "FIXED SATELLITE",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5140"
+  },
+  {
+    "radioFrequencyRange": "Radio Frequencies or group of frequencies applied for;",
+    "licensee": "Applicant;",
+    "typeOfUse": "Services intended to be provided using the spectrum being applied for;",
+    "dateAllocated": "Yes/No",
+    "gazetteRef": "5140"
+  },
+  {
+    "radioFrequencyRange": "7777.350 MHz 7807.000 MHz 7836.650 MHz 7866.300 MHz 8088.670 MHz 8118.320 MHz 8147.970 MHz 8177.620 MHz 8010.000 MHz 8276.000 MHz",
+    "licensee": "Namibian Broadcasting Corporation",
+    "typeOfUse": "FIXED",
+    "dateAllocated": "No",
+    "gazetteRef": "5140"
+  },
+  {
+    "radioFrequencyRange": "7446.500 MHz 7414.500 MHz 7460.500 MHz 7628.500 MHz 24608.500 MHz 25616.500 MHz 24622.500 MHz 25630.500 MHz",
+    "licensee": "Erongo Regional Electricity Distributor Company (Pty) Ltd",
+    "typeOfUse": "FIXED LINKS",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5148"
+  },
+  {
+    "radioFrequencyRange": "1764.800 - 1774.800 1859.800 - 1869.800",
+    "licensee": "PowerCom (Pty) Ltd t/a Leo",
+    "typeOfUse": "FIXED MOBILE",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5179"
+  },
+  {
+    "radioFrequencyRange": "3600 -3620 MHz",
+    "licensee": "Salt Essential IT (Information Technology) (Pty) Ltd",
+    "typeOfUse": "Fixed/Broadband Wireless Systems",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5194"
+  },
+  {
+    "radioFrequencyRange": "7446.500 MHz 7614.500 MHz 7460.500 MHz 7628.500 MHz 24608.500 MHz 25616.500 MHz 24622.500 MHz 25630.500 MHz",
+    "licensee": "Erongo Regional Electricity Distributor Company (Pty) Ltd",
+    "typeOfUse": "FIXED LINKS",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5219"
+  },
+  {
+    "radioFrequencyRange": "6299.000 4074.000",
+    "licensee": "AngloGold Ashanti Namibia (Pty) Ltd",
+    "typeOfUse": "FIXED SATELLITE",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5219"
+  },
+  {
+    "radioFrequencyRange": "7777.350 7807.000 7836.650 7866.300 8088.670 8118.320 8147.970 8177.620 8010.000 8276.000",
+    "licensee": "Namibia Broadcasting Corporation",
+    "typeOfUse": "Fixed",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5219"
+  },
+  {
+    "radioFrequencyRange": "14907.000 MHz 15523.000 MHz 8349.000 MHz 8475.000 MHz",
+    "licensee": "NAMDEB Diamond Corporation (PTY) LTD",
+    "typeOfUse": "FIXED",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5219"
+  },
+  {
+    "radioFrequencyRange": "6078.000 MHz 3854.000 MHz",
+    "licensee": "HRTAfrica Petroleo S.A.",
+    "typeOfUse": "PRIVATE FIXED-SATELLITE (Earth-to-space) (space-to-Earth)",
+    "dateAllocated": "No",
+    "gazetteRef": "5231"
+  },
+  {
+    "radioFrequencyRange": "3650.000 - 3675.000 MHz 10755.000 - 10835.000 MHz 11285.000 - 11365.000 MHz",
+    "licensee": "Schoemans Technologies (Pty) Ltd",
+    "typeOfUse": "FIXED FIXED",
+    "dateAllocated": "No",
+    "gazetteRef": "5243"
+  },
+  {
+    "radioFrequencyRange": "2595-2625 5150-5195 14683-14711 15103-15131",
+    "licensee": "Converged Telecommunications Solutions (Pty) Ltd",
+    "typeOfUse": "Electronic Communications.",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5243"
+  },
+  {
+    "radioFrequencyRange": "106.9 MHz",
+    "licensee": "West Coast FM (Pty) Ltd",
+    "typeOfUse": "Commercial Broadcasting Services",
+    "dateAllocated": "No",
+    "gazetteRef": "5254"
+  },
+  {
+    "radioFrequencyRange": "3600 -3620 MHz",
+    "licensee": "Salt Essential IT (Information Technology) (Pty) Ltd",
+    "typeOfUse": "Fixed/Broadband Wireless Systems",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5254"
+  },
+  {
+    "radioFrequencyRange": "1765.000 -1775.000 1860.000 -1870.000",
+    "licensee": "Powercom (Pty) Ltd t/a Leo",
+    "typeOfUse": "FIXED MOBILE",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5254"
+  },
+  {
+    "radioFrequencyRange": "List of radio frequencies or groups of radio frequencies applied for;",
+    "licensee": "Applicant's Name;",
+    "typeOfUse": "Services intended to be provided using the spectrum being applied for;",
+    "dateAllocated": "Proof of Application fees paid up to date sub-mit- ted?",
+    "gazetteRef": "5282"
+  },
+  {
+    "radioFrequencyRange": "87-109 MHz",
+    "licensee": "Gospel Mission Ministries Inc (ASSOCIATION NOT FOR GAIN) T/A Kairos Radio",
+    "typeOfUse": "Community Service Broadcasting",
+    "dateAllocated": "No",
+    "gazetteRef": "5282"
+  },
+  {
+    "radioFrequencyRange": "3415.000 - 3695.000",
+    "licensee": "MistyBay Investments 140CC",
+    "typeOfUse": "Electronic Communications.",
+    "dateAllocated": "No",
+    "gazetteRef": "5282"
+  },
+  {
+    "radioFrequencyRange": "frequenor frequencies",
+    "licensee": "Applicant's Name; ship or place of incorporation;",
+    "typeOfUse": "Party providing Signal Dis- tribu- tion;",
+    "dateAllocated": "",
+    "gazetteRef": "5374"
+  },
+  {
+    "radioFrequencyRange": "Kunene",
+    "licensee": "Khorixas",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5374"
+  },
+  {
+    "radioFrequencyRange": "Yes",
+    "licensee": "Community",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5374"
+  },
+  {
+    "radioFrequencyRange": "Gazette;",
+    "licensee": "Applicant's Name;",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5442"
+  },
+  {
+    "radioFrequencyRange": "100%",
+    "licensee": "Namibian Broadcasting Corporation",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5442"
+  },
+  {
+    "radioFrequencyRange": "List ofradio frequencies orgroups o frequencies applied for;",
+    "licensee": "Applicant's Name;",
+    "typeOfUse": "Services intended to be provided using the spectrum being applied for;",
+    "dateAllocated": "Proof of Application Fees paid upto date sub-mit- ted?",
+    "gazetteRef": "5514"
+  },
+  {
+    "radioFrequencyRange": "88-108MHz88.700MHzOshana",
+    "licensee": "FIMBOMEDIA INVESTMENTS taFimboFM",
+    "typeOfUse": "Yes",
+    "dateAllocated": "",
+    "gazetteRef": "5514"
+  },
+  {
+    "radioFrequencyRange": "GSM (2G)",
+    "licensee": "Telecom Namibia Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5745"
+  },
+  {
+    "radioFrequencyRange": "LTE (4G)",
+    "licensee": "Telecom Namibia Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5745"
+  },
+  {
+    "radioFrequencyRange": "UMTS (3G)",
+    "licensee": "Telecom Namibia Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5745"
+  },
+  {
+    "radioFrequencyRange": "GSM (2G)",
+    "licensee": "MTC",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5745"
+  },
+  {
+    "radioFrequencyRange": "GSM (2G)",
+    "licensee": "MTC",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5745"
+  },
+  {
+    "radioFrequencyRange": "LTE (4G)",
+    "licensee": "MTC",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5745"
+  },
+  {
+    "radioFrequencyRange": "UMTS (3G)",
+    "licensee": "MTC",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5745"
+  },
+  {
+    "radioFrequencyRange": "GSM (2G)",
+    "licensee": "Telecom Namibia Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5745"
+  },
+  {
+    "radioFrequencyRange": "LTE (4G)",
+    "licensee": "Telecom Namibia Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5745"
+  },
+  {
+    "radioFrequencyRange": "UMTS (3G)",
+    "licensee": "Telecom Namibia Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5745"
+  },
+  {
+    "radioFrequencyRange": "GSM (2G)",
+    "licensee": "MTC",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5745"
+  },
+  {
+    "radioFrequencyRange": "GSM (2G)",
+    "licensee": "MTC",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5745"
+  },
+  {
+    "radioFrequencyRange": "LTE (4G)",
+    "licensee": "MTC",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5745"
+  },
+  {
+    "radioFrequencyRange": "UMTS (3G)",
+    "licensee": "MTC",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5745"
+  },
+  {
+    "radioFrequencyRange": "LTE (4G)",
+    "licensee": "Paratus Telecommunications (Pty) Ltd",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5745"
+  },
+  {
+    "radioFrequencyRange": "LTE (4G)",
+    "licensee": "Paratus Telecommunications (Pty) Ltd",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5745"
+  },
+  {
+    "radioFrequencyRange": "GSM (2G)",
+    "licensee": "Telecom Namibia Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5836"
+  },
+  {
+    "radioFrequencyRange": "LTE (4G)",
+    "licensee": "Telecom Namibia Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5836"
+  },
+  {
+    "radioFrequencyRange": "UMTS (3G)",
+    "licensee": "Telecom Namibia Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5836"
+  },
+  {
+    "radioFrequencyRange": "GSM (2G)",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5836"
+  },
+  {
+    "radioFrequencyRange": "GSM (2G)",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5836"
+  },
+  {
+    "radioFrequencyRange": "LTE (4G)",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5836"
+  },
+  {
+    "radioFrequencyRange": "UMTS (3G)",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5836"
+  },
+  {
+    "radioFrequencyRange": "LTE (4G)",
+    "licensee": "Paratus Telecommunications (Pty) Ltd",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5836"
+  },
+  {
+    "radioFrequencyRange": "LTE (4G)",
+    "licensee": "Paratus Telecommunications (Pty) Ltd",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "5836"
+  },
+  {
+    "radioFrequencyRange": "GSM (2G)",
+    "licensee": "Telecom Namibia Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6074"
+  },
+  {
+    "radioFrequencyRange": "LTE (4G)",
+    "licensee": "Telecom Namibia Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6074"
+  },
+  {
+    "radioFrequencyRange": "UMTS (3G)",
+    "licensee": "Telecom Namibia Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6074"
+  },
+  {
+    "radioFrequencyRange": "GSM (2G)",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6074"
+  },
+  {
+    "radioFrequencyRange": "GSM (2G)",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6074"
+  },
+  {
+    "radioFrequencyRange": "LTE (4G)",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6074"
+  },
+  {
+    "radioFrequencyRange": "UMTS (3G)",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6074"
+  },
+  {
+    "radioFrequencyRange": "LTE (4G)",
+    "licensee": "Paratus Telecommunications (Pty) Ltd",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6074"
+  },
+  {
+    "radioFrequencyRange": "LTE (4G)",
+    "licensee": "Paratus Telecommunications (Pty) Ltd",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6074"
+  },
+  {
+    "radioFrequencyRange": "GSM (2G)",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6092"
+  },
+  {
+    "radioFrequencyRange": "GSM (2G)",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6092"
+  },
+  {
+    "radioFrequencyRange": "LTE (4G)",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6092"
+  },
+  {
+    "radioFrequencyRange": "UMTS (3G)",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6092"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "All classes of amateur radio spectrum licences",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Beacon",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Examination",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Guest or special event spectrum licence",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Repeater station",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141"
+  },
+  {
+    "radioFrequencyRange": "N$194.00",
+    "licensee": "Aircraft station",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Glider / microlight",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141"
+  },
+  {
+    "radioFrequencyRange": "N$116.00",
+    "licensee": "Ground station",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Navigation aids / beacons",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Operator certificate radiotelephony (including duplicate)",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Beacon",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Operator certificate radiotelephony (including duplicate)",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "All classes of amateur radio spectrum licences",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6322"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Beacon",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6322"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Examination",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6322"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Guest or special event spectrum licence",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6322"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Repeater station",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6322"
+  },
+  {
+    "radioFrequencyRange": "10 mW e.i.r.p.",
+    "licensee": "CT2 cordless phones",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6802"
+  },
+  {
+    "radioFrequencyRange": "25 mW ERP < 1% duty cycle or LBT.",
+    "licensee": "Non-specific SRDs",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6802"
+  },
+  {
+    "radioFrequencyRange": "10 mW ERP < 1 % duty cycle. 25 kHz channel spacing.",
+    "licensee": "Alarms",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6802"
+  },
+  {
+    "radioFrequencyRange": "25 mW ERP < 0.1 % duty cycle or LBT. No channel spacing.",
+    "licensee": "Non-specific SRDs",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6802"
+  },
+  {
+    "radioFrequencyRange": "10 mW ERP < 0.1 % duty cycle. 25 kHz channel spacing.",
+    "licensee": "Alarms",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6802"
+  },
+  {
+    "radioFrequencyRange": "500 mWERP",
+    "licensee": "Non-specific SRDs,",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6802"
+  },
+  {
+    "radioFrequencyRange": "The Authority has considered the comments submitted and amended Regulation 16(3)(c) as follows- 'following consultation with the licensee impose reasonable conditions on the licensee with respect to the migration of customers of the licensee or end-users.'",
+    "licensee": "WITHDRAWALOF SPECTRUM LICENCE Reg. 16 introduces various requirement to be met when a spectrum licensee intends to permanently discontinue the services for which the spectrum licence was issued. Reg. 16 (2)(f) requires the spectrum withdrawal application to contain a migration plan for any customer of the licensee that may be affected by the withdrawal of the spectrum licence, an analyis of the impact of such withdrawal on such affected customers, and a communication plan to affected customers. Reg 16(3)(c) empowers the Authority to impose conditions on the licensee with respect to migration of customers and end-users. These requirements relate to the discontinuation of the service in respect of which the spectrum licence was issued, rather than to te withdrawal of the spectrum per se . Since this relates to the discontinuation of the service, the spectrum witdrawal is incidental, and may in fact be irrelevant. These requirements may not always be necessary. For example, a migration plan, as contemplated in Reg. 16(f), might be appropriate when a service is discontinued, but not if spectrum is surrendered which does not affect the provision of the service or the customer experience. For example, if a licensee seeks withdrawal of a spectrum licence because it intends to use alternative spectrum for delivery of its service, the transition from the old spectrum to the new spectrum may well be seamless, and the information required by Reg. 16 (e) and (f) is not necessarily applicable. We therefore suggest that the proposed Reg. 16(2)(f) and 16(2)(c) rather be included in the",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6888"
+  },
+  {
+    "radioFrequencyRange": "The Authority has considered the comments as submitted and concluded that the matter has been address in Regulation 13.",
+    "licensee": "AD REGULATION 11(1)(a) We propose to add at the end of sentence the following- 'and renewable annually on payment of application fee and licence fees' This addition is in line with the provisions of the Act.",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6888"
+  },
+  {
+    "radioFrequencyRange": "TheAuthorityisoftheopinionthatRegulation 18 already pertains to spectrum licences on as contained in the preamble to this regulation.",
+    "licensee": "AD REGULATION 18(a) We propose that any breaches for which a spectrum licence can be revoked be limited to breach in terms of the spectrum licence only, in the interest of fairness. It is trite in law that material breach (warranty repudiation) can only be in terms of the conditions placed upon by nature of such instrument. As such we propose to delete Regulation 18(a)(ii) if same refers to the general operating licence; (iv) and (vi) alternative limit these to applicability to the spectrum licence awarded.",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6888"
+  },
+  {
+    "radioFrequencyRange": "The Authority has considered that comments as submittd and amended regulation 18(c) accordingly",
+    "licensee": "AD REGULATION 18(c) We propose to add at the end of the sentence the following- 'in respect of the application for spectrum licence' .",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6888"
+  },
+  {
+    "radioFrequencyRange": "AMATEUR-SATELLITE",
+    "licensee": "AMATEUR-SATELLITE",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6982"
+  },
+  {
+    "radioFrequencyRange": "SPACE OPERATION",
+    "licensee": "SPACE OPERATION",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6982"
+  },
+  {
+    "radioFrequencyRange": "SPACE RESEARCH",
+    "licensee": "SPACE RESEARCH",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6982"
+  },
+  {
+    "radioFrequencyRange": "14-19.95 kHz 20.05-70 kHz 72-84 kHz 86-90 kHz 110-112 kHz 117.6-126 kHz 129-130 kHz 130-135.7 kHz 135.7-137.8 kHz 137.8-148.5 kHz 1606.5-1625 kHz 1635-1800 kHz 1850-2000 kHz 2000-2025 kHz 2025-2045 kHz 2045-2160 kHz 2194-2300 kHz 2300-2498 kHz 2502-2625 kHz 2650-2850 kHz 3155-3200 kHz 3200-3230 kHz 3230-3400 kHz 3500-3800 kHz 3800-3900 kHz",
+    "licensee": "FIXED",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6982"
+  },
+  {
+    "radioFrequencyRange": "MOBILE",
+    "licensee": "MOBILE",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7089"
+  },
+  {
+    "radioFrequencyRange": "3570-3590 MHz",
+    "licensee": "MOBILE",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7131"
+  },
+  {
+    "radioFrequencyRange": "790-862 MHz (800 band)",
+    "licensee": "791-801 MHz paired with 832-842 MHz 801-811 MHz paired with 842-852 MHz",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7164"
+  },
+  {
+    "radioFrequencyRange": "885 -890 MHz paired with 930 - 935 MHz",
+    "licensee": "MOBILE (IMT)",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7176"
+  },
+  {
+    "radioFrequencyRange": "119.00",
+    "licensee": "All classes of amateur radio spectrum licences",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7216"
+  },
+  {
+    "radioFrequencyRange": "119.00",
+    "licensee": "Beacon",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7216"
+  },
+  {
+    "radioFrequencyRange": "119.00",
+    "licensee": "Examination",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7216"
+  },
+  {
+    "radioFrequencyRange": "119.00",
+    "licensee": "Guest or special event spectrum licence",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7216"
+  },
+  {
+    "radioFrequencyRange": "119.00",
+    "licensee": "Repeater station",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7216"
+  },
+  {
+    "radioFrequencyRange": "238.00",
+    "licensee": "Aircraft station",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7216"
+  },
+  {
+    "radioFrequencyRange": "119.00",
+    "licensee": "Glider / microlight",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7216"
+  },
+  {
+    "radioFrequencyRange": "143.00",
+    "licensee": "Ground station",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7216"
+  },
+  {
+    "radioFrequencyRange": "119.00",
+    "licensee": "Navigation aids / beacons",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7216"
+  },
+  {
+    "radioFrequencyRange": "EN 300 330",
+    "licensee": "EN 300 330",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7344"
+  },
+  {
+    "radioFrequencyRange": "None",
+    "licensee": "None",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7344"
+  },
+  {
+    "radioFrequencyRange": "None",
+    "licensee": "None",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7344"
+  },
+  {
+    "radioFrequencyRange": "82 dBµA/m at 10m",
+    "licensee": "82 dBµA/m at 10m",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7344"
+  },
+  {
+    "radioFrequencyRange": "Inductive applications",
+    "licensee": "Inductive applications",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7344"
+  },
+  {
+    "radioFrequencyRange": "8.3-9kHz",
+    "licensee": "8.3-9kHz",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7344"
+  },
+  {
+    "radioFrequencyRange": "EN 300 440",
+    "licensee": "EN 300 440",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7344"
+  },
+  {
+    "radioFrequencyRange": "100 mWe.i.r.p.",
+    "licensee": "400 mWe.i.r.p. Adaptive Power Control (APC) required",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7344"
+  },
+  {
+    "radioFrequencyRange": "24.00-24.25 GHz",
+    "licensee": "5725-5875 MHz",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7344"
+  },
+  {
+    "radioFrequencyRange": "880-915 MHz paired with 925- 960 MHz (FDD)",
+    "licensee": "885-890 MHz (1x 5 MHz) paired with 930-935 MHz (1x 5 MHz)",
+    "typeOfUse": "MOBILE (IMT)",
+    "dateAllocated": "",
+    "gazetteRef": "7511"
+  },
+  {
+    "radioFrequencyRange": "2595-2625 MHz",
+    "licensee": "Khomas Region",
+    "typeOfUse": "FIXED",
+    "dateAllocated": "",
+    "gazetteRef": "7511"
+  },
+  {
+    "radioFrequencyRange": "EN 300 330",
+    "licensee": "EN 300 330",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7613"
+  },
+  {
+    "radioFrequencyRange": "None",
+    "licensee": "None",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7613"
+  },
+  {
+    "radioFrequencyRange": "None",
+    "licensee": "None",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7613"
+  },
+  {
+    "radioFrequencyRange": "82 dBµA/m at 10m 72 dBμA/m at 10m 42 dBμA/m at 10m 66 dBμA/m at 10m 42 dBμA/m at 10m 37.7 dBμA/m at 10m",
+    "licensee": "82 dBµA/m at 10m 72 dBμA/m at 10m 42 dBμA/m at 10m 66 dBμA/m at 10m 42 dBμA/m at 10m 37.7 dBμA/m at 10m",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7613"
+  },
+  {
+    "radioFrequencyRange": "Inductive applications",
+    "licensee": "Inductive applications",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7613"
+  },
+  {
+    "radioFrequencyRange": "8.3-9kHz 9-90 kHz 90-119 kHz 119-135 kHz 135-140 kHz 140-148.5 kHz",
+    "licensee": "8.3-9kHz 9-90 kHz 90-119 kHz 119-135 kHz 135-140 kHz 140-148.5 kHz",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7613"
+  },
+  {
+    "radioFrequencyRange": "EN 302 264",
+    "licensee": "EN 300 440",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7613"
+  },
+  {
+    "radioFrequencyRange": "≤ 1ms/40kHz dwell time every 40ms (note 1)",
+    "licensee": "None)",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7613"
+  },
+  {
+    "radioFrequencyRange": "55 dBm peak e.i.r.p.",
+    "licensee": "100 mWe.i.r.p.",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7613"
+  },
+  {
+    "radioFrequencyRange": "76-77 GHz",
+    "licensee": "24.15-24.25 GHz",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7613"
+  },
+  {
+    "radioFrequencyRange": "1920-1980 MHz paired with 2110- 2170MHz",
+    "licensee": "1960-1965 MHz (lx 5 MHz) paired with 2150 - 2155 MHz (lx 5 MHz) 1970-1975 MHz (lx 5 MHz) paired with 2160 - 2165 MHz (lx 5 MHz)",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "7895"
+  },
+  {
+    "radioFrequencyRange": "BROADCASTING",
+    "licensee": "Namibia Future Media Holdings (Pty) Ltd",
+    "typeOfUse": "BROADCASTING",
+    "dateAllocated": "",
+    "gazetteRef": "7909"
+  },
+  {
+    "radioFrequencyRange": "100%",
+    "licensee": "Maroela Trust t/a Shipi FM",
+    "typeOfUse": "BROADCASTING",
+    "dateAllocated": "",
+    "gazetteRef": "7981"
+  },
+  {
+    "radioFrequencyRange": "703-788 MHz",
+    "licensee": "LotA : 703-723 MHz paired with 758-778 MHz",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8053"
+  },
+  {
+    "radioFrequencyRange": "703 - 788 MHz And 791 - 862 MHz",
+    "licensee": "Lot B : 723-733 MHz paired with 778-788 MHz and 791-801 MHz paired with 832-842 MHz",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8053"
+  },
+  {
+    "radioFrequencyRange": "791 - 862 MHz",
+    "licensee": "Lot C :801-821 MHz paired with 842-862 MHz",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8053"
+  },
+  {
+    "radioFrequencyRange": "EN 300 330",
+    "licensee": "EN 300 330",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8060"
+  },
+  {
+    "radioFrequencyRange": "None",
+    "licensee": "None",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8060"
+  },
+  {
+    "radioFrequencyRange": "None",
+    "licensee": "None",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8060"
+  },
+  {
+    "radioFrequencyRange": "82 dBµA/m at 10m",
+    "licensee": "82 dBµA/m at 10m",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8060"
+  },
+  {
+    "radioFrequencyRange": "Inductive applications",
+    "licensee": "Inductive applications",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8060"
+  },
+  {
+    "radioFrequencyRange": "8.3-9kHz",
+    "licensee": "8.3-9kHz",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8060"
+  },
+  {
+    "radioFrequencyRange": "EN 300 440",
+    "licensee": "EN 303 687",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8060"
+  },
+  {
+    "radioFrequencyRange": "100 mWe.i.r.p.",
+    "licensee": "14 dBm (25) e.i.r.p mW",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8060"
+  },
+  {
+    "radioFrequencyRange": "RTTT(24.075-24.15 GHz)",
+    "licensee": "WAS RLAN",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8060"
+  },
+  {
+    "radioFrequencyRange": "24.00-24.25 GHz",
+    "licensee": "5825-6425 MHz",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8060"
+  },
+  {
+    "radioFrequencyRange": "3300 - 3400 MHz (TDD)",
+    "licensee": "3300 - 3380 MHz (1x 80 MHz)",
+    "typeOfUse": "MOBILE (IMT)",
+    "dateAllocated": "",
+    "gazetteRef": "8215"
+  },
+  {
+    "radioFrequencyRange": "112.00",
+    "licensee": "All classes of amateur radio spectrum licences",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "112.00",
+    "licensee": "Beacon",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "112.00",
+    "licensee": "Examination",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "112.00",
+    "licensee": "Guest or special event spectrum licence",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "112.00",
+    "licensee": "Repeater station",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "222.00",
+    "licensee": "Aircraft station",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "112.00",
+    "licensee": "Glider / microlight",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "133.00",
+    "licensee": "Ground station",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "112.00",
+    "licensee": "Navigation aids / beacons",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "112.00",
+    "licensee": "Operator certificate radiotelephony (including duplicate)",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "112.00",
+    "licensee": "Beacon",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "112.00",
+    "licensee": "Operator certificate radiotelephony (including duplicate)",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "2022/2023",
+    "licensee": "2021/2022",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "10,000,000",
+    "licensee": "9,850,000",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "20,701,895",
+    "licensee": "18,681,362.08",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "30,701,894.99",
+    "licensee": "28,531,362.08",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "27,426,875",
+    "licensee": "14,933,288",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "11,916,915",
+    "licensee": "13,193,627",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "15,509,960",
+    "licensee": "1,739,661",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "27,050,861",
+    "licensee": "19,363,370",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "15,594,629",
+    "licensee": "13,374,999",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "11,456,232",
+    "licensee": "5,988,371",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "21,496,979",
+    "licensee": "31,721,847",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "27,293,158",
+    "licensee": "26,243,421",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "(5,796,179)",
+    "licensee": "5,478,426",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "(5,553,882)",
+    "licensee": "12,358,477",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "AFS 2021/2022 and provisional AFS 2022/2023",
+    "licensee": "AFS 2021/2022 and provisional AFS 2022/2023",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8251"
+  },
+  {
+    "radioFrequencyRange": "1427 - 1517 MHz (TDD)",
+    "licensee": "1427 - 1447 MHz (1 x 20 MHz)",
+    "typeOfUse": "MOBILE (IMT)",
+    "dateAllocated": "",
+    "gazetteRef": "8265"
+  },
+  {
+    "radioFrequencyRange": "24.25 - 27.5 GHz (TDD)",
+    "licensee": "26.5 - 27.5 GHz (1 x 1000 MHz)",
+    "typeOfUse": "MOBILE (IMT)",
+    "dateAllocated": "",
+    "gazetteRef": "8265"
+  },
+  {
+    "radioFrequencyRange": "3300 - 3400 MHz (TDD)",
+    "licensee": "3300 - 3380 MHz (1 x 80 MHz)",
+    "typeOfUse": "MOBILE (IMT)",
+    "dateAllocated": "",
+    "gazetteRef": "8291"
+  },
+  {
+    "radioFrequencyRange": "2500 - 2690 MHz (TDD)",
+    "licensee": "2595 - 2625 MHz (1 x 30 MHz)",
+    "typeOfUse": "MOBILE (IMT)",
+    "dateAllocated": "",
+    "gazetteRef": "8437"
+  },
+  {
+    "radioFrequencyRange": "2500 - 2690 MHz (TDD)",
+    "licensee": "2630 - 2650 MHz (1 x 20 MHz)",
+    "typeOfUse": "MOBILE (IMT)",
+    "dateAllocated": "",
+    "gazetteRef": "8437"
+  },
+  {
+    "radioFrequencyRange": "3600 - 3800 MHz (TDD)",
+    "licensee": "3610 - 3650 MHz (1x 40 MHz)",
+    "typeOfUse": "MOBILE (IMT)",
+    "dateAllocated": "",
+    "gazetteRef": "8714"
+  },
+  {
+    "radioFrequencyRange": "Downlink 10 -12.7 GHz Bandwidth (250 MHz) Uplink 14-14.5 GHz Bandwidth (20 MHz)",
+    "licensee": "Namibian",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8748"
+  },
+  {
+    "radioFrequencyRange": "Downlink 10 -12.7 GHz Bandwidth (250 MHz) Uplink 14-14.5 GHz Bandwidth (20 MHz)",
+    "licensee": "Namibian",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8748"
+  },
+  {
+    "radioFrequencyRange": "14-19.95 kHz 20.05-70 kHz 72-84 kHz 86-90 kHz 110-112 kHz 117.6-126 kHz 129-130 kHz 130-135.7 kHz 135.7-137.8 kHz 137.8-148.5 kHz 1606.5-1625 kHz 1635-1800 kHz 1850-2000 kHz 2000-2025 kHz 2025-2045 kHz 2045-2160 kHz 2194-2300 kHz 2300-2498 kHz 2502-2625 kHz 2650-2850 kHz 3155-3200 kHz 3200-3230 kHz 3230-3400 kHz 3500-3800 kHz 3800-3900 kHz 3950-4000 kHz 4000-4063 kHz 4438-4488 kHz 4488-450 kHz 4750-4850 kHz 4850-4995 kHz 5005-5060 kHz 5060-5250 kHz 5250-5275 kHz 5275-5351.5 kHz 5351.5-5366.5 kHz 5366.5-5450 kHz 5450-5480 kHz 5730-5900 kHz 6765-7000 kHz 7450-8100 kHz 8100-8195 kHz 9040-9305 kHz 9305-9355 kHz 9355-9400 kHz 9900-9995 kHz 10100-10150 kHz 10150-11175 kHz",
+    "licensee": "FIXED",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8748"
+  },
+  {
+    "radioFrequencyRange": "8038.000 MHz 8066.000 MHz 8094.000 MHz 8304.000 MHz 8332.000 MHz 8360.000 MHz 17920.000 MHz 17975.000 MHz",
+    "licensee": "Wireless Technologies Namibia (Pty) Ltd",
+    "typeOfUse": "Fixed",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5037-Gen_N304-308"
+  },
+  {
+    "radioFrequencyRange": "890.000 - 903.000 MHz 935.000 - 948.000 MHz 1710.200 - 1745.200 MHz 1805.200 - 1840.200 MHz 1920.000 - 1925.000 MHz 1930.000 - 1935.000 MHz 2110.000 - 2115.000 MHz 2120.000 - 2125.000 MHz 7121.000 MHz 7142.000 MHz 7149.000 MHz 7170.000 MHz 7177.000 MHz 7198.000 MHz 7205.000 MHz",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "FIXED LAND MOBILE FIXED LAND MOBILE FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED FIXED FIXED FIXED FIXED FIXED FIXED",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5037-Gen_N304-308"
+  },
+  {
+    "radioFrequencyRange": "8038.000 MHz 8066.000 MHz 8094.000 MHz 8304.000 MHz 8332.000 MHz 8360.000 MHz 17920.000 MHz 17975.000 MHz",
+    "licensee": "Wireless Technologies Namibia (Pty) Ltd",
+    "typeOfUse": "Fixed",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5037-Gen_N304-309"
+  },
+  {
+    "radioFrequencyRange": "890.000 - 903.000 MHz 935.000 - 948.000 MHz 1710.200 - 1745.200 MHz 1805.200 - 1840.200 MHz 1920.000 - 1925.000 MHz 1930.000 - 1935.000 MHz 2110.000 - 2115.000 MHz 2120.000 - 2125.000 MHz 7121.000 MHz 7142.000 MHz 7149.000 MHz 7170.000 MHz 7177.000 MHz 7198.000 MHz 7205.000 MHz",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "FIXED LAND MOBILE FIXED LAND MOBILE FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED FIXED FIXED FIXED FIXED FIXED FIXED",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5037-Gen_N304-309"
+  },
+  {
+    "radioFrequencyRange": "8038.000 MHz 8066.000 MHz 8094.000 MHz 8304.000 MHz 8332.000 MHz 8360.000 MHz 17920.000 MHz 17975.000 MHz",
+    "licensee": "Wireless Technologies Namibia (Pty) Ltd",
+    "typeOfUse": "Fixed",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5037-Gen_N304-_NOTICE_310"
+  },
+  {
+    "radioFrequencyRange": "890.000 - 903.000 MHz 935.000 - 948.000 MHz 1710.200 - 1745.200 MHz 1805.200 - 1840.200 MHz 1920.000 - 1925.000 MHz 1930.000 - 1935.000 MHz 2110.000 - 2115.000 MHz 2120.000 - 2125.000 MHz 7121.000 MHz 7142.000 MHz 7149.000 MHz 7170.000 MHz 7177.000 MHz 7198.000 MHz 7205.000 MHz",
+    "licensee": "Mobile Telecommunications Limited",
+    "typeOfUse": "FIXED LAND MOBILE FIXED LAND MOBILE FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED MOBILE SYSTEMS FIXED FIXED FIXED FIXED FIXED FIXED FIXED",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5037-Gen_N304-_NOTICE_310"
+  },
+  {
+    "radioFrequencyRange": "7446.500MHz 7414.500MHz 7460.500MHz 24608.500MHz 7628.500MHz 25616.500MHz 24622.500MHz 25630.500MHz",
+    "licensee": "Erongo Regional ityDistributor Electric- Company(Pty) Ltd",
+    "typeOfUse": "LINKS FIXED",
+    "dateAllocated": "Yes",
+    "gazetteRef": "5148-74_Amendment_13_March_2013"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "All classes of amateur radio spectrum licences",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141-Gen_N393-402_4_Oct_2016"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Beacon",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141-Gen_N393-402_4_Oct_2016"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Examination",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141-Gen_N393-402_4_Oct_2016"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Guest or special event spectrum licence",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141-Gen_N393-402_4_Oct_2016"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Repeater station",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141-Gen_N393-402_4_Oct_2016"
+  },
+  {
+    "radioFrequencyRange": "N$194.00",
+    "licensee": "Aircraft station",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141-Gen_N393-402_4_Oct_2016"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Glider / microlight",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141-Gen_N393-402_4_Oct_2016"
+  },
+  {
+    "radioFrequencyRange": "N$116.00",
+    "licensee": "Ground station",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141-Gen_N393-402_4_Oct_2016"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Navigation aids / beacons",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141-Gen_N393-402_4_Oct_2016"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Operator certificate radiotelephony (including duplicate)",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141-Gen_N393-402_4_Oct_2016"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Beacon",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141-Gen_N393-402_4_Oct_2016"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Operator certificate radiotelephony (including duplicate)",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "6141-Gen_N393-402_4_Oct_2016"
+  },
+  {
+    "radioFrequencyRange": "112.00",
+    "licensee": "All classes of amateur radio spectrum licences",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "112.00",
+    "licensee": "Beacon",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "112.00",
+    "licensee": "Examination",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "112.00",
+    "licensee": "Guest or special event spectrum licence",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "112.00",
+    "licensee": "Repeater station",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "222.00",
+    "licensee": "Aircraft station",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "112.00",
+    "licensee": "Glider / microlight",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "133.00",
+    "licensee": "Ground station",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "112.00",
+    "licensee": "Navigation aids / beacons",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "112.00",
+    "licensee": "Operator certificate radiotelephony (including duplicate)",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "112.00",
+    "licensee": "Beacon",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "112.00",
+    "licensee": "Operator certificate radiotelephony (including duplicate)",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "371.00",
+    "licensee": "Private alarm station (see item 6.1 for alarm systems)",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "334.00",
+    "licensee": "Fixed/mobile Station",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "2,225.00",
+    "licensee": "Fixed radio station above 400Watt",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "5,281.00",
+    "licensee": "Outside broadcasting vehicle links (per event irrespective of duration)",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "Competency certificate (radios above 400 Watt)",
+    "licensee": "Competency certificate (radios above 400 Watt)",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "Photocopies perA4 sheet",
+    "licensee": "Photocopies perA4 sheet",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "2022/2023",
+    "licensee": "2021/2022",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "10,000,000",
+    "licensee": "9,850,000",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "20,701,895",
+    "licensee": "18,681,362",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "30,701,894",
+    "licensee": "28,531,362",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "27,426,875",
+    "licensee": "14,933,288",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "11,916,915",
+    "licensee": "13,193,627",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "15,509,960",
+    "licensee": "1,739,661",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "27,050,861",
+    "licensee": "19,363,370",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "15,594,629",
+    "licensee": "13,374,999",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "11,456,232",
+    "licensee": "5,988,371",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "21,496,979",
+    "licensee": "31,721,847",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "27,293,158",
+    "licensee": "26,243,421",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "-5,796,179",
+    "licensee": "5,478,426",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "-5,553,882",
+    "licensee": "12,358,477",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "8180-Gen-N494-495-21-Aug-2023"
+  },
+  {
+    "radioFrequencyRange": "EN 300 330",
+    "licensee": "EN 300 330",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "AMENDMENT-OF-THE-REGULATIONS-PRESCRIBING-PROCEDURES-REGARDING-APPLICATION-FOR-AND-AMENDMENT-RENEWAL-TRANSFER-AND-CANCELLATION-OF-SPECTRUM-LICENCE"
+  },
+  {
+    "radioFrequencyRange": "None",
+    "licensee": "None",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "AMENDMENT-OF-THE-REGULATIONS-PRESCRIBING-PROCEDURES-REGARDING-APPLICATION-FOR-AND-AMENDMENT-RENEWAL-TRANSFER-AND-CANCELLATION-OF-SPECTRUM-LICENCE"
+  },
+  {
+    "radioFrequencyRange": "None",
+    "licensee": "None",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "AMENDMENT-OF-THE-REGULATIONS-PRESCRIBING-PROCEDURES-REGARDING-APPLICATION-FOR-AND-AMENDMENT-RENEWAL-TRANSFER-AND-CANCELLATION-OF-SPECTRUM-LICENCE"
+  },
+  {
+    "radioFrequencyRange": "82 dBµA/m at 10m",
+    "licensee": "82 dBµA/m at 10m",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "AMENDMENT-OF-THE-REGULATIONS-PRESCRIBING-PROCEDURES-REGARDING-APPLICATION-FOR-AND-AMENDMENT-RENEWAL-TRANSFER-AND-CANCELLATION-OF-SPECTRUM-LICENCE"
+  },
+  {
+    "radioFrequencyRange": "Inductive applications",
+    "licensee": "Inductive applications",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "AMENDMENT-OF-THE-REGULATIONS-PRESCRIBING-PROCEDURES-REGARDING-APPLICATION-FOR-AND-AMENDMENT-RENEWAL-TRANSFER-AND-CANCELLATION-OF-SPECTRUM-LICENCE"
+  },
+  {
+    "radioFrequencyRange": "8.3-9kHz",
+    "licensee": "8.3-9kHz",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "AMENDMENT-OF-THE-REGULATIONS-PRESCRIBING-PROCEDURES-REGARDING-APPLICATION-FOR-AND-AMENDMENT-RENEWAL-TRANSFER-AND-CANCELLATION-OF-SPECTRUM-LICENCE"
+  },
+  {
+    "radioFrequencyRange": "EN 300 440",
+    "licensee": "EN 303 687",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "AMENDMENT-OF-THE-REGULATIONS-PRESCRIBING-PROCEDURES-REGARDING-APPLICATION-FOR-AND-AMENDMENT-RENEWAL-TRANSFER-AND-CANCELLATION-OF-SPECTRUM-LICENCE"
+  },
+  {
+    "radioFrequencyRange": "100 mWe.i.r.p.",
+    "licensee": "14 dBm (25) e.i.r.p mW",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "AMENDMENT-OF-THE-REGULATIONS-PRESCRIBING-PROCEDURES-REGARDING-APPLICATION-FOR-AND-AMENDMENT-RENEWAL-TRANSFER-AND-CANCELLATION-OF-SPECTRUM-LICENCE"
+  },
+  {
+    "radioFrequencyRange": "RTTT(24.075-24.15 GHz)",
+    "licensee": "WAS RLAN",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "AMENDMENT-OF-THE-REGULATIONS-PRESCRIBING-PROCEDURES-REGARDING-APPLICATION-FOR-AND-AMENDMENT-RENEWAL-TRANSFER-AND-CANCELLATION-OF-SPECTRUM-LICENCE"
+  },
+  {
+    "radioFrequencyRange": "24.00-24.25 GHz",
+    "licensee": "5825-6425 MHz",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "AMENDMENT-OF-THE-REGULATIONS-PRESCRIBING-PROCEDURES-REGARDING-APPLICATION-FOR-AND-AMENDMENT-RENEWAL-TRANSFER-AND-CANCELLATION-OF-SPECTRUM-LICENCE"
+  },
+  {
+    "radioFrequencyRange": "109.00",
+    "licensee": "All classes of amateur radio spectrum licences",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "GG-7359-dated-14-Oct-2020"
+  },
+  {
+    "radioFrequencyRange": "109.00",
+    "licensee": "Beacon",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "GG-7359-dated-14-Oct-2020"
+  },
+  {
+    "radioFrequencyRange": "109.00",
+    "licensee": "Examination",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "GG-7359-dated-14-Oct-2020"
+  },
+  {
+    "radioFrequencyRange": "109.00",
+    "licensee": "Guest or special event spectrum licence",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "GG-7359-dated-14-Oct-2020"
+  },
+  {
+    "radioFrequencyRange": "109.00",
+    "licensee": "Repeater station",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "GG-7359-dated-14-Oct-2020"
+  },
+  {
+    "radioFrequencyRange": "217.00",
+    "licensee": "Aircraft station",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "GG-7359-dated-14-Oct-2020"
+  },
+  {
+    "radioFrequencyRange": "109.00",
+    "licensee": "Glider / microlight",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "GG-7359-dated-14-Oct-2020"
+  },
+  {
+    "radioFrequencyRange": "130.00",
+    "licensee": "Ground station",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "GG-7359-dated-14-Oct-2020"
+  },
+  {
+    "radioFrequencyRange": "109.00",
+    "licensee": "Navigation aids / beacons",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "GG-7359-dated-14-Oct-2020"
+  },
+  {
+    "radioFrequencyRange": "109.00",
+    "licensee": "Operator certificate radiotelephony (including duplicate)",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "GG-7359-dated-14-Oct-2020"
+  },
+  {
+    "radioFrequencyRange": "109.00",
+    "licensee": "Beacon",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "GG-7359-dated-14-Oct-2020"
+  },
+  {
+    "radioFrequencyRange": "109.00",
+    "licensee": "Operator certificate radiotelephony (including duplicate)",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "GG-7359-dated-14-Oct-2020"
+  },
+  {
+    "radioFrequencyRange": "362.00",
+    "licensee": "Private alarm station (see item 6.1 for alarm systems)",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "GG-7359-dated-14-Oct-2020"
+  },
+  {
+    "radioFrequencyRange": "the method of calculation. The spectrum fees published in 2017 was based on CPI up to 2015. The Authority has not implemented annual increases, but kept the spectrum fees at the same level for 4 years. Thus in contrast with ICASA, Authority has not increased fees for the period",
+    "licensee": "Ad Table 1 - Spectrum Licences, Certificates and Examination Fees",
+    "typeOfUse": "the method of calculation. The spectrum fees published in 2017 was based on CPI up to 2015. The Authority has not implemented annual increases, but kept the spectrum fees at the same level for 4 years. Thus in contrast with ICASA, Authority has not increased fees for the period",
+    "dateAllocated": "",
+    "gazetteRef": "GG-7359-dated-14-Oct-2020"
+  },
+  {
+    "radioFrequencyRange": "the 2016-2019.. Administrative fees have been set in accordance with the CPIs of 2016 (6.7%),2017 (6.2%),2018 (4.3%) and 2019 (3.7%) as well as the total cost of spectrum management. The fees have however been capped at 12% taking into account the oral and written submissions from stakeholders.",
+    "licensee": "The prices in table 1 under Regulation 4 principally increase by 23%. How does the authority justify this increase given that one of the objects under regulation 2 refers to the annual consumer price index published by the Namibia statistics Agency? That index currently stands at 2.1% in stark contrast ICASA increase the fees by 4.6%, in 2017, in 2018 by 5.3% and 4.7% in 2019. All increase were in line with the consumer price index.",
+    "typeOfUse": "the 2016-2019.. Administrative fees have been set in accordance with the CPIs of 2016 (6.7%),2017 (6.2%),2018 (4.3%) and 2019 (3.7%) as well as the total cost of spectrum management. The fees have however been capped at 12% taking into account the oral and written submissions from stakeholders.",
+    "dateAllocated": "",
+    "gazetteRef": "GG-7359-dated-14-Oct-2020"
+  },
+  {
+    "radioFrequencyRange": "MTChasnotbeenchargedfor fixed satellite spectrum (VSAT) because MTC does not hold a spectrum license for fixed satellite. (Government Gazette 5037 and all subsequent gazette notices refers.) MTC applied for fixed satellite spectrum in 2020.",
+    "licensee": "It is noted that the fee for Satellite Digital uplink per 128 kbits (VSAT spectrum) reduced to N$ 3,595.00. Although gazetted, this fee was never invoiced to MTC. This fee shouldnott be charged to start with as VSAT spectrum does not belong to the Authority and is instead allocated by the Satellite Operators: (i)",
+    "typeOfUse": "MTChasnotbeenchargedfor fixed satellite spectrum (VSAT) because MTC does not hold a spectrum license for fixed satellite. (Government Gazette 5037 and all subsequent gazette notices refers.) MTC applied for fixed satellite spectrum in 2020.",
+    "dateAllocated": "",
+    "gazetteRef": "GG-7359-dated-14-Oct-2020"
+  },
+  {
+    "radioFrequencyRange": "the space segment in that they do not operate their own satellites. Fixed satellite services comprises of a space segment and a terrestrial segment. Be that as it may , the cost of satellite will now come down by 23% due to the consideration of the input made by licensees",
+    "licensee": "It remains unclear why the Authority seeks to recover fees from a resource they do not manage. It is our understanding that Satellite spectrum is an international resource. The following is a practical example should this fee remain: a. At N$3,959.00 per 128Kbits to CRAN 36 MHz will then cost 3959*36/0.128 = 1,113,468.75 per annum b. Spectrum at US$600/Mbps to satellite operators 36 MHz translates to roughly 108 Mbps 600*108 = US$ 59 400/month which translates to about 1m NAD per month and 12m per year",
+    "typeOfUse": "the space segment in that they do not operate their own satellites. Fixed satellite services comprises of a space segment and a terrestrial segment. Be that as it may , the cost of satellite will now come down by 23% due to the consideration of the input made by licensees",
+    "dateAllocated": "",
+    "gazetteRef": "GG-7359-dated-14-Oct-2020"
+  },
+  {
+    "radioFrequencyRange": "1800MHz",
+    "licensee": "900MHz",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "GG-7359-dated-14-Oct-2020"
+  },
+  {
+    "radioFrequencyRange": "0.75",
+    "licensee": "0.75",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "GG-7359-dated-14-Oct-2020"
+  },
+  {
+    "radioFrequencyRange": "59,010",
+    "licensee": "30.348",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "GG-7359-dated-14-Oct-2020"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "All classes of amateur radio spectrum licences",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "SPECTRUM_FEES_REGULATIONS"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Beacon",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "SPECTRUM_FEES_REGULATIONS"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Examination",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "SPECTRUM_FEES_REGULATIONS"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Guest or special event spectrum licence",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "SPECTRUM_FEES_REGULATIONS"
+  },
+  {
+    "radioFrequencyRange": "N$ 97.00",
+    "licensee": "Repeater station",
+    "typeOfUse": "",
+    "dateAllocated": "",
+    "gazetteRef": "SPECTRUM_FEES_REGULATIONS"
+  }
+]

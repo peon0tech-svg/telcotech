@@ -1,0 +1,35 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const acts = await getCollection('acts');
+---
+
+<Layout title="Acts - Telco Tech">
+  <div class="mb-8 flex items-center justify-between">
+    <div>
+      <a href="/" class="text-[var(--accent-color)] hover:underline mb-2 inline-block"><- Back to Dashboard</a>
+      <h1 class="text-3xl md:text-5xl font-bold uppercase tracking-tighter mt-2">
+        Acts
+      </h1>
+      <p class="text-gray-400 mt-2">Namibian Telecommunication Acts</p>
+    </div>
+  </div>
+
+  <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+    {acts.map((act) => (
+      <a 
+        href={`/acts/${act.data.id}`}
+        class="terminal-box p-6 hover:bg-[var(--accent-color)] hover:text-[var(--bg-color)] transition-colors group flex flex-col justify-between min-h-[150px]"
+      >
+        <div class="font-bold text-xl mb-2 group-hover:text-[var(--bg-color)]">
+          {act.data.title}
+        </div>
+        <div class="text-sm opacity-70 group-hover:opacity-100 flex items-center justify-between">
+          <span>Read Document</span>
+          <span>-></span>
+        </div>
+      </a>
+    ))}
+  </div>
+</Layout>

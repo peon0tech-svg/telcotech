@@ -1,22 +1,61 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import DataTable from '../components/DataTable.astro';
-import data from '../data/numbers.json';
+import data from '../data/unified_numbers.json';
+
+// Group numbers by category
+const groupedData = data.reduce((acc, row) => {
+  if (!acc[row.category]) {
+    acc[row.category] = [];
+  }
+  acc[row.category].push(row);
+  return acc;
+}, {} as Record<string, typeof data>);
 ---
 
-<Layout title="Telephony Numbers - Telco Tech">
+<Layout title="Numbering Plan - Telco Tech">
   <div class="mb-8 flex items-center justify-between">
     <div>
       <a href="/" class="text-[var(--accent-color)] hover:underline mb-2 inline-block"><- Back to Core</a>
       <h1 class="text-3xl md:text-5xl font-bold uppercase tracking-tighter">
-        Telephony Numbers
+        Numbering Plan
       </h1>
     </div>
     <div class="text-right hidden md:block">
-      <div class="text-xs uppercase opacity-70">Total Records</div>
+      <div class="text-xs uppercase opacity-70">Total Blocks</div>
       <div class="text-3xl font-light text-[var(--accent-color)]">{data.length}</div>
     </div>
   </div>
 
-  <DataTable dataset={data} />
+  {Object.entries(groupedData).map(([category, items]) => (
+    <div class="terminal-box overflow-hidden mb-12">
+      <div class="bg-[var(--accent-color)] text-[var(--bg-color)] px-4 py-2 font-bold uppercase flex justify-between items-center">
+        <span>{category}</span>
+        <span class="text-xs opacity-70 border border-[var(--bg-color)] px-1">CONSOLIDATED</span>
+      </div>
+      <div class="p-4 overflow-x-auto">
+        <table class="w-full text-left border-collapse">
+          <thead>
+            <tr>
+              <th class="border-b border-[var(--bento-border)] p-2 uppercase text-xs tracking-wider opacity-80 whitespace-nowrap">Number/Block</th>
+              <th class="border-b border-[var(--bento-border)] p-2 uppercase text-xs tracking-wider opacity-80 whitespace-nowrap">Licensee</th>
+              <th class="border-b border-[var(--bento-border)] p-2 uppercase text-xs tracking-wider opacity-80 whitespace-nowrap">Allocation Date</th>
+              <th class="border-b border-[var(--bento-border)] p-2 uppercase text-xs tracking-wider opacity-80 whitespace-nowrap">Gazette Ref</th>
+            </tr>
+          </thead>
+          <tbody>
+            {items.map((row) => (
+              <tr class="hover:bg-[rgba(0,255,0,0.05)] transition-colors">
+                <td class="border-b border-[var(--bento-border)] p-2 text-sm font-semibold max-w-xs truncate" title={row.numberBlock}>{row.numberBlock}</td>
+                <td class="border-b border-[var(--bento-border)] p-2 text-sm">{row.licensee}</td>
+                <td class="border-b border-[var(--bento-border)] p-2 text-sm">{row.allocationDate}</td>
+                <td class="border-b border-[var(--bento-border)] p-2 text-sm">
+                  <a href={`/gazettes/${row.gazetteRef}`} class="text-[var(--accent-color)] hover:underline">{row.gazetteRef}</a>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  ))}
 </Layout>

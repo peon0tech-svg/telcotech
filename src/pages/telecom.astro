@@ -1,7 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import DataTable from '../components/DataTable.astro';
-import data from '../data/telecomLicenses.json';
+import data from '../data/unified_telecom.json';
 ---
 
 <Layout title="Telecommunications Licenses - Telco Tech">
@@ -13,10 +12,41 @@ import data from '../data/telecomLicenses.json';
       </h1>
     </div>
     <div class="text-right hidden md:block">
-      <div class="text-xs uppercase opacity-70">Total Records</div>
+      <div class="text-xs uppercase opacity-70">Total Licenses</div>
       <div class="text-3xl font-light text-[var(--accent-color)]">{data.length}</div>
     </div>
   </div>
 
-  <DataTable dataset={data} />
+  <div class="terminal-box overflow-hidden mb-12">
+    <div class="bg-[var(--accent-color)] text-[var(--bg-color)] px-4 py-2 font-bold uppercase flex justify-between items-center">
+      <span>Unified Telecom Data</span>
+      <span class="text-xs opacity-70 border border-[var(--bg-color)] px-1">CONSOLIDATED</span>
+    </div>
+    <div class="p-4 overflow-x-auto">
+      <table class="w-full text-left border-collapse">
+        <thead>
+          <tr>
+            <th class="border-b border-[var(--bento-border)] p-2 uppercase text-xs tracking-wider opacity-80 whitespace-nowrap">Company Name</th>
+            <th class="border-b border-[var(--bento-border)] p-2 uppercase text-xs tracking-wider opacity-80 whitespace-nowrap">License Type</th>
+            <th class="border-b border-[var(--bento-border)] p-2 uppercase text-xs tracking-wider opacity-80 whitespace-nowrap">Date/Expiry</th>
+            <th class="border-b border-[var(--bento-border)] p-2 uppercase text-xs tracking-wider opacity-80 whitespace-nowrap">Details</th>
+            <th class="border-b border-[var(--bento-border)] p-2 uppercase text-xs tracking-wider opacity-80 whitespace-nowrap">Gazette Ref</th>
+          </tr>
+        </thead>
+        <tbody>
+          {data.map((row) => (
+            <tr class="hover:bg-[rgba(0,255,0,0.05)] transition-colors">
+              <td class="border-b border-[var(--bento-border)] p-2 text-sm font-semibold">{row.companyName}</td>
+              <td class="border-b border-[var(--bento-border)] p-2 text-sm">{row.licenseType}</td>
+              <td class="border-b border-[var(--bento-border)] p-2 text-sm max-w-xs truncate" title={row.dateApprovedExpiry}>{row.dateApprovedExpiry}</td>
+              <td class="border-b border-[var(--bento-border)] p-2 text-sm">{row.keyDetails}</td>
+              <td class="border-b border-[var(--bento-border)] p-2 text-sm">
+                <a href={`/gazettes/${row.gazetteRef}`} class="text-[var(--accent-color)] hover:underline">{row.gazetteRef}</a>
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </div>
 </Layout>

@@ -10,6 +10,24 @@ const gazettesCollection = defineCollection({
   }),
 });
 
+const actsCollection = defineCollection({
+  loader: glob({ pattern: "*.md", base: "./src/content/acts" }),
+  schema: z.object({
+    title: z.string(),
+    id: z.string(),
+  }),
+});
+
+const regulationsCollection = defineCollection({
+  loader: glob({ pattern: "*.md", base: "./src/content/regulations" }),
+  schema: z.object({
+    title: z.string(),
+    id: z.string(),
+  }),
+});
+
 export const collections = {
   'gazettes': gazettesCollection,
+  'acts': actsCollection,
+  'regulations': regulationsCollection,
 };

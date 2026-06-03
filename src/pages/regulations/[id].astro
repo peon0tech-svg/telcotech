@@ -1,0 +1,32 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const regulations = await getCollection('regulations');
+  return regulations.map(entry => ({
+    params: { id: entry.data.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+---
+
+<Layout title={`${entry.data.title} - Telco Tech`}>
+  <div class="mb-8 flex flex-col md:flex-row items-start md:items-center justify-between" data-pagefind-ignore>
+    <div>
+      <a href="/regulations" class="text-[var(--accent-color)] hover:underline mb-2 inline-block"><- Back to Regulations</a>
+      <div class="flex items-center gap-4 mt-2">
+        <h1 class="text-2xl md:text-3xl font-bold tracking-tighter break-words">
+          {entry.data.title}
+        </h1>
+      </div>
+    </div>
+  </div>
+
+  <div class="terminal-box p-6 prose dark:prose-invert max-w-none prose-pre:bg-[var(--bg-color)] prose-pre:border prose-pre:border-[var(--bento-border)] prose-a:text-[var(--accent-color)] prose-headings:text-[var(--text-color)] prose-p:text-[var(--text-color)] prose-strong:text-[var(--text-color)] prose-li:text-[var(--text-color)]" data-pagefind-body>
+    <Content />
+  </div>
+</Layout>

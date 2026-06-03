@@ -1,22 +1,52 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import DataTable from '../components/DataTable.astro';
-import data from '../data/spectrumLicenses.json';
+import data from '../data/unified_spectrum.json';
 ---
 
-<Layout title="Spectrum Licenses - Telco Tech">
+<Layout title="Spectrum Assignments - Telco Tech">
   <div class="mb-8 flex items-center justify-between">
     <div>
       <a href="/" class="text-[var(--accent-color)] hover:underline mb-2 inline-block"><- Back to Core</a>
       <h1 class="text-3xl md:text-5xl font-bold uppercase tracking-tighter">
-        Spectrum Licenses
+        Spectrum Assignments
       </h1>
     </div>
     <div class="text-right hidden md:block">
-      <div class="text-xs uppercase opacity-70">Total Records</div>
+      <div class="text-xs uppercase opacity-70">Total Assignments</div>
       <div class="text-3xl font-light text-[var(--accent-color)]">{data.length}</div>
     </div>
   </div>
 
-  <DataTable dataset={data} />
+  <div class="terminal-box overflow-hidden mb-12">
+    <div class="bg-[var(--accent-color)] text-[var(--bg-color)] px-4 py-2 font-bold uppercase flex justify-between items-center">
+      <span>Unified Spectrum Data</span>
+      <span class="text-xs opacity-70 border border-[var(--bg-color)] px-1">CONSOLIDATED</span>
+    </div>
+    <div class="p-4 overflow-x-auto">
+      <table class="w-full text-left border-collapse">
+        <thead>
+          <tr>
+            <th class="border-b border-[var(--bento-border)] p-2 uppercase text-xs tracking-wider opacity-80 whitespace-nowrap">Frequency Range</th>
+            <th class="border-b border-[var(--bento-border)] p-2 uppercase text-xs tracking-wider opacity-80 whitespace-nowrap">Licensee</th>
+            <th class="border-b border-[var(--bento-border)] p-2 uppercase text-xs tracking-wider opacity-80 whitespace-nowrap">Type of Use</th>
+            <th class="border-b border-[var(--bento-border)] p-2 uppercase text-xs tracking-wider opacity-80 whitespace-nowrap">Date Allocated</th>
+            <th class="border-b border-[var(--bento-border)] p-2 uppercase text-xs tracking-wider opacity-80 whitespace-nowrap">Gazette Ref</th>
+          </tr>
+        </thead>
+        <tbody>
+          {data.map((row) => (
+            <tr class="hover:bg-[rgba(0,255,0,0.05)] transition-colors">
+              <td class="border-b border-[var(--bento-border)] p-2 text-sm font-semibold max-w-xs truncate" title={row.radioFrequencyRange}>{row.radioFrequencyRange}</td>
+              <td class="border-b border-[var(--bento-border)] p-2 text-sm">{row.licensee}</td>
+              <td class="border-b border-[var(--bento-border)] p-2 text-sm max-w-xs truncate" title={row.typeOfUse}>{row.typeOfUse}</td>
+              <td class="border-b border-[var(--bento-border)] p-2 text-sm">{row.dateAllocated}</td>
+              <td class="border-b border-[var(--bento-border)] p-2 text-sm">
+                <a href={`/gazettes/${row.gazetteRef}`} class="text-[var(--accent-color)] hover:underline">{row.gazetteRef}</a>
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </div>
 </Layout>
