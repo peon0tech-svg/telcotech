@@ -22,7 +22,7 @@ const acts = await getCollection('acts');
         href={`/acts/${act.data.id}`}
         class="terminal-box p-6 hover:bg-[var(--accent-color)] hover:text-[var(--bg-color)] transition-colors group flex flex-col justify-between min-h-[150px]"
       >
-        <div class="font-bold text-xl mb-2 group-hover:text-[var(--bg-color)]">
+        <div class="font-bold text-xl mb-2 group-hover:text-[var(--bg-color)] break-words">
           {act.data.title}
         </div>
         <div class="text-sm opacity-70 group-hover:opacity-100 flex items-center justify-between">
