@@ -213,68 +213,65 @@ H.H. SMIT,Minister Van Pos- en Telekommunikasiewese.
 
 ## INHOUDSOPGAWE
 
-|                                                                                                       |                                                                                                                                                                                    | Bladsy   |
+|  |  | Bladsy |
 |-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| Hoofstuk l:Woordomskrywing  Hooistuk 2:Radiohandelaars..                                           | Hoofstuk l:Woordomskrywing  Hooistuk 2:Radiohandelaars..                                                                                                                        | 106      |
-| A1                                                                                                    | A1                                                                                                                                                                                 | 107      |
-|                                                                                                       | Wyse van invul en tydperk van bewaring van registers en aantekeninge wat ingevolge artikel I2 (2)van die Wet gehou moet word...                                                    | 107      |
-| Hoofstuk 3:Amateurradiostasies                                                                        | Hoofstuk 3:Amateurradiostasies                                                                                                                                                     |          |
-| B1                                                                                                    | Voorwaardes waarop'n amateurradiostasielisensie uit- gereikword                                                                                                               | 108      |
-| B2 B3                                                                                                 | Gebruik van amateurradiostasies.                                                                                                                                                   | 109      |
-| B4                                                                                                    | Kommunikasie tussen amateurradiostasies..                                                                                                                                          | 109      |
-| B5                                                                                                    | Logboek to.v,amateurradiostasiebedrywighede.. Frekwensies vir uitsendings oor amateurradiostasies..                                                                                | 109      |
-| B6                                                                                                    | Musiekuitsending                                                                                                                                                                | 110      |
-| B7                                                                                                    | Televisie-uitsending...                                                                                                                                                            | 111      |
-| B8                                                                                                    |                                                                                                                                                                                    | 112      |
-| B9                                                                                                    | stasie  Beperkings m.b.t.uitsendings deur 'n zmateurradio-                                                                                                                    | 112      |
-| B10                                                                                                   | Drywing van amateurradiostasies                                                                                                                                             | 112 112  |
-| B11                                                                                                   | Frekwensiemeettoerusting...                                                                                                                                                        | 113      |
-| B12                                                                                                   |                                                                                                                                                                                    |          |
-| B13                                                                                                   | Mobiele amateurradiostasie.                                                                                                                                                        | 113      |
-| Amateurradio-operateursertifikaat                                                             | Amateurradio-operateursertifikaat                                                                                                                                          | 113      |
-| Hoofstuk 4:Baiehoefrekwensie-(BHF-),hoefrekwensie- (HF-)en buiekortafstandband-（BKAB-) stasies in die | Hoofstuk 4:Baiehoefrekwensie-(BHF-),hoefrekwensie- (HF-)en buiekortafstandband-（BKAB-) stasies in die                                                                              |          |
-| CI                                                                                                    | land-mobiele diens BHF-en HF-stasies...                                                                                                                                            | 116      |
-| C2 BKAB-stasies  Hoofstuk S:Burgerbandradiodiens                                                   | C2 BKAB-stasies  Hoofstuk S:Burgerbandradiodiens                                                                                                                                | 116      |
-| D1                                                                                                    | Lisensies vir bedryf van'n burgerbandradiostasie...                                                                                                                                | 117      |
-| D2                                                                                                    | Frekwensies vir uitsending oor die burgerbancedio- Kommumikasie tussen burgerbandradiostasies                                                                                | 117      |
-| D3 D4                                                                                                 | Gebruikvan bynaam,stasieaanwyser ofander spesile identifikasie                                                                                                                  | 118      |
-| D5                                                                                                    | Modifikasie/Verstelling van burgetbendradioapparaet                                                                                                                                | 118      |
-| D6                                                                                                    | Tegniese vereistes waaraan burgerbandradicapparaat                                                                                                                                 | 118      |
-| Hoofstuk 6:Lisensie-en eksamengelde                                                                   | Hoofstuk 6:Lisensie-en eksamengelde                                                                                                                                                | 118      |
-| EI E2                                                                                                 | Sertifkaat-en Lisensiegelde... Eksa engelde...                                                                                                                                     | 119 611  |
-| Hoofstuk7 Steuring                                                                                    | Hoofstuk7 Steuring                                                                                                                                                                 |          |
-| FI F2                                                                                                 | Verbod op vervaardiging,invoer,verkoop, verutins, installering of gebruik van sekere appuraat.. Verbod op invoer vir verkoop of vervaardigingvir verkoop van skere apparaat  | 120 120  |
-| F3                                                                                                    | Aansoekom sertifikaat...                                                                                                                                                           | 121      |
-|                                                                                                       | Verbod op invoer,verkoop of verhuring ven sekere binnebrandenjins c                                                                                                         | 121      |
-| F5 F6                                                                                                 | Verbod op gebruik van sekere ontstekingsteises  Verbod opinvoer,vervaardiging,verkoop,verhuur  installering van sekere ontvangers                                          | 121      |
-|                                                                                                       | Verbod op die verandering van sekere apparaat...                                                                                                                                   | 121      |
-| F7 F8                                                                                                 |                                                                                                                                                                                    | 121      |
-| F9                                                                                                    | Aanstellingvan ondersoekbeamptes  Betaling vansekere bedrae vir ondersock van epparea:                                                                              | 122      |
-| F10                                                                                                   | apparaat ondersoek en verwyder.. Ondersoekbeamptes kan sekere perscle ce:ree en sakere                                                                                             | 222      |
-
-|                                    |                                                                                                                                                          | Bladsy   |
-|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| F9                                 | Payment of certain amounts for examination of apparatus                                                                                             | 122      |
-|                                    | Fl0 Investigating offcers may enter certain prerises and cxamine and remove certain apparatus                                                         | 122      |
-| Chapter 8:Miscellaneous provisions | Chapter 8:Miscellaneous provisions                                                                                                                       |          |
-| GL                                 | Allocation and display of call sign...                                                                                                                   | 122      |
-| G2                                 | Radio apparatus must satisfy the Postmaster General's requinements.                                                                                      | 122      |
-| G3                                 | The Postmaster General may require certain modifica- tionstoastation                                                                               | 123      |
-| G4                                 | Interference,condition of station and compliance with the Postmaster General'srequirements...                                                            | 123      |
-| G5                                 | stationsprohibited  Indecent language and fraudulent transmissions over                                                                           | 123      |
-| G6                                 | Use of station for any purpose other than that of licence prohibited.                                                                                    | 123      |
-| G7                                 | Use of station restricted to licensee or someone in his employ or under his control..                                                                    | 123      |
-| G8                                 | Distress signal                                                                                                                                       | 123      |
-| G9                                 | Licence not transferable and must be returned on expiry/suspension...                                                                                    | 123 12   |
-|                                    | G10 Period of validity of licence... Gll Radio-communication between two or more fixed points and connection with public telephone system prohibited  |          |
-|                                    | Tests                                                                                                                                              | 12 12    |
-| G12                                | G13 Change of address                                                                                                                                | 124      |
-|                                    | G14 Radio receiving apparatus with continuous tuning..                                                                                                   | 124      |
-|                                    | Gis Control over maintenance of radio apparatus.                                                                                                         | 124      |
-| G16                                | Operation of station on board a ship while it is in har-                                                                                                 | 124      |
-|                                    | G17 Recognition of licences/sertificates issued by other countries                                                                                   | 125      |
-|                                    | G18 Repeal of previous radio regulations                                                                                                              | 125      |
-|                                    | G19Dateofcommencement                                                                                                                              | 125      |
+| Hoofstuk l:Woordomskrywing  Hooistuk 2:Radiohandelaars.. | Hoofstuk l:Woordomskrywing  Hooistuk 2:Radiohandelaars.. | 106 |
+| A1 | A1 | 107 |
+|  | Wyse van invul en tydperk van bewaring van registers en aantekeninge wat ingevolge artikel I2 (2)van die Wet gehou moet word... | 107 |
+| Hoofstuk 3:Amateurradiostasies | Hoofstuk 3:Amateurradiostasies |  |
+| B1 | Voorwaardes waarop'n amateurradiostasielisensie uit- gereikword | 108 |
+| B2 B3 | Gebruik van amateurradiostasies. | 109 |
+| B4 | Kommunikasie tussen amateurradiostasies.. | 109 |
+| B5 | Logboek to.v,amateurradiostasiebedrywighede.. Frekwensies vir uitsendings oor amateurradiostasies.. | 109 |
+| B6 | Musiekuitsending | 110 |
+| B7 | Televisie-uitsending... | 111 |
+| B8 |  | 112 |
+| B9 | stasie  Beperkings m.b.t.uitsendings deur 'n zmateurradio- | 112 |
+| B10 | Drywing van amateurradiostasies | 112 112 |
+| B11 | Frekwensiemeettoerusting... | 113 |
+| B12 |  |  |
+| B13 | Mobiele amateurradiostasie. | 113 |
+| Amateurradio-operateursertifikaat | Amateurradio-operateursertifikaat | 113 |
+| Hoofstuk 4:Baiehoefrekwensie-(BHF-),hoefrekwensie- (HF-)en buiekortafstandband-（BKAB-) stasies in die | Hoofstuk 4:Baiehoefrekwensie-(BHF-),hoefrekwensie- (HF-)en buiekortafstandband-（BKAB-) stasies in die |  |
+| CI | land-mobiele diens BHF-en HF-stasies... | 116 |
+| C2 BKAB-stasies  Hoofstuk S:Burgerbandradiodiens | C2 BKAB-stasies  Hoofstuk S:Burgerbandradiodiens | 116 |
+| D1 | Lisensies vir bedryf van'n burgerbandradiostasie... | 117 |
+| D2 | Frekwensies vir uitsending oor die burgerbancedio- Kommumikasie tussen burgerbandradiostasies | 117 |
+| D3 D4 | Gebruikvan bynaam,stasieaanwyser ofander spesile identifikasie | 118 |
+| D5 | Modifikasie/Verstelling van burgetbendradioapparaet | 118 |
+| D6 | Tegniese vereistes waaraan burgerbandradicapparaat | 118 |
+| Hoofstuk 6:Lisensie-en eksamengelde | Hoofstuk 6:Lisensie-en eksamengelde | 118 |
+| EI E2 | Sertifkaat-en Lisensiegelde... Eksa engelde... | 119 611 |
+| Hoofstuk7 Steuring | Hoofstuk7 Steuring |  |
+| FI F2 | Verbod op vervaardiging,invoer,verkoop, verutins, installering of gebruik van sekere appuraat.. Verbod op invoer vir verkoop of vervaardigingvir verkoop van skere apparaat | 120 120 |
+| F3 | Aansoekom sertifikaat... | 121 |
+|  | Verbod op invoer,verkoop of verhuring ven sekere binnebrandenjins c | 121 |
+| F5 F6 | Verbod op gebruik van sekere ontstekingsteises  Verbod opinvoer,vervaardiging,verkoop,verhuur  installering van sekere ontvangers | 121 |
+|  | Verbod op die verandering van sekere apparaat... | 121 |
+| F7 F8 |  | 121 |
+| F9 | Aanstellingvan ondersoekbeamptes  Betaling vansekere bedrae vir ondersock van epparea: | 122 |
+| F10 | apparaat ondersoek en verwyder.. Ondersoekbeamptes kan sekere perscle ce:ree en sakere | 222 |
+| F9 | Payment of certain amounts for examination of apparatus | 122 |
+|  | Fl0 Investigating offcers may enter certain prerises and cxamine and remove certain apparatus | 122 |
+| Chapter 8:Miscellaneous provisions | Chapter 8:Miscellaneous provisions |  |
+| GL | Allocation and display of call sign... | 122 |
+| G2 | Radio apparatus must satisfy the Postmaster General's requinements. | 122 |
+| G3 | The Postmaster General may require certain modifica- tionstoastation | 123 |
+| G4 | Interference,condition of station and compliance with the Postmaster General'srequirements... | 123 |
+| G5 | stationsprohibited  Indecent language and fraudulent transmissions over | 123 |
+| G6 | Use of station for any purpose other than that of licence prohibited. | 123 |
+| G7 | Use of station restricted to licensee or someone in his employ or under his control.. | 123 |
+| G8 | Distress signal | 123 |
+| G9 | Licence not transferable and must be returned on expiry/suspension... | 123 12 |
+|  | G10 Period of validity of licence... Gll Radio-communication between two or more fixed points and connection with public telephone system prohibited |  |
+|  | Tests | 12 12 |
+| G12 | G13 Change of address | 124 |
+|  | G14 Radio receiving apparatus with continuous tuning.. | 124 |
+|  | Gis Control over maintenance of radio apparatus. | 124 |
+| G16 | Operation of station on board a ship while it is in har- | 124 |
+|  | G17 Recognition of licences/sertificates issued by other countries | 125 |
+|  | G18 Repeal of previous radio regulations | 125 |
+|  | G19Dateofcommencement | 125 |
 
 ## CHAPTER1
 
@@ -297,25 +294,25 @@ Any expression to which a meaning is assigned in the Radio Act,1952 (Act 3 of 19
 
 | Column 1 | Column 2 | Column 3 |
 |-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------|
-| Hoofstuk S:Divrse bepalings | Hoofstuk S:Divrse bepalings                                                                                                         |         |
-| G2 15                       | Toekenningen vertoon van roepsein  Radioacpareat moet aan Posrncester-generaal SC                                                | 122     |
-|                             | verelstes voicoen...                                                                                                                | 122     |
-| G3 G4                       | stasie ve-lang Steurings,toestand van stasie en voldoening aan                                                                      | 123 123 |
-| G5                          | Vereistcs van Pesmeester-generaal Onbehoorike taai en bedriegiike oorsendings oor stasiesveroode..oo                                | 123     |
-| G6                          | Aanwanding van stasie vir ander doel as die van die                                                                                 |         |
-|                             | lisensie verbodc. Gebruikvan stasie beperk tot hisensiehouer of iemand                                                              | 123     |
-| G7                          | in sy diens of onder sy beheer.                                                                                                     | 123 123 |
-| G8 G9                       | Noodsein  Lisensie nie oordraagbaar nie en moet by die verval/                                                                  |         |
-|                             | intrekking daarvan terugbesorg word...                                                                                              | 123     |
-| G10 G1                      | Geldigheidsduur van lisensies.. en verbinding met openbare telefoonstcisel verbode Radiokommunikesie tussen wce of mcer vaste punte | 124     |
-| G12                         | Toetse                                                                                                                           | 124 124 |
-|                             |                                                                                                                                     | 124     |
-| GIB                         | Adresverandering...                                                                                                                 | 124     |
-|                             | G14 Radio-ontvangstoestelle met deurlopende instemrming                                                                             | 124     |
-|                             | G15 Behcer oor die instandhoudingvan radioapparaat. G16 Bediening van stasie aan boord vann skip terwyl dit                         | 124     |
-|                             | G17 Erkenning van lisensie/sertifkaat wat deur ander lande in'n hawe is                                                         | 125     |
-|                             | uitgereikis  Herroeping yan vorige radioregulasies...li                                                                      | 125     |
-| G18                         | G19 Datum van inwerkingtreding                                                                                                | 125     |
+| Hoofstuk S:Divrse bepalings | Hoofstuk S:Divrse bepalings |  |
+| G2 15 | Toekenningen vertoon van roepsein  Radioacpareat moet aan Posrncester-generaal SC | 122 |
+|  | verelstes voicoen... | 122 |
+| G3 G4 | stasie ve-lang Steurings,toestand van stasie en voldoening aan | 123 123 |
+| G5 | Vereistcs van Pesmeester-generaal Onbehoorike taai en bedriegiike oorsendings oor stasiesveroode..oo | 123 |
+| G6 | Aanwanding van stasie vir ander doel as die van die |  |
+|  | lisensie verbodc. Gebruikvan stasie beperk tot hisensiehouer of iemand | 123 |
+| G7 | in sy diens of onder sy beheer. | 123 123 |
+| G8 G9 | Noodsein  Lisensie nie oordraagbaar nie en moet by die verval/ |  |
+|  | intrekking daarvan terugbesorg word... | 123 |
+| G10 G1 | Geldigheidsduur van lisensies.. en verbinding met openbare telefoonstcisel verbode Radiokommunikesie tussen wce of mcer vaste punte | 124 |
+| G12 | Toetse | 124 124 |
+|  |  | 124 |
+| GIB | Adresverandering... | 124 |
+|  | G14 Radio-ontvangstoestelle met deurlopende instemrming | 124 |
+|  | G15 Behcer oor die instandhoudingvan radioapparaat. G16 Bediening van stasie aan boord vann skip terwyl dit | 124 |
+|  | G17 Erkenning van lisensie/sertifkaat wat deur ander lande in'n hawe is | 125 |
+|  | uitgereikis  Herroeping yan vorige radioregulasies...li | 125 |
+| G18 | G19 Datum van inwerkingtreding | 125 |
 
 ## HOOFSTUK1
 
@@ -512,20 +509,20 @@ B4Logboek t.o.v.amateurradiostasiebedrywighede Die lisensiehouer moct noukeurige
 
 - (1) No person shall transmit over amateur radio stations at frequencies other than those given below, subject to the provisions included in Remarks below, and furthermore the modes explained in subregulation (2)shall be restricted in respect of the various frequencies as is indicated below:
 
-| Frequency band                                                                                                                                                          | Mode                                                           |
+| Frequency band | Mode |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
 | (b) (a) 1800-2000kHz: 3500-3800kHz: (c) (d) 21000-21450kHz: 21100-21450kHz: 14000-14350kHz: 14100-14350kHz: 7000-7150kHz: 7025-7150kHz: 28000-29700kHz: 28100-29700kHz: | A3;A3A;A3J;F3;A1;F1 A3:A3A;A3J;A1;F1 A3:A3A;A3J;F3 AI:FI A!;F1 |
-|                                                                                                                                                                         | A3:A3A;A3J;F3                                                  |
-| (e)                                                                                                                                                                     | A3;A3A;A3J;F3 A1;F1 A0:AI:FI                                   |
-| (g) 50- 54MHz:                                                                                                                                                          | A3;A3A;A3J;F3:A0;A1;F1:F2; A3:A3A:A3J;F3                       |
-| (h) 14 430- 440MHz: 146MHz:                                                                                                                                             | A3:A3A:A3J;F3;A0;A1;FI;F2; A4:F4 A4:F4                         |
-|                                                                                                                                                                         | A3;A3A:A3J;F3;A0:A1;F1;F2;                                     |
-| ① 1215-1300MHz:                                                                                                                                                         | A3;A3A;A3I;F3;A0;A1;F1;F2: A4;F4                               |
-| (k) 2300-2450MHz:                                                                                                                                                       | A3:A3A;A3J;F3;A0;A1;F1;F2; A4:F4 A4:F4                         |
-| 5650-5850MHz:                                                                                                                                                           | A3:A3A;A3J:F3;A0;A1;F1;F2; A4:F4                               |
-|                                                                                                                                                                         | A3:A3A；A3J;F3:A0:A1;FI;F2;                                     |
-| （m)10 000-10500 MHz:                                                                                                                                                    | A3:A3A;A3J:F3;A0:AI;F1:F2; A4;F4                               |
-| (n）21000-22000MHz:                                                                                                                                                      |                                                                |
+|  | A3:A3A;A3J;F3 |
+| (e) | A3;A3A;A3J;F3 A1;F1 A0:AI:FI |
+| (g) 50- 54MHz: | A3;A3A;A3J;F3:A0;A1;F1:F2; A3:A3A:A3J;F3 |
+| (h) 14 430- 440MHz: 146MHz: | A3:A3A:A3J;F3;A0;A1;FI;F2; A4:F4 A4:F4 |
+|  | A3;A3A:A3J;F3;A0:A1;F1;F2; |
+| ① 1215-1300MHz: | A3;A3A;A3I;F3;A0;A1;F1;F2: A4;F4 |
+| (k) 2300-2450MHz: | A3:A3A;A3J;F3;A0;A1;F1;F2; A4:F4 A4:F4 |
+| 5650-5850MHz: | A3:A3A;A3J:F3;A0;A1;F1;F2; A4:F4 |
+|  | A3:A3A；A3J;F3:A0:A1;FI;F2; |
+| （m)10 000-10500 MHz: | A3:A3A;A3J:F3;A0:AI;F1:F2; A4;F4 |
+| (n）21000-22000MHz: |  |
 
 ## Remarks:
 
@@ -549,19 +546,19 @@ A4:F4
 
 - (1) Niemand mag op ander frekwensies as die vol gende oor amateurradiostasies uitsend nie,behoudens die bepalings wat onder Opmerkings hieronder vervat is,en voorts word die modusse wat in subregulasie (2)verduidelik word ten opsigte van die verskillende frekwensies beperk soos hieronder aangedui word:
 
-| Frekwensieband                                                       | Motus                                                               |
+| Frekwensieband | Motus |
 |----------------------------------------------------------------------|---------------------------------------------------------------------|
-| (a) (b) 1800-2000kHz: 3500-3800kHz: 7000-7150kHz: 7025-7150kHz:      | A1:F1: A3;A3A;A3J;A1;F1: A3:A3A；A3J;F3;A1:F1; A3:A3A;A3J;F3; AI;FI: |
-| (d) (e) 14000-14350kHz: 14100-14350kHz: 21000-21450kHz:              | A3;A3A;A3J;F3; AI:F1;                                               |
-| 21 100-21450 kHz: (# 28000-29700kHz: 28 100-29700kHz: (g) 50- 54MHz: | A3:A3A:A3J;F3; A3;A3A;A3J;F3: AO;AI;F1; A3:A3A:A3J;F3:AO;A1:F1;F2;  |
-| (b) 144 146MHz:                                                      | A4;F4; A3;A3A;A3J;F3:AO:A1:F1;F2; A4:F4;                            |
-| 430- 440MHz:                                                         | A3;A3A;A3J:F3;AO:A1;F1;F2:                                          |
-| 1215-1300MHz:                                                        | A4;F4; A3:A3A;A3J;F3:AO;A1:F1:F2; A4;F4;                            |
-| (k) 2300-2450MHz:                                                    | A3;A3A;A3J;F3；A0;A1;F1;F2; A4:F4;                                   |
-| 5 650-5850 MHz                                                       | A3:A3A:A3J;F3:AO;A1;F1;F2; A4;F4;                                   |
-| (m） 10000-10 500MHz:                                                 | A3:A3A;A3J:F3;AO:A1;F1;F2;                                          |
-| (n)                                                                  | A4:F4 A3;A3A;A3J;F3;AO;A1;F1;F2;                                    |
-| 21000-22000MHz:                                                      | A4:F4:                                                              |
+| (a) (b) 1800-2000kHz: 3500-3800kHz: 7000-7150kHz: 7025-7150kHz: | A1:F1: A3;A3A;A3J;A1;F1: A3:A3A；A3J;F3;A1:F1; A3:A3A;A3J;F3; AI;FI: |
+| (d) (e) 14000-14350kHz: 14100-14350kHz: 21000-21450kHz: | A3;A3A;A3J;F3; AI:F1; |
+| 21 100-21450 kHz: (# 28000-29700kHz: 28 100-29700kHz: (g) 50- 54MHz: | A3:A3A:A3J;F3; A3;A3A;A3J;F3: AO;AI;F1; A3:A3A:A3J;F3:AO;A1:F1;F2; |
+| (b) 144 146MHz: | A4;F4; A3;A3A;A3J;F3:AO:A1:F1;F2; A4:F4; |
+| 430- 440MHz: | A3;A3A;A3J:F3;AO:A1;F1;F2: |
+| 1215-1300MHz: | A4;F4; A3:A3A;A3J;F3:AO;A1:F1:F2; A4;F4; |
+| (k) 2300-2450MHz: | A3;A3A;A3J;F3；A0;A1;F1;F2; A4:F4; |
+| 5 650-5850 MHz | A3:A3A:A3J;F3:AO;A1;F1;F2; A4;F4; |
+| (m） 10000-10 500MHz: | A3:A3A;A3J:F3;AO:A1;F1;F2; |
+| (n) | A4:F4 A3;A3A;A3J;F3;AO;A1;F1;F2; |
+| 21000-22000MHz: | A4:F4: |
 
 ## Opmerkings:
 
@@ -1375,15 +1372,15 @@ Channel
 
 27,275
 
-|   19 20 | Frequency (MHz) 27,185 27,205                    |
+| 19 20 | Frequency (MHz) 27,185 27,205 |
 |---------|--------------------------------------------------|
-|         | 27,215 Emergency channel [see subregulation (2）] |
-|     222 | 27,225                                           |
-|      23 | 27,255                                           |
-|      24 | 27,235                                           |
-|      25 | 5                                                |
-|      26 | 27,265                                           |
-|      27 |                                                  |
+|  | 27,215 Emergency channel [see subregulation (2）] |
+| 222 | 27,225 |
+| 23 | 27,255 |
+| 24 | 27,235 |
+| 25 | 5 |
+| 26 | 27,265 |
+| 27 |  |
 
 - (2) Although any channel may be used for e nergency communications or for assistance to traveliers, channel 2l may not be used for purposes other than
 2. （3)All channels are for the common use of all licensees.and no channel will be reserved ior the private or exclusive use of any particular station or group of stations,nor for single sideband or AM reception or transmission.
@@ -1501,37 +1498,37 @@ there is proof that the citizen-band radio station has been operated with more t
 
 Subject to the provisions of the Act and of these reguiations, the Postmaster General may issue the following certificates and licences on payinent of the prescribed fees:
 
-| Type                                                                     | Feesper auum or portion thereof   |
+| Type | Feesper auum or portion thereof |
 |--------------------------------------------------------------------------|-----------------------------------|
-|                                                                          | R                                 |
-| (i) Amateur radio-station licence                                    | 10                                |
-| (i） Coast-station licence                                     | 10                                |
-| （ii) Aeronautical-station licence                                     | 10                                |
-| (iv)Experimental-station licence                                 | 4                                 |
-| (v) Radio-beacon station licence..,                                      | 10                                |
-| (vi)Radio dealer'sregistration certificate                         | 10                                |
-| (vii)Radio-station licences-(land mobile service)                        | 4                                 |
-| Alarmstation  Base station                              | 10                                |
-| Citizen-band radio station                                           | 10                                |
-| Relay or repeaterati... Mobile stations:                                 | 10                                |
-| In the 26,965 to 27,175 MHz band with appara- tusnot exceeding100 mW  | 5                                 |
-| All others...                                                            | 10                                |
-| Paging station                                                      | 4                                 |
-| (vli) Ship-station licence- Vesselsup to1 600tons                    | 4                                 |
-| Vessels over 1 600 tons  (ix) SpeciaI radio service licence       | 10                                |
-| (x)Broadcasting licence                                          |                                   |
-|                                                                          | 10                                |
-| (xi)Aircraft-station licence-- Aircraft up to 2 720 kg..                 | 4                                 |
-| Aircraft over 2 720 kg...                                                | 10                                |
-| (xii)Duplicate, per Iicence/certificate                               |                                   |
+|  | R |
+| (i) Amateur radio-station licence | 10 |
+| (i） Coast-station licence | 10 |
+| （ii) Aeronautical-station licence | 10 |
+| (iv)Experimental-station licence | 4 |
+| (v) Radio-beacon station licence.., | 10 |
+| (vi)Radio dealer'sregistration certificate | 10 |
+| (vii)Radio-station licences-(land mobile service) | 4 |
+| Alarmstation  Base station | 10 |
+| Citizen-band radio station | 10 |
+| Relay or repeaterati... Mobile stations: | 10 |
+| In the 26,965 to 27,175 MHz band with appara- tusnot exceeding100 mW | 5 |
+| All others... | 10 |
+| Paging station | 4 |
+| (vli) Ship-station licence- Vesselsup to1 600tons | 4 |
+| Vessels over 1 600 tons  (ix) SpeciaI radio service licence | 10 |
+| (x)Broadcasting licence |  |
+|  | 10 |
+| (xi)Aircraft-station licence-- Aircraft up to 2 720 kg.. | 4 |
+| Aircraft over 2 720 kg... | 10 |
+| (xii)Duplicate, per Iicence/certificate |  |
 
 ## E2Examinationfees
 
 The examination fees listed below are payable with a view to sitting for an examination in order to acquire the certificate indicated.
 
-| Cerrificate                                                                                   | Purposefor which it isrequired                                                                                                                                                                                                                                               |
+| Cerrificate | Purposefor which it isrequired |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| tificate Operator's Cer- Duplicate.wm.. (ii) Certificateof Competence (Radio) Duplicate  | (i)Amateur Radio As prerequisite for an amateur radio station licence Replacement of lost document Supervision of the installation and maintenance and repair of radio apparatus at a st2- tion where the total power 500 W[reguiation G15（2） Replacement of lost documeni |
+| tificate Operator's Cer- Duplicate.wm.. (ii) Certificateof Competence (Radio) Duplicate | (i)Amateur Radio As prerequisite for an amateur radio station licence Replacement of lost document Supervision of the installation and maintenance and repair of radio apparatus at a st2- tion where the total power 500 W[reguiation G15（2） Replacement of lost documeni |
 
 Exomina-
 
@@ -1565,54 +1562,54 @@ El Sertifikaat-en lisensiegelde
 
 Behoudens die bepalings van die Wet en van hierdie regulasies,kan die Posmeester-generaal teen betaling van die voorgeskrewe gelde die volgende sertifikate en lisensies uitreik:
 
-| Tipe                                                                             | Geld per aro! deelte daarvan   |
+| Tipe | Geld per aro! deelte daarvan |
 |----------------------------------------------------------------------------------|--------------------------------|
-|                                                                                  | R                              |
-| ①Amatcurradiostasielisensie..                                                    | 10                             |
-| (ii)Kusstasiclisensie.                                                           | 10                             |
-| (ii) Lugvaartstasielisensie                                                 | 10                             |
-| (iv) Proefstasielisensie.                                                        | 4                              |
-| ）Radiobakenstasielisensie.                                                       | 10                             |
-| (vi) Radiohandeiaarsregistrasiesertifikaat.                                      | 10                             |
-| (vii) Radiostasielisensies-(land-Imobicle diens) Alarmstasie..o..o.              | 4                              |
-| Basistasie                                                              | 10                             |
-| Burgerbandradiostasie                                                         | 10                             |
-| Deursend-ofherhalerstasie  Mobiele stasies:                                   | 10                             |
-| In die band26.965-27,175 MHz met apparaat watnie100mWoorskrynie.. Alle ander  | 5                              |
-| Opsporingstasie                                                               | 10                             |
-| (vili) Skeepsboordstasielisensie-                                                | 4                              |
-| Vaartuietot1 600 ton.. Vaartuie bo1600 ton                                  | 4 10                           |
-| (ix) Spesiale radiodiensiisensie                                              | 4                              |
-| (Uitsaailisensie.                                                                | 10                             |
-| (xi) Vliegboordstasielisensie Vliegtuie tot 2 720kg...                           | 4                              |
-| Vliegtuie bo2.720 kg                                                          | 10                             |
-| (xii) Duplikaat per lisensie/sertifikaat..                                       | 1                              |
+|  | R |
+| ①Amatcurradiostasielisensie.. | 10 |
+| (ii)Kusstasiclisensie. | 10 |
+| (ii) Lugvaartstasielisensie | 10 |
+| (iv) Proefstasielisensie. | 4 |
+| ）Radiobakenstasielisensie. | 10 |
+| (vi) Radiohandeiaarsregistrasiesertifikaat. | 10 |
+| (vii) Radiostasielisensies-(land-Imobicle diens) Alarmstasie..o..o. | 4 |
+| Basistasie | 10 |
+| Burgerbandradiostasie | 10 |
+| Deursend-ofherhalerstasie  Mobiele stasies: | 10 |
+| In die band26.965-27,175 MHz met apparaat watnie100mWoorskrynie.. Alle ander | 5 |
+| Opsporingstasie | 10 |
+| (vili) Skeepsboordstasielisensie- | 4 |
+| Vaartuietot1 600 ton.. Vaartuie bo1600 ton | 4 10 |
+| (ix) Spesiale radiodiensiisensie | 4 |
+| (Uitsaailisensie. | 10 |
+| (xi) Vliegboordstasielisensie Vliegtuie tot 2 720kg... | 4 |
+| Vliegtuie bo2.720 kg | 10 |
+| (xii) Duplikaat per lisensie/sertifikaat.. | 1 |
 
 ## E2 Eksamengeide
 
 Die eksamengelde hieronder is betaalbaar met die van die sertifikate wat aangedui word:
 
-| Serrifikaat                            | Doelwaarvoor dit vereiswordi                                                                                                                                                         | Eksamen- inskrywings geld   |
+| Serrifikaat | Doelwaarvoor dit vereiswordi | Eksamen- inskrywings geld |
 |----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| ()Amateurradio- operateurserli- fkaat  | Asvcorvereistevirnamateur- radiostasielisensie                                                                                                                                       | R10                         |
-| Duplikaat                          | Vervanging van verlore doku-                                                                                                                                                         | R1                          |
-| (i） Sertifkaat yan Bevoegdheid (Radio) | Toesighouding oor die instal- lasie en die instandbouding en herstel van radicapparaar by n stasie wanr die totale drywing van alle radioappa- aat meer as S0o W is(Regu- asieG15（2） | Gratis                      |
-| Dupikaat...                            | Vervanging van verlore doku-                                                                                                                                                         | R1                          |
+| ()Amateurradio- operateurserli- fkaat | Asvcorvereistevirnamateur- radiostasielisensie | R10 |
+| Duplikaat | Vervanging van verlore doku- | R1 |
+| (i） Sertifkaat yan Bevoegdheid (Radio) | Toesighouding oor die instal- lasie en die instandbouding en herstel van radicapparaar by n stasie wanr die totale drywing van alle radioappa- aat meer as S0o W is(Regu- asieG15（2） | Gratis |
+| Dupikaat... | Vervanging van verlore doku- | R1 |
 
-| Cernificate                                                                                  | Purpose for which it is veguired                                                                                                                                                                                                                                                                                                                                                                                                                                      | Examination entry fee         | Sertifikaat                                                                                | Doelwaarvaor dit vereis wordi                                                                                                                                                                                                                                                                                                                                                                                                                  | Eksamen- inskrywings geid      |
+| Cernificate | Purpose for which it is veguired | Examination entry fee | Sertifikaat | Doelwaarvaor dit vereis wordi | Eksamen- inskrywings geid |
 |----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
-| (ii) Maritime Radiocommunication General Cerificete Duplicate.                           | Performing duties on a ship on which a radiotelegraph installationiscompulsory Replacement of lost document                                                                                                                                                                                                                                                                                                                                                           | R 15 (R7per repeated subject) 1 | (ii) Algemene Ser- tifikaat vir See- radiokommu- nikasie Duplikaat                     | Verrigting van die pligte op'n skip waaropnradiotele- graafinstallasie verpligtend is Vervanging van verlore doku-                                                                                                                                                                                                                                                                                                                             | R RiS (herhaling R7per vak) RI |
-| (iv) Special Certif-                                                                         | Performing duties on a ship                                                                                                                                                                                                                                                                                                                                                                                                                                           | 8 (R7per                        | (iv)Spesiale Sertifi- kaat van Be- Radiotelegrafie kwaamheid (Seevaart) iin Duplikaat...   | Verrigting van die pligte opn ment skip waarop n radiotele-                                                                                                                                                                                                                                                                                                                                                                                    | R8                             |
-| cate of Compe- telegraphy (Marine) tency in Radio- Duplicate                             | on which a radiotelegraph installation exists but is not compuisory Repiacementof lost document                                                                                                                                                                                                                                                                                                                                                                       | repeated subject) 1             | (v)Algemene Ser- tifikaat van Be- kwaamheid in Radiotelefonie (Seevaart)                   | graafinstallasie bestaan maar nie verpligtend is nie Vervanging van verlore doku-                                                                                                                                                                                                                                                                                                                                                              | (herhaling R7pervak) R1        |
-| (v）General Certificate of Com- Radiotele- petency in phony (Marine) Duplicate         | Operation ofa radiotelephone installation onzny ship                                                                                                                                                                                                                                                                                                                                                                                                                  | 8 (R7per repeated subject)      |                                                                                            | Bediening Van 'n radiotele- ment fooninstallasie op enige skip                                                                                                                                                                                                                                                                                                                                                                                 | RS (herhaling) R7per yak)      |
-|                                                                                              | Replacement of lost document                                                                                                                                                                                                                                                                                                                                                                                                                                          | 1                               | Duplikaat                                                                              | Veryanging van verlore doku- ment                                                                                                                                                                                                                                                                                                                                                                                                              | R1                             |
-| (vi)Restricted Radiotelephone Operator's Certificate(Marine)                               | Operation of a radiorelephone instailation on a ship, provided that--- (a)the carrier-wave power ofthe transmitter does not exceed50 W:or (b)the operation of the transmtter reguiresonly the use of simple external switching clavice, any manual tuning of the ele- menis determning the frequency is excluded, the stability ofthe frequencies is maintained within the pre-scribed tolerance limits by the transmitter itselfand the carrier-wave power of | 8 (R7per repeated subject)      | (vi)Beperkte Serti- fikaat vir Radio- telefoonopera- teur (Seevaart)                       | Bediening van 'n radiotele- fooninstallasie wat op'n skip opgerig is,mits- van die sender hoogstens 50 Wis:of (b)die bediening van die sender selgs die gebruik van eenvoudige uitwendige ska- keltoestelle vereis, alle hand- instemming van die ele- mente wat die frekwensie bepagl,uitgesluit isde sta- biliteit van die frekwensies deur die sender self binne grense gehandhaaf word en voorgeskrewe toleransie die draergolfdrywing van | R8 (herhaling R7pervak)        |
-| Duplicate                                                                                | the transmitter does not Replacement of lost document excecd250W. Operation of a radiotelephone installation on board any                                                                                                                                                                                                                                                                                                                                             | 1                               | Duplikaat                                                                               | die sender hoogstens 250W Vervanging van yerlore doku is. Bediening van n radiotele- ment                                                                                                                                                                                                                                                                                                                                                      | R1                             |
-| (vi) General Certificate of Com- diotelephony petency in Ra- (Aeronautical) Duplicate  | aircraft Replacement of lost document                                                                                                                                                                                                                                                                                                                                                                                                                                 | 8 (7per repeated subject) 1     | (vii) Algemene Ser- tifikaat van Be- Radiotelefonie kwaamheid in (Lugvaart) Duplikaat  | fooninstallasie aan boord van enige lugvaartuig Vervanging van verlore doku-                                                                                                                                                                                                                                                                                                                                                                   | R8 (herhaling R7per vak)       |
-| (vil)Re pa R notelephone                                                                     | Operationof a radiotclephone private pilot licence craft not exceeding 2700 kg by the holder of,at the most, installation on boardair- Replacement of lost document                                                                                                                                                                                                                                                                                                   | 8 repeated subject) (R7per 1    | (vii) Beperkte Serti- fikaatvirRadio- telefoonopera- (Lugvaart) teurs                      | Bediening deur die houer van ment van lugvaartuie van hoog- nierslisensie van'n radiotele- fooninstallasieaanboord hoogstens n privaatvliee- stens2700kg                                                                                                                                                                                                                                                                                       | R1 R8 R7 per val) (herhaling   |
-| (Aeronautical) Oporator's Certificate Duplieate                                         | Authorizing the holder of any certificatc of competence to operate radio apparatus in                                                                                                                                                                                                                                                                                                                                                                                 | None                            | (ix)Magtiging om Duplikaat  Radioapparaat                                              | Vervanging van verlore doku- ment                                                                                                                                                                                                                                                                                                                                                                                                              | R1                             |
-| (ix)Authority to                                                                             | accordance with the provisions of such certificate                                                                                                                                                                                                                                                                                                                                                                                                                  |                                 | tebedien                                                                                   | Magtiging van die houer van daardie sertifikaat te bedien                                                                                                                                                                                                                                                                                                                                                                                      | Geen                           |
-| operate Radio Apparatus                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                 |                                                                                            | enige Bekwaamheidsertifikaat om radioapparaat ooreen- komstig die bepalings van                                                                                                                                                                                                                                                                                                                                                                |                                |
+| (ii) Maritime Radiocommunication General Cerificete Duplicate. | Performing duties on a ship on which a radiotelegraph installationiscompulsory Replacement of lost document | R 15 (R7per repeated subject) 1 | (ii) Algemene Ser- tifikaat vir See- radiokommu- nikasie Duplikaat | Verrigting van die pligte op'n skip waaropnradiotele- graafinstallasie verpligtend is Vervanging van verlore doku- | R RiS (herhaling R7per vak) RI |
+| (iv) Special Certif- | Performing duties on a ship | 8 (R7per | (iv)Spesiale Sertifi- kaat van Be- Radiotelegrafie kwaamheid (Seevaart) iin Duplikaat... | Verrigting van die pligte opn ment skip waarop n radiotele- | R8 |
+| cate of Compe- telegraphy (Marine) tency in Radio- Duplicate | on which a radiotelegraph installation exists but is not compuisory Repiacementof lost document | repeated subject) 1 | (v)Algemene Ser- tifikaat van Be- kwaamheid in Radiotelefonie (Seevaart) | graafinstallasie bestaan maar nie verpligtend is nie Vervanging van verlore doku- | (herhaling R7pervak) R1 |
+| (v）General Certificate of Com- Radiotele- petency in phony (Marine) Duplicate | Operation ofa radiotelephone installation onzny ship | 8 (R7per repeated subject) |  | Bediening Van 'n radiotele- ment fooninstallasie op enige skip | RS (herhaling) R7per yak) |
+|  | Replacement of lost document | 1 | Duplikaat | Veryanging van verlore doku- ment | R1 |
+| (vi)Restricted Radiotelephone Operator's Certificate(Marine) | Operation of a radiorelephone instailation on a ship, provided that--- (a)the carrier-wave power ofthe transmitter does not exceed50 W:or (b)the operation of the transmtter reguiresonly the use of simple external switching clavice, any manual tuning of the ele- menis determning the frequency is excluded, the stability ofthe frequencies is maintained within the pre-scribed tolerance limits by the transmitter itselfand the carrier-wave power of | 8 (R7per repeated subject) | (vi)Beperkte Serti- fikaat vir Radio- telefoonopera- teur (Seevaart) | Bediening van 'n radiotele- fooninstallasie wat op'n skip opgerig is,mits- van die sender hoogstens 50 Wis:of (b)die bediening van die sender selgs die gebruik van eenvoudige uitwendige ska- keltoestelle vereis, alle hand- instemming van die ele- mente wat die frekwensie bepagl,uitgesluit isde sta- biliteit van die frekwensies deur die sender self binne grense gehandhaaf word en voorgeskrewe toleransie die draergolfdrywing van | R8 (herhaling R7pervak) |
+| Duplicate | the transmitter does not Replacement of lost document excecd250W. Operation of a radiotelephone installation on board any | 1 | Duplikaat | die sender hoogstens 250W Vervanging van yerlore doku is. Bediening van n radiotele- ment | R1 |
+| (vi) General Certificate of Com- diotelephony petency in Ra- (Aeronautical) Duplicate | aircraft Replacement of lost document | 8 (7per repeated subject) 1 | (vii) Algemene Ser- tifikaat van Be- Radiotelefonie kwaamheid in (Lugvaart) Duplikaat | fooninstallasie aan boord van enige lugvaartuig Vervanging van verlore doku- | R8 (herhaling R7per vak) |
+| (vil)Re pa R notelephone | Operationof a radiotclephone private pilot licence craft not exceeding 2700 kg by the holder of,at the most, installation on boardair- Replacement of lost document | 8 repeated subject) (R7per 1 | (vii) Beperkte Serti- fikaatvirRadio- telefoonopera- (Lugvaart) teurs | Bediening deur die houer van ment van lugvaartuie van hoog- nierslisensie van'n radiotele- fooninstallasieaanboord hoogstens n privaatvliee- stens2700kg | R1 R8 R7 per val) (herhaling |
+| (Aeronautical) Oporator's Certificate Duplieate | Authorizing the holder of any certificatc of competence to operate radio apparatus in | None | (ix)Magtiging om Duplikaat  Radioapparaat | Vervanging van verlore doku- ment | R1 |
+| (ix)Authority to | accordance with the provisions of such certificate |  | tebedien | Magtiging van die houer van daardie sertifikaat te bedien | Geen |
+| operate Radio Apparatus |  |  |  | enige Bekwaamheidsertifikaat om radioapparaat ooreen- komstig die bepalings van |  |
 
 ## CHAPTER7 INTERFERENCE
 
@@ -1929,17 +1926,17 @@ Vbut not excecding 15 000V.
 
 E
 
-| Measuring jokrepunog property              |                                                                                                                                                                                                |
+| Measuring jokrepunog property |  |
 |--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Measuring meter from                       | Under-route UIIIT 111121112211 111000                                                                                                                                                          |
-| interference- Radiated                     | 180V/m                                                                                                                                                                                         |
-| dB,relative to Radiated Mdi                | +65-5 !                                                                                                                                                                                        |
-| Interference- voltage at antenna terminals | 1111 1111 11111 1                                                                                                                                                                              |
-| Interference- voltage terminals            | 1 212 212 m1m                                                                                                                                                                                  |
-| Interference- terminals                    | 11111 11111 11                                                                                                                                                                                 |
-| Interference- mains terminals              | 1 11 2 一                                                                                                                                                                                       |
-| Frequency range                            | 4 ±4 HOCCRAE 1605-30000kHz.. 30-1000MHZ  Z000-009 150-30000kz... 400-1000MHZ... 30-300MHz... X000-00 150-500kH.. - 150-200kHz  Z000500 30-300MHZ  30-300MHz. 30-300MHz.. 30-300MHz. |
-| smedde                                     | E 2                                                                                                                                                                                            |
+| Measuring meter from | Under-route UIIIT 111121112211 111000 |
+| interference- Radiated | 180V/m |
+| dB,relative to Radiated Mdi | +65-5 ! |
+| Interference- voltage at antenna terminals | 1111<br>1111<br>11111 1 |
+| Interference- voltage terminals | 1 212 212 m1m |
+| Interference- terminals | 11111 11111 11 |
+| Interference- mains terminals | 1 11 2 一 |
+| Frequency range | 4 ±4 HOCCRAE 1605-30000kHz.. 30-1000MHZ  Z000-009 150-30000kz... 400-1000MHZ... 30-300MHz... X000-00 150-500kH.. - 150-200kHz  Z000500 30-300MHZ  30-300MHz. 30-300MHz.. 30-300MHz. |
+| smedde | E 2 |
 
 Key to Abbreviations:
 
@@ -1992,16 +1989,16 @@ Apparaat wat nie deur die klnss hieronder gedek word nie.
 
 TABEL1
 
-| ciendomsgrens af Meetafstand d-meler van   |                                                                                                                                            |
+| ciendomsgrens af Meetafstand d-meler van |  |
 |--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Meetafstand d-meter van apparaat af        | 330 1 3m3333333m 333                                                                                                                       |
-| Gestraalde opd-meter                       | JV/m V/m V/m(8) V/m(8) V/m /At μV/m V/m(9) （/ IEV/m(10) JV/m JV/m 00 000jV/m 000 000 400                                                   |
-|                                            | T                                                                                                                                          |
-| Steurseinspanning by antenne-aan- sluiters | 三 400EV 400μV 000 ASTE 1 000 STE 000 000 品 一 一 2                                                                                           |
-| by netaansluiters                          | 12 32221 11 1                                                                                                                              |
-| lasaansluiters                             |                                                                                                                                            |
-| Steurspanning by netaansluiters            | 002-000 600-400V(4) 400μV(6)                                                                                                               |
-| Frekwensiestrek                            | CED 150-200kHz. 3950-30000kHZ.. 30-470MHZ  470-1000MHz.. 0 + : + 150-500kHz.. 500-1605kHz. 150-1605kHZ. 1605-30000kHz.. 30108MHZ  |
+| Meetafstand d-meter van apparaat af | 330 1 3m3333333m 333 |
+| Gestraalde opd-meter | JV/m V/m V/m(8) V/m(8) V/m /At μV/m V/m(9) （/ IEV/m(10) JV/m JV/m 00 000jV/m 000 000 400 |
+|  | T |
+| Steurseinspanning by antenne-aan- sluiters | 三 400EV 400μV 000 ASTE 1 000 STE 000 000 品 一 一 2 |
+| by netaansluiters | 12 32221 11 1 |
+| lasaansluiters |  |
+| Steurspanning by netaansluiters | 002-000 600-400V(4) 400μV(6) |
+| Frekwensiestrek | CED 150-200kHz. 3950-30000kHZ.. 30-470MHZ  470-1000MHz.. 0 + : + 150-500kHz.. 500-1605kHz. 150-1605kHZ. 1605-30000kHz.. 30108MHZ |
 
 Sleutel tot afkortings:
 
@@ -2170,13 +2167,13 @@ Alle toestelle wat nie hieronder genoem word nie Warmplate,kosoonde, diepvetbraa
 
 ## Faktor-f-waardes vir verskillende apparate
 
-| Tipe toestel                                                                                | Faktorf   |
+| Tipe toestel | Faktorf |
 |---------------------------------------------------------------------------------------------|-----------|
-| Alle toestelle wat nie hieronder genoem word nie...                                         | 1         |
-| Stowe...                                                                                    | 0,5       |
-| Toestelle met meer as cen kookplaat wat deur termostate of cnergiereguleerders beheer word. | 0,5       |
-| Koelkaste..                                                                                 | 0,5       |
-| Strykysters..                                                                               | 0,66      |
+| Alle toestelle wat nie hieronder genoem word nie... | 1 |
+| Stowe... | 0,5 |
+| Toestelle met meer as cen kookplaat wat deur termostate of cnergiereguleerders beheer word. | 0,5 |
+| Koelkaste.. | 0,5 |
+| Strykysters.. | 0,66 |
 
 ## BYLAEB
 

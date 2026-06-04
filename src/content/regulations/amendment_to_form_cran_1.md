@@ -15,17 +15,17 @@ No. 5947
 
 Page
 
-| GENERALNOTICES   | GENERALNOTICES                                                                                                                                                                                                                                                                                                                                                                                                                      |    |
+| GENERALNOTICES | GENERALNOTICES |  |
 |------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-| No. 10           | Communications Regulatory Authority of Namibia: Notice in terms of the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs: Mobile Telecommunications Limited (MTC)                                                                                  |  2 |
-| No. 11           | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Communications Act, 2009 read with the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs: Salt Essential IT (Pty) Ltd                                                                                                          |  3 |
-| No. 12           | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Communications Act, 2009 read with the regulations Regarding the Submissions of Interconnection Agreements and Tariffs: Converged Telecommunications Solutions (Pty) Ltd                                                                                                                   |  6 |
-| No. 13           | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Communications Act, 2009 read with the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs: MWireless (Pty) Ltd t/a Africa Online                                                                                                       |  8 |
-| No. 14           | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Communications Act, 2009 read with the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs: MWireless (Pty) Ltd t/a Africa Online                                                                                                       | 10 |
-| No. 15           | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Communications Act, 2009 read with the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs: Paratus Telecommunications (Pty) Ltd                                                                                                         | 12 |
-| No. 16           | Communications Regulatory Authority of Namibia: Notice in terms of the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs: De Beers Marine Namibia                                                                                                                                                                                                                                  | 15 |
-| No. 17           | Communications Regulatory Authority of Namibia: Notice to withdraw Spectrum Use Licence in terms of Regulations 10 and 11 of the Regulations Regarding Licencing Procedures for Telecommunications and Broadcasting Service Licences and Spectrum Use Licences: Communications Act, 2007: Namibian Broadcasting Corporation   | 17 |
-| No. 18           | Communications Regulatory Authority of Namibia: Notice of amendment of applications from: Telecommunications Service Licences of the Regulations Prescribing Forms for Applications: Communications Act, 2009                                                                                           | 19 |
+| No. 10 | Communications Regulatory Authority of Namibia: Notice in terms of the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs: Mobile Telecommunications Limited (MTC) | 2 |
+| No. 11 | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Communications Act, 2009 read with the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs: Salt Essential IT (Pty) Ltd | 3 |
+| No. 12 | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Communications Act, 2009 read with the regulations Regarding the Submissions of Interconnection Agreements and Tariffs: Converged Telecommunications Solutions (Pty) Ltd | 6 |
+| No. 13 | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Communications Act, 2009 read with the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs: MWireless (Pty) Ltd t/a Africa Online | 8 |
+| No. 14 | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Communications Act, 2009 read with the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs: MWireless (Pty) Ltd t/a Africa Online | 10 |
+| No. 15 | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Communications Act, 2009 read with the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs: Paratus Telecommunications (Pty) Ltd | 12 |
+| No. 16 | Communications Regulatory Authority of Namibia: Notice in terms of the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs: De Beers Marine Namibia | 15 |
+| No. 17 | Communications Regulatory Authority of Namibia: Notice to withdraw Spectrum Use Licence in terms of Regulations 10 and 11 of the Regulations Regarding Licencing Procedures for Telecommunications and Broadcasting Service Licences and Spectrum Use Licences: Communications Act, 2007: Namibian Broadcasting Corporation | 17 |
+| No. 18 | Communications Regulatory Authority of Namibia: Notice of amendment of applications from: Telecommunications Service Licences of the Regulations Prescribing Forms for Applications: Communications Act, 2009 | 19 |
 
 No. 19 Communications Regulatory Authority of Namibia: Notice of intention to amend the Regulations Regarding Licensing Procedures for Telecommunications and Broadcasting Service Licences and Spectrum Use Licences: Communications Act, 2009 
 
@@ -72,26 +72,26 @@ No. 11
 1. The add-on NetMan Bundles will be available to prepaid customers that are on the Netman Instant and NetMan Home Prepaid Service Plans
 2. There are 3 NetMan Add-on Bundles
 
-| Name     | Data Volume   |   Cost N$ | Validity Hours     |
+| Name | Data Volume | Cost N$ | Validity Hours |
 |----------|---------------|-----------|--------------------|
-| Netman 1 | 1 GB          |     29.00 | 24 hours(1 Day)    |
-| Netman 3 | 5 GB          |     79.00 | 72 hours (3 Day)   |
-| Netman 7 | 10 GB         |    149.00 | 168 hours (7 Days) |
+| Netman 1 | 1 GB | 29.00 | 24 hours(1 Day) |
+| Netman 3 | 5 GB | 79.00 | 72 hours (3 Day) |
+| Netman 7 | 10 GB | 149.00 | 168 hours (7 Days) |
 
 ## NEW DATA BUNDLES
 
 1. The add-on Data Bundles will be available to all customers excluding customers that make use of Turbo Boost based Service Plans
 2. There are 7 Add-on Data Bundles
 
-| Product   |   Price N$ | Bundle Volume - excl VAT   |   In bundle rate per MB N$ |   Validity Period (Days) |
+| Product | Price N$ | Bundle Volume - excl VAT | In bundle rate per MB N$ | Validity Period (Days) |
 |-----------|------------|----------------------------|----------------------------|--------------------------|
-| New MTC   |      12.00 | 40MB                       |                       0.30 |                       60 |
-| New MTC   |      19.00 | 80MB                       |                       0.24 |                       60 |
-| New MTC   |      79.00 | 400MB                      |                       0.20 |                       60 |
-| New MTC   |     129.00 | 800MB                      |                       0.16 |                       60 |
-| New MTC   |     219.00 | 1.5 GB                     |                       0.14 |                       60 |
-| New MTC   |     329.00 | 3 GB                       |                       0.11 |                       60 |
-| New MTC   |     999.00 | 15 GB                      |                       0.07 |                       60 |
+| New MTC | 12.00 | 40MB | 0.30 | 60 |
+| New MTC | 19.00 | 80MB | 0.24 | 60 |
+| New MTC | 79.00 | 400MB | 0.20 | 60 |
+| New MTC | 129.00 | 800MB | 0.16 | 60 |
+| New MTC | 219.00 | 1.5 GB | 0.14 | 60 |
+| New MTC | 329.00 | 3 GB | 0.11 | 60 |
+| New MTC | 999.00 | 15 GB | 0.07 | 60 |
 
 Please note that the full tariff submission including the terms and conditions and the remedies available to the consumers can be obtained from the Authority
 
@@ -121,19 +121,19 @@ The tariff information is as follows:
 
 TABLE 1: TARIFFS
 
-| LICENSEE: Salt Essential Information Technology (PTY) Ltd.                                                                                                  | LICENSEE: Salt Essential Information Technology (PTY) Ltd.   | LICENSEE: Salt Essential Information Technology (PTY) Ltd.   | LICENSEE: Salt Essential Information Technology (PTY) Ltd.   | LICENSEE: Salt Essential Information Technology (PTY) Ltd.   |
+| LICENSEE: Salt Essential Information Technology (PTY) Ltd. | LICENSEE: Salt Essential Information Technology (PTY) Ltd. | LICENSEE: Salt Essential Information Technology (PTY) Ltd. | LICENSEE: Salt Essential Information Technology (PTY) Ltd. | LICENSEE: Salt Essential Information Technology (PTY) Ltd. |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
-| Product                                                                                                                                                     | Qty. Unit                                                    | Old Tariff per Unit N$                                       | New Tariff per Unit N$                                       | %Increase                                                  |
-| Messaging &Collaboration Services                                                                                                                           |                                                              |                                                              |                                                              |                                                              |
-| MSExchange Messaging (1 GByte,Anti-Spam, ActiveSync, Backup, CAL, Outlook License and Software)                                                             | per mailbox                                                  | 84.00                                                        | 92.40                                                        | 10%                                                          |
-| MSExchange Messaging (1 GByte,Anti-Spam, ActiveSync, Backup, CAL, Outlook License and Software) for customers with more than 200 mailboxes                  | per mailbox                                                  | 73.50                                                        | product discontinued                                       |                                                              |
-| MSExchange Messaging (1 GByte,Anti-Spam, ActiveSync, Backup, CAL, Outlook License but no software)                                                          | per mailbox                                                  | 63.00                                                        | 69.30                                                        | 10%                                                          |
-| - Fax Integration (GFI)                                                                                                                                     | per user (optional)                                          | 81.50                                                        | 89.65                                                        | 10%                                                          |
-| Mail Archiving (Backup, License, WebAccess)                                                                                                                 | per user (optional)                                          | 12.80                                                        | 14.08                                                        | 10%                                                          |
-| WAN Services                                                                                                                                                |                                                              |                                                              |                                                              |                                                              |
-| WAN - Link between Customer and SALT Co-Location (Metro Ethernet - MPLS link Kbps as per last mile link, for pro rata usage on Metro E link to MPLS cloud) | per kbps                                                     | 0.53                                                         | 0.58                                                         | 10%                                                          |
-| DNS &Web Services                                                                                                                                           |                                                              |                                                              |                                                              |                                                              |
-| Domain Name & Website Hosting (1 second level .na domain, e.g. com.na, 1 GByte Website space)                                                               | per website                                                  | 141.00                                                       | 155.10                                                       | 10%                                                          |
+| Product | Qty. Unit | Old Tariff per Unit N$ | New Tariff per Unit N$ | %Increase |
+| Messaging &Collaboration Services |  |  |  |  |
+| MSExchange Messaging (1 GByte,Anti-Spam, ActiveSync, Backup, CAL, Outlook License and Software) | per mailbox | 84.00 | 92.40 | 10% |
+| MSExchange Messaging (1 GByte,Anti-Spam, ActiveSync, Backup, CAL, Outlook License and Software) for customers with more than 200 mailboxes | per mailbox | 73.50 | product discontinued |  |
+| MSExchange Messaging (1 GByte,Anti-Spam, ActiveSync, Backup, CAL, Outlook License but no software) | per mailbox | 63.00 | 69.30 | 10% |
+| - Fax Integration (GFI) | per user (optional) | 81.50 | 89.65 | 10% |
+| Mail Archiving (Backup, License, WebAccess) | per user (optional) | 12.80 | 14.08 | 10% |
+| WAN Services |  |  |  |  |
+| WAN - Link between Customer and SALT Co-Location (Metro Ethernet - MPLS link Kbps as per last mile link, for pro rata usage on Metro E link to MPLS cloud) | per kbps | 0.53 | 0.58 | 10% |
+| DNS &Web Services |  |  |  |  |
+| Domain Name & Website Hosting (1 second level .na domain, e.g. com.na, 1 GByte Website space) | per website | 141.00 | 155.10 | 10% |
 
 The increase in tariffs requested was 10%. The average inflation rate for the period 1 October 2014 to 1 October 2015 was 3.72%. At the same time the exchange rate fluctuated between N$ 10.66 and N$ 13.82 for 1 US$; a change of 29.64% (www.oande.com). Salt Essential also indicated the following cost increases: electricity, rent, licence costs from vendors and salary costs.
 
@@ -187,28 +187,28 @@ The tariff information is as follows:
 
 Table 1: Proposed Tariffs
 
-| Name                 | Service            |   Wholesale Transfer Price/ Month N$ monthly (Excl VAT) |
+| Name | Service | Wholesale Transfer Price/ Month N$ monthly (Excl VAT) |
 |----------------------|--------------------|---------------------------------------------------------|
-| Pure 500             | 512k up/512 down   |                                                1,500.00 |
-| Pure 1000            | 1024 up/1024k down |                                                2,900.00 |
-| Pure 2000            | 2048 up/2048k down |                                                5,000.00 |
-| Pure 3000            | 3072 up/3072 down  |                                                7,500.00 |
-| Pure 4000            | 4096 up/4096 down  |                                                9,500.00 |
-| Pure 5000            | 5120 up/5120 down  |                                               12,500.00 |
-| Cost of CPE Once Off |                    |                                                7,250.00 |
+| Pure 500 | 512k up/512 down | 1,500.00 |
+| Pure 1000 | 1024 up/1024k down | 2,900.00 |
+| Pure 2000 | 2048 up/2048k down | 5,000.00 |
+| Pure 3000 | 3072 up/3072 down | 7,500.00 |
+| Pure 4000 | 4096 up/4096 down | 9,500.00 |
+| Pure 5000 | 5120 up/5120 down | 12,500.00 |
+| Cost of CPE Once Off |  | 7,250.00 |
 
-| CPE lease             |   375.00p/m x 24 months |
+| CPE lease | 375.00p/m x 24 months |
 |-----------------------|-------------------------|
-| Installation Once Off |                1,500.00 |
+| Installation Once Off | 1,500.00 |
 
 Table 2: Tariff Comparison
 
-| OPERATOR      | PRODUCT          | CAP- GIG   | UPLOAD/ DOWNLOAD SPEED -Kbps   |   RETAIL PRICE- N$/ MONTH | CONTRACT PERIOD   |
+| OPERATOR | PRODUCT | CAP- GIG | UPLOAD/ DOWNLOAD SPEED -Kbps | RETAIL PRICE- N$/ MONTH | CONTRACT PERIOD |
 |---------------|------------------|------------|--------------------------------|---------------------------|-------------------|
-| CTS           | Pure             | Unlimited  | 2048/2048                      |                  5,000.00 | 12 months         |
-| Paratus       | Professional     | 80GB       | 2048/4096                      |                  1,680.00 | 24 months         |
-| CTS           | WIMAX Business | 100GB      | 1024/2048                      |                  1,950.00 | 12 months         |
-| Africa Online | WIMAX            | 60 GB      | 1024/2048                      |                  3,499.00 | 12 months         |
+| CTS | Pure | Unlimited | 2048/2048 | 5,000.00 | 12 months |
+| Paratus | Professional | 80GB | 2048/4096 | 1,680.00 | 24 months |
+| CTS | WIMAX Business | 100GB | 1024/2048 | 1,950.00 | 12 months |
+| Africa Online | WIMAX | 60 GB | 1024/2048 | 3,499.00 | 12 months |
 
 The tariffs were compared with WiMAX tariffs from Paratus Telecommunications (Pty) Ltd, previously submitted tariffs for CTS and MWireless (Pty) Ltd t/a Africa Online. The comparisons are difficult since the tariffs are based on different up- and download speeds and the Paratus Telecom tariffs are valid for a 24-month contract period. All the other products are capped whereas this product has unlimited data usage.
 
@@ -266,9 +266,9 @@ The tariff information is as follows:
 
 Table 1: Proposed Tariffs
 
-| • Package name   | • Rental Per month   |
+| • Package name | • Rental Per month |
 |------------------|----------------------|
-| • Nawagate       | • 324.50             |
+| • Nawagate | • 324.50 |
 
 No other product offering could be found to compare this product to. Most firewall solutions are offered as part of packages e. g. by Telecom Namibia to their business customers when hosting email and websites. There are also many open access software available for this type of service.
 
@@ -327,12 +327,12 @@ The tariff information is as follows:
 
 Table 1: Proposed Tariff
 
-| Package Name    | Rental per month   |
+| Package Name | Rental per month |
 |-----------------|--------------------|
-| Nawaspot        | N$ 500.00          |
-| Computer System |                    |
-| Wireless Router |                    |
-| Setup           |                    |
+| Nawaspot | N$ 500.00 |
+| Computer System |  |
+| Wireless Router |  |
+| Setup |  |
 
 Nawaspot is a device connected to the Internet to manage Wi-Fi Hotspots aimed at benefitting the hospitality trade, schools and businesses that wish to have easy access to the Internet and emails at affordable prices.
 
@@ -394,24 +394,24 @@ The tariff information is as follows:
 
 Table 1: Proposed Tariffs
 
-| Name            | VSAT monthly pricing options   | CAPlimit   |   Reseller |   Retail |
+| Name | VSAT monthly pricing options | CAPlimit | Reseller | Retail |
 |-----------------|--------------------------------|------------|------------|----------|
-| Uncapped Bronze | 256Kbps up / 1024Kbps down     | Uncapped   |        850 |      935 |
-| Capped 20       | 512Kbps up / 2048Kbps down     | 20 Gig     |      1,430 |    1,575 |
-| Uncapped Silver | 512Kbps up / 2048Kbps down     | Uncapped   |      1,710 |    1,880 |
-| Capped 40       | 512Kbps up / 4096Kbps down     | 40 Gig     |      3,030 |    3,340 |
-| Capped 50       | 512Kbps up / 10240Kbps down    | 50 Gig     |      4,350 |    4,785 |
-| Uncapped Gold   | 512Kbps up / 10240Kbps down    | Uncapped   |      6,660 |    7,330 |
-|                 | 1 Gig Top Up                   |            |        268 |      290 |
+| Uncapped Bronze | 256Kbps up / 1024Kbps down | Uncapped | 850 | 935 |
+| Capped 20 | 512Kbps up / 2048Kbps down | 20 Gig | 1,430 | 1,575 |
+| Uncapped Silver | 512Kbps up / 2048Kbps down | Uncapped | 1,710 | 1,880 |
+| Capped 40 | 512Kbps up / 4096Kbps down | 40 Gig | 3,030 | 3,340 |
+| Capped 50 | 512Kbps up / 10240Kbps down | 50 Gig | 4,350 | 4,785 |
+| Uncapped Gold | 512Kbps up / 10240Kbps down | Uncapped | 6,660 | 7,330 |
+|  | 1 Gig Top Up |  | 268 | 290 |
 
-| Once off costing options         |           |
+| Once off costing options |  |
 |----------------------------------|-----------|
-| Yealink cordless phone           |  1,386.00 |
-| Wireless Access Point            |  1,320.00 |
-| Hardware Option 1 (1 - 10 Users) |  9,234.50 |
-| Hardware Option 2 (10+ users)    | 18,911.75 |
-| Travel (per Km cost)             |      4.50 |
-| Installation fee                 |  1,500.00 |
+| Yealink cordless phone | 1,386.00 |
+| Wireless Access Point | 1,320.00 |
+| Hardware Option 1 (1 - 10 Users) | 9,234.50 |
+| Hardware Option 2 (10+ users) | 18,911.75 |
+| Travel (per Km cost) | 4.50 |
+| Installation fee | 1,500.00 |
 
 ## Terms:
 
@@ -421,22 +421,22 @@ Table 1: Proposed Tariffs
 
 TABLE 2: COMPARISON FOR 50 GIGABYTE PACKAGES
 
-| OPERATOR            | PRODUCT                   |   CAP- GIG | UPLOAD/DOWNLOAD SPEED -Kbps   | RETAIL PRICE- N$/ MONTH   |
+| OPERATOR | PRODUCT | CAP- GIG | UPLOAD/DOWNLOAD SPEED -Kbps | RETAIL PRICE- N$/ MONTH |
 |---------------------|---------------------------|------------|---------------------------------|---------------------------|
-| Paratus             | YUR SAT Capped 50         |         50 | 512/10240                       | 4,785.00                  |
-| Africa Online (AOL) | NAWASAT                   |         60 | 512/6144                        | 8,999.00                  |
-| AOL                 | Afri KA- Consumer 15000   |         50 | 2560/15360                      | 3,499.00                  |
-| AOL                 | Afri KA- Proffesional2000 |         50 | 512/2048                        | 2,999.00                  |
-| Telecom Namibia     | VSAT                      |         50 |                                 | Not Available             |
-| MTN Business        | BIZSAT                    |         50 | 384/1024                        | 15,060.00                 |
+| Paratus | YUR SAT Capped 50 | 50 | 512/10240 | 4,785.00 |
+| Africa Online (AOL) | NAWASAT | 60 | 512/6144 | 8,999.00 |
+| AOL | Afri KA- Consumer 15000 | 50 | 2560/15360 | 3,499.00 |
+| AOL | Afri KA- Proffesional2000 | 50 | 512/2048 | 2,999.00 |
+| Telecom Namibia | VSAT | 50 |  | Not Available |
+| MTN Business | BIZSAT | 50 | 384/1024 | 15,060.00 |
 
 TABLE 3: COMPARISON FOR UNLIMITED PACKAGES
 
-| OPERATOR        | PRODUCT                   | CAP- GIG   | UPLOAD/ DOWNLOAD SPEED -Kbps   | RETAIL PRICE- N$/ MONTH   |
+| OPERATOR | PRODUCT | CAP- GIG | UPLOAD/ DOWNLOAD SPEED -Kbps | RETAIL PRICE- N$/ MONTH |
 |-----------------|---------------------------|------------|--------------------------------|---------------------------|
-| Paratus         | Uncapped Bronze           | Unlimited  | 512 / 2048                     | 935,00                    |
-| AOL             | Afri KA- Proffesional1000 | Unlimited  | 512/1024                       | 7,999.00                  |
-| Telecom Namibia | VSAT                      | Unlimited  | 384/1024                       | 16,209.00                 |
+| Paratus | Uncapped Bronze | Unlimited | 512 / 2048 | 935,00 |
+| AOL | Afri KA- Proffesional1000 | Unlimited | 512/1024 | 7,999.00 |
+| Telecom Namibia | VSAT | Unlimited | 384/1024 | 16,209.00 |
 
 The product is a VSAT product aimed at farmers and lodges. One of the advantages of the product is that it can handle up to 2 voice calls, best effort. This means quality of service cannot be guaranteed on a voice call since it is a satellite call.
 
@@ -485,15 +485,15 @@ COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 Spectrum Use Licence Applications
 
-| Service to be provided using frequency applied for;                                                        | FIXED SERVICES (PTP) F.635                                                                                                                                                                                                                                                                                                                                                                              |
+| Service to be provided using frequency applied for; | FIXED SERVICES (PTP) F.635 |
 |--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| License Fees Outstanding;                                                                                  | NO                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Description of geographic coverage area(s);                                                                | Transmission between Shore and Vessels; to be used within the borders of the mining area of Oranjemund                                                                                                                                                                                                                                                                                                |
+| License Fees Outstanding; | NO |
+| Description of geographic coverage area(s); | Transmission between Shore and Vessels; to be used within the borders of the mining area of Oranjemund |
 | List of radio frequencies or group of radio frequencies being considered for assignment by the Authority | 3804 MHz (TX)/ 3924 MHz (RX) ( 8 MHz Bandwidth ) 3812 MHz (TX)/ 3932 MHz (RX) ( 8 MHz Bandwidth ) 3820 MHz (TX)/ 3940 MHz (RX) ( 8 MHz Bandwidth ) 3828 MHz (TX)/ 3948 MHz (RX) ( 8 MHz Bandwidth ) 3836 MHz (TX)/ 3956 MHz (RX) ( 8 MHz Bandwidth ) 3844 MHz (TX)/ 3964 MHz (RX) ( 8 MHz Bandwidth ) 3852 MHz (TX)/ 3972 MHz (RX) ( 8 MHz Bandwidth ) 3860 MHz (TX)/ 3980 MHz (RX) ( 8 MHz Bandwidth ) |
-| List of radio frequencies or group of radio frequencies applied for;                                         | 3804 MHz (TX)/ 3924 MHz (RX) ( 8 MHz Bandwidth ) 3812 MHz (TX)/ 3932 MHz (RX) ( 8 MHz Bandwidth ) 3820 MHz (TX)/ 3940 MHz (RX) ( 8 MHz Bandwidth ) 3828 MHz (TX)/ 3948 MHz (RX) ( 8 MHz Bandwidth ) 3836 MHz (TX)/ 3956 MHz (RX) ( 8 MHz Bandwidth ) 3844 MHz (TX)/ 3964 MHz (RX) ( 8 MHz Bandwidth ) 3852 MHz (TX)/ 3972 MHz (RX) ( 8 MHz Bandwidth ) 3860 MHz (TX)/ 3980 MHz (RX)                     |
-| Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens;      | 100%                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Applicant's citizenship or place of incorporation                                                          | Namibia                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Applicant's Name;                                                                                            | De Beers Marine Namibia                                                                                                                                                                                                                                                                                                                                                                               |
+| List of radio frequencies or group of radio frequencies applied for; | 3804 MHz (TX)/ 3924 MHz (RX) ( 8 MHz Bandwidth ) 3812 MHz (TX)/ 3932 MHz (RX) ( 8 MHz Bandwidth ) 3820 MHz (TX)/ 3940 MHz (RX) ( 8 MHz Bandwidth ) 3828 MHz (TX)/ 3948 MHz (RX) ( 8 MHz Bandwidth ) 3836 MHz (TX)/ 3956 MHz (RX) ( 8 MHz Bandwidth ) 3844 MHz (TX)/ 3964 MHz (RX) ( 8 MHz Bandwidth ) 3852 MHz (TX)/ 3972 MHz (RX) ( 8 MHz Bandwidth ) 3860 MHz (TX)/ 3980 MHz (RX) |
+| Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens; | 100% |
+| Applicant's citizenship or place of incorporation | Namibia |
+| Applicant's Name; | De Beers Marine Namibia |
 
 The public may submit comments in writing to the Authority within a period of fourteen (14) days from the date of publication of this notice in the Gazette .
 
@@ -521,19 +521,19 @@ NOTICE TO WITHDRAW SPECTRUM USE LICENCE IN TERMS OF REGULATIONS 10 AND 11 OF THE
 
 The Communications Regulatory Authority of Namibia, in terms of regulations 10(2) and 11(1) of the 'Regulations Regarding Licensing Procedures for Telecommunications and Broadcasting Service Licences and Spectrum Use Licences', published in Government Gazette No. 4785, Notice No. 272, dated 29 August 2011 (as amended), herewith gives notice that the Applicant referred to in the table below, intends to permanently discontinue the utilisation of the frequencies as indicated in the table herein below and has submitted applications for withdrawal of the licences as indicated in the column herein below to the Authority:
 
-| Date on which licensee intends to permanently discontinue providing service;                                     | 19 February 2016, being 60 days from 19 December 2015(Date on which the applications was submitted as contemplated in regulation 10(3)( e ) 19 February 2016, being 60 days from 19 December 2014(Date on which the applications was submitted as contemplated in regulation 10(3)( e ) 8 February 2016, being 60 days from 8 December 2015(Date on which the applications was submitted as contemplated in regulation 10(3)( e ) 28 February 2016 as stated in application for withdrawal   | 28 February 2016 as stated in application for withdrawal 3 April 2016 as stated in application for withdrawal 3 April 2016 as stated in application for withdrawal 3 April 2016 as stated in application for withdrawal 28 August 2016 as stated in application for withdrawal 1 May 2016 as stated in application for withdrawal   |
+| Date on which licensee intends to permanently discontinue providing service; | 19 February 2016, being 60 days from 19 December 2015(Date on which the applications was submitted as contemplated in regulation 10(3)( e ) 19 February 2016, being 60 days from 19 December 2014(Date on which the applications was submitted as contemplated in regulation 10(3)( e ) 8 February 2016, being 60 days from 8 December 2015(Date on which the applications was submitted as contemplated in regulation 10(3)( e ) 28 February 2016 as stated in application for withdrawal | 28 February 2016 as stated in application for withdrawal 3 April 2016 as stated in application for withdrawal 3 April 2016 as stated in application for withdrawal 3 April 2016 as stated in application for withdrawal 28 August 2016 as stated in application for withdrawal 1 May 2016 as stated in application for withdrawal |
 |------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Proof of Licence Fees Paid Up to Date;                                                                         | Yes Yes Yes Yes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Yes Yes Yes Yes Yes Yes                                                                                                                                                                                                                                                                                                                 |
-| Concise Statement of the reasons for proposed withdrawal;                                                      | The frequencies were utilised for the provision of analogue television services. Due to the migration to digital terrestrial television the NBC no longer requires the use of these frequencies                                                                                                                                                                                                                                                                                          | The frequencies were utilised for the provision of analogue television services. Due to the migration to digital terrestrial television the NBC no longer requires the use of these frequencies                                                                                                                                   |
-| Radio Frequencies or group of frequencies withdrawn;                                                       | 194 MHz 226 MHz 178 MHz 218 MHz                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 186 MHz 234 MHz 730 MHz 786 MHz 194 MHz 186 MHz                                                                                                                                                                                                                                                                                         |
-| City/Town                                                                                                        | Gross Hertzog Windhoek Hohe Gobabis NBC Tower Signalberg NBC Tower Tsumkwe NBC Tower Okongo NBC tower Nkurunkuru                                                                                                                                                                                                                                                                                                                                                                               | NBC Tower Shamvura NBC Tower Ur NBC Tower Maltahohe NBC Tower                                                                                                                                                                                                                                                                           |
-| District                                                                                                         | Windhoek Windhoek Gobabis Grootfontein                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Tsumkwe Eenhana Rundu Rundu Karasburg Maltahohe                                                                                                                                                                                                                                                                                         |
-| Description of geographic coverage area(s);                                                                      | Khomas Khomas Omaheke Otjozondjupa                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Otjozondjupa Ohangwena Okavango Okavango                                                                                                                                                                                                                                                                                                |
-| of ser- licence;                                                                                                 | Spectrum Licence isssued on Septem- 2012, published Govern- Gazette Notice Please that only the frequencies in this are withdrawn                                                                                                                                                                                                                                                                                                                                                            | Karas Hardap                                                                                                                                                                                                                                                                                                                            |
-| Type vice                                                                                                        | Citizens; State Owned Enterprise Use as 13 ber in ment 5037, 306. note listed notice being                                                                                                                                                                                                                                                                                                                                                                                                     | Citizens; State Owned Enterprise Use as 13 ber in ment 5037, 306. note listed notice being                                                                                                                                                                                                                                              |
-| Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian | Established in terms of section 2 of the Namibian Broadcasting Act (Act No. 9 of 1991)                                                                                                                                                                                                                                                                                                                                                                                                       | Established in terms of section 2 of the Namibian Broadcasting Act (Act No. 9 of 1991)                                                                                                                                                                                                                                                |
-| Licensee's Citizenship or place of incorporation;                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                         |
-| Licensee                                                                                                         | Namibian Broadcasting Corporation                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Namibian Broadcasting Corporation                                                                                                                                                                                                                                                                                                       |
+| Proof of Licence Fees Paid Up to Date; | Yes Yes Yes Yes | Yes Yes Yes Yes Yes Yes |
+| Concise Statement of the reasons for proposed withdrawal; | The frequencies were utilised for the provision of analogue television services. Due to the migration to digital terrestrial television the NBC no longer requires the use of these frequencies | The frequencies were utilised for the provision of analogue television services. Due to the migration to digital terrestrial television the NBC no longer requires the use of these frequencies |
+| Radio Frequencies or group of frequencies withdrawn; | 194 MHz 226 MHz 178 MHz 218 MHz | 186 MHz 234 MHz 730 MHz 786 MHz 194 MHz 186 MHz |
+| City/Town | Gross Hertzog Windhoek Hohe Gobabis NBC Tower Signalberg NBC Tower Tsumkwe NBC Tower Okongo NBC tower Nkurunkuru | NBC Tower Shamvura NBC Tower Ur NBC Tower Maltahohe NBC Tower |
+| District | Windhoek Windhoek Gobabis Grootfontein | Tsumkwe Eenhana Rundu Rundu Karasburg Maltahohe |
+| Description of geographic coverage area(s); | Khomas Khomas Omaheke Otjozondjupa | Otjozondjupa Ohangwena Okavango Okavango |
+| of ser- licence; | Spectrum Licence isssued on Septem- 2012, published Govern- Gazette Notice Please that only the frequencies in this are withdrawn | Karas Hardap |
+| Type vice | Citizens; State Owned Enterprise Use as 13 ber in ment 5037, 306. note listed notice being | Citizens; State Owned Enterprise Use as 13 ber in ment 5037, 306. note listed notice being |
+| Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian | Established in terms of section 2 of the Namibian Broadcasting Act (Act No. 9 of 1991) | Established in terms of section 2 of the Namibian Broadcasting Act (Act No. 9 of 1991) |
+| Licensee's Citizenship or place of incorporation; |  |  |
+| Licensee | Namibian Broadcasting Corporation | Namibian Broadcasting Corporation |
 
 The public may make oral submissions on the proposed regulations to the Authority, at a time, date and place notified by the Authority.
 
@@ -600,7 +600,7 @@ Electronic mail address(es)
 
 ## C. OWNERSHIP INTERESTS
 
-| Owner Name   | Percentage of Ownership   | Nationality of Owner   |
+| Owner Name | Percentage of Ownership | Nationality of Owner |
 |--------------|---------------------------|------------------------|
 
 ## D. FOREIGN OWNERSHIP INTERESTS
@@ -645,10 +645,10 @@ Signature
 
 ## ACKNOWLEDGEMENT OR RECEIPT BY CRAN
 
-| Name      |
+| Name |
 |-----------|
-| Date      |
-| Place     |
+| Date |
+| Place |
 | Signature |
 
 ---
@@ -746,7 +746,7 @@ Electronic mail address(es)
 
 ## C. OWNERSHIP INTERESTS
 
-| Owner Name   | Percentage of Ownership   | Nationality of Owner   |
+| Owner Name | Percentage of Ownership | Nationality of Owner |
 |--------------|---------------------------|------------------------|
 
 ## D. FOREIGN OWNERSHIP INTERESTS
@@ -755,7 +755,7 @@ Provide full details regarding foreign ownership interest in the licence, in any
 
 **E. BOARD OF DIRECTORS**  
 If the applicant is a juristic person(s), set out the full names, nationalities and identity numbers of the members of the Board of Directors or other governing body
-| Director Name   | Nationality   | Identity Number   |
+| Director Name | Nationality | Identity Number |
 |-----------------|---------------|-------------------|
 
 ## F. NETWORK FACILITIES TO BE PROVIDED

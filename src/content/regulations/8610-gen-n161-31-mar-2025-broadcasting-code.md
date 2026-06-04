@@ -6,13 +6,13 @@ id: "8610-gen-n161-31-mar-2025-broadcasting-code"
 
 ## GOVERNMENT GAZETTE OF THE REPUBLIC OF NAMIBIA
 
-| N$9.60                                                    | WINDHOEK - 31 March 2025                                                                                          | No. 8610                                                  |
+| N$9.60 | WINDHOEK - 31 March 2025 | No. 8610 |
 |-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| GENERALNOTICE                                             | GENERALNOTICE                                                                                                     | GENERALNOTICE                                             |
-| No. 161                                                   | Amendment to the Broadcasting Code: Communications Act, 2009   | 1                                                         |
-| General Notice                                            | General Notice                                                                                                    | General Notice                                            |
-| No. 161                                                   | No. 161                                                                                                           | 2025                                                      |
-| AMENDMENTTOTHE BROADCASTING CODE: COMMUNICATIONSACT, 2009 | AMENDMENTTOTHE BROADCASTING CODE: COMMUNICATIONSACT, 2009                                                         | AMENDMENTTOTHE BROADCASTING CODE: COMMUNICATIONSACT, 2009 |
+| GENERALNOTICE | GENERALNOTICE | GENERALNOTICE |
+| No. 161 | Amendment to the Broadcasting Code: Communications Act, 2009 | 1 |
+| General Notice | General Notice | General Notice |
+| No. 161 | No. 161 | 2025 |
+| AMENDMENTTOTHE BROADCASTING CODE: COMMUNICATIONSACT, 2009 | AMENDMENTTOTHE BROADCASTING CODE: COMMUNICATIONSACT, 2009 | AMENDMENTTOTHE BROADCASTING CODE: COMMUNICATIONSACT, 2009 |
 
 **T. MUFETI**  
 CHAIRPERSON OF THE BOARD
@@ -130,12 +130,12 @@ COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 (4) A broadcasting licensee must submit quality-of-service compliance reports to the Authority on a quarterly basis within one month after the end of each reporting period in accordance with the Table below:
 
-| Reporting period         | Latest date for submission of quality-of-service compliance reports   |
+| Reporting period | Latest date for submission of quality-of-service compliance reports |
 |--------------------------|-----------------------------------------------------------------------|
-| 1 January to 31 March    | 30 April of the same year                                             |
-| 1 April to 30 June       | 31 July of the same year                                              |
-| 1 July to 30 September   | 31 October of the same year                                           |
-| 1 October to 31 December | 31 January of the next year                                           |
+| 1 January to 31 March | 30 April of the same year |
+| 1 April to 30 June | 31 July of the same year |
+| 1 July to 30 September | 31 October of the same year |
+| 1 October to 31 December | 31 January of the next year |
 
 ## Measurement of quality-of-service obligations
 
@@ -349,19 +349,19 @@ Signature
 
 ## Key Quality-of-Service Performance Indicators and Quality-of-Service Parameters for Broadcasters
 
-| Supply time of subscription-based television service connection                                                          | The duration (elapsed days) from the instant a valid service request has been received to the instant a working service is made available for use.   | Measurement includes the following scenarios: (a) Anew connection. (b) An existing connection taken over by another consumer. (c) An additional connection provided to a consumer who already has an existing service, including any upgrades in service. Avalid service request may be in writing. Where a licensee and consumer agree that an order for multiple connections each agreed delivery time counts as a separate service request for measurement purposes   | 95% of service requests to be completed within 5 elapsed days 100% of service requests to be completed within 7 elapsed days.           | Commercial Broadcasting licensees Public Broadcasting licensees                                                                                                                             |
+| Supply time of subscription-based television service connection | The duration (elapsed days) from the instant a valid service request has been received to the instant a working service is made available for use. | Measurement includes the following scenarios: (a) Anew connection. (b) An existing connection taken over by another consumer. (c) An additional connection provided to a consumer who already has an existing service, including any upgrades in service. Avalid service request may be in writing. Where a licensee and consumer agree that an order for multiple connections each agreed delivery time counts as a separate service request for measurement purposes | 95% of service requests to be completed within 5 elapsed days 100% of service requests to be completed within 7 elapsed days. | Commercial Broadcasting licensees Public Broadcasting licensees |
 |--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Fault Repair Time (This is applicable to faults reported by users detected and reported by network monitoring elements.) | The time (elapsed hours) by which a valid fault on network is repaired.                                                                              | The time by which valid faults on networks are repaired and the percentage of faults cleared in the time specified in any service level agreement or contract must be reported separately.                                                                                                                                                                                                                                                                               | (a) 95% of faults to be repaired within 2 elapsed days from the time reported. (b) 100% of faults to be repaired within 7 elapsed days. | Signal Distribution licensees Class Comprehensive Multiplex and Signal Distribution licensees Commercial Broadcasting licensees Public Broadcasting licensee Community Broadcasting license |
+| Fault Repair Time (This is applicable to faults reported by users detected and reported by network monitoring elements.) | The time (elapsed hours) by which a valid fault on network is repaired. | The time by which valid faults on networks are repaired and the percentage of faults cleared in the time specified in any service level agreement or contract must be reported separately. | (a) 95% of faults to be repaired within 2 elapsed days from the time reported. (b) 100% of faults to be repaired within 7 elapsed days. | Signal Distribution licensees Class Comprehensive Multiplex and Signal Distribution licensees Commercial Broadcasting licensees Public Broadcasting licensee Community Broadcasting license |
 
 ## SCHEDULE 2
 
 Quality-of-service key performance indicators and quality-of-service parameters for network facilities
 
-| QoS KPI                  | Definition                                                                                                                                                          | Measurement Method                                                                                                    | Parameter                                                                                                                                           | Applicability                        |
+| QoS KPI | Definition | Measurement Method | Parameter | Applicability |
 |--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
-| Fault Time Repair        | The time (elapsed hours) by which the owner of Network Infrastructure/ facility to attend to the failure on the Fiber Optic Network.                                | The time by which valid faults on fibre optic networks are repaired and the percentage of faults cleared in the time. | 80% faults must be repaired within 24 hours 100% faults must be repaired within 48 Hours                                                            | Network Facilities Service License |
-|                          | The time (elapsed hours) by which the owner Network Infrastructure/ facility to attend to the failure on the Network infrastructure/facility e.g. network elements. | The time by which valid faults on networks elements are repaired and the percentage of faults cleared in the time.    | 80% faults must be repaired within 24 hours 100% faults must be repaired within 48 Hours                                                            | Network Facilities Service License |
-| Backup Power Reliability |                                                                                                                                                                     | The uptime of power supply to the network equipment from backup generators.                                           | Assesses the reliability of backup systems e.g. generators. back up reliability (%) = successful backup Activators x 100 Total backup to Activators | Network Facilities Service License |
+| Fault Time Repair | The time (elapsed hours) by which the owner of Network Infrastructure/ facility to attend to the failure on the Fiber Optic Network. | The time by which valid faults on fibre optic networks are repaired and the percentage of faults cleared in the time. | 80% faults must be repaired within 24 hours 100% faults must be repaired within 48 Hours | Network Facilities Service License |
+|  | The time (elapsed hours) by which the owner Network Infrastructure/ facility to attend to the failure on the Network infrastructure/facility e.g. network elements. | The time by which valid faults on networks elements are repaired and the percentage of faults cleared in the time. | 80% faults must be repaired within 24 hours 100% faults must be repaired within 48 Hours | Network Facilities Service License |
+| Backup Power Reliability |  | The uptime of power supply to the network equipment from backup generators. | Assesses the reliability of backup systems e.g. generators. back up reliability (%) = successful backup Activators x 100 Total backup to Activators | Network Facilities Service License |
 
 ## SCHEDULE 3
 
@@ -369,13 +369,13 @@ Consumer Satisfaction Attributes
 
 A licensee in respect of the following Quality of Service benchmarks shall be subject to periodic assessment by the Authority through consumer satisfaction surveys, which may be conducted by the Authority either through its own officers or employees or through any agency appointed by Authority.
 
-| Parameter Name                                          | Target   |
+| Parameter Name | Target |
 |---------------------------------------------------------|----------|
-| %of consumers satisfied with the service availability   | >90%     |
-| %of consumers satisfied with the service accessibility  | >90%     |
-| %of consumers satisfied with the reliability            | >90%     |
-| %of consumers satisfied with billing performance        | >90%     |
-| %of consumers satisfied with the help/ enquiry services | >90%     |
+| %of consumers satisfied with the service availability | >90% |
+| %of consumers satisfied with the service accessibility | >90% |
+| %of consumers satisfied with the reliability | >90% |
+| %of consumers satisfied with billing performance | >90% |
+| %of consumers satisfied with the help/ enquiry services | >90% |
 
 '
 
@@ -383,9 +383,9 @@ A licensee in respect of the following Quality of Service benchmarks shall be su
 
 ## COMMENTS IN TERMS OF THE NOTICE TO AMENDMENT TO BROADCASTING CODE TO PRESCRIBE QUALITY OF SERVICE STANDARDS APPLICABLE TO SERVICE LICENSEES
 
-| COMMENTS                                                                                                                                                             | REPLYCOMMENTSFROMCRAN                    |
+| COMMENTS | REPLYCOMMENTSFROMCRAN |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
-| Comments received during Public. Hearings                                                                                                                            |                                          |
+| Comments received during Public. Hearings |  |
 | The Broadcasters stated that the web-based form is not sufficient and request the Authority to investigate and invest in integrated reporting and drop-down options. | The Authority takes note of the comment. |
 
 ---

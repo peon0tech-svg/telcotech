@@ -80,46 +80,46 @@ BE IT ENACTED by the Parliament of the Republic of Namibia, as follows:
 
 | Section | Title |
 |----------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| CHAPTER III                                        | CHAPTER III                                                                                      |
-| PROCEDURALMATTERS                                  | PROCEDURALMATTERS                                                                                |
-| 27.                                                | Public availability of information                                                               |
-| 28.                                                | Confidential information Confidential communications                                             |
-| 29.                                                | with Authority                                                                                   |
-| 30.                                                | Procedural regulations                                                                           |
-| 31.                                                | Reconsideration                                                                                  |
-| 32.                                                | Review of actions of Authority                                                                   |
-| CHAPTER IV                                         | CHAPTER IV                                                                                       |
-| PROMOTION OF COMPETITION                           | PROMOTION OF COMPETITION                                                                         |
-| 33.                                                | Anti-competitive practices                                                                       |
-| 34.                                                | Jurisdiction of Authority                                                                        |
-| 35.                                                | Transfer of control of licensees and assignment of licences                                      |
-| CHAPTERV                                           | CHAPTERV                                                                                         |
-| TELECOMMUNICATIONS SERVICES                        | TELECOMMUNICATIONS SERVICES                                                                      |
-| 36.                                                | Definition for purposes of this Chapter                                                          |
-| TELECOMMUNICATIONS LICENCES                        | TELECOMMUNICATIONS LICENCES                                                                      |
-| 37.                                                | Prohibition of provision of telecommunications services and operation of network without licence |
-| 38.                                                | Telecommunications licences                                                                      |
-| 39.                                                | Selection criteria for telecommunications service licences                                       |
-| 40.                                                | Licensing procedures                                                                             |
-| 41.                                                | Tenders and competitive bidding                                                                  |
-| 42.                                                | Refusal, renewal, modification and termination of licences                                       |
-| 43.                                                | Private networks                                                                                 |
-| 44.                                                | Provision of telecommunications equipment                                                        |
-| 45.                                                | Automatic licence to be granted to Telecom                                                       |
-| 46.                                                | Ownership restrictions                                                                           |
-| PART                                               | PART                                                                                             |
-| DUTIES OF PROVIDERS OF TELECOMMUNICATIONS SERVICES | DUTIES OF PROVIDERS OF TELECOMMUNICATIONS SERVICES                                               |
-| 47.                                                | Application of this Part                                                                         |
-| 48.                                                | Duties of carriers relating to promotion of competition                                          |
-| 49.                                                | Interconnection                                                                                  |
-| 50.                                                | Sharing of infrastructure                                                                        |
-| 51.                                                | Prohibition against restraint of resale                                                          |
-| 52.                                                | Duty not to discriminate when rendering telecommunications services                              |
-| PART 3                                             | PART 3                                                                                           |
-| TARIFFSANDACCOUNTING                               | TARIFFSANDACCOUNTING                                                                             |
-| 53.                                                | Rates and tariffs                                                                                |
-| 54.                                                | Cost Accounting Procedures                                                                       |
-| 55.                                                | Reporting requirements                                                                           |
+| CHAPTER III | CHAPTER III |
+| PROCEDURALMATTERS | PROCEDURALMATTERS |
+| 27. | Public availability of information |
+| 28. | Confidential information Confidential communications |
+| 29. | with Authority |
+| 30. | Procedural regulations |
+| 31. | Reconsideration |
+| 32. | Review of actions of Authority |
+| CHAPTER IV | CHAPTER IV |
+| PROMOTION OF COMPETITION | PROMOTION OF COMPETITION |
+| 33. | Anti-competitive practices |
+| 34. | Jurisdiction of Authority |
+| 35. | Transfer of control of licensees and assignment of licences |
+| CHAPTERV | CHAPTERV |
+| TELECOMMUNICATIONS SERVICES | TELECOMMUNICATIONS SERVICES |
+| 36. | Definition for purposes of this Chapter |
+| TELECOMMUNICATIONS LICENCES | TELECOMMUNICATIONS LICENCES |
+| 37. | Prohibition of provision of telecommunications services and operation of network without licence |
+| 38. | Telecommunications licences |
+| 39. | Selection criteria for telecommunications service licences |
+| 40. | Licensing procedures |
+| 41. | Tenders and competitive bidding |
+| 42. | Refusal, renewal, modification and termination of licences |
+| 43. | Private networks |
+| 44. | Provision of telecommunications equipment |
+| 45. | Automatic licence to be granted to Telecom |
+| 46. | Ownership restrictions |
+| PART | PART |
+| DUTIES OF PROVIDERS OF TELECOMMUNICATIONS SERVICES | DUTIES OF PROVIDERS OF TELECOMMUNICATIONS SERVICES |
+| 47. | Application of this Part |
+| 48. | Duties of carriers relating to promotion of competition |
+| 49. | Interconnection |
+| 50. | Sharing of infrastructure |
+| 51. | Prohibition against restraint of resale |
+| 52. | Duty not to discriminate when rendering telecommunications services |
+| PART 3 | PART 3 |
+| TARIFFSANDACCOUNTING | TARIFFSANDACCOUNTING |
+| 53. | Rates and tariffs |
+| 54. | Cost Accounting Procedures |
+| 55. | Reporting requirements |
 
 ## PART 4
 
@@ -186,51 +186,51 @@ Equipment relating to interception
 
 | Column 1 | Column 2 | Column 3 |
 |-------------------|-----------------------------------------------------------------|----------------------------|
-|               90. | Supervision by Authority                                        |                            |
-|               91. | Furnishing of financial statements                              |                            |
-|               92. | Broadcasting licences issued under Act No. 4 of                 | 1992                       |
-|               93. | Application of this Chapter to Namibian Broadcasting            | Corporation                |
-|                   | CHAPTER                                                         | VII                        |
-|                   |                                                                 | POSTAL SERVICE LICENCES    |
-|               94. | Definition for the purposes of this Chapter                     |                            |
-|               95. | Prohibition of the provision of postal services without licence |                            |
-|               96. | Postal service licences                                         |                            |
-|               97. | Transfer of postal service licences                             |                            |
-|               98. | Regulations relating to postal service licences                 |                            |
-|                   | CHAPTER VIII                                                    |                            |
-|                   | REGULATION OF RADIO SPECTRUM                                    |                            |
-|               99. | Control of radio spectrum                                       |                            |
-|              100. | Frequency band plans                                            |                            |
-|              101. | Spectrum licences, certificates and authorities                 |                            |
-|              102. | Control of possession of radio apparatus                        |                            |
-|                   | CHAPTER IX                                                      |                            |
-|                   | ESTABLISHMENTAND INCORPORATION OF                               | .NA                        |
-|                   | DOMAIN NAMEASSOCIATION                                          |                            |
-|              103. | Establishment of Association                                    |                            |
-|              104. | Incorporation of Association                                    |                            |
-|              105. | Association's memorandum and articles of                        | association                |
-|              106. | Board of directors of Association                               |                            |
-|              107. | Staff of Association                                            |                            |
-|              108. | Licensing of registrars and registries                          |                            |
-|              109. | Functions of Association                                        |                            |
-|              110. | Finances of Association                                         |                            |
-|              111. | Reports                                                         |                            |
-|              112. | Regulations regarding Association                               |                            |
-|              113. | Alternative dispute resolution                                  |                            |
-|                   | CHAPTER X                                                       |                            |
-|                   | GENERALPROVISIONS                                               |                            |
-|              114. | Regulatory offences                                             |                            |
-|              115. | Manner of prosecuting regulatory offences                       |                            |
-|              116. | Enforcement order                                               |                            |
-|              117. | General offences                                                |                            |
-|              118. | Forfeiture of equipment or apparatus                            |                            |
-|              119. | Production of books and records                                 |                            |
-|              120. | Summoning of witnesses                                          |                            |
-|              121. | Power to monitor compliance with provisions of this Act         |                            |
-|              122. | Investigations by Authority                                     |                            |
-|              123. | Inspectors                                                      |                            |
-|              124. | Special investigators                                           |                            |
-|              125. | General powers of inspectors                                    |                            |
+| 90. | Supervision by Authority |  |
+| 91. | Furnishing of financial statements |  |
+| 92. | Broadcasting licences issued under Act No. 4 of | 1992 |
+| 93. | Application of this Chapter to Namibian Broadcasting | Corporation |
+|  | CHAPTER | VII |
+|  |  | POSTAL SERVICE LICENCES |
+| 94. | Definition for the purposes of this Chapter |  |
+| 95. | Prohibition of the provision of postal services without licence |  |
+| 96. | Postal service licences |  |
+| 97. | Transfer of postal service licences |  |
+| 98. | Regulations relating to postal service licences |  |
+|  | CHAPTER VIII |  |
+|  | REGULATION OF RADIO SPECTRUM |  |
+| 99. | Control of radio spectrum |  |
+| 100. | Frequency band plans |  |
+| 101. | Spectrum licences, certificates and authorities |  |
+| 102. | Control of possession of radio apparatus |  |
+|  | CHAPTER IX |  |
+|  | ESTABLISHMENTAND INCORPORATION OF | .NA |
+|  | DOMAIN NAMEASSOCIATION |  |
+| 103. | Establishment of Association |  |
+| 104. | Incorporation of Association |  |
+| 105. | Association's memorandum and articles of | association |
+| 106. | Board of directors of Association |  |
+| 107. | Staff of Association |  |
+| 108. | Licensing of registrars and registries |  |
+| 109. | Functions of Association |  |
+| 110. | Finances of Association |  |
+| 111. | Reports |  |
+| 112. | Regulations regarding Association |  |
+| 113. | Alternative dispute resolution |  |
+|  | CHAPTER X |  |
+|  | GENERALPROVISIONS |  |
+| 114. | Regulatory offences |  |
+| 115. | Manner of prosecuting regulatory offences |  |
+| 116. | Enforcement order |  |
+| 117. | General offences |  |
+| 118. | Forfeiture of equipment or apparatus |  |
+| 119. | Production of books and records |  |
+| 120. | Summoning of witnesses |  |
+| 121. | Power to monitor compliance with provisions of this Act |  |
+| 122. | Investigations by Authority |  |
+| 123. | Inspectors |  |
+| 124. | Special investigators |  |
+| 125. | General powers of inspectors |  |
 
 127. Investigation of offences
 128. Expropriation
@@ -724,28 +724,28 @@ is guilty of an offence and, on conviction, liable to a fine not exceeding N$500
 
 The Authority may issue a licence for a specified geographic area, which area must be specified in the licence.
 
-| (9)                                                                                                                                                                                            |                                                                                                                                                                                                | Licences must be issued for a fixed term and may be renewed by the                                                                                                                                        |
+| (9) |  | Licences must be issued for a fixed term and may be renewed by the |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Authority on application by the licensee.                                                                                                                                                      | Authority on application by the licensee.                                                                                                                                                      | Authority on application by the licensee.                                                                                                                                                                 |
-| licensee regarding                                                                                                                                                                             | (10)                                                                                                                                                                                           | The Authority may impose specific obligations and requirements on a -                                                                                                                                     |
-| (a)                                                                                                                                                                                            |                                                                                                                                                                                                | mandatory provision of universal service and such other services as the Authority may think fit;                                                                                                          |
-| (b) the transportation of emergency calls or other forms of emergency                                                                                                                          | (b) the transportation of emergency calls or other forms of emergency                                                                                                                          | (b) the transportation of emergency calls or other forms of emergency                                                                                                                                     |
-| (c)                                                                                                                                                                                            |                                                                                                                                                                                                | and subject to such requirements as the Authority may determine; the use of the radio frequency spectrum, the fees related to this use and to the costs of spectrum management and monitoring when        |
-| applicable;                                                                                                                                                                                    | applicable;                                                                                                                                                                                    | applicable;                                                                                                                                                                                               |
-|                                                                                                                                                                                                | (d)                                                                                                                                                                                            | the allocation of individual telephone numbers or numbering ranges and the fees required for the management and control of the numbering plan;                                                            |
-|                                                                                                                                                                                                | (e)                                                                                                                                                                                            | the rights and obligations of the licensee with regard to                                                                                                                                                 |
-| interconnection;                                                                                                                                                                               | interconnection;                                                                                                                                                                               | interconnection;                                                                                                                                                                                          |
-|                                                                                                                                                                                                | (f)                                                                                                                                                                                            | the fees payable for the grant, management and control of the licence;                                                                                                                                    |
-|                                                                                                                                                                                                | (g)                                                                                                                                                                                            | the equitable treatment of, and provision of information to, users, particularly concerning the contractual conditions under which the service is provided and that allow compensation to the customer in |
-| case of breach of quality requirements;                                                                                                                                                        | case of breach of quality requirements;                                                                                                                                                        | case of breach of quality requirements;                                                                                                                                                                   |
-|                                                                                                                                                                                                | (h)                                                                                                                                                                                            | masts, towers or other facilities including requirements relating to the environmental or aesthetic impact of such facilities;                                                                            |
-| (i)                                                                                                                                                                                            |                                                                                                                                                                                                | the duration of the licence and the conditions and procedures for its withdrawal, renewal and modification of its terms;                                                                                  |
-| (j)                                                                                                                                                                                            |                                                                                                                                                                                                | any matter that the Authority may consider when issuing a licence as provided in section 39(4); and                                                                                                       |
-| (k)                                                                                                                                                                                            |                                                                                                                                                                                                | other matter that may be required to achieve the objects of                                                                                                                                               |
-| any this Act. (11) The Authority may impose specific obligations on a licensee when licensee has a dominant position in relation to the provision of any class of telecommunications services. | any this Act. (11) The Authority may impose specific obligations on a licensee when licensee has a dominant position in relation to the provision of any class of telecommunications services. | any this Act. (11) The Authority may impose specific obligations on a licensee when licensee has a dominant position in relation to the provision of any class of telecommunications services.            |
-| licence -                                                                                                                                                                                      | licence -                                                                                                                                                                                      | licence -                                                                                                                                                                                                 |
-| (a)                                                                                                                                                                                            |                                                                                                                                                                                                | which duties referred to in Part 2, are owed by the licensee concerned to which class of other licensees;                                                                                                 |
-|                                                                                                                                                                                                | (b)                                                                                                                                                                                            | which duties referred to in Part 2 are owed to the licensee concerned by which class of other licensees;                                                                                                  |
+| Authority on application by the licensee. | Authority on application by the licensee. | Authority on application by the licensee. |
+| licensee regarding | (10) | The Authority may impose specific obligations and requirements on a - |
+| (a) |  | mandatory provision of universal service and such other services as the Authority may think fit; |
+| (b) the transportation of emergency calls or other forms of emergency | (b) the transportation of emergency calls or other forms of emergency | (b) the transportation of emergency calls or other forms of emergency |
+| (c) |  | and subject to such requirements as the Authority may determine; the use of the radio frequency spectrum, the fees related to this use and to the costs of spectrum management and monitoring when |
+| applicable; | applicable; | applicable; |
+|  | (d) | the allocation of individual telephone numbers or numbering ranges and the fees required for the management and control of the numbering plan; |
+|  | (e) | the rights and obligations of the licensee with regard to |
+| interconnection; | interconnection; | interconnection; |
+|  | (f) | the fees payable for the grant, management and control of the licence; |
+|  | (g) | the equitable treatment of, and provision of information to, users, particularly concerning the contractual conditions under which the service is provided and that allow compensation to the customer in |
+| case of breach of quality requirements; | case of breach of quality requirements; | case of breach of quality requirements; |
+|  | (h) | masts, towers or other facilities including requirements relating to the environmental or aesthetic impact of such facilities; |
+| (i) |  | the duration of the licence and the conditions and procedures for its withdrawal, renewal and modification of its terms; |
+| (j) |  | any matter that the Authority may consider when issuing a licence as provided in section 39(4); and |
+| (k) |  | other matter that may be required to achieve the objects of |
+| any this Act. (11) The Authority may impose specific obligations on a licensee when licensee has a dominant position in relation to the provision of any class of telecommunications services. | any this Act. (11) The Authority may impose specific obligations on a licensee when licensee has a dominant position in relation to the provision of any class of telecommunications services. | any this Act. (11) The Authority may impose specific obligations on a licensee when licensee has a dominant position in relation to the provision of any class of telecommunications services. |
+| licence - | licence - | licence - |
+| (a) |  | which duties referred to in Part 2, are owed by the licensee concerned to which class of other licensees; |
+|  | (b) | which duties referred to in Part 2 are owed to the licensee concerned by which class of other licensees; |
 
 (c) which special rights referred to in Part 5 the licensee concerned has in respect of which class of telecommunications facilities.
 
@@ -1624,27 +1624,27 @@ does not require a licence, certificate or authority in terms of this section or
 
 | Section | Title |
 |--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| (g)                                              | the banking and investment of funds by the Board;                                                                                                                    |
-| (h)                                              | provisions to regulate the manner in which, and procedures whereby, expertise from any person is obtained in order to further the objects of the Association;        |
-| (i)                                              | the determination through arbitration of any dispute concerning the interpretation of the memorandum and articles of association of the Association;                 |
-| (j)                                              | the delegation of powers and assignment of duties to directors, committees and employees;                                                                            |
-| (k)                                              | the procedures and criteria for the establishment and disestablishment of second level domains and for delegations to such domains;                                  |
-| (l)                                              | appeal mechanisms;                                                                                                                                                   |
-| (m)                                              | the tenure of directors;                                                                                                                                             |
-| (n)                                              | the circumstances under and the manner in which a directorship is terminated;                                                                                        |
-| (o)                                              | criteria for the disqualification of directors;                                                                                                                      |
-| (p)                                              | the method of determining the allowances to be paid to directors for attending meetings; and                                                                         |
-| (q)                                              | the powers and duties of directors.                                                                                                                                  |
-| Board of directors of Association                | Board of directors of Association                                                                                                                                    |
-| 106.                                             | (1) The Association is managed and controlled by a Board of                                                                                                          |
-| Directors consisting of five directors of whom - | Directors consisting of five directors of whom -                                                                                                                     |
-| (a)                                              | three are nominated byanorganisation that in the opinion of the Minister is representative of the information technology and telecommunications industry in Namibia; |
-| (b)                                              | one is a Staff member whose duties relate to information technology in the government;                                                                               |
-| (c)                                              | one represents the Namibian public.                                                                                                                                  |
-| (2)                                              | The Minister appoints the directors and designate one of them as the                                                                                                 |
-| chairperson.                                     | chairperson.                                                                                                                                                         |
-| (3) and                                          | The directors must be persons who are committed to fairness, openness accountability and to the objects of this Chapter.                                             |
-| (4)                                              | All directors serve in a part-time and non-executive capacity.                                                                                                       |
+| (g) | the banking and investment of funds by the Board; |
+| (h) | provisions to regulate the manner in which, and procedures whereby, expertise from any person is obtained in order to further the objects of the Association; |
+| (i) | the determination through arbitration of any dispute concerning the interpretation of the memorandum and articles of association of the Association; |
+| (j) | the delegation of powers and assignment of duties to directors, committees and employees; |
+| (k) | the procedures and criteria for the establishment and disestablishment of second level domains and for delegations to such domains; |
+| (l) | appeal mechanisms; |
+| (m) | the tenure of directors; |
+| (n) | the circumstances under and the manner in which a directorship is terminated; |
+| (o) | criteria for the disqualification of directors; |
+| (p) | the method of determining the allowances to be paid to directors for attending meetings; and |
+| (q) | the powers and duties of directors. |
+| Board of directors of Association | Board of directors of Association |
+| 106. | (1) The Association is managed and controlled by a Board of |
+| Directors consisting of five directors of whom - | Directors consisting of five directors of whom - |
+| (a) | three are nominated byanorganisation that in the opinion of the Minister is representative of the information technology and telecommunications industry in Namibia; |
+| (b) | one is a Staff member whose duties relate to information technology in the government; |
+| (c) | one represents the Namibian public. |
+| (2) | The Minister appoints the directors and designate one of them as the |
+| chairperson. | chairperson. |
+| (3) and | The directors must be persons who are committed to fairness, openness accountability and to the objects of this Chapter. |
+| (4) | All directors serve in a part-time and non-executive capacity. |
 
 ## Staff of Association
 
@@ -1991,22 +1991,22 @@ Communications Act, 2009 (Act No. 8 of 2009)'
 
 (Section 134)
 
-| Column 1 No. and year of law   | Column 2 Title of law                                          | Column 3 Extent of repeal                                |
+| Column 1 No. and year of law | Column 2 Title of law | Column 3 Extent of repeal |
 |--------------------------------|----------------------------------------------------------------|----------------------------------------------------------|
-| Act No. 3 of 1952              | Radio Act, 1952                                                | The whole                                                |
-| Act No.68 of 1957              | General LawAmendment Act,1957                                  | Section 42                                               |
-| Act No. 51 of 1962             | The Radio Amendment Act, 1962                                  | The whole                                                |
-| Act No. 90 of 1963             | The Radio Amendment Act, 1963                                  | The whole                                                |
-| Act No. 93 of 1969             | The Radio Amendment Act, 1969                                  | The whole                                                |
-| Act No. 50 of 1974             | The Radio Amendment Act, 1974                                  | The whole                                                |
-| Act No. 57 of 1975             | The General LawAmendment Act, 1975                             | Section 14 to 21 inclusive                               |
-| Act No. 2 of 1978              | Radio Amendment Act, 1978                                      | The whole                                                |
-| Act No. 9 of 1991              | The Namibian Broadcasting Act, 1991                            | The item in the Schedule relating to (Act No. 3 of 1952) |
-| Act No. 4 of 1992              | The Namibian Communications Commission Act, 1992               | The whole                                                |
-| Act No. 17 of 1992             | Posts and Telecommunications companies Establishment Act, 1992 | The item in the Schedule relating to Act No. 3 of 1952   |
-| Act No. 19 of 1992             | Posts and Telecommunications Act, 1992                         | Chapter II, Chapter IV and section 45                    |
-| Act No. 1 of 1995              | The Namibian Communications Commission Amendment Act, 1995     | The whole                                                |
-| Act No. 18 of 2000             | The General LawAmendment Act, 2000                             | Section 4                                                |
-| Act No. 4 of 2004              | The Namibian Communications Commission Amendment Act, 2004     | The whole                                                |
+| Act No. 3 of 1952 | Radio Act, 1952 | The whole |
+| Act No.68 of 1957 | General LawAmendment Act,1957 | Section 42 |
+| Act No. 51 of 1962 | The Radio Amendment Act, 1962 | The whole |
+| Act No. 90 of 1963 | The Radio Amendment Act, 1963 | The whole |
+| Act No. 93 of 1969 | The Radio Amendment Act, 1969 | The whole |
+| Act No. 50 of 1974 | The Radio Amendment Act, 1974 | The whole |
+| Act No. 57 of 1975 | The General LawAmendment Act, 1975 | Section 14 to 21 inclusive |
+| Act No. 2 of 1978 | Radio Amendment Act, 1978 | The whole |
+| Act No. 9 of 1991 | The Namibian Broadcasting Act, 1991 | The item in the Schedule relating to (Act No. 3 of 1952) |
+| Act No. 4 of 1992 | The Namibian Communications Commission Act, 1992 | The whole |
+| Act No. 17 of 1992 | Posts and Telecommunications companies Establishment Act, 1992 | The item in the Schedule relating to Act No. 3 of 1952 |
+| Act No. 19 of 1992 | Posts and Telecommunications Act, 1992 | Chapter II, Chapter IV and section 45 |
+| Act No. 1 of 1995 | The Namibian Communications Commission Amendment Act, 1995 | The whole |
+| Act No. 18 of 2000 | The General LawAmendment Act, 2000 | Section 4 |
+| Act No. 4 of 2004 | The Namibian Communications Commission Amendment Act, 2004 | The whole |
 
 ---

@@ -11,15 +11,15 @@ To this end the Authority has developed a spectrum assignment strategy setting o
 
 ## GOVERNMENT GAZETTE OF THE REPUBLIC OF NAMIBIA
 
-| N$6.00         | WINDHOEK - 26 November 2018                                                                             | No. 6776       |
+| N$6.00 | WINDHOEK - 26 November 2018 | No. 6776 |
 |----------------|---------------------------------------------------------------------------------------------------------|----------------|
-| GENERAL NOTICE | GENERAL NOTICE                                                                                          | GENERAL NOTICE |
-| No. 673        | Communications Regulatory Authority of Namibia: Spectrum Assignment Strategy   | 1              |
-| General Notice | General Notice                                                                                          | General Notice |
+| GENERAL NOTICE | GENERAL NOTICE | GENERAL NOTICE |
+| No. 673 | Communications Regulatory Authority of Namibia: Spectrum Assignment Strategy | 1 |
+| General Notice | General Notice | General Notice |
 
 ## COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
-| No. 673   | 2018   |
+| No. 673 | 2018 |
 |-----------|--------|
 
 ## SPECTRUM ASSIGNMENT STRATEGY

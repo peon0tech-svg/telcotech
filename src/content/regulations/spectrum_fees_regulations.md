@@ -72,106 +72,104 @@ during the same year, such licence or the authorisation to utilise spectrum in t
 
 ## SPECTRUM LICENCES, CERTIFICATES AND EXAMINATIONS FEES
 
-| TYPE OF CERTIFICATEOR SPECTRUM LICENCE   | TYPE OF CERTIFICATEOR SPECTRUM LICENCE         | FEES (N$)   |
+| TYPE OF CERTIFICATEOR SPECTRUM LICENCE | TYPE OF CERTIFICATEOR SPECTRUM LICENCE | FEES (N$) |
 |------------------------------------------|------------------------------------------------|-------------|
-| 1. AMATEURRADIO                          | 1. AMATEURRADIO                                |             |
-| 1.1                                      | All classes of amateur radio spectrum licences | N$ 97.00    |
-| 1.2                                      | Beacon                                         | N$ 97.00    |
-| 1.3                                      | Examination                                    | N$ 97.00    |
-| 1.4                                      | Guest or special event spectrum licence        | N$ 97.00    |
-| 1.5                                      | Repeater station                               | N$ 97.00    |
+| 1. AMATEURRADIO | 1. AMATEURRADIO |  |
+| 1.1 | All classes of amateur radio spectrum licences | N$ 97.00 |
+| 1.2 | Beacon | N$ 97.00 |
+| 1.3 | Examination | N$ 97.00 |
+| 1.4 | Guest or special event spectrum licence | N$ 97.00 |
+| 1.5 | Repeater station | N$ 97.00 |
 
-|   2. | AERONAUTICAL                                              | AERONAUTICAL                                                                               | AERONAUTICAL   |
+| 2. | AERONAUTICAL | AERONAUTICAL | AERONAUTICAL |
 |------|-----------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------|
-|  2.1 | Aircraft station                                          | Aircraft station                                                                           | N$194.00       |
-|  2.2 | Glider / microlight                                       | Glider / microlight                                                                        | N$ 97.00       |
-|  2.3 | Ground station                                            | Ground station                                                                             | N$116.00       |
-|  2.4 | Navigation aids / beacons                                 | Navigation aids / beacons                                                                  | N$ 97.00       |
-|  2.5 | Operator certificate radiotelephony (including duplicate) | Operator certificate radiotelephony (including duplicate)                                  | N$ 97.00       |
-|   3. | MARITIME                                                  | MARITIME                                                                                   |                |
-|  3.1 | Beacon                                                    | Beacon                                                                                     | N$ 97.00       |
-|  3.2 | Operator certificate radiotelephony (including duplicate) | Operator certificate radiotelephony (including duplicate)                                  | N$ 97.00       |
-|  3.3 | Ship Station                                              | Ship Station                                                                               |                |
-|      | 3.3.1                                                     | ITU assigned frequencies                                                                   | N$291.00       |
-|      | 3.3.2                                                     | Any additional VHF or HF frequencies                                                       | N$969.00       |
-|  3.4 | Coast Station                                             | Coast Station                                                                              |                |
-|      | 3.4.1                                                     | ITU assigned frequencies                                                                   | N$291.00       |
-|      | 3.4.2                                                     | Any additional VHF or HF frequencies                                                       | N$969.00       |
-|      | 3.4.3                                                     | Yacht and ski-boat stations                                                                | N$ 97.00       |
-|   4. | LAND MOBILESERVICE                                        | LAND MOBILESERVICE                                                                         |                |
-|  4.1 | Private alarm station (see item 6.1 for alarmsystems)     | Private alarm station (see item 6.1 for alarmsystems)                                      | N$323.00       |
-|  4.2 | Base Mobile Station                                       | Base Mobile Station                                                                        |                |
-|      | 4.2.1                                                     | 27/29 MHz band (including CB band)                                                         | N$ 78.00       |
-|      | 4.2.2                                                     | VHF/UHF per simplex frequency in urban areas                                               | N$194.00       |
-|      | 4.2.3                                                     | VHF/UHF per simplex frequency in rural areas                                               | N$116.00       |
-|  4.3 | Repeater (private and exclusive)                          | Repeater (private and exclusive)                                                           |                |
-|      | 4.3.1                                                     | Duplex frequency urban areas                                                               | N$2,132.00     |
-|      | 4.3.2                                                     | Duplex frequency rural areas                                                               | N$775.00       |
-|      | 4.3.3                                                     | Simplex frequency (Parrot repeater)                                                        | N$349.00       |
-|      | 4.3.4                                                     | Any additional simplex frequency (per frequency)                                           | N$194.00       |
-|  4.4 | Experimental Station                                      | Experimental Station                                                                       |                |
-|      | 4.4.1                                                     | Experimental station valid for 6 months                                                    | N$194.00       |
-|  4.5 | Radio Link Station                                        | Radio Link Station                                                                         |                |
-|      | 4.5.1                                                     | Radio Link up to 1000 MHz                                                                  | N$966.00       |
-|      | 4.5.2                                                     | Radio Link above 1000 MHz per MHz calculated based in the assigned bandwidth per frequency | N$2,300.00     |
-|  4.6 |                                                           | National Occupancy (Base Mobile Station)                                                   |                |
-|      | 4.6.1                                                     | Not shared                                                                                 | N$1,551.00     |
-|      | 4.6.2                                                     | Shared                                                                                     | N$194.00       |
-|   5. | HIGH FREQUENCY (HF)RADIO                                  | HIGH FREQUENCY (HF)RADIO                                                                   |                |
-|  5.1 | Fixed/mobile Station                                      | Fixed/mobile Station                                                                       | N$291.00       |
-|  5.2 | Fixed radio station above 400Watt                         | Fixed radio station above 400Watt                                                          | N$1,938.00     |
-|   6. | RADIO COMMUNICATIONSSYSTEMS                               | RADIO COMMUNICATIONSSYSTEMS                                                                |                |
-|  6.1 | Alarm                                                     | Alarm                                                                                      |                |
-|      | 6.1.1                                                     | Urban complexes (per control room and per frequency)                                       | N$6,461.00     |
-|      | 6.1.2                                                     | All other areas (per control room and per frequency)                                       | N$1,615.00     |
-|  6.2 | Load management (including telemetry)                     | Load management (including telemetry)                                                      | N$6,461.00     |
-|  6.3 | Paging (one-way)                                          | Paging (one-way)                                                                           |                |
-|      | 6.3.1                                                     | Commercial                                                                                 |                |
-|      |                                                           | 6.3.1.1 Application                                                                        | N$2,019.00     |
-|      |                                                           | 6.3.1.2 Per control room                                                                   | N$9,691.00     |
-
-|      | 6.3.2                                                                        | Private                                                                                                                                                                                                          |                                                                    |
-|------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
-|  6.4 | 6.3.2.1 Per control room and per frequency N$194.00 Radio trunking           | 6.3.2.1 Per control room and per frequency N$194.00 Radio trunking                                                                                                                                               | 6.3.2.1 Per control room and per frequency N$194.00 Radio trunking |
-|      | 6.4.1                                                                        | For a maximum of one control channel per base station                                                                                                                                                            | N$969.00                                                           |
-|      | 6.4.2                                                                        | For each additional double frequency or if only one channel is used at a base station                                                                                                                            | N$4,845.00                                                         |
-|  6.5 | Repeater (Community/Shared)                                                  | Repeater (Community/Shared)                                                                                                                                                                                      | Repeater (Community/Shared)                                        |
-|      | 6.5.1                                                                        | Urban area per duplex frequency (commercial use)                                                                                                                                                                 | N$4,458.00                                                         |
-|      | 6.5.2                                                                        | All other areas per duplex (commercial use)                                                                                                                                                                      | N$2,326.00                                                         |
-|      | 6.5.3                                                                        | All other areas per duplex (farmers associations only)                                                                                                                                                           | N$969.00                                                           |
-|   7. | MOBILE TELECOMMUNICATIONSSERVICES                                            | MOBILE TELECOMMUNICATIONSSERVICES                                                                                                                                                                                | MOBILE TELECOMMUNICATIONSSERVICES                                  |
-|  7.1 | Fee as per 200 kHz frequency pair consecutively (900 MHz only)               | Fee as per 200 kHz frequency pair consecutively (900 MHz only)                                                                                                                                                   | N$13,800.00                                                        |
-|  7.2 | Fee as per 200 kHz frequency pair consecutively (1800 MHz only)              | Fee as per 200 kHz frequency pair consecutively (1800 MHz only)                                                                                                                                                  | N$11,040.00                                                        |
-|  7.3 | Fee as per 1 MHz frequency for 3G (UMTS)                                     | Fee as per 1 MHz frequency for 3G (UMTS)                                                                                                                                                                         | N$27,600.00                                                        |
-|   8. | SATELLITE SERVICES (LAND, MOBILE,MARITIME)                                   | SATELLITE SERVICES (LAND, MOBILE,MARITIME)                                                                                                                                                                       | SATELLITE SERVICES (LAND, MOBILE,MARITIME)                         |
-|  8.1 | Immarsat                                                                     | Immarsat                                                                                                                                                                                                         | Immarsat                                                           |
-|      | 8.1.1                                                                        | Aterminal                                                                                                                                                                                                        | N$2,907.00                                                         |
-|      | 8.1.2                                                                        | B,C and Mterminal (64 kbit/s)                                                                                                                                                                                    | N$1,163.00                                                         |
-|      | 8.1.3                                                                        | D terminal (data only) RB GAN                                                                                                                                                                                    | N$485.00                                                           |
-|  8.2 | Satellite Digital Uplink per 64 kbit/s                                       | Satellite Digital Uplink per 64 kbit/s                                                                                                                                                                           | N$6,461.00                                                         |
-|  8.3 | Uplink broadcasting signal distribution fixed satellite earth station        | Uplink broadcasting signal distribution fixed satellite earth station                                                                                                                                            | N$34,500.00                                                        |
-|  8.4 | Mobile or fixed satellite news gathering station (per month or part thereof) | Mobile or fixed satellite news gathering station (per month or part thereof)                                                                                                                                     | N$3,450.00                                                         |
-|   9. | BROADCASTINGSERVICES                                                         | BROADCASTINGSERVICES                                                                                                                                                                                             | BROADCASTINGSERVICES                                               |
-|  9.1 | FM Radio Broadcasting Transmitter                                            | FM Radio Broadcasting Transmitter                                                                                                                                                                                | FM Radio Broadcasting Transmitter                                  |
-|      | 9.1.1                                                                        | 0.000 up to 100.999 Watt (ERP)                                                                                                                                                                                   | N$690.00                                                           |
-|      | 9.1.2                                                                        | 101.000 up to 999.999 Watt (ERP)                                                                                                                                                                                 | N$1,380.00                                                         |
-|      | 9.1.3                                                                        | 1000 Watt (ERP) and above                                                                                                                                                                                        | N$2,070.00                                                         |
-|  9.2 | Television BroadcastingTransmitter                                           | Television BroadcastingTransmitter                                                                                                                                                                               | Television BroadcastingTransmitter                                 |
-|      | 9.2.1                                                                        | 0.000 up to 100.999 Watt (ERP)                                                                                                                                                                                   | N$7,521.00                                                         |
-|      | 9.2.2                                                                        | 101.000 up to 999.999 Watt (ERP)                                                                                                                                                                                 | N$9,246.00                                                         |
-|      | 9.2.3                                                                        | 1000 Watt (ERP) and above                                                                                                                                                                                        | N$11,523.00                                                        |
-|  9.3 | AM/HF Radio Broadcasting Transmitter                                         | AM/HF Radio Broadcasting Transmitter                                                                                                                                                                             | AM/HF Radio Broadcasting Transmitter                               |
-|      | 9.3.1                                                                        | 0.000 up to 999.999 Watt (ERP)                                                                                                                                                                                   | N$690.00                                                           |
-|      | 9.3.2                                                                        | 1000 Watt (ERP) and above                                                                                                                                                                                        | N$1,725.00                                                         |
-|  9.4 | Other broadcasting services                                                  | Other broadcasting services                                                                                                                                                                                      | Other broadcasting services                                        |
-|      | 9.4.1                                                                        | Special event broadcast spectrum licence maximum 10 Watt (fee per day up to a maximum capped fee equal to 30 days' daily fee irrespective if period thereafter exceeds 30 days the maximum fee shall then apply) | N$690.00 Maximum fee: N$ 20,700.00                                 |
-|      | 9.4.2                                                                        | Outside broadcasting vehicle links (per event irrespective of duration)                                                                                                                                          | N$4,600.00                                                         |
-|  10. | MISCELLANEOUS                                                                | MISCELLANEOUS                                                                                                                                                                                                    | MISCELLANEOUS                                                      |
-| 10.1 | National SecurityForces                                                      | National SecurityForces                                                                                                                                                                                          | N$75,900.00                                                        |
-| 10.2 | National Defence Force                                                       | National Defence Force                                                                                                                                                                                           | N$75,900.00                                                        |
-| 10.3 | Competency certificate (radios above 400 Watt)                               | Competency certificate (radios above 400 Watt)                                                                                                                                                                   | N$97.00                                                            |
-| 10.4 | Duplicate spectrum licences                                                  | Duplicate spectrum licences                                                                                                                                                                                      | N$97.00                                                            |
-| 10.5 | Photocopies per A4 sheet                                                     | Photocopies per A4 sheet                                                                                                                                                                                         | N$1.50                                                             |
+| 2.1 | Aircraft station | Aircraft station | N$194.00 |
+| 2.2 | Glider / microlight | Glider / microlight | N$ 97.00 |
+| 2.3 | Ground station | Ground station | N$116.00 |
+| 2.4 | Navigation aids / beacons | Navigation aids / beacons | N$ 97.00 |
+| 2.5 | Operator certificate radiotelephony (including duplicate) | Operator certificate radiotelephony (including duplicate) | N$ 97.00 |
+| 3. | MARITIME | MARITIME |  |
+| 3.1 | Beacon | Beacon | N$ 97.00 |
+| 3.2 | Operator certificate radiotelephony (including duplicate) | Operator certificate radiotelephony (including duplicate) | N$ 97.00 |
+| 3.3 | Ship Station | Ship Station |  |
+|  | 3.3.1 | ITU assigned frequencies | N$291.00 |
+|  | 3.3.2 | Any additional VHF or HF frequencies | N$969.00 |
+| 3.4 | Coast Station | Coast Station |  |
+|  | 3.4.1 | ITU assigned frequencies | N$291.00 |
+|  | 3.4.2 | Any additional VHF or HF frequencies | N$969.00 |
+|  | 3.4.3 | Yacht and ski-boat stations | N$ 97.00 |
+| 4. | LAND MOBILESERVICE | LAND MOBILESERVICE |  |
+| 4.1 | Private alarm station (see item 6.1 for alarmsystems) | Private alarm station (see item 6.1 for alarmsystems) | N$323.00 |
+| 4.2 | Base Mobile Station | Base Mobile Station |  |
+|  | 4.2.1 | 27/29 MHz band (including CB band) | N$ 78.00 |
+|  | 4.2.2 | VHF/UHF per simplex frequency in urban areas | N$194.00 |
+|  | 4.2.3 | VHF/UHF per simplex frequency in rural areas | N$116.00 |
+| 4.3 | Repeater (private and exclusive) | Repeater (private and exclusive) |  |
+|  | 4.3.1 | Duplex frequency urban areas | N$2,132.00 |
+|  | 4.3.2 | Duplex frequency rural areas | N$775.00 |
+|  | 4.3.3 | Simplex frequency (Parrot repeater) | N$349.00 |
+|  | 4.3.4 | Any additional simplex frequency (per frequency) | N$194.00 |
+| 4.4 | Experimental Station | Experimental Station |  |
+|  | 4.4.1 | Experimental station valid for 6 months | N$194.00 |
+| 4.5 | Radio Link Station | Radio Link Station |  |
+|  | 4.5.1 | Radio Link up to 1000 MHz | N$966.00 |
+|  | 4.5.2 | Radio Link above 1000 MHz per MHz calculated based in the assigned bandwidth per frequency | N$2,300.00 |
+| 4.6 |  | National Occupancy (Base Mobile Station) |  |
+|  | 4.6.1 | Not shared | N$1,551.00 |
+|  | 4.6.2 | Shared | N$194.00 |
+| 5. | HIGH FREQUENCY (HF)RADIO | HIGH FREQUENCY (HF)RADIO |  |
+| 5.1 | Fixed/mobile Station | Fixed/mobile Station | N$291.00 |
+| 5.2 | Fixed radio station above 400Watt | Fixed radio station above 400Watt | N$1,938.00 |
+| 6. | RADIO COMMUNICATIONSSYSTEMS | RADIO COMMUNICATIONSSYSTEMS |  |
+| 6.1 | Alarm | Alarm |  |
+|  | 6.1.1 | Urban complexes (per control room and per frequency) | N$6,461.00 |
+|  | 6.1.2 | All other areas (per control room and per frequency) | N$1,615.00 |
+| 6.2 | Load management (including telemetry) | Load management (including telemetry) | N$6,461.00 |
+| 6.3 | Paging (one-way) | Paging (one-way) |  |
+|  | 6.3.1 | Commercial |  |
+|  |  | 6.3.1.1 Application | N$2,019.00 |
+|  |  | 6.3.1.2 Per control room | N$9,691.00 |
+|  | 6.3.2 | Private |  |
+| 6.4 | 6.3.2.1 Per control room and per frequency N$194.00 Radio trunking | 6.3.2.1 Per control room and per frequency N$194.00 Radio trunking | 6.3.2.1 Per control room and per frequency N$194.00 Radio trunking |
+|  | 6.4.1 | For a maximum of one control channel per base station | N$969.00 |
+|  | 6.4.2 | For each additional double frequency or if only one channel is used at a base station | N$4,845.00 |
+| 6.5 | Repeater (Community/Shared) | Repeater (Community/Shared) | Repeater (Community/Shared) |
+|  | 6.5.1 | Urban area per duplex frequency (commercial use) | N$4,458.00 |
+|  | 6.5.2 | All other areas per duplex (commercial use) | N$2,326.00 |
+|  | 6.5.3 | All other areas per duplex (farmers associations only) | N$969.00 |
+| 7. | MOBILE TELECOMMUNICATIONSSERVICES | MOBILE TELECOMMUNICATIONSSERVICES | MOBILE TELECOMMUNICATIONSSERVICES |
+| 7.1 | Fee as per 200 kHz frequency pair consecutively (900 MHz only) | Fee as per 200 kHz frequency pair consecutively (900 MHz only) | N$13,800.00 |
+| 7.2 | Fee as per 200 kHz frequency pair consecutively (1800 MHz only) | Fee as per 200 kHz frequency pair consecutively (1800 MHz only) | N$11,040.00 |
+| 7.3 | Fee as per 1 MHz frequency for 3G (UMTS) | Fee as per 1 MHz frequency for 3G (UMTS) | N$27,600.00 |
+| 8. | SATELLITE SERVICES (LAND, MOBILE,MARITIME) | SATELLITE SERVICES (LAND, MOBILE,MARITIME) | SATELLITE SERVICES (LAND, MOBILE,MARITIME) |
+| 8.1 | Immarsat | Immarsat | Immarsat |
+|  | 8.1.1 | Aterminal | N$2,907.00 |
+|  | 8.1.2 | B,C and Mterminal (64 kbit/s) | N$1,163.00 |
+|  | 8.1.3 | D terminal (data only) RB GAN | N$485.00 |
+| 8.2 | Satellite Digital Uplink per 64 kbit/s | Satellite Digital Uplink per 64 kbit/s | N$6,461.00 |
+| 8.3 | Uplink broadcasting signal distribution fixed satellite earth station | Uplink broadcasting signal distribution fixed satellite earth station | N$34,500.00 |
+| 8.4 | Mobile or fixed satellite news gathering station (per month or part thereof) | Mobile or fixed satellite news gathering station (per month or part thereof) | N$3,450.00 |
+| 9. | BROADCASTINGSERVICES | BROADCASTINGSERVICES | BROADCASTINGSERVICES |
+| 9.1 | FM Radio Broadcasting Transmitter | FM Radio Broadcasting Transmitter | FM Radio Broadcasting Transmitter |
+|  | 9.1.1 | 0.000 up to 100.999 Watt (ERP) | N$690.00 |
+|  | 9.1.2 | 101.000 up to 999.999 Watt (ERP) | N$1,380.00 |
+|  | 9.1.3 | 1000 Watt (ERP) and above | N$2,070.00 |
+| 9.2 | Television BroadcastingTransmitter | Television BroadcastingTransmitter | Television BroadcastingTransmitter |
+|  | 9.2.1 | 0.000 up to 100.999 Watt (ERP) | N$7,521.00 |
+|  | 9.2.2 | 101.000 up to 999.999 Watt (ERP) | N$9,246.00 |
+|  | 9.2.3 | 1000 Watt (ERP) and above | N$11,523.00 |
+| 9.3 | AM/HF Radio Broadcasting Transmitter | AM/HF Radio Broadcasting Transmitter | AM/HF Radio Broadcasting Transmitter |
+|  | 9.3.1 | 0.000 up to 999.999 Watt (ERP) | N$690.00 |
+|  | 9.3.2 | 1000 Watt (ERP) and above | N$1,725.00 |
+| 9.4 | Other broadcasting services | Other broadcasting services | Other broadcasting services |
+|  | 9.4.1 | Special event broadcast spectrum licence maximum 10 Watt (fee per day up to a maximum capped fee equal to 30 days' daily fee irrespective if period thereafter exceeds 30 days the maximum fee shall then apply) | N$690.00 Maximum fee: N$ 20,700.00 |
+|  | 9.4.2 | Outside broadcasting vehicle links (per event irrespective of duration) | N$4,600.00 |
+| 10. | MISCELLANEOUS | MISCELLANEOUS | MISCELLANEOUS |
+| 10.1 | National SecurityForces | National SecurityForces | N$75,900.00 |
+| 10.2 | National Defence Force | National Defence Force | N$75,900.00 |
+| 10.3 | Competency certificate (radios above 400 Watt) | Competency certificate (radios above 400 Watt) | N$97.00 |
+| 10.4 | Duplicate spectrum licences | Duplicate spectrum licences | N$97.00 |
+| 10.5 | Photocopies per A4 sheet | Photocopies per A4 sheet | N$1.50 |
 
 ## Application of fees and general provisions
 

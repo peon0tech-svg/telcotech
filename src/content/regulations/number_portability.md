@@ -84,9 +84,9 @@ that Annexure.'.
 
 ## Number portability rights and obligations
 
-| 4.   | (1)   | Within   | the   | timeframe specified   |
+| 4. | (1) | Within | the | timeframe specified |
 |------|-------|----------|-------|-----------------------|
-| in   | item  | 5 of     | this  | Annexure              |
+| in | item | 5 of | this | Annexure |
 
 -
 
