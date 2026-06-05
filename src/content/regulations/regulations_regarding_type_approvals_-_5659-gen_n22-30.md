@@ -852,7 +852,9 @@ The Communications Regulatory Authority of Namibia, in terms of sections 85 and 
 | Provision of signal distribution; | Own |
 | Category of Broadcasting service licence as contemplated in the Regulations Setting out Broadcasting and Telecommunications Service Licence categories; | Community Broadcasting Service Licence |
 | Percentage of Stock owned by Namibian Citizens or Namibian Companies Controlled by Namibian Citizens; | 100% |
+
 | Applicant's citizenship or place of incorporation; | Namibian |
+|---|---|
 | Applicants Name; | The Voice of the Kingdom Ministries Incorporated 1 |
 
 ## Spectrum Use Licence Application
@@ -959,7 +961,9 @@ The Communications Regulatory Authority of Namibia, in terms of section 85 and 1
 | Provision of signal distribution; | Own |
 | Category of Broadcasting service licence as contemplated in the Regulations Setting out Broadcasting and Telecommunications Service Licence categories; | Commercial Broadcasting Service Licence |
 | Percentage of Stock owned by Namibian Citizens or Namibian Companies Controlled by Namibian Citizens; | 100% |
+
 | Applicant's citizenship or place of incorporation; | Namibia |
+|---|---|
 | Applicants Name; | TRUSTCO Administrative Support Services (Pty) LTD |
 
 (b) Spectrum Use Licence Application:
@@ -974,7 +978,9 @@ The Communications Regulatory Authority of Namibia, in terms of section 85 and 1
 | List of radio frequencies or groups of radio frequencies being considered for assignment by the Authority; | 105.600 MHz | 104.900 MHz | 105.900 MHz | 106.000 MHz |
 | List of radio frequencies or groups of radio frequencies applied for; | 88- 108 MHz | 88- 108 MHz | 88- 108 MHz | 88- 108 MHz |
 | Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens; | 100% |  |  |  |
+
 | Applicant's citizenship or place of incorporation; | Namibia |  |  |  |
+|---|---|---|---|---|
 | Applicant's Name; | TRUSTCOAd- ministrative Sup- | port Services (Pty) LTD |  |  |
 
 The public may submit comments in writing to the Authority within a period of fourteen (14) days from the date of publication of this notice in the Gazette .

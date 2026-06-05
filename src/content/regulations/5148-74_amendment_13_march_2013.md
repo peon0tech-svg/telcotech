@@ -427,7 +427,9 @@ The Communications RegulatoryAuthority of Namibia,in terms of regulation 11 of t
 | Applica- tionFees Paid Up to Date? Yes/No |  |  |  |  |  |  | # |
 | intended to be provided using the spectrum being applied for of(type of Service licence) | Commercial Broadcasting Service Licence | Commercial Broadcasting Service Licence | Commercial Broadcasting Service Licence | Commercial Broadcasting Service Licence | Commercial Broadcasting Service Licence | Commercial Broadcasting Service Licence | cies applied for requireaservice licence. Note, however,that as per section93of the Communications Act,until a date determined by theMinister,chapter IV on broadcasting services is not applicable to applicant or to any broadcasting activities carried on by applicant. |
 | Percentageof Stock Namibian zensor citizens or Namibian Companies controlled by Citizens | 51% | 51% | 51% | 51% | 51% | 51% | 100% |
+
 | Applicants Citizenshipor placeof incorporation | Namibia | Namibia | Namibia | Namibia | Namibia | Namibia | Namibia |
+|---|---|---|---|---|---|---|---|
 | Applicant | Multi-choice Namibia (Pty) Ltd. | Multi-choice Namibia (Pty) Ltd. | Multi-choice Namibia (Pty) Ltd. | Multi-choice Namibia (Pty) Ltd. | Multi-choice Namibia (Pty) Ltd. | Multi-choice Namibia (Pty) Ltd. | Namibian Broadcast- ration |
 
 | Hardap | Kavango | Karas | Karas | Karas | Karas | Omaheke | Caprivi | Omaheke | Kavango | Ohang- wena |  | Omaheke | -puozonio jupa | Omaheke | Kunene | Erongo | -puozono edn! | Kunene Hardap | Hardap |
@@ -496,7 +498,9 @@ TheCommunicationsRegulatoryAuthorityofNamibia,in termsofregulation11and 19of the
 
 | Licensee; | Licensee's citizenship orplaceof incorporation; | Percentage ofStock ownedby Namibian Citizens or Namibian Companies controlled by Namibian Citizens; | Listof radio frequencies orgroups ofradio assigned (MHz); | Description of geographic coverage area(s); | Description of geographic coverage area(s); | Description of geographic coverage area(s); | Serviceto be providedFees Out- using frequency assigned; | Licence standing? |
 |-------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|------------------------------------------------------------|---------------------|
+
 |  | Licensee's citizenship orplaceof incorporation; | Percentage ofStock ownedby Namibian Citizens or Namibian Companies controlled by Namibian Citizens; | Listof radio frequencies orgroups ofradio assigned (MHz); | Region | District | City/Town |  |  |
+|---|---|---|---|---|---|---|---|---|
 | Media forChrist (Association incorporated notforgain) | Namibia | 100% | 102.3 | Karas | RoshPinah | Rosh Pinah- MineTower | Community Service Broadcasting | Yes |
 
 | Namibia | 100% | 90.0 | Otjozondjupa | Okakarara/ Otjiwarango | Klein Waterberg Tower(NBC) | Commercial Service Broadcasting | Yes |
