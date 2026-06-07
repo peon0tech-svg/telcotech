@@ -14,8 +14,8 @@ id: "broadcasting_code_final"
 | BROADCASTING CODE FOR BROADCASTING LICENSEES ISSUED IN TERMSOF SECTION 89 OF THE COMMUNICATIONS ACT, 2009 | BROADCASTING CODE FOR BROADCASTING LICENSEES ISSUED IN TERMSOF SECTION 89 OF THE COMMUNICATIONS ACT, 2009 | BROADCASTING CODE FOR BROADCASTING LICENSEES ISSUED IN TERMSOF SECTION 89 OF THE COMMUNICATIONS ACT, 2009 |
 | TheCommunications Regulatory Authority of Namibia, in terms of section 89of theCommunications Act, 2009 (Act No. 8 of 2009), prescribes the Broadcasting Code for Broadcasting Licenseesset out in this Schedule. | TheCommunications Regulatory Authority of Namibia, in terms of section 89of theCommunications Act, 2009 (Act No. 8 of 2009), prescribes the Broadcasting Code for Broadcasting Licenseesset out in this Schedule. | TheCommunications Regulatory Authority of Namibia, in terms of section 89of theCommunications Act, 2009 (Act No. 8 of 2009), prescribes the Broadcasting Code for Broadcasting Licenseesset out in this Schedule. |
 
-1. Definitions
-2. Application
+1. [Definitions](#definitions)
+2. [Application](#application)
 
 ## SCHEDULE
 
@@ -27,40 +27,40 @@ id: "broadcasting_code_final"
 
 ## PART B GENERAL CONDITIONS
 
-3. Obligations regarding information on this Broadcasting Code
-4. News and current affairs
-5. Prohibitions relating to sexual conduct and other explicit material
-6. Protection of children
-7. Violence and hate speech
-8. Privacy, dignity and reputation
-9. Audience advisory assistance
-10. Controversial issues
-11. Watershed period
-12. Competitions and audience participation
+3. [Obligations regarding information on this Broadcasting Code](#obligations-regarding-information-on-this-broadcasting-code)
+4. [News and current affairs](#news-and-current-affairs)
+5. [Prohibitions relating to sexual conduct and other explicit material](#prohibitions-relating-to-sexual-conduct-and-other-explicit-material)
+6. [Protection of children](#protection-of-children)
+7. [Violence and hate speech](#violence-and-hate-speech)
+8. [Privacy, dignity and reputation](#privacy-dignity-and-reputation)
+9. [Audience advisory assistance](#audience-advisory-assistance)
+10. [Controversial issues](#controversial-issues)
+11. [Watershed period](#watershed-period)
+12. [Competitions and audience participation](#competitions-and-audience-participation)
 13. Public notices of emergencies or public disaster announcements
-14. Comments
-15. Counter-versions
-16. Advertisements
-17. Exemptions
+14. [Comments](#comments)
+15. [Counter-versions](#counter-versions)
+16. [Advertisements](#advertisements)
+17. [Exemptions](#exemptions)
 
 ## PART C
 
 ## COVERAGE OF ELECTIONS AND REFERENDUMS
 
-18. Party election broadcasts
-19. News and current affairs during elections and referendums
-20. Balance and impartiality
-21. Allocation of free airtime by the NBC
-22. Party election broadcasts
-23. Political advertising
-24. Broadcasting on polling day
-25. Local content objectives
-26. Local content policy
-27. Local content requirements
-28. Measurement of local content
-29. Local content exemption
-30. Record keeping
-31. Supervision by the Authority and enforcement
+18. [Party election broadcasts](#party-election-broadcasts)
+19. [News and current affairs during elections and referendums](#news-and-current-affairs-during-elections-and-referendums)
+20. [Balance and impartiality](#balance-and-impartiality)
+21. [Allocation of free airtime by the NBC](#allocation-of-free-airtime-by-the-nbc)
+22. [Party election broadcasts](#party-election-broadcasts)
+23. [Political advertising](#political-advertising)
+24. [Broadcasting on polling day](#broadcasting-on-polling-day)
+25. [Local content objectives](#local-content-objectives)
+26. [Local content policy](#local-content-policy)
+27. [Local content requirements](#local-content-requirements)
+28. [Measurement of local content](#measurement-of-local-content)
+29. [Local content exemption](#local-content-exemption)
+30. [Record keeping](#record-keeping)
+31. [Supervision by the Authority and enforcement](#supervision-by-the-authority-and-enforcement)
 
 ## PART D
 

@@ -54,8 +54,8 @@ that Annexure.'.
 ## Interpretation
 
 1. In this Annexure any word or expression to which a meaning is assigned in the Act or in regulation 1 has the same meaning and unless the context indicates otherwise -
-2. 'clearing house' means a central service co-ordinating the steps of porting a number between two or more licensees and managing the porting messages flowing between them;
-3. 'donor licensee' means the licensee who is losing or 'exporting' the number to another licensee in terms of number portability;
+'clearing house' means a central service co-ordinating the steps of porting a number between two or more licensees and managing the porting messages flowing between them;
+'donor licensee' means the licensee who is losing or 'exporting' the number to another licensee in terms of number portability;
 
 'licensee' means the holder of a service technology neutral telecommunications services licence as anticipated in item 3 of this Annexure;
 

@@ -48,35 +48,35 @@ BE IT ENACTED by the Parliament of the Republic of Namibia, as follows:
 
 ## Section
 
-1. Definitions and interpretation
-2. Objects of this Act
-3. Establishment of Communications and Information Policy Unit
+1. [Definitions and interpretation](#definitions-and-interpretation)
+2. [Objects of this Act](#objects-of-this-act)
+3. [Establishment of Communications and Information Policy Unit](#establishment-of-communications-and-information-policy-unit)
 
 ## CHAPTER II COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
-4. Establishment of Authority
-5. Objects of Authority
-6. Powers of Authority
+4. [Establishment of Authority](#establishment-of-authority)
+5. [Objects of Authority](#objects-of-authority)
+6. [Powers of Authority](#powers-of-authority)
 7. The Minister may issue policy guidelines to Authority
-8. Board of Authority
-9. Appointment of members
-10. Disqualification for appointment as member
-11. Term of office of member
-12. Vacation of office
-13. Chairperson of Board
-14. Remuneration of members
+8. [Board of Authority](#board-of-authority)
+9. [Appointment of members](#appointment-of-members)
+10. [Disqualification for appointment as member](#disqualification-for-appointment-as-member)
+11. [Term of office of member](#term-of-office-of-member)
+12. [Vacation of office](#vacation-of-office)
+13. [Chairperson of Board](#chairperson-of-board)
+14. [Remuneration of members](#remuneration-of-members)
 15. Meetings of Board
 16. Committees of Board
-17. Disclosure of interests
-18. Delegation of powers, and assignment of duties and functions
-19. Indemnity of members and employees of Authority
-20. Chief executive officer
-21. Staff of the Authority and transfer of service
-22. Funds of Authority
-23. Regulatory levy
-24. Transfer of assets and liabilities to Authority
-25. Financial year
-26. Annual Report
+17. [Disclosure of interests](#disclosure-of-interests)
+18. [Delegation of powers, and assignment of duties and functions](#delegation-of-powers-and-assignment-of-duties-and-functions)
+19. [Indemnity of members and employees of Authority](#indemnity-of-members-and-employees-of-authority)
+20. [Chief executive officer](#chief-executive-officer)
+21. [Staff of the Authority and transfer of service](#staff-of-the-authority-and-transfer-of-service)
+22. [Funds of Authority](#funds-of-authority)
+23. [Regulatory levy](#regulatory-levy)
+24. [Transfer of assets and liabilities to Authority](#transfer-of-assets-and-liabilities-to-authority)
+25. [Financial year](#financial-year)
+26. [Annual Report](#annual-report)
 
 | Section | Title |
 |----------------------------------------------------|--------------------------------------------------------------------------------------------------|
@@ -125,64 +125,64 @@ BE IT ENACTED by the Parliament of the Republic of Namibia, as follows:
 
 ## UNIVERSAL SERVICE
 
-56. Universal Service Fund
-57. Provision of universal service
-58. Universal service report
+56. [Universal Service Fund](#universal-service-fund)
+57. [Provision of universal service](#provision-of-universal-service)
+58. [Universal service report](#universal-service-report)
 
 ## PART 5
 
 ## SPECIAL RIGHTS OF CARRIERS
 
-59. Applicability of this Part
-60. Entry upon and construction of lines across any land
-61. Underground pipes for telecommunication service purposes
-62. Pipes under streets
-63. Removal of pipes and facilities
-64. Fences
-65. Trees obstructing telecommunication facilities
-66. Height or depth of cables and facilities
-67. Railways and electrical works
-68. Carriers to perform functions in prescribed manner
-69. Authority to adjudicate in disputes between owners of property and carriers
+59. [Applicability of this Part](#applicability-of-this-part)
+60. [Entry upon and construction of lines across any land](#entry-upon-and-construction-of-lines-across-any-land)
+61. [Underground pipes for telecommunication service purposes](#underground-pipes-for-telecommunication-service-purposes)
+62. [Pipes under streets](#pipes-under-streets)
+63. [Removal of pipes and facilities](#removal-of-pipes-and-facilities)
+64. [Fences](#fences)
+65. [Trees obstructing telecommunication facilities](#trees-obstructing-telecommunication-facilities)
+66. [Height or depth of cables and facilities](#height-or-depth-of-cables-and-facilities)
+67. [Railways and electrical works](#railways-and-electrical-works)
+68. [Carriers to perform functions in prescribed manner](#carriers-to-perform-functions-in-prescribed-manner)
+69. [Authority to adjudicate in disputes between owners of property and carriers](#authority-to-adjudicate-in-disputes-between-owners-of-property-and-carriers)
 
 ## PART 6
 
 ## INTERCEPTION OF TELECOMMUNICATIONS
 
-70. Interception centres
-71. Duties relating to interception
-72. Assistance by telecommunications service providers and compensation therefor
-73. Duty to obtain information relating to customers
-74. Functions of Authority relating to interception
-75. Disclosure of information
+70. [Interception centres](#interception-centres)
+71. [Duties relating to interception](#duties-relating-to-interception)
+72. [Assistance by telecommunications service providers and compensation therefor](#assistance-by-telecommunications-service-providers-and-compensation-therefor)
+73. [Duty to obtain information relating to customers](#duty-to-obtain-information-relating-to-customers)
+74. [Functions of Authority relating to interception](#functions-of-authority-relating-to-interception)
+75. [Disclosure of information](#disclosure-of-information)
 
 76.
 
 Equipment relating to interception
 
-77. Regulations relating to interception
+77. [Regulations relating to interception](#regulations-relating-to-interception)
 
 ## PART 7
 
 ## MISCELLANEOUS MATTERS
 
-78. Determination of dominant position
-79. Consumer protection
-80. Equipment approvals and standards
-81. Numbering administration
+78. [Determination of dominant position](#determination-of-dominant-position)
+79. [Consumer protection](#consumer-protection)
+80. [Equipment approvals and standards](#equipment-approvals-and-standards)
+81. [Numbering administration](#numbering-administration)
 
 ## CHAPTER VI
 
 ## BROADCASTING SERVICES
 
-82. Definition for purposes of this Chapter
+82. [Definition for purposes of this Chapter](#definition-for-purposes-of-this-chapter)
 83. Prohibition of provision of broadcasting services without licence
-84. Categories of broadcasting licences
-85. Issue of broadcasting licences
-86. Conditions on broadcasting licences
+84. [Categories of broadcasting licences](#categories-of-broadcasting-licences)
+85. [Issue of broadcasting licences](#issue-of-broadcasting-licences)
+86. [Conditions on broadcasting licences](#conditions-on-broadcasting-licences)
 87. Duration of, renewal and lapsing of broadcasting licence
-88. Payment of broadcasting licence fees
-89. Broadcasting code
+88. [Payment of broadcasting licence fees](#payment-of-broadcasting-licence-fees)
+89. [Broadcasting code](#broadcasting-code)
 
 | Column 1 | Column 2 | Column 3 |
 |-------------------|-----------------------------------------------------------------|----------------------------|
@@ -232,15 +232,15 @@ Equipment relating to interception
 | 124. | Special investigators |  |
 | 125. | General powers of inspectors |  |
 
-127. Investigation of offences
-128. Expropriation
-129. Regulations
+127. [Investigation of offences](#investigation-of-offences)
+128. [Expropriation](#expropriation)
+129. [Regulations](#regulations)
 130. National security
-131. Complaints by users
-132. Mediation proceedings
-133. Act to bind State
-134. Repeal and amendment of laws
-135. Transitional provisions
+131. [Complaints by users](#complaints-by-users)
+132. [Mediation proceedings](#mediation-proceedings)
+133. [Act to bind State](#act-to-bind-state)
+134. [Repeal and amendment of laws](#repeal-and-amendment-of-laws)
+135. [Transitional provisions](#transitional-provisions)
 136. Short title and commencement
 
 ## SCHEDULE
@@ -250,19 +250,19 @@ Equipment relating to interception
 ## Definitions and interpretation
 
 1. (1) In this Act, unless the context indicates otherwise -
-2. 'Association' means the .na Domain Name Association established by section 103;
-3. 'Authority' means the Communications Regulatory Authority of Namibia established by section 4;
-4. 'Board' means the Board of the Authority referred to in section 8;
-5. 'broadcast' means to disseminate electronic communications -
+'Association' means the .na Domain Name Association established by section 103;
+'Authority' means the Communications Regulatory Authority of Namibia established by section 4;
+'Board' means the Board of the Authority referred to in section 8;
+'broadcast' means to disseminate electronic communications -
 - (a) by radio waves if that communications are intended to be received by the public or the subscribers to a particular service, directly or by the intermediary of relay stations; or
 - (b) by any other means if that communications are intended to be received by the public or the subscribers to a particular service and the Authority has after following a rule-making procedure, by regulation prescribed that the specified services are broadcasting services;
-8. 'broadcasting code' means the broadcasting code made in terms of section 89;
-9. 'broadcasting licence' means a broadcasting licence issued in terms of section 85;
-10. 'Chairperson' means the Chairperson of the Board appointed under section 13;
-11. 'class licence' means a telecommunications licence referred to in section 38(1)(c);
-12. 'communications' means electronic communications and communications by means of postal services;
-13. 'customer' means any person who concluded a contract with the provider of telecommunications services for the provision of such services;
-14. 'Director-General' means the Director-General defined in section 1 of the Namibia Central Intelligence Service Act, 1997 (Act No. 10 of 1997);
+'broadcasting code' means the broadcasting code made in terms of section 89;
+'broadcasting licence' means a broadcasting licence issued in terms of section 85;
+'Chairperson' means the Chairperson of the Board appointed under section 13;
+'class licence' means a telecommunications licence referred to in section 38(1)(c);
+'communications' means electronic communications and communications by means of postal services;
+'customer' means any person who concluded a contract with the provider of telecommunications services for the provision of such services;
+'Director-General' means the Director-General defined in section 1 of the Namibia Central Intelligence Service Act, 1997 (Act No. 10 of 1997);
 
 'domestic telecommunications service' means a telecommunications service that both originate and terminate within Namibia;
 
