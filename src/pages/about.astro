@@ -1,5 +1,55 @@
 ---
 import Layout from '../layouts/Layout.astro';
+
+const education = [
+  {
+    period: '2020 – 2022',
+    credential: 'MBA — Business Administration & Management',
+    institution: 'Stellenbosch Business School',
+    note: 'Graduated Cum Laude',
+  },
+  {
+    period: '2019 – 2020',
+    credential: 'MicroMaster: Data Science',
+    institution: 'UC San Diego / edX',
+    note: 'Verified credential — edx.org',
+  },
+  {
+    period: '2012 – 2018',
+    credential: 'CCNP — Routing & Switching',
+    institution: 'Cisco Systems',
+    note: null,
+  },
+  {
+    period: '2008',
+    credential: 'CCNA — Networks',
+    institution: 'Cisco',
+    note: null,
+  },
+  {
+    period: '2004',
+    credential: 'BTEC Electrical Engineering',
+    institution: 'Cape Peninsula University of Technology',
+    note: 'Best Industrial Engineering Project Award 2004',
+  },
+  {
+    period: '1998 – 2000',
+    credential: 'NDIP Electronics',
+    institution: 'Polytechnic of Namibia',
+    note: 'Best Student Award 1999 & 2000',
+  },
+];
+
+const achievements = [
+  'Built Namibia\'s first 4G LTE Core Network and Voice Core — engineered and operated entirely by Namibians, eliminating the need to import expensive skills.',
+  'Reduced capital expenditure by 90% through a carefully researched, cost-effective geo-redundant voice core solution.',
+  'Saved USD 100,000 in capex and USD 1,000/month in OPEX through strategic open-source adoption across core infrastructure.',
+  'Cut E1 site-to-site rental costs by 95% by designing and deploying a DMVPN redundant architecture.',
+  'Transferred technology and skills directly to indigenous Namibians — supporting economic growth and reducing dependency on foreign expertise.',
+  'Commissioned, migrated and integrated multiple mobile LTE core platforms for Namibian operators.',
+  'Built and led high-performance engineering teams across mobile core, voice, IP, systems and support disciplines.',
+  'Hands-on depth across EWSD circuit switching, SGSN/GGSN packet core, Cisco multilayer networks, Nokia firewalls, and 4G mobile core.',
+];
 ---
 
 <Layout title="About - Telco Tech Namibia">
@@ -17,14 +67,21 @@ import Layout from '../layouts/Layout.astro';
       <div>
         <div class="text-xs uppercase tracking-widest opacity-60 mb-2">Operator</div>
         <div class="text-2xl md:text-3xl font-bold text-[var(--accent-color)] mb-1">Ricky Innes</div>
-        <div class="text-sm opacity-70 mb-6">Namibia</div>
+        <div class="text-sm opacity-70 mb-1">Windhoek, Namibia</div>
+        <div class="text-xs opacity-50 mb-6">25+ years in Telecommunications</div>
+        <div class="space-y-2 text-xs uppercase tracking-wider opacity-70">
+          <div class="flex items-center gap-2"><span class="text-[var(--accent-color)]">&gt;</span> MBA Cum Laude</div>
+          <div class="flex items-center gap-2"><span class="text-[var(--accent-color)]">&gt;</span> CCNP Certified</div>
+          <div class="flex items-center gap-2"><span class="text-[var(--accent-color)]">&gt;</span> Data Science</div>
+          <div class="flex items-center gap-2"><span class="text-[var(--accent-color)]">&gt;</span> LTE Core Architect</div>
+        </div>
       </div>
-      <div class="border-t border-[var(--bento-border)] pt-4 space-y-2 text-sm">
+      <div class="border-t border-[var(--bento-border)] pt-4 mt-6">
         <a
           href="https://www.linkedin.com/in/rickyinnes/"
           target="_blank"
           rel="noopener noreferrer"
-          class="flex items-center gap-2 hover:text-[var(--accent-color)] transition-colors opacity-80 hover:opacity-100"
+          class="flex items-center gap-2 text-sm hover:text-[var(--accent-color)] transition-colors opacity-70 hover:opacity-100"
         >
           <span class="text-[var(--accent-color)]">&gt;</span> LinkedIn Profile
         </a>
@@ -35,49 +92,95 @@ import Layout from '../layouts/Layout.astro';
     <div class="terminal-box p-6 md:col-span-2">
       <div class="text-xs uppercase tracking-widest opacity-60 mb-4">Signal_Origin //</div>
       <p class="text-sm md:text-base leading-relaxed mb-4">
-        Technology professional based in Namibia with a strong focus on
-        <span class="text-[var(--accent-color)]">telecommunications infrastructure</span>,
-        <span class="text-[var(--accent-color)]">automation</span>, and
-        <span class="text-[var(--accent-color)]">artificial intelligence</span>.
-        Passionate about applying modern tooling to bring structure and accessibility
-        to regulatory and technical data that is otherwise locked in dense government documents.
+        Over 25 years at the intersection of hands-on network engineering and organisational leadership,
+        with a career built entirely around developing
+        <span class="text-[var(--accent-color)]">Namibia&apos;s telecommunications backbone</span>.
+        From commissioning EWSD circuit switches and maintaining packet core infrastructure,
+        to architecting the country&apos;s first
+        <span class="text-[var(--accent-color)]">4G LTE Core Network</span> —
+        engineered and operated exclusively by Namibians — the journey has been one of progressive
+        challenge and deliberate impact.
+      </p>
+      <p class="text-sm md:text-base leading-relaxed mb-4">
+        The focus has always extended beyond infrastructure. Building
+        <span class="text-[var(--accent-color)]">high-performance engineering teams</span>,
+        transferring technology and skills to local talent, and leading organisations
+        through complex, concurrent transformation projects are as central to the work
+        as the networks themselves.
       </p>
       <p class="text-sm md:text-base leading-relaxed">
-        This platform was conceived to make Namibia&apos;s communications regulatory landscape —
-        Acts, Regulations, and Government Gazettes — fully searchable and machine-readable.
-        Data is sourced directly from official
-        <span class="text-[var(--accent-color)]">CRAN</span>
-        (Communications Regulatory Authority of Namibia) publications.
+        Alongside deep telco engineering, a sustained investment in
+        <span class="text-[var(--accent-color)]">data science</span>,
+        <span class="text-[var(--accent-color)]">artificial intelligence</span>, and
+        <span class="text-[var(--accent-color)]">automation</span>
+        shapes how emerging technology is applied — building the telecommunications
+        organisations of the future, not just maintaining the infrastructure of the past.
       </p>
     </div>
 
-    <!-- Interests -->
-    <div class="terminal-box p-6 md:col-span-1">
-      <div class="text-xs uppercase tracking-widest opacity-60 mb-4">Core_Modules //</div>
-      <div class="space-y-3">
-        {[
-          'Telecommunications',
-          'Infrastructure & Automation',
-          'Artificial Intelligence',
-          'Self-Hosted Systems',
-          'Regulatory Technology',
-        ].map(item => (
-          <div class="flex items-center gap-3 text-sm">
-            <span class="text-[var(--accent-color)] shrink-0">&gt;</span>
-            <span>{item}</span>
+    <!-- Career Achievements — full width -->
+    <div class="terminal-box p-6 md:col-span-3">
+      <div class="text-xs uppercase tracking-widest opacity-60 mb-5">Network_Log // Key Milestones</div>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+        {achievements.map(item => (
+          <div class="flex gap-3 text-sm leading-relaxed">
+            <span class="text-[var(--accent-color)] shrink-0 mt-0.5">&gt;</span>
+            <span class="opacity-90">{item}</span>
           </div>
         ))}
       </div>
     </div>
 
-    <!-- AI Build Note -->
-    <div class="terminal-box p-6 md:col-span-2 border-[var(--accent-color)] shadow-[0_0_15px_var(--accent-color)]">
+    <!-- Education -->
+    <div class="terminal-box p-6 md:col-span-2">
+      <div class="text-xs uppercase tracking-widest opacity-60 mb-5">Education_Stack //</div>
+      <div class="space-y-5">
+        {education.map(entry => (
+          <div class="border-l-2 border-[var(--bento-border)] pl-4 hover:border-[var(--accent-color)] transition-colors group">
+            <div class="text-xs opacity-50 mb-0.5 tracking-wider">{entry.period}</div>
+            <div class="font-bold text-sm group-hover:text-[var(--accent-color)] transition-colors">{entry.credential}</div>
+            <div class="text-xs opacity-70 mt-0.5">{entry.institution}</div>
+            {entry.note && (
+              <div class="text-xs text-[var(--accent-color)] mt-1 opacity-80">{entry.note}</div>
+            )}
+          </div>
+        ))}
+      </div>
+    </div>
+
+    <!-- Core Modules -->
+    <div class="terminal-box p-6 md:col-span-1 flex flex-col justify-between">
+      <div>
+        <div class="text-xs uppercase tracking-widest opacity-60 mb-5">Core_Modules //</div>
+        <div class="space-y-3">
+          {[
+            'Mobile & Voice Core Networks',
+            'LTE / 4G Architecture',
+            'Team & Organisation Building',
+            'Infrastructure Automation',
+            'Artificial Intelligence',
+            'Data Science',
+            'Regulatory Technology',
+            'Open-Source Engineering',
+          ].map(item => (
+            <div class="flex items-center gap-3 text-sm">
+              <span class="text-[var(--accent-color)] shrink-0">&gt;</span>
+              <span class="opacity-90">{item}</span>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+
+    <!-- AI Build Manifest — full width, highlighted -->
+    <div class="terminal-box p-6 md:col-span-3 border-[var(--accent-color)] shadow-[0_0_15px_var(--accent-color)]">
       <div class="text-xs uppercase tracking-widest opacity-60 mb-4">Build_Manifest //</div>
-      <p class="text-sm md:text-base leading-relaxed mb-4">
+      <p class="text-sm md:text-base leading-relaxed mb-3">
         This website is <span class="text-[var(--accent-color)] font-bold">autonomously built and maintained by AI</span>.
         From extracting and structuring raw PDF regulatory documents, to writing the Astro frontend,
-        styling components, and deploying via CI/CD pipeline — the majority of the work is directed
-        and executed by large language models under human oversight.
+        styling, and deploying via CI/CD pipeline — the majority of work is directed and executed
+        by large language models under human oversight. A practical demonstration of the
+        <span class="text-[var(--accent-color)]">AI-driven automation</span> that underpins this body of work.
       </p>
       <p class="text-xs uppercase tracking-widest opacity-50">
         Stack: Astro &nbsp;&middot;&nbsp; Tailwind CSS &nbsp;&middot;&nbsp; React &nbsp;&middot;&nbsp; GitHub Actions &nbsp;&middot;&nbsp; Hostinger &nbsp;&middot;&nbsp; Claude (Anthropic)
