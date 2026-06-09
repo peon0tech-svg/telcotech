@@ -1,0 +1,88 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="About - Telco Tech Namibia">
+  <div class="mb-8">
+    <a href="/" class="text-[var(--accent-color)] hover:underline mb-2 inline-block">&lt;- Back to Core</a>
+    <h1 class="text-4xl md:text-5xl font-bold uppercase tracking-tighter mt-2">
+      <span class="text-[var(--accent-color)]">&gt;</span> About
+    </h1>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-6">
+
+    <!-- Identity -->
+    <div class="terminal-box p-6 md:col-span-1 flex flex-col justify-between">
+      <div>
+        <div class="text-xs uppercase tracking-widest opacity-60 mb-2">Operator</div>
+        <div class="text-2xl md:text-3xl font-bold text-[var(--accent-color)] mb-1">Ricky Innes</div>
+        <div class="text-sm opacity-70 mb-6">Namibia</div>
+      </div>
+      <div class="border-t border-[var(--bento-border)] pt-4 space-y-2 text-sm">
+        <a
+          href="https://www.linkedin.com/in/rickyinnes/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="flex items-center gap-2 hover:text-[var(--accent-color)] transition-colors opacity-80 hover:opacity-100"
+        >
+          <span class="text-[var(--accent-color)]">&gt;</span> LinkedIn Profile
+        </a>
+      </div>
+    </div>
+
+    <!-- Bio -->
+    <div class="terminal-box p-6 md:col-span-2">
+      <div class="text-xs uppercase tracking-widest opacity-60 mb-4">Signal_Origin //</div>
+      <p class="text-sm md:text-base leading-relaxed mb-4">
+        Technology professional based in Namibia with a strong focus on
+        <span class="text-[var(--accent-color)]">telecommunications infrastructure</span>,
+        <span class="text-[var(--accent-color)]">automation</span>, and
+        <span class="text-[var(--accent-color)]">artificial intelligence</span>.
+        Passionate about applying modern tooling to bring structure and accessibility
+        to regulatory and technical data that is otherwise locked in dense government documents.
+      </p>
+      <p class="text-sm md:text-base leading-relaxed">
+        This platform was conceived to make Namibia&apos;s communications regulatory landscape —
+        Acts, Regulations, and Government Gazettes — fully searchable and machine-readable.
+        Data is sourced directly from official
+        <span class="text-[var(--accent-color)]">CRAN</span>
+        (Communications Regulatory Authority of Namibia) publications.
+      </p>
+    </div>
+
+    <!-- Interests -->
+    <div class="terminal-box p-6 md:col-span-1">
+      <div class="text-xs uppercase tracking-widest opacity-60 mb-4">Core_Modules //</div>
+      <div class="space-y-3">
+        {[
+          'Telecommunications',
+          'Infrastructure & Automation',
+          'Artificial Intelligence',
+          'Self-Hosted Systems',
+          'Regulatory Technology',
+        ].map(item => (
+          <div class="flex items-center gap-3 text-sm">
+            <span class="text-[var(--accent-color)] shrink-0">&gt;</span>
+            <span>{item}</span>
+          </div>
+        ))}
+      </div>
+    </div>
+
+    <!-- AI Build Note -->
+    <div class="terminal-box p-6 md:col-span-2 border-[var(--accent-color)] shadow-[0_0_15px_var(--accent-color)]">
+      <div class="text-xs uppercase tracking-widest opacity-60 mb-4">Build_Manifest //</div>
+      <p class="text-sm md:text-base leading-relaxed mb-4">
+        This website is <span class="text-[var(--accent-color)] font-bold">autonomously built and maintained by AI</span>.
+        From extracting and structuring raw PDF regulatory documents, to writing the Astro frontend,
+        styling components, and deploying via CI/CD pipeline — the majority of the work is directed
+        and executed by large language models under human oversight.
+      </p>
+      <p class="text-xs uppercase tracking-widest opacity-50">
+        Stack: Astro &nbsp;&middot;&nbsp; Tailwind CSS &nbsp;&middot;&nbsp; React &nbsp;&middot;&nbsp; GitHub Actions &nbsp;&middot;&nbsp; Hostinger &nbsp;&middot;&nbsp; Claude (Anthropic)
+      </p>
+    </div>
+
+  </div>
+</Layout>
