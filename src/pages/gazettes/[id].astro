@@ -18,11 +18,11 @@ const { Content } = await render(entry);
   <div class="mb-8 flex flex-col md:flex-row items-start md:items-center justify-between" data-pagefind-ignore>
     <div>
       <a href="/gazettes" class="text-[var(--accent-color)] hover:underline mb-2 inline-block"><- Back to Gazettes</a>
-      <div class="flex items-center gap-4 mt-2">
-        <h1 class="text-3xl md:text-5xl font-bold uppercase tracking-tighter">
+      <div class="flex flex-wrap items-center gap-3 mt-2">
+        <h1 class="text-2xl md:text-5xl font-bold uppercase tracking-tighter">
           Gazette {entry.data.id}
         </h1>
-        <a href={`https://www.lac.org.na/laws/${entry.data.year}/${entry.data.id}.pdf`} target="_blank" class="terminal-box px-4 py-2 font-bold hover:bg-[var(--accent-color)] hover:text-[var(--bg-color)] inline-flex items-center gap-2 text-sm whitespace-nowrap transition-colors">
+        <a href={`https://www.lac.org.na/laws/${entry.data.year}/${entry.data.id}.pdf`} target="_blank" class="terminal-box px-3 py-1.5 md:px-4 md:py-2 font-bold hover:bg-[var(--accent-color)] hover:text-[var(--bg-color)] inline-flex items-center gap-2 text-xs md:text-sm whitespace-nowrap transition-colors shrink-0">
           <span>ORIGINAL PDF</span>
           <span>&#8599;</span>
         </a>
@@ -30,7 +30,7 @@ const { Content } = await render(entry);
     </div>
   </div>
 
-  <div class="terminal-box p-6 prose dark:prose-invert max-w-none prose-pre:bg-[var(--bg-color)] prose-pre:border prose-pre:border-[var(--bento-border)] prose-a:text-[var(--accent-color)] prose-headings:text-[var(--text-color)] prose-p:text-[var(--text-color)] prose-strong:text-[var(--text-color)] prose-li:text-[var(--text-color)]" data-pagefind-body>
+  <div class="terminal-box p-4 md:p-6 overflow-x-auto prose dark:prose-invert max-w-none prose-pre:bg-[var(--bg-color)] prose-pre:border prose-pre:border-[var(--bento-border)] prose-a:text-[var(--accent-color)] prose-headings:text-[var(--text-color)] prose-p:text-[var(--text-color)] prose-strong:text-[var(--text-color)] prose-li:text-[var(--text-color)]" data-pagefind-body>
     <Content />
   </div>
 </Layout>

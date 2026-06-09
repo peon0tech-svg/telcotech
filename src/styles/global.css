@@ -41,6 +41,24 @@ body {
   border-color: var(--accent-color);
 }
 
+/* Mobile: prevent long words and wide tables from overflowing prose containers */
+.prose {
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+.prose :where(table) {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  max-width: 100%;
+}
+
+.prose :where(pre) {
+  overflow-x: auto;
+  white-space: pre;
+}
+
 ::-webkit-scrollbar {
   width: 8px;
 }
