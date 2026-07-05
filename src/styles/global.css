@@ -1,23 +1,45 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
+/*
+ * THEME: Gruvbox Tactical HUD
+ * Dark = Gruvbox Dark (hard) with amber/orange accent — default.
+ * Light = Gruvbox Light (hard) with burnt-orange accent.
+ * All components consume these variables; never hardcode colors in pages.
+ */
 @layer base {
   :root {
-    --bg-color: #f0f0f0;
-    --text-color: #333;
-    --accent-color: #0077b6;
-    --bento-bg: #ffffff;
-    --bento-border: #cccccc;
+    /* Gruvbox Light */
+    --bg-color: #f9f5d7;
+    --text-color: #3c3836;
+    --text-dim: #7c6f64;
+    --accent-color: #af3a03;
+    --accent-2: #427b58;      /* aqua/teal secondary */
+    --alert-color: #9d0006;
+    --bento-bg: #fbf1c7;
+    --bento-border: #d5c4a1;
+    --row-hover: rgba(175, 58, 3, 0.08);
     --glow: none;
+    --glow-hover: 0 2px 8px rgba(60, 56, 54, 0.15);
+    --grid-line: rgba(60, 56, 54, 0.06);
+    --scanline: rgba(60, 56, 54, 0.025);
   }
-  
+
   .dark {
-    --bg-color: #050505;
-    --text-color: #0f0;
-    --accent-color: #0ff;
-    --bento-bg: #0a0a0a;
-    --bento-border: #0f0;
-    --glow: 0 0 10px rgba(0, 255, 0, 0.5);
+    /* Gruvbox Dark */
+    --bg-color: #1d2021;
+    --text-color: #ebdbb2;
+    --text-dim: #a89984;
+    --accent-color: #fe8019;
+    --accent-2: #8ec07c;      /* aqua secondary */
+    --alert-color: #fb4934;
+    --bento-bg: #282828;
+    --bento-border: #504945;
+    --row-hover: rgba(254, 128, 25, 0.07);
+    --glow: 0 0 12px rgba(254, 128, 25, 0.15);
+    --glow-hover: 0 0 15px rgba(254, 128, 25, 0.3);
+    --grid-line: rgba(235, 219, 178, 0.04);
+    --scanline: rgba(0, 0, 0, 0.12);
   }
 }
 
@@ -28,17 +50,108 @@ body {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
+/* Tactical grid overlay — replaces the old tech-bg.png raster image */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-image:
+    linear-gradient(var(--grid-line) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
+  background-size: 48px 48px;
+}
+
+/* Subtle CRT scanlines */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  pointer-events: none;
+  background: repeating-linear-gradient(
+    to bottom,
+    transparent 0px,
+    transparent 3px,
+    var(--scanline) 3px,
+    var(--scanline) 4px
+  );
+}
+
+/* HUD panel: bordered box with accent corner brackets (top-left / bottom-right) */
 .terminal-box {
+  position: relative;
   background-color: var(--bento-bg);
   border: 1px solid var(--bento-border);
   box-shadow: var(--glow);
   transition: all 0.3s ease;
 }
 
+.terminal-box::before,
+.terminal-box::after {
+  content: '';
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  border-color: var(--accent-color);
+  border-style: solid;
+  opacity: 0.85;
+  pointer-events: none;
+  transition: all 0.3s ease;
+}
+
+.terminal-box::before {
+  top: 0;
+  left: 0;
+  border-width: 2px 0 0 2px;
+}
+
+.terminal-box::after {
+  bottom: 0;
+  right: 0;
+  border-width: 0 2px 2px 0;
+}
+
 .terminal-box:hover {
   transform: translateY(-2px);
-  box-shadow: 0 0 15px var(--accent-color);
+  box-shadow: var(--glow-hover);
   border-color: var(--accent-color);
+}
+
+.terminal-box:hover::before,
+.terminal-box:hover::after {
+  width: 20px;
+  height: 20px;
+  opacity: 1;
+}
+
+/* HUD micro-label — section headers like "Signal_Origin //" */
+.hud-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--text-dim);
+}
+
+/* Blinking status dot */
+.hud-dot {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  border-radius: 9999px;
+  background: var(--accent-2);
+  box-shadow: 0 0 6px var(--accent-2);
+  animation: hud-pulse 2s ease-in-out infinite;
+}
+
+@keyframes hud-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.35; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hud-dot { animation: none; }
 }
 
 /* Mobile: prevent long words and wide tables from overflowing prose containers */
@@ -61,13 +174,14 @@ body {
 
 ::-webkit-scrollbar {
   width: 8px;
+  height: 8px;
 }
 ::-webkit-scrollbar-track {
-  background: var(--bg-color); 
+  background: var(--bg-color);
 }
 ::-webkit-scrollbar-thumb {
-  background: var(--bento-border); 
+  background: var(--bento-border);
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: var(--accent-color); 
+  background: var(--accent-color);
 }

@@ -44,7 +44,7 @@ const groupedData = data.reduce((acc, row) => {
           </thead>
           <tbody>
             {items.map((row) => (
-              <tr class="hover:bg-[rgba(0,255,0,0.05)] transition-colors">
+              <tr class="hover:bg-[var(--row-hover)] transition-colors">
                 <td class="border-b border-[var(--bento-border)] p-2 text-sm font-semibold max-w-xs truncate" title={row.numberBlock}>{row.numberBlock}</td>
                 <td class="border-b border-[var(--bento-border)] p-2 text-sm">{row.licensee}</td>
                 <td class="border-b border-[var(--bento-border)] p-2 text-sm">{row.allocationDate}</td>

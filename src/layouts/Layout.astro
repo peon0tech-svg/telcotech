@@ -3,19 +3,33 @@ import '../styles/global.css';
 
 export interface Props {
 	title: string;
+	description?: string;
 }
 
-const { title } = Astro.props;
+const {
+	title,
+	description = 'Research platform for the Namibian telecommunications landscape — licenses, spectrum, tariffs, gazettes and regulations compiled from official CRAN publications.',
+} = Astro.props;
+
+// Stamped at build time; every data update triggers a rebuild, so this is the data sync date.
+const buildStamp = new Date().toISOString().slice(0, 10);
+const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).href : undefined;
 ---
 
 <!DOCTYPE html>
 <html lang="en" class="dark">
 	<head>
 		<meta charset="UTF-8" />
-		<meta name="description" content="Telecommunication Technology Namibia Documentation Website">
+		<meta name="description" content={description}>
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
+		{canonical && <link rel="canonical" href={canonical} />}
+		<meta property="og:title" content={title} />
+		<meta property="og:description" content={description} />
+		<meta property="og:type" content="website" />
+		{canonical && <meta property="og:url" content={canonical} />}
+		<meta name="twitter:card" content="summary" />
 		<title>{title}</title>
 		<script is:inline>
 			const theme = (() => {
@@ -24,7 +38,7 @@ const { title } = Astro.props;
 				}
 				return 'dark';
 			})();
-			
+
 			if (theme === 'light') {
 				document.documentElement.classList.remove('dark');
 			} else {
@@ -35,27 +49,51 @@ const { title } = Astro.props;
 			}
 		</script>
 	</head>
-	<body class="min-h-screen bg-[var(--bg-color)] text-[var(--text-color)] font-mono selection:bg-[var(--accent-color)] selection:text-[var(--bg-color)]">
-		<nav class="border-b border-[var(--bento-border)] p-4 flex flex-col md:flex-row justify-between items-start md:items-center gap-4 bg-[var(--bento-bg)] relative z-10 shadow-[var(--glow)]">
-			<div class="flex items-center w-full md:w-auto overflow-hidden">
-                <a href="/" id="typewriter" class="text-base sm:text-xl font-bold tracking-widest sm:tracking-wider hover:text-[var(--accent-color)] transition-colors cursor-pointer inline-block w-full sm:min-w-[280px] whitespace-nowrap">
-                    > TELCO_TECH_NAMIBIA_
-                </a>
-            </div>
-			<div class="flex items-center gap-2 md:gap-3">
-				<a href="/about" class="terminal-box px-3 py-1.5 md:px-4 md:py-2 text-xs md:text-sm uppercase tracking-widest font-bold whitespace-nowrap hover:bg-[var(--accent-color)] hover:text-[var(--bg-color)] transition-colors">
-					About
-				</a>
-				<button id="theme-toggle" class="terminal-box px-3 py-1.5 md:px-4 md:py-2 text-xs md:text-sm uppercase tracking-widest font-bold whitespace-nowrap">
-					Toggle Theme
-				</button>
+	<body class="min-h-screen flex flex-col bg-[var(--bg-color)] text-[var(--text-color)] font-mono selection:bg-[var(--accent-color)] selection:text-[var(--bg-color)]">
+		<nav class="border-b border-[var(--bento-border)] bg-[var(--bento-bg)] relative z-10 shadow-[var(--glow)]">
+			<div class="p-4 flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+				<div class="flex items-center w-full md:w-auto overflow-hidden">
+					<a href="/" id="typewriter" class="text-base sm:text-xl font-bold tracking-widest sm:tracking-wider hover:text-[var(--accent-color)] transition-colors cursor-pointer inline-block w-full sm:min-w-[280px] whitespace-nowrap">
+						> TELCO_TECH_NAMIBIA_
+					</a>
+				</div>
+				<div class="flex items-center gap-2 md:gap-3">
+					<a href="/about" class="terminal-box px-3 py-1.5 md:px-4 md:py-2 text-xs md:text-sm uppercase tracking-widest font-bold whitespace-nowrap hover:bg-[var(--accent-color)] hover:text-[var(--bg-color)] transition-colors">
+						About
+					</a>
+					<button id="theme-toggle" class="terminal-box px-3 py-1.5 md:px-4 md:py-2 text-xs md:text-sm uppercase tracking-widest font-bold whitespace-nowrap">
+						Toggle Theme
+					</button>
+				</div>
+			</div>
+			<!-- HUD status strip -->
+			<div class="border-t border-[var(--bento-border)] px-4 py-1.5 flex flex-wrap items-center gap-x-5 gap-y-1 hud-label">
+				<span class="flex items-center gap-2"><span class="hud-dot"></span> SYS:ONLINE</span>
+				<span class="hidden sm:inline">GRID:NAMIBIA</span>
+				<span>SRC:CRAN_PUBLIC_RECORDS</span>
+				<span class="ml-auto">LAST_SYNC:{buildStamp}</span>
 			</div>
 		</nav>
-        <div class="fixed inset-0 z-0 opacity-20 pointer-events-none" style="background-image: url('/tech-bg.png'); background-size: cover; background-position: center; mix-blend-mode: screen;"></div>
-		<main class="container mx-auto px-4 py-6 md:px-6 relative z-10">
+		<main class="container mx-auto px-4 py-6 md:px-6 relative z-10 flex-1 w-full">
 			<slot />
 		</main>
-        
+		<footer class="border-t border-[var(--bento-border)] bg-[var(--bento-bg)] relative z-10 mt-12">
+			<div class="container mx-auto px-4 py-4 md:px-6 flex flex-col md:flex-row justify-between items-start md:items-center gap-3">
+				<div class="hud-label">
+					TELCO_TECH // NAMIBIAN TELECOMMUNICATIONS RESEARCH
+				</div>
+				<div class="flex flex-wrap gap-x-4 gap-y-1 text-xs uppercase tracking-wider">
+					<a href="/gazettes" class="hover:text-[var(--accent-color)] transition-colors opacity-70 hover:opacity-100">Gazettes</a>
+					<a href="/acts" class="hover:text-[var(--accent-color)] transition-colors opacity-70 hover:opacity-100">Acts</a>
+					<a href="/regulations" class="hover:text-[var(--accent-color)] transition-colors opacity-70 hover:opacity-100">Regulations</a>
+					<a href="/about" class="hover:text-[var(--accent-color)] transition-colors opacity-70 hover:opacity-100">About</a>
+				</div>
+			</div>
+			<div class="container mx-auto px-4 pb-4 md:px-6 hud-label opacity-60">
+				Unofficial compilation of public CRAN records — always verify against the original gazette.
+			</div>
+		</footer>
+
         <script>
             // Typewriter effect
             const typeTarget = document.getElementById('typewriter');
@@ -63,7 +101,7 @@ const { title } = Astro.props;
                 const text = "> TELCO_TECH_NAMIBIA_";
                 let i = 0;
                 let isDeleting = false;
-                
+
                 function typeWriter() {
                     if (!isDeleting && i <= text.length) {
                         typeTarget.innerHTML = text.substring(0, i) + '<span class="animate-pulse opacity-70">_</span>';
@@ -92,7 +130,7 @@ const { title } = Astro.props;
             if (themeToggleBtn) {
                 themeToggleBtn.addEventListener('click', handleToggleClick);
             }
-            
+
             // Re-bind on ViewTransitions page load if enabled in future
             document.addEventListener('astro:page-load', () => {
                 const btn = document.getElementById('theme-toggle');

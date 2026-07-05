@@ -27,7 +27,7 @@ const { dataset } = Astro.props;
           </thead>
           <tbody>
             {entry.data.rows.map((row: string[]) => (
-              <tr class="hover:bg-[rgba(0,255,0,0.05)] transition-colors">
+              <tr class="hover:bg-[var(--row-hover)] transition-colors">
                 {row.map((cell: string) => (
                   <td class="border-b border-[var(--bento-border)] p-2 text-sm">{cell}</td>
                 ))}

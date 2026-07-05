@@ -35,7 +35,7 @@ import data from '../data/unified_spectrum.json';
         </thead>
         <tbody>
           {data.map((row) => (
-            <tr class="hover:bg-[rgba(0,255,0,0.05)] transition-colors">
+            <tr class="hover:bg-[var(--row-hover)] transition-colors">
               <td class="border-b border-[var(--bento-border)] p-2 text-sm font-semibold max-w-xs truncate" title={row.radioFrequencyRange}>{row.radioFrequencyRange}</td>
               <td class="border-b border-[var(--bento-border)] p-2 text-sm">{row.licensee}</td>
               <td class="border-b border-[var(--bento-border)] p-2 text-sm max-w-xs truncate" title={row.typeOfUse}>{row.typeOfUse}</td>
